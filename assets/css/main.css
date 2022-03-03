@@ -1,0 +1,862 @@
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+    font-family: 'Droid Arabic Kufi', Tahoma, Geneva, sans-serif;
+}
+
+nav {
+    background-color: #547E4E;
+    height: 5vh;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.appTitle {
+    color: white;
+    padding-right: 30px;
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+nav .appTopMenu {
+    color: white;
+    flex: 3;
+    display: flex;
+    flex-direction: row;
+    align-items: end;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: flex-end;
+    gap: 40px;
+    padding-left: 30px;
+}
+
+nav .appTopMenu i {
+    font-size: x-large;
+}
+
+nav .appTopMenu i:hover {
+    cursor: pointer;
+    color: yellow;
+}
+
+label.logo {
+    color: white;
+    font-size: large;
+    line-height: 50px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+nav ul {
+    position: fixed;
+    width: 250px;
+    height: calc(100% - 5vh);
+    top: 5vh;
+    background-color: #2A3F27;
+    float: right;
+    overflow-y: auto;
+}
+
+nav ul li {
+    display: block;
+    width: 100%;
+    padding-right: 5%;
+}
+
+nav ul li a {
+    color: white;
+    font-size: large;
+    text-transform: none;
+    line-height: 50px;
+}
+
+a.active,
+a:hover {
+    color: yellow;
+    transition: .3s;
+}
+
+.menubtn {
+    font-size: x-large;
+    color: white;
+    float: right;
+    line-height: 50px;
+    margin-right: 2%;
+    cursor: pointer;
+    display: none;
+}
+
+#menuCheck {
+    display: none;
+}
+
+#menu3D {
+    display: none;
+}
+
+#mapViewDiv {
+    background-color: #AFC1AB;
+    width: calc(100% - 250px);
+    position: fixed;
+    left: 0%;
+    top: 5vh;
+    bottom: 0;
+    z-index: -999;
+    transition: all .4s;
+}
+
+#sceneViewDiv {
+    background-color: #AFC1AB;
+    width: 90%;
+    position: fixed;
+    left: -100%;
+    top: 5vh;
+    bottom: 0;
+    z-index: -999;
+    transition: all 1s;
+}
+
+.accordion:hover {
+    cursor: pointer;
+}
+
+.panel0,
+.panel1,
+.panel2,
+.panel3,
+.panel4,
+.panel5,
+.panel6,
+.panel7 {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 10px;
+    padding: 0 18px;
+    line-height: 25px;
+    background-color: white;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+}
+
+
+.panel3D0,
+.panel3D1,
+.panel3D2,
+.panel3D3,
+.panel3D4,
+.panel3D5,
+.panel3D6,
+.panel3D7 {
+    padding: 0 18px;
+    font-size: large;
+    line-height: 50px;
+    background-color: white;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+}
+
+
+@media (max-width: 858px) {
+    .menubtn {
+        display: block;
+    }
+
+    label.logo {
+        font-size: x-large;
+    }
+
+    nav ul {
+        position: fixed;
+        width: 50%;
+        right: -50%;
+        height: calc(100% - 5vh);
+        overflow-y: auto;
+        transition: all .4s;
+    }
+
+    nav ul li {
+        display: block;
+        margin: 0px 0px;
+        line-height: 50px;
+        padding-right: 20px;
+    }
+
+    nav ul li a {
+        font-size: x-large;
+    }
+
+    a:hover,
+    a.active {
+        background: none;
+        color: yellow;
+    }
+
+    #menuCheck:checked~ul {
+        right: 0;
+    }
+
+    #mapViewDiv {
+        width: 100%;
+    }
+
+    #sceneViewDiv {
+        width: 100%;
+    }
+
+    .panel0,
+    .panel1,
+    .panel2,
+    .panel3,
+    .panel4,
+    .panel5,
+    .panel6,
+    .panel7 {
+        font-size: x-large;
+        padding: 0 18px;
+        line-height: 50px;
+    }
+
+    .panel3D0,
+    .panel3D1,
+    .panel3D2,
+    .panel3D3,
+    .panel3D4,
+    .panel3D5,
+    .panel3D6,
+    .panel3D7 {
+        font-size: x-large;
+        padding: 0 18px;
+        line-height: 50px;
+    }
+
+    label.logo img {
+        display: none;
+    }
+
+    #projectNStatus,
+    #accountNoStatus {
+        font-size: large;
+    }
+
+}
+
+@media (max-width: 450px) {
+    .menubtn {
+        display: block;
+    }
+
+    label.logo {
+        font-size: x-large;
+    }
+
+    nav {
+        justify-content: flex-start
+    }
+    nav ul {
+        position: fixed;
+        top: 5vh;
+        width: 50%;
+        right: -50%;
+        height: calc(100% - 5vh);
+        overflow-y: auto;
+        transition: all .4s;
+    }
+
+    nav ul li {
+        display: block;
+        margin: 0px 0px;
+        line-height: 50px;
+        padding-right: 20px;
+    }
+
+    nav ul li a {
+        font-size: large;
+    }
+
+    a:hover,
+    a.active {
+        background: none;
+        color: yellow;
+    }
+
+    #menuCheck:checked~ul {
+        right: 0;
+    }
+
+    #mapViewDiv {
+        width: 100%;
+    }
+
+    #sceneViewDiv {
+        width: 100%;
+    }
+
+    .panel0,
+    .panel1,
+    .panel2,
+    .panel3,
+    .panel4,
+    .panel5,
+    .panel6,
+    .panel7 {
+        font-size: large;
+        padding: 0 18px;
+        line-height: 9vw;
+    }
+
+    .panel3D0,
+    .panel3D1,
+    .panel3D2,
+    .panel3D3,
+    .panel3D4,
+    .panel3D5,
+    .panel3D6,
+    .panel3D7 {
+        font-size: large;
+        padding: 0 18px;
+        line-height: 9vw;
+    }
+
+    label.logo img {
+        display: none;
+    }
+
+    #projectNStatus,
+    #accountNoStatus {
+        font-size: large;
+    }
+    nav .appTopMenu {
+        display: none;
+    }
+}
+
+
+.panel0 {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+}
+
+.panel0 .layer {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+}
+
+.panel0 .layerOptions {
+    color: rgb(210, 210, 210);
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: right;
+    cursor: pointer;
+    gap: 10px;
+}
+
+.panel0 .layerOptions i:hover {
+    opacity: 100%;
+    font-size: x-large;
+    color: #2A3F27;
+}
+
+.panel1 {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+}
+
+.panel1 div {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+}
+
+.panel4 {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+}
+
+.panel4 div {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* Application Elements */
+
+button {
+    display: block;
+    width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: vertical;
+    margin-bottom: 10px;
+    background-color: #2A3F27;
+    color: white;
+    font-size: large;
+    padding: 2px;
+}
+
+button:hover {
+    color: yellow;
+    cursor: pointer;
+}
+
+input[type='text'] {
+    width: 100%;
+    resize: vertical;
+    margin-bottom: 10px;
+    background: #26578f36;
+    border: none;
+}
+
+input[type='checkbox'] {
+    /*-webkit-appearance: none;   */
+    width: 20px;
+    height: 20px;
+    background: white;
+}
+
+input[type='checkbox']:checked {
+    background: rgb(247, 231, 15);
+}
+
+/************  Loading spinner start  **************/
+
+.lds-hourglass {
+    position: absolute;
+    left: 40%;
+    top: 40%;
+    width: 80px;
+    height: 80px;
+    z-index: -998;
+}
+
+.lds-hourglass:after {
+    content: " ";
+    display: block;
+    border-radius: 50%;
+    width: 0;
+    height: 0;
+    margin: 8px;
+    box-sizing: border-box;
+    border: 32px solid #fff;
+    border-color: #fff transparent #fff transparent;
+    animation: lds-hourglass 1.2s infinite;
+}
+
+@keyframes lds-hourglass {
+    0% {
+        transform: rotate(0);
+        animation-timing-function: cubic-bezier(0.55, 0.055, 0.675, 0.19);
+    }
+
+    50% {
+        transform: rotate(900deg);
+        animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+    }
+
+    100% {
+        transform: rotate(1800deg);
+    }
+}
+
+/************  Loading spinner end  **************/
+/************  measurement elements  **************/
+
+#measurementBar {
+    display: none;
+    background: #fff;
+    padding: 10px;
+}
+
+.action-button {
+    font-size: 16px;
+    background-color: transparent;
+    border: 1px solid #d3d3d3;
+    color: #6e6e6e;
+    height: 32px;
+    width: 32px;
+    text-align: center;
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0.3);
+}
+
+.action-button:hover,
+.action-button:focus {
+    background: #0079c1;
+    color: #e4e4e4;
+}
+
+.active {
+    background: #0079c1;
+    color: #e4e4e4;
+}
+
+/************  SceneLayerView - query statistics by geometry  **************/
+
+.esri-ui-top-right {
+    max-height: 100%;
+}
+
+#queryDiv,
+#resultDiv {
+    min-width: 250px;
+    font-size: 14px;
+    padding: 10px;
+    display: none;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+.geometry-options {
+    display: flex;
+    flex-direction: row;
+}
+
+.geometry-button {
+    flex: 1;
+    border-style: solid;
+    border-width: 1px;
+    border-image: none;
+}
+
+.geometry-button-selected {
+    background: #4c4c4c;
+    color: #fff;
+}
+
+#bufferNum {
+    width: 90%;
+    margin: 2.5em auto 0;
+}
+
+.count {
+    white-space: nowrap;
+    font-size: 14px;
+    font-weight: bold;
+    display: inline-block;
+}
+
+#sliderDiv {
+    padding-top: 20px;
+    display: flexbox;
+}
+
+#overlayDiv {
+    z-index: 1;
+    position: absolute;
+    margin: auto auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 280px;
+    height: 180px;
+    padding: 10px;
+    background-color: white;
+    border: 1px solid grey;
+    visibility: hidden;
+}
+
+#saveMapBtn {
+    margin-bottom: 10px;
+}
+
+.bookmarksList {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 10px;
+    padding: 0 18px;
+    line-height: 25px;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+}
+
+.bookmarksList div {
+    display: flex;
+    flex-direction: row;
+    cursor: pointer;
+    padding: 0 10px;
+    line-height: 25px;
+    background-color: rgb(209, 217, 223);
+    transition: max-height 0.2s ease-out;
+}
+
+
+.dataframesDiv {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 10px;
+    padding: 10px;
+}
+
+
+.dataframesList {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 10px;
+    line-height: 25px;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+}
+
+
+.dataframesList div {
+    display: flex;
+    flex-direction: row;
+    cursor: pointer;
+    padding: 0 10px;
+    line-height: 25px;
+    background-color: rgb(209, 217, 223);
+    transition: max-height 0.2s ease-out;
+}
+
+span::before {
+    content: '\A';
+    /*white-space: pre;
+    padding-top: 10px;*/
+}
+
+.bmark {
+    display: none;
+    /*width: 90%;*/
+    border: 0.5px solid rgb(194, 194, 194);
+    background-color: rgb(209, 217, 223);
+    cursor: pointer;
+    padding: 3px;
+    margin-top: 3px;
+}
+
+output {
+    position: relative;
+    float: left;
+    left: 50%;
+    /*
+    color:white;
+    width:60px;
+    background-color: #2A3F27;            
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 5px;
+    */
+}
+
+
+
+
+.uploadedDataManager {
+    width: 300px;
+    height: 250px;
+    background: white;
+    padding: 10px;
+}
+
+
+
+
+.inputElement {
+    width: 100%;
+    font-size: medium;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+
+
+.switchButton {
+    position: relative;
+    display: inline-block;
+    width: 40px;
+    height: 20px;
+}
+
+.switchButton input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+
+.sliderButton {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    -webkit-transition: .4s;
+    transition: .4s;
+}
+
+.sliderButton:before {
+    position: absolute;
+    content: "";
+    height: 20px;
+    width: 20px;
+    left: 0px;
+    bottom: 0px;
+    background-color: white;
+    box-shadow: 0 0 2px #2196F3;
+    -webkit-transition: .4s;
+    transition: .4s;
+}
+
+input:checked+.sliderButton {
+    background-color: #2196F3;
+}
+
+input:focus+.sliderButton {
+    box-shadow: 0 0 1px #2196F3;
+}
+
+input:checked+.sliderButton:before {
+    -webkit-transform: translateX(20px);
+    -ms-transform: translateX(20px);
+    transform: translateX(20px);
+}
+
+/* Rounded sliderButtons */
+.sliderButton.round {
+    border-radius: 50px;
+}
+
+.sliderButton.round:before {
+    border-radius: 50%;
+}
+
+.widgetTemplate {
+    padding: 10px;
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 10px;
+}
+
+.widgetContent {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 10px;
+}
+
+.widgetContent img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.widgetContent select {
+    font-size: medium;
+}
+
+.widgetHeader {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-bottom: 10px;
+}
+
+.widgetHeader i {
+    font-size: 20px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.closeBtnTemplate {
+    position: relative;
+    float: left;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.tooltip {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .tooltip .tooltiptext {
+    font-size: medium;
+    visibility: hidden;
+    width: 120px;
+    background-color: rgb(205, 231, 209);
+    color: rgb(28, 49, 34);
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px;
+  
+    /* Position the tooltip */
+    position: absolute;
+    right:-100px;
+    bottom:-70px;
+    z-index: 1;
+  }
+  
+  .tooltip:hover .tooltiptext {
+    visibility: visible;
+  }
+
+  
+  .msgOverlay {
+    /* display: none; */
+    display: flex;
+    position: absolute;
+    justify-content: center;
+    /* left:0px;
+    top:0px; */
+    width:100vw; 
+    height:95vh; 
+    background-color:rgba(0, 0, 0, 0.5);
+    z-index: 100;
+}
+
+  .msgDiv {
+    background-color: white;
+    display: flex;
+    align-items: stretch;
+    justify-content: center;
+    margin-top: 100px;
+    padding: 10px;
+    height: 20vh;
+    min-height: 200px;
+    max-height: 500px;
+    width: 90vw;
+    max-width: 500px;
+    border: 1px solid;
+    border-radius: 5px;
+    box-shadow: 3px 7px #1e271d;
+}
+
+  .msgContent {
+      text-align:center;
+    text-justify:inter-word;
+    font-size: x-large;
+    display: flex;
+    flex-direction: column;
+    gap:30px;
+    justify-content: center;
+}

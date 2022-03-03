@@ -1,0 +1,1101 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1, maximum-scale=1, user-scalable=no" />
+    <title>جي بورتال</title>
+    <!-- Favicons -->
+    <link href="images/Coming-Soon-Icon.png" rel="icon">
+
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.1/css/all.min.css">
+    <link rel='stylesheet' href='https://fonts.googleapis.com/earlyaccess/droidarabickufi.css' type='text/css' media='all' />
+
+     <!-- <link rel="stylesheet" href="http://localhost/javascript/api/4.21/esri/css/main.css" /> -->
+    <link rel="stylesheet" href="https://js.arcgis.com/4.19/esri/themes/light/main.css" />    
+
+    <script lang="text/javascript" src="https://unpkg.com/xlsx/dist/shim.min.js"></script>
+    <script type="text/javascript" src="https://unpkg.com/xlsx/dist/xlsx.full.min.js"></script>
+
+   <!-- <script src="http://localhost/javascript/api/4.21/init.js"></script> -->
+   <script src="https://js.arcgis.com/4.22/"></script>  
+
+
+
+</head>
+
+<body>
+
+    <div class="lds-hourglass"></div>
+    <!-- Loading -->
+    <nav>
+        <input type="checkbox" id="menuCheck" onChange="menuCheck()">
+        <label for="menuCheck" class="menubtn">
+            <i class="fas fa-bars"></i>
+        </label>
+        <div class="appTitle">
+            <h1>جي-بورتال</h1>
+        </div>
+        <div class="appTopMenu">
+            <i class="esri-icon-sketch-rectangle tooltip" id="selectToggle"> 
+                <span class="tooltiptext">تحديد المعالم</span></i>
+            <i class="esri-icon-edit tooltip" id="editorToggle"> 
+                <span class="tooltiptext">تحرير البيانات </span></i>
+            <!--<i class="esri-icon-printer tooltip" id="printToggle"> </i>-->
+            <i class="esri-icon-globe tooltip" id="fullExtent"> 
+                <span class="tooltiptext">عرض كامل الخريطة</span></i>
+            <i class="esri-icon-erase tooltip" id="clearScreen"> 
+                <span class="tooltiptext">إخفاء الطبقات</span></i>
+            <i class="esri-icon-bookmark tooltip" id="bookmarkToggle">
+                <span class="tooltiptext">العلامات المرجعية</span> </i>
+                <i class="esri-icon-resend-invitation tooltip" id="resetInterface">
+                <span class="tooltiptext">استعادة واجهة البرنامج</span> </i>
+                <i class="esri-icon-description tooltip" id="appInfo">
+                <span class="tooltiptext">معلومات عن المنصة</span>
+             </i>
+                
+        </div>
+
+        <ul>
+            <div id="menu2D" class="menu2D">
+                <li class="accordion" id="layerListMenu" onclick="expandMenu(0)"><a><i class="esri-icon-layers"></i>&nbspقائمة الطبقات</a> </li>
+                <li id="panel0" class="panel0 panel" style="line-height:30px">
+                    <div id="layerListContainer" class="layerListContainer">
+                        <div id="layerList" class="layerList"></div>
+                    </div>
+
+                </li>
+                <li class="accordion" onclick="expandMenu(1)"><a><i class="esri-icon-add-attachment"></i>&nbspإضافة طبقة</a> </li>
+                <li class="panel1 panel">
+                    <div name="scratchLayer" class="addLayerBtn">
+                        <i class="fas fa-plus"> </i>
+                        <p> Scratch Layer</p>
+                    </div>
+
+                    <div name="webService" class="addLayerBtn">
+                        <i class="fas fa-plus"> </i>
+                        <p> Web Service</p>
+                    </div>
+
+                    <div name="csvLayer" class="addLayerBtn">
+                        <i class="fas fa-plus"> </i>
+                        <p> CSV Layer</p>
+                    </div>
+
+                    <div name="kmlLayer" class="addLayerBtn">
+                        <i class="fas fa-plus"> </i>
+                        <p> KML Layer</p>
+                    </div>
+
+                    <div name="jsonLayer" class="addLayerBtn">
+                        <i class="fas fa-plus"> </i>
+                        <p> GeoJSON Layer</p>
+                    </div>
+
+                    <div name="portalLayer" class="addLayerBtn">
+                        <i class="fas fa-plus"> </i>
+                        <p> Portal Layer</p>
+                    </div>
+
+                    <div name="uploadLayer" class="addLayerBtn">
+                        <i class="fas fa-plus"> </i>
+                        <p> Upload Layer</p>
+                    </div>
+
+                </li>
+                <li class="accordion" onclick="expandMenu(2)"><a><i class="esri-icon-search"></i> بحث</a> </li>
+                <li class="panel2 panel">
+                    <!-- list of map layers -->
+                    <label for="queryLayers">اختر الطبقة</label>
+                    <select id="queryLayers" style="width:100%;font-size:medium; ">
+                    </select>
+                    <div id="layersListDiv"></div>
+                    <!-- list of selected layer fields -->
+                    <label for="queryFields">حدد الحقل</label>
+                    <select id="queryFields" style="width:100%;font-size:medium; ">
+
+                    </select>
+                    <!-- list of query operators -->
+                    <label for="queryOperators">حدد شرط الاستعلام</label>
+                    <select id="queryOperators" style="width:100%;font-size:medium; ">
+                        <option value="">اختر</option>
+                        <option value=">">أكبر من</option>
+                        <option value="<">أقل من</option>
+                        <option value="=">يساوي</option>
+                    </select>
+                    <!-- list of query input type -->
+                    <label for="queryInputType">حدد نوع الادخال</label>
+                    <select id="queryInputType" style="width:100%;font-size:medium; ">
+                        <option value="">اختر</option>
+                        <option value="existing">من البيانات</option>
+                        <option value="inputs">ادخال يدوي</option>
+                    </select>
+                    <!-- list of query unique values -->
+                    <div id="queryValuesDiv" style="display:none;">
+                        <label for="queryValues">اختر قيمة</label>
+                        <select id="queryValues" style="width:100%;font-size:medium;">
+                        </select>
+                    </div>
+                    <!-- query: user input -->
+                    <div id="queryInputDiv" style="display:none;">
+                        <label for="queryInput">أدخل قيمة</label>
+                        <input type="text" id="queryInput" class="inputElement">
+                    </div>
+
+
+                    <button id="applyQueryBtn">بحث</button>
+
+                    <button id="downloadQueryBtn" disabled>تحميل النتيجة</button>
+                    <button id="resetQuery">إلغاء البحث</button>
+                </li>
+                <li class="accordion" onclick="expandMenu(3)"><a><i class="esri-icon-line-chart"></i>&nbspتحليل البيانات</a> </li>
+                <li class="panel3 panel">
+
+                    <!-- Changing Spatial Reference -->
+                    <div class="widgetContent" id="spatialReferenceDiv" style="display: flex;">
+                        <label for="crsType">اختر نوع نظام الاحداثيات
+                            <select id="crsType" class="esri-select">
+                                <option value="wgs">WGS84</option>
+                                <option value="utm">Web Mercator</option>
+                            </select>
+                        </label>
+
+                        <div id="NorSDiv" style="display: none;"><label for="NorS">اختر الاتجاه
+                                <select id="NorS" class="esri-select">
+                                    <option value="N">شمالاً</option>
+                                    <option value="S">جنوباً</option>
+                                </select>
+                            </label></div>
+
+                        <div id="utmZoneDiv" style="display: none;"><label for="utmZone">اختر النطاق
+                                <select id="utmZone" class="esri-select">
+                                </select>
+                            </label></div>
+
+                        <button id="changeCRS">
+                            <i class="esri-icon-globe"></i>&nbsp تغيير نظام الاحداثيات
+                        </button>
+
+                        <button id="selectFeaturesBtn">
+                            <i class="esri-icon-sketch-rectangle"></i>&nbsp تحديد المعالم
+                        </button>
+
+                    </div>
+
+                    اختر نوع التحليل
+                    <button id="bufferAnalysisBtn" class="esri-button">الحرم Buffer</button>
+                    <button id="intersectAnalysisBtn" class="esri-button">التقاطع Intersect</button>
+                    <button id="unionAnalysisBtn" class="esri-button">الدمج Union</button>
+                    <button id="clipAnalysisBtn" class="esri-button">الإقتطاع Clip</button>
+                    <button id="touchAnalysisBtn" class="esri-button">التلامس touch</button>
+                    <button id="nearAnalysisBtn" class="esri-button">أقرب معلم Near</button>
+
+
+
+                </li>
+                <li class="accordion" onclick="expandMenu(4)"><a><i class="esri-icon-settings2"></i>&nbspأدوات الخريطة</a> </li>
+                <li class="panel4 panel">
+                    <div id="legendWidget">
+                        <p>مفتاح الخريطة</p>
+
+                        <label class="switchButton">
+                            <input type="checkbox" name="legend" checked="true" class="widgetToggle">
+                            <span class="sliderButton round"></span>
+                        </label>
+
+                    </div>
+                    <div>
+                        <p>خرائط الأساس</p>
+
+                        <label class="switchButton">
+                            <input type="checkbox" name="basemap" class="widgetToggle">
+                            <span class="sliderButton round"></span>
+                        </label>
+
+                    </div>
+                    <div>
+                        <p>تحرير البيانات</p>
+
+                        <label class="switchButton">
+                            <input type="checkbox" name="editor" class="widgetToggle" id="editorToggleInput">
+                            <span class="sliderButton round"></span>
+                        </label>
+
+                    </div>
+                    <div>
+                        <p>قياس المسافة</p>
+
+                        <label class="switchButton">
+                            <input type="checkbox" name="measureDistance" class="widgetToggle">
+                            <span class="sliderButton round"></span>
+                        </label>
+
+                    </div>
+                    <div>
+                        <p> قياس المساحة</p>
+
+                        <label class="switchButton">
+                            <input type="checkbox" name="measureArea" class="widgetToggle">
+                            <span class="sliderButton round"></span>
+                        </label>
+
+                    </div>
+                    <div>
+                        <p>مقياس الرسم</p>
+
+                        <label class="switchButton">
+                            <input type="checkbox" name="scalebar" class="widgetToggle">
+                            <span class="sliderButton round"></span>
+                        </label>
+
+                    </div>
+                    <div>
+                        <p>أدوات الرسم</p>
+
+                        <label class="switchButton">
+                            <input type="checkbox" name="sketch" class="widgetToggle">
+                            <span class="sliderButton round"></span>
+                        </label>
+
+                    </div>
+                </li>
+                <li class="accordion" onclick="expandMenu(5)"><a><i class="esri-icon-collection"></i> &nbspقائمة الخرائط</a> </li>
+                <li id="panel5" class="panel5 panel">
+                    <div class="dataframesDiv" id="dataframesDiv" style="display: flex;">
+
+
+                        <button id="adddataframeBtn">
+                            <i class="esri-icon-plus-circled"></i>&nbsp إضافة خريطة
+                        </button>
+
+                        <button id="deletedataframeBtn">
+                            <i class="esri-icon-close-circled"></i>&nbsp حذف خريطة
+                        </button>
+
+
+                        <div class="widgetContent" id="addDataframeDiv" style="display: none;">
+                            <input type="text" id="dataframeName" placeholder="أدخل اسم الخريطة" class="inputElement">
+
+                            <button id="saveDataframeBtn" style="border: none;">
+                                <i class="esri-icon-save"></i>&nbsp حفظ الخريطة
+                            </button>
+
+
+                        </div>
+
+
+                        <div class="dataframesList" id="dataframesList">
+
+                        </div>
+                    </div>
+
+
+
+                </li>
+                
+
+
+            </div>
+
+            <div id="menu3D" class="menu3D">
+                <li class="accordion3D" onclick="expandMenu3D(0)"><a><i class="fas fa-home"></i>&nbspقائمة الطبقات</a> </li>
+                <li class="panel3D0">
+                    <p><input type="checkbox" id="legendCheck3D">
+                        <label for="legendCheck3D">مفتاح الخريطة</label>
+                    </p>
+                </li>
+                <li class="accordion3D" onclick="expandMenu3D(1)"><a><i class="fas fa-ruler-combined"></i>&nbspقياس</a> </li>
+                <li class="panel3D1">
+                    <p><input type="checkbox" id="measuretool3D">
+                        <label for="measuretool3D">أدوات القياس</label>
+                    </p>
+                </li>
+                <li class="accordion3D" onclick="expandMenu3D(2)"><a><i class="fas fa-chart-pie"></i>&nbspتحليل الفواتير</a> </li>
+                <li class="panel3D2">
+                </li>
+
+                <button id="switch2D" onclick="switch2D()" style="background-color: white;color:#0079c1">2D</button>
+            </div>
+        </ul>
+
+
+
+    </nav>
+
+
+    <section id="mapViewDiv" clsss="mapViewDiv"></section>
+    <section id="sceneViewDiv" clsss="sceneViewDiv"></section>
+
+    <div id="measurementBar" class="measurementBar">
+        <button class="action-button esri-icon-measure-line" id="distanceButton" type="button" title="قياس مسافات"></button>
+        <button class="action-button esri-icon-measure-area" id="areaButton" type="button" title="قياس مساحات"></button>
+    </div>
+
+
+    <div id="overlayDiv" class="esri-widget">
+        <h4 class="esri-heading" id="head"></h4>
+        <label id="info"></label><br /><br />
+        <input type="button" value="OK" />
+    </div>
+
+
+    <!--  Elements Templates !-->
+    <div id="elementsTemplates" class="elementsTemplates" hidden>
+
+        <select id="layersList" style="width:100%;font-size:medium; ">
+
+
+            <p><span><label for="colorSelector">تغيير لون الخط
+                        <input type="color" id="colorSelector" name="colorSelector" class="esri-input" value="#f6b73c">
+                    </label></span></p>
+
+            <p><span><label for="haloColorSelector">تغيير لون الإطار
+                        <input type="color" id="haloColorSelector" name="haloColorSelector" value="#f6b73c">
+                    </label></span></p>
+
+            <p><label for="sliderDiv">تغيير حجم الخط</label></p>
+            <div id="sliderDiv" class="sliderDiv">
+
+
+                <select name="selectTemplate" id="selectTemplate" style="width:100%;font-size:medium; margin-bottom: 10px">
+
+                </select>
+
+                <button id="btnTemplate">زر</button>
+
+
+                <select name="classificationMethods" id="classificationMethods" class="inputElement">
+                    <option value="quantile">Quantile</option>
+                    <option value="equal-interval">Equal Interval</option>
+                    <option value="natural-breaks">Natural Breaks</option>
+                    <option value="standard-deviation">Standard Deviation</option>
+                </select>
+
+
+                <div id="uploadedDataManager" class="uploadedDataManager esri-widget"></div>
+
+
+                <input type="number" id="inputNoTemplate" value="4" min="1" max="100" placeholder="4" class="inputElement">
+                <input type="text" id="inputTextTemplate" class="inputElement">
+
+
+
+
+                <label id="switchButtonTemplate" class="switchButton">
+                    <input type="checkbox">
+                    <span class="sliderButton"></span>
+                </label>
+
+
+
+                <label id="showLayerLegend" class="switchButton">
+                    <input type="checkbox" checked>
+                    <span class="sliderButton"></span>
+                </label>
+
+
+                <div id="widgetTemplate" class="widgetTemplate esri-widget" style="line-height:2; width:300px;height:90vh;"></div>
+
+
+
+                <i id="closeBtnTemplate" class="closeBtnTemplate esri-icon-close"></i>
+
+                <input id="uploadBtnTemplate" type="file" class="esri-input" />
+
+                <form ref='uploadFormTemplate' id='uploadFormTemplate' encType="multipart/form-data">
+                    <input type="file" />
+                </form>
+
+
+
+                <!--bookmarksWidgetTemplate-->
+                <div id="bookmarksWidgetTemplate" class="widgetTemplate esri-widget" style="line-height:2; width:300px;height:90vh;">
+                    <div id="widgetHeader" class="widgetHeader">
+                        <i id="backWidgetBtn" class="esri-icon-right-arrow"></i>
+                        <i id="closeWidgetBtn" class="esri-icon-close"></i>
+                    </div>
+
+                    <div class="widgetContent" id="bookmarksDiv" style="display: flex;">
+
+
+                        <button id="addBookmarkBtn">
+                            <i class="esri-icon-plus-circled"></i>&nbsp إضافة علامة مرجعية
+                        </button>
+
+                        <button id="deleteBookmarkBtn">
+                            <i class="esri-icon-close-circled"></i>&nbsp حذف علامة مرجعية
+                        </button>
+
+                        <div class="bookmarksList" id="bookmarksList">
+
+                        </div>
+                    </div>
+
+                    <div class="widgetContent" id="addBookmarkDiv" style="display: none;">
+                        <input type="text" id="bookmarkName" class="inputElement">
+
+                        <button id="saveBookmarkBtn">
+                            <i class="esri-icon-save"></i>&nbsp حفظ العلامة المرجعية
+                        </button>
+
+
+                    </div>
+
+
+
+                </div>
+
+
+                <!--selectionWidgetTemplate-->
+                <div id="selectionWidgetTemplate" class="widgetTemplate esri-widget" style="line-height:2; width:300px;height:90vh;">
+                    <div id="widgetHeader" class="widgetHeader">
+                        <i id="backWidgetBtn" class="esri-icon-right-arrow"></i>
+                        <i id="closeWidgetBtn" class="esri-icon-close"></i>
+                    </div>
+
+                    <div class="widgetContent" id="selectionDiv" style="display: flex;">
+                        <h2>تحديد المعالم Selection</h2>
+                        <!-- list of map layers -->
+                        <label for="targetSelectionLayer">الطبقة المستهدفة</label>
+                        <select id="targetSelectionLayer" style="width:100%;font-size:medium; "></select>
+
+                        <label>التحديد من الخريطة</label>
+                        <button id="activateSelection">
+                            <i class="esri-icon-cursor-filled"></i>&nbsp تفعيل التحديد
+                        </button>
+                        <button id="disableSelection">
+                            <i class="esri-icon-cursor"></i>&nbsp تعطيل التحديد
+                        </button>
+
+                        <label for="selectionLayers">التحديد عبر طبقة أخرى</label>
+                        <select id="selectionLayers" style="width:100%;font-size:medium; "></select>
+
+                        <button id="removeSelection">
+                            <i class="esri-icon-close"></i>&nbsp إلغاء التحديد
+                        </button>
+                    </div>
+
+                </div>
+
+
+                <!--bufferAnalysisWidgetTemplate-->
+                <div id="bufferAnalysisWidgetTemplate" class="widgetTemplate esri-widget" style="line-height:2; width:300px;height:90vh;">
+                    <div id="widgetHeader" class="widgetHeader">
+                        <i id="backWidgetBtn" class="esri-icon-right-arrow"></i>
+                        <i id="closeWidgetBtn" class="esri-icon-close"></i>
+                    </div>
+
+                    <div id="bufferAnalysisDiv" class="widgetContent" style="display: flex;">
+                        <h2>تحليل الحرم Buffer</h2>
+                        <!-- list of map layers -->
+                        <label for="bufferLayers">اختر الطبقة</label>
+                        <select id="bufferLayers" style="width:100%;font-size:medium; "></select>
+
+                        <!-- Buffer distance type -->
+                        <label for="bufferDistanceType">نوع الإدخال</label>
+                        <select id="bufferDistanceType" style="width:100%;font-size:medium; ">
+                            <option value="inputs" selected>ادخال يدوي</option>
+                            <option value="existing">من البيانات</option>
+                        </select>
+
+                        <!-- Buffer distance -->
+                        <label for="bufferDistance">أدخل المسافة</label>
+                        <input type="text" id="bufferDistance" class="inputElement">
+
+                        <!-- distance from field -->
+                        <label for="bufferDistanceField">حقل المسافة </label>
+                        <select id="bufferDistanceField" disabled style="width:100%;font-size:medium; ">
+                        </select>
+
+                        <!-- Units -->
+                        <label for="bufferUnit">حدد وحدة القياس</label>
+                        <select id="bufferUnit" style="width:100%;font-size:medium; ">
+                            <option value="feet">قدم</option>
+                            <option value="meters" selected>متر</option>
+                            <option value="kilometers">كيلومتر</option>
+                            <option value="miles">ميل</option>
+                        </select>
+
+                        <button id="runBuffer">
+                            <i class="esri-icon-play"></i>&nbsp تحليل
+                        </button>
+
+                    </div>
+                </div>
+
+
+                <!--intersectionAnalysisWidgetTemplate-->
+                <div id="intersectionAnalysisWidgetTemplate" class="widgetTemplate esri-widget" style="line-height:2; width:300px;height:90vh;">
+                    <div id="widgetHeader" class="widgetHeader">
+                        <i id="backWidgetBtn" class="esri-icon-right-arrow"></i>
+                        <i id="closeWidgetBtn" class="esri-icon-close"></i>
+                    </div>
+
+                    <div id="intersectionAnalysisDiv" class="widgetContent" style="display: flex;">
+                        <h2>تحليل التقاطع Intersection</h2>
+
+                        <!-- list of map layers -->
+                        <label for="intersectionLayer1">اختر الطبقة الأولى</label>
+                        <select id="intersectionLayer1" style="width:100%;font-size:medium; "></select>
+
+                        <!-- list of map layers -->
+                        <label for="intersectionLayer2">اختر الطبقة الثانية</label>
+                        <select id="intersectionLayer2" style="width:100%;font-size:medium; "></select>
+
+                        <button id="runIntersection">
+                            <i class="esri-icon-play"></i>&nbsp تحليل
+                        </button>
+
+                    </div>
+                </div>
+
+
+                <!--unionAnalysisWidgetTemplate-->
+                <div id="unionAnalysisWidgetTemplate" class="widgetTemplate esri-widget" style="line-height:2; width:300px;height:90vh;">
+                    <div id="widgetHeader" class="widgetHeader">
+                        <i id="backWidgetBtn" class="esri-icon-right-arrow"></i>
+                        <i id="closeWidgetBtn" class="esri-icon-close"></i>
+                    </div>
+
+                    <div id="unionAnalysisDiv" class="widgetContent" style="display: flex;">
+                        <h2>تحليل الدمج union</h2>
+
+                        <!-- list of map layers -->
+                        <label for="unionLayersNo">حدد عدد الطبقات المراد دمجها</label>
+                        <select id="unionLayersNo" style="width:100%;font-size:medium; ">
+                            <option value="" selected>اختر</option>
+                            <option value="2">2</option>
+                            <option value="3">3</option>
+                            <option value="4">4</option>
+                            <option value="5">5</option>
+                            <option value="6">6</option>
+                            <option value="7">7</option>
+                            <option value="8">8</option>
+                            <option value="9">9</option>
+                            <option value="10">10</option>
+                        </select>
+
+
+                        <select id="unionLayer0" style="width:100%;font-size:medium; display:none"></select>
+                        <select id="unionLayer1" style="width:100%;font-size:medium; display:none"></select>
+                        <select id="unionLayer2" style="width:100%;font-size:medium; display:none"></select>
+                        <select id="unionLayer3" style="width:100%;font-size:medium; display:none"></select>
+                        <select id="unionLayer4" style="width:100%;font-size:medium; display:none"></select>
+                        <select id="unionLayer5" style="width:100%;font-size:medium; display:none"></select>
+                        <select id="unionLayer6" style="width:100%;font-size:medium; display:none"></select>
+                        <select id="unionLayer7" style="width:100%;font-size:medium; display:none"></select>
+                        <select id="unionLayer8" style="width:100%;font-size:medium; display:none"></select>
+                        <select id="unionLayer9" style="width:100%;font-size:medium; display:none"></select>
+
+                        <button id="rununion">
+                            <i class="esri-icon-play"></i>&nbsp بدء الدمج
+                        </button>
+
+                    </div>
+                </div>
+
+
+
+                <!--clipAnalysisWidgetTemplate-->
+                <div id="clipAnalysisWidgetTemplate" class="widgetTemplate esri-widget" style="line-height:2; width:300px;height:90vh;">
+                    <div id="widgetHeader" class="widgetHeader">
+                        <i id="backWidgetBtn" class="esri-icon-right-arrow"></i>
+                        <i id="closeWidgetBtn" class="esri-icon-close"></i>
+                    </div>
+
+                    <div id="clipAnalysisDiv" class="widgetContent" style="display: flex;">
+                        <h2>تحليل الإقتطاع Clip</h2>
+                        <!-- list of map layers -->
+                        <label for="clipLayer1">اختر الطبقة الأساسية</label>
+                        <select id="clipLayer1" style="width:100%;font-size:medium; "></select>
+
+                        <!-- list of map layers -->
+                        <label for="clipLayer2">اختر طبقة الاقتطاع</label>
+                        <select id="clipLayer2" style="width:100%;font-size:medium; "></select>
+
+                        <button id="runclip">
+                            <i class="esri-icon-play"></i>&nbsp تحليل
+                        </button>
+
+                    </div>
+                </div>
+
+
+
+                <!--touchAnalysisWidgetTemplate-->
+                <div id="touchAnalysisWidgetTemplate" class="widgetTemplate esri-widget" style="line-height:2; width:300px;height:90vh;">
+                    <div id="widgetHeader" class="widgetHeader">
+                        <i id="backWidgetBtn" class="esri-icon-right-arrow"></i>
+                        <i id="closeWidgetBtn" class="esri-icon-close"></i>
+                    </div>
+
+                    <div id="touchAnalysisDiv" class="widgetContent" style="display: flex;">
+                        <h2>تحليل التلامس Touch</h2>
+
+                        <!-- list of map layers -->
+                        <label for="touchLayer1">اختر الطبقة الأساسية</label>
+                        <select id="touchLayer1" style="width:100%;font-size:medium; "></select>
+
+                        <!-- list of map layers -->
+                        <label for="touchLayer2">اختر طبقة التلامس</label>
+                        <select id="touchLayer2" style="width:100%;font-size:medium; "></select>
+
+                        <button id="runtouch">
+                            <i class="esri-icon-play"></i>&nbsp تحليل
+                        </button>
+
+                    </div>
+                </div>
+
+
+
+
+                <!--nearAnalysisWidgetTemplate-->
+                <div id="nearAnalysisWidgetTemplate" class="widgetTemplate esri-widget" style="line-height:2; width:300px;height:90vh;">
+                    <div id="widgetHeader" class="widgetHeader">
+                        <i id="backWidgetBtn" class="esri-icon-right-arrow"></i>
+                        <i id="closeWidgetBtn" class="esri-icon-close"></i>
+                    </div>
+
+                    <div id="nearAnalysisDiv" class="widgetContent" style="display: flex;">
+                        <h2>تحليل أقرب معلم Near</h2>
+
+                        <!-- list of map layers -->
+                        <label for="nearLayer1">اختر الطبقة الأساسية</label>
+                        <select id="nearLayer1" style="width:100%;font-size:medium; "></select>
+
+                        <!-- list of map layers -->
+                        <label for="nearLayer2">اختر الطبقة الثانية</label>
+                        <select id="nearLayer2" style="width:100%;font-size:medium; "></select>
+
+                        <button id="runnear">
+                            <i class="esri-icon-play"></i>&nbsp تحليل
+                        </button>
+
+                    </div>
+                </div>
+
+
+
+                <!--labelingWidgetTemplate-->
+                <div id="labelingWidgetTemplate" class="widgetTemplate esri-widget" style="line-height:2; width:300px;height:90vh;">
+                    <div id="widgetHeader" class="widgetHeader">
+                        <i id="backWidgetBtn" class="esri-icon-right-arrow"></i>
+                        <i id="closeWidgetBtn" class="esri-icon-close"></i>
+                    </div>
+
+                    <div id="labelingOptionsDiv" class="widgetContent" style="display: flex;">
+                        <label for="LabelToggleBtn">
+                            إظهار النصوص
+                        </label>
+                        <label class="switchButton">
+                            <input type="checkbox" id="LabelToggleBtn" checked="false" class="widgetToggle">
+                            <span class="sliderButton round"></span>
+                        </label>
+
+                        <label for="labelingFields">اختيار الحقل
+                            <select name="labelingFields" class="esri-select" id="labelingFields"></select>
+                        </label>
+
+                        <span><label for="labelingColors">تغيير لون الخط</label></span>
+                        <input type="color" id="labelingColors" name="labelingColors" value="#000000"></input>
+
+
+                        <p><span><label for="labelHaloColors">تغيير لون الإطار</label></span></p>
+                        <input type="color" id="labelHaloColors" name="labelHaloColors" value="#ffffff">
+
+                        <div>
+                            <p><label for="fontSizeSlider">تغيير حجم الخط</label></p>
+                            <div id="fontSizeSlider" class="fontSizeSlider"></div>
+                        </div>
+                        <div style="padding-bottom:10px">
+                            <p><label for="haloSizeSlider">تغيير حجم الإطار</label></p>
+                            <div id="haloSizeSlider" class="haloSizeSlider"></div>
+                        </div>
+                        <div id="labelPreSuffText" style="display: flex;flex-direction: column;justify-content: flex-start;gap: 10px;line-height: 25px;">
+                            <p><label for="labelPrefix">ما قبل النص</label></p>
+                            <input type="text" id="labelPrefix" class="inputElement">
+
+                            <p><label for="labelSuffix">ما بعد النص</label></p>
+                            <input type="text" id="labelSuffix" class="inputElement">
+                        </div>
+                        <!--
+                        <button id="applyLabel" > تطبيق </button>
+                            -->
+                    </div>
+                </div>
+
+                <!--popupConfigWidgetTemplate-->
+                <div id="popupConfigWidgetTemplate" class="widgetTemplate esri-widget" style="line-height:2; width:300px;height:90vh;">
+                    <div id="widgetHeader" class="widgetHeader">
+                        <i id="backWidgetBtn" class="esri-icon-right-arrow"></i>
+                        <i id="closeWidgetBtn" class="esri-icon-close"></i>
+                    </div>
+
+                    <div id="popupConfigDiv" class="widgetContent" style="display: flex;">
+                        <label for="popupToggleBtn">
+                            إظهار النافذة المنبثقة
+                        </label>
+                        <label class="switchButton">
+                            <input type="checkbox" id="popupToggleBtn" checked="false" class="widgetToggle">
+                            <span class="sliderButton round"></span>
+                        </label>
+
+                    </div>
+                </div>
+
+
+                <!--exportDataWidgetTemplate-->
+                <div id="exportDataWidgetTemplate" class="widgetTemplate esri-widget" style="line-height:2; width:300px;height:90vh;">
+                    <div id="widgetHeader" class="widgetHeader">
+                        <i id="backWidgetBtn" class="esri-icon-right-arrow"></i>
+                        <i id="closeWidgetBtn" class="esri-icon-close"></i>
+                    </div>
+                    <div id="exportDataDiv" class="widgetContent" style="display: flex;">
+                        <h4 class="esri-heading">استخراج البيانات</h4><br>
+                        <p><input type="checkbox" id="fetchSketch">
+                            <label for="fetchSketch">تفعيل أدوات الرسم</label>
+                        </p><br>
+                        <button id="extractDataBtn" style="background:gray" class="extractDataBtn" disabled>تحميل البيانات</button>
+                    </div>
+
+                </div>
+
+
+
+                <!--symbologyWidgetTemplate-->
+                <div id="symbologyWidgetTemplate" class="widgetTemplate esri-widget" style="line-height:2; width:300px;height:90vh;">
+                    <div id="widgetHeader" class="widgetHeader">
+                        <i id="backWidgetBtn" class="esri-icon-right-arrow"></i>
+                        <i id="closeWidgetBtn" class="esri-icon-close"></i>
+                    </div>
+
+                    <div id="symbologyOptionsDiv" class="widgetContent" style="display: flex;">
+                        <span><label for="symbologyFields">اختر حقل التمثيل
+                                <select id="symbologyFields" class="esri-select">
+                                </select>
+                            </label></span>
+
+                        <p><span><label for="symbologySelector">اختر نوع التمثيل
+                                    <select id="symbologySelector" class="esri-select">
+                                    </select>
+                                </label></span></p>
+
+                        <button id="customizeRendererBtn" style="background:gray;border: none;" disabled>تخصيص
+                        </button>
+                    </div>
+
+                    <!-- simpleRenderer -->
+                    <div id="simpleRendererDiv" class="widgetContent" style="display: none;">
+                        <p>إظهار الطبقة بمفتاح الخريطة</p>
+                        <label id="simpleLegendToggle" class="switchButton">
+                            <input type="checkbox" checked>
+                            <span class="sliderButton"></span>
+                        </label>
+
+                        <div id="simpleSymbolController" style="display: flex;flex-direction: column;justify-content: flex-start;gap: 10px;line-height: 25px;">
+                            <p><span><label for="simpleSymbolSelector">اختر الرمز
+                                        <select id="simpleSymbolSelector" class="esri-select">
+                                            <option value="circle">دائرة</option>
+                                            <option value="square">مربع</option>
+                                            <option value="diamond">معين</option>
+                                            <option value="triangle">مثلث</option>
+                                            <option value="cross">زائد</option>
+                                            <option value="x">تقاطع</option>
+                                        </select>
+                                    </label></span></p>
+
+                        </div>
+                        <div>
+
+                            <p><span><label for="simpleColorInput">تغيير اللون </label></span></p>
+                            <input type="color" id="simpleColorInput" name="simpleColorInput" value="#f6b73c">
+                        </div>
+
+
+                        <div>
+                            <p><span><label for="simpleOutlineColorInput">تغيير لون الإطار</label></span></p>
+                            <input type="color" id="simpleOutlineColorInput" name="simpleOutlineColorInput" value="#f6b73c">
+                        </div>
+
+                        <p><span><label for="simpleOutlineSizeInput">اختر حجم الإطار</label></span></p>
+                        <div id="simpleOutlineSizeInput"></div>
+
+                        <div id="simpleSizeController" style="display: flex;flex-direction: column;justify-content: flex-start;gap: 10px;line-height: 25px;">
+                            <p><span><label for="simpleSizeInput">تغيير الحجم</label></span></p>
+                            <div id="simpleSizeInput"></div>
+                        </div>
+
+
+                    </div>
+
+                    <!-- uniqueRenderer -->
+                    <div id="uniqueRendererDiv" class="widgetContent" style="display: none;">
+
+                        <p>إظهار الطبقة بمفتاح الخريطة</p>
+                        <label id="uniqueLegendToggle" class="switchButton">
+                            <input type="checkbox" checked>
+                            <span class="sliderButton"></span>
+                        </label>
+
+
+
+                        <p><span><label for="sortingMethod">ترتيب على حسب
+                                    <select id="sortingMethod" class="esri-select">
+                                        <option value="count">العدد</option>
+                                        <option value="value">القيمة</option>
+                                    </select>
+                                </label></span></p>
+
+
+                        <p><span><label for="allTypesSwitch">إظهار جميع التصنيفات </label></span></p>
+                        <label id="allTypesSwitch" class="switchButton">
+                            <input type="checkbox">
+                            <span class="sliderButton"></span>
+                        </label>
+
+
+                    </div>
+
+
+                    <!-- colorRenderer -->
+                    <div id="colorRendererDiv" class="widgetContent" style="display: none;">
+
+                        <p>إظهار الطبقة بمفتاح الخريطة</p>
+                        <label id="colorLegendToggle" class="switchButton">
+                            <input type="checkbox" checked>
+                            <span class="sliderButton"></span>
+                        </label>
+
+                        <div id="colorPointsSymbol" style="display: flex;flex-direction: column;justify-content: flex-start;gap: 10px;line-height: 25px;">
+                        <p><span><label for="colorRendererSymbol">اختر الرمز
+                                    <select id="colorRendererSymbol" class="esri-select">
+                                        <option value="circle">دائرة</option>
+                                        <option value="square">مربع</option>
+                                        <option value="diamond">معين</option>
+                                        <option value="triangle">مثلث</option>
+                                        <option value="cross">زائد</option>
+                                        <option value="x">تقاطع</option>
+                                    </select>
+                                </label></span></p>
+                                </div>
+
+                        <p><span><label for="colorClassificationMethods">اختر طريقة التمثيل
+                                    <select id="colorClassificationMethods" class="esri-select">
+                                        <option value="quantile">Quantile</option>
+                                        <option value="equal-interval">Equal Interval</option>
+                                        <option value="natural-breaks">Natural Breaks</option>
+                                        <option value="standard-deviation">Standard Deviation</option>
+                                    </select>
+                                </label></span></p>
+
+                        <p><span><label for="colorClassesNo">اختر عدد التصنيفات</label></span></p>
+                        <input type="number" id="colorClassesNo" value="4" min="3" max="10" placeholder="4" class="inputElement">
+
+                        <div id="colorPointsSize"style="display: flex;flex-direction: column;justify-content: flex-start;gap: 10px;line-height: 25px;" >
+                        <p><span><label for="sizeSliderDiv">اختر حجم النقاط</label></span></p>
+                        <div id="sizeSliderDiv"></div>
+                        </div>
+
+                    </div>
+                    <!-- sizeRenderer -->
+                    <div id="sizeRendererDiv" class="widgetContent" style="display: none;">
+
+
+                        <p>إظهار الطبقة بمفتاح الخريطة</p>
+                        <label id="sizeLegendToggle" class="switchButton">
+                            <input type="checkbox" checked>
+                            <span class="sliderButton"></span>
+                        </label>
+
+
+                        <span><label for="sizeColorInput">تغيير لون النقاط</label></span>
+                        <input type="color" id="sizeColorInput" value="#f6b73c"></input>
+
+
+                        <p><span><label for="sizeRendererSymbol">اختر الرمز
+                                    <select id="sizeRendererSymbol" class="esri-select">
+                                        <option value="circle">دائرة</option>
+                                        <option value="square">مربع</option>
+                                        <option value="diamond">معين</option>
+                                        <option value="triangle">مثلث</option>
+                                        <option value="cross">زائد</option>
+                                        <option value="x">تقاطع</option>
+                                    </select>
+                                </label></span></p>
+
+
+                        <p><span><label for="sizeClassificationMethods">اختر طريقة التمثيل
+                                    <select id="sizeClassificationMethods" class="esri-select">
+                                        <option value="quantile">Quantile</option>
+                                        <option value="equal-interval">Equal Interval</option>
+                                        <option value="natural-breaks">Natural Breaks</option>
+                                        <option value="standard-deviation">Standard Deviation</option>
+                                    </select>
+                                </label></span></p>
+
+                        <p><span><label for="sizeClassesNo">اختر عدد التصنيفات</label></span></p>
+                        <input type="number" id="sizeClassesNo" value="4" min="3" max="10" placeholder="4" class="inputElement">
+
+
+                    </div>
+                    <!-- heatmapRenderer -->
+                    <div id="heatmapRendererDiv" class="widgetContent" style="display: none;">
+
+                        <p>إظهار الطبقة بمفتاح الخريطة</p>
+                        <label id="heatmapLegendToggle" class="switchButton">
+                            <input type="checkbox" checked>
+                            <span class="sliderButton"></span>
+                        </label>
+
+                        <p><span><label for="heatmapSelect">اختر نمط التمثيل
+                                    <select id="heatmapSelect" class="esri-select">
+                                    </select>
+                                </label></span></p>
+
+
+                        <p><span><label for="ratioRangeSliderDiv">حدد نطاق التمثيل</label></span></p>
+                        <div id="ratioRangeSliderDiv"></div>
+
+
+                        <p><span><label for="blurRangeSliderDiv">حدد مستوى الضباب</label></span></p>
+                        <div id="blurRangeSliderDiv"></div>
+
+
+                    </div>
+
+
+
+
+                </div> <!-- // symbologyWidgetTemplate-->
+
+
+                <div id="widgetHeader" class="widgetHeader">
+                    <i id="backWidgetBtn" class="esri-icon-right-arrow"></i>
+                    <i id="closeWidgetBtn" class="esri-icon-close"></i>
+                </div>
+
+                <!--addLayerWidgetTemplate-->
+                <div id="addLayerWidgetTemplate" class="widgetTemplate esri-widget" style="line-height:2; width:300px;height:90vh;">
+                    <div id="widgetHeader" class="widgetHeader">
+                        <i id="backWidgetBtn" class="esri-icon-right-arrow"></i>
+                        <i id="closeWidgetBtn" class="esri-icon-close"></i>
+                    </div>
+
+                </div>
+
+
+
+                <div id="coordinatesDiv" class="widgetContent">
+                    <span><label for="xLonFieldSelect">اختر حقل خط الطول/الاحداثي السيني
+                            <select id="xLonFieldSelect" class="esri-select">
+                            </select>
+                        </label></span>
+                    <span><label for="yLatFieldSelect">اختر حقل خط العرض/الاحداثي الصادي
+                            <select id="yLatFieldSelect" class="esri-select">
+                            </select>
+                        </label></span>
+                    <button id="addXYtoMapBtn" style="border: none;">تمثيل
+                    </button>
+
+                </div>
+
+
+                
+                <!--createLayerWidgetTemplate-->
+                <div id="createLayerWidgetTemplate" class="widgetTemplate esri-widget" style="line-height:2; width:300px;height:90vh; overflow-y: auto;">
+                    <div id="widgetHeader" class="widgetHeader">
+                        <i id="backWidgetBtn" class="esri-icon-right-arrow"></i>
+                        <i id="closeWidgetBtn" class="esri-icon-close"></i>
+                    </div>
+                    <div id="scratchLayerDiv" class="widgetContent" style="display: flex;">
+                        <label for="scratchLayerName">اسم الطبقة</label>
+                        <input type="text" id="scratchLayerName" class="inputElement">
+                    
+                        <label for="scratchLayerGeometry">نوع الطبقة</label>
+                        <select id="scratchLayerGeometry" style="width:100%;font-size:medium; ">
+                            <option value="" selected>اختر</option>
+                            <option value="point">نقاط</option>
+                            <option value="polyline">خطوط</option>
+                            <option value="polygon">مضلعات</option>
+                        </select>
+
+                        <label for="scratchLayerFields">عدد الحقول</label>
+                        <input type="number" id="scratchLayerFields" value="0" min="0" max="10" placeholder="0" class="inputElement">
+
+                    <div id="scratchLayerFieldsDiv" class="widgetContent" style="display: flex;"></div>
+
+                        <button id="createScratchLayer" style="border: none;">إنشاء الطبقة
+                        </button>
+                </div>
+                </div>
+
+                <div id="scratchLayerFieldDiv" class="widgetContent" style="display: flex; flex-direction: row;">
+                <input type="text" id="scratchLayerField" class="scratchLayerField" style="display: flex; flex:3;">
+                <select id="scratchLayerFieldType" class="scratchLayerFieldType" style="display: flex; flex:1;">
+                    <option value="string">نصي</option>
+                    <option value="double">رقمي</option>
+                </select>
+            </div>
+
+                <!-- Application Information -->
+                <div id="appInfoWidgetTemplate" class="widgetTemplate esri-widget" style="line-height:2; width:300px;height:90vh;">
+                    <div id="widgetHeader" class="widgetHeader">
+                        <i id="backWidgetBtn" class="esri-icon-right-arrow"></i>
+                        <i id="closeWidgetBtn" class="esri-icon-close"></i>
+                    </div>
+
+                    <div id="appDescription" class="widgetContent" style="display: flex; text-align:justify;text-justify:inter-word">
+                        <span>
+                            <h2> جي بورتال </h2>
+                            تتيح هذه المنصة إمكانية التصفح والتفاعل مع مختلف البيانات الجغرافية على شبكة الانترنت. تم تطوير المنصة بحيث تدعم اللغة العربية وتسهل على المستخدمين تطبيق أكثر أدوات نظم المعلومات الجغرافية استخداماً بصورة سريعة.
+                            <h3> مميزات المنصة </h3>
+                            <p> 🟣 إضافة ورفع مختلف أنواع الطبقات
+                            </p>
+                            <p> 🟣 الاستعلام النصي والمكاني
+                            </p>
+                            <p> 🟣 تحليل البيانات
+                            </p>
+                            <p> 🟣 حفظ النتائج
+                            </p>
+                            <p> 🟣 حفظ النقاط المرجعية محلياً
+                            </p>
+                            <p> 🟣 العمل على أكثر من خريطة بنفس الوقت
+                            </p>
+                            <p> 🟣 تمثيل البيانات بمختلف الطرق
+                            </p>
+                            تم تطوير المنصة بواسطة فريق عمل بوابة نظم المعلومات الجغرافية
+                            <img src="images/gisgate.png">
+                        </span>
+
+                    </div>
+                </div>
+
+
+
+                <div id="attributesTableDiv" style="width:calc(100vw - 5vw); height:30vh;"></div>
+
+                <div id="msgOverlay" class="msgOverlay">
+                    <div id="msgDiv" class="msgDiv">
+                        <div id="msgContent" class="msgContent">
+                            <i class="fa fa-times-circle" style="color:rgb(212, 65, 65);font-size: xx-large;"></i>
+                            <p>
+                            عذراً ولكن يرجى فتح المنصة على الحاسب 💻
+                        </p>
+                        </div>
+                    </div>
+                </div>
+            </div> <!--  END | Elements Templates !-->
+
+
+</body>
+<!--<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="https://cdn.tutorialjinni.com/jquery-csv/1.0.11/jquery.csv.min.js"></script>!-->
+<script src="js/main.js"></script>
+<script src="js/mapping.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-csv/1.0.21/jquery.csv.min.js"></script>
+<!--<script src="https://cdn.tutorialjinni.com/jquery-csv/1.0.11/jquery.csv.min.js"></script>-->
+
+</html>

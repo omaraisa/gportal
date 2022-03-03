@@ -1,0 +1,7 @@
+/node_modules
+/uploads
+/assets/js/main-backup.js
+/assets/js/mapping-backup.js
+/views/pages/index-copy.html
+.env
+server_copy.js
