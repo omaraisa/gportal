@@ -3,7 +3,7 @@
     "version": "1.0.1",
     "description": "A GeoApp that enables data creation,exploation, query, analysis and extraction",
     "scripts": {
-        "start": "nodemon server.js"
+        "start": "node server.js"
     },
     "dependencies": {
         "@azure/storage-blob": "^12.8.0",
