@@ -17,6 +17,7 @@
         "into-stream": "^7.0.0",
         "dotenv": "^16.0.0"
     },
+   "type": "module",
     "devDependencies": {
         "nodemon": "^2.0.15"
     },
