@@ -1,8 +1,9 @@
-import { express } from 'express';
-import { fileUpload } from 'express-fileupload';
-import  azureStorage  from 'azure-storage';
-import  intoStream  from 'into-stream';
-import  dotenv  from 'dotenv';dotenv.config();
+import express from 'express';
+import fileUpload from 'express-fileupload';
+import azureStorage from 'azure-storage';
+import intoStream from 'into-stream';
+import dotenv from 'dotenv';
+dotenv.config();
 //const express = require('express')
 // const fileUpload = require('express-fileupload');
 // const path = require("path");
@@ -14,7 +15,7 @@ const app = express()
 const port = process.env.PORT || 5000;
 const containerName = "layerscontainer";
 const blobService = azureStorage.createBlobService(
-  process.env.AZURE_STORAGE_CONNECTION_STRING
+    process.env.AZURE_STORAGE_CONNECTION_STRING
 );
 // App configuration
 app.set('view engine', 'ejs')
@@ -27,14 +28,14 @@ app.use('/vendor', express.static(__dirname + 'assets/vendor'))
 app.use('/uploads', express.static(__dirname + '/uploads'))
 app.use(express.urlencoded({ extended: false }))
 app.use(
-  fileUpload({
-      createParentPath: true,
-  })
+    fileUpload({
+        createParentPath: true,
+    })
 );
 app.get('/', (req, res) => {
     res.render('pages/index', {
-        version : 1.0,
-        port : port,
+        version: 1.0,
+        port: port,
     })
 })
 
@@ -43,37 +44,37 @@ app.get('/', (req, res) => {
 
 // Handle layer upload
 app.post("/upload", (request, response) => {
-  if (!request.files) {
-      return response.status(400).send("No files are received.");
-  }
-  const blobName = request.files.file.name;
-  // console.log(`Blob Name ${blobName}`);
-  const stream = intoStream(request.files.file.data);
-  // console.log(`stream ${stream}`);
-  const streamLength = request.files.file.data.length;
-  // console.log(`Length ${streamLength}`);
-  blobService.createBlockBlobFromStream(
-      containerName,
-      blobName,
-      stream,
-      streamLength,
-      (err) => {
-          if (err) {
-              response.status(500);
-              response.send({ message: "Error Occured" });
-              return;
-          }
-          
-          var hostName = 'https://mystorageaccountname.blob.core.windows.net';
-          var url = blobService.getUrl(containerName, request.files.file.name, null, hostName);
+    if (!request.files) {
+        return response.status(400).send("No files are received.");
+    }
+    const blobName = request.files.file.name;
+    // console.log(`Blob Name ${blobName}`);
+    const stream = intoStream(request.files.file.data);
+    // console.log(`stream ${stream}`);
+    const streamLength = request.files.file.data.length;
+    // console.log(`Length ${streamLength}`);
+    blobService.createBlockBlobFromStream(
+        containerName,
+        blobName,
+        stream,
+        streamLength,
+        (err) => {
+            if (err) {
+                response.status(500);
+                response.send({ message: "Error Occured" });
+                return;
+            }
 
-          // console.log(url)
-          return response.status(200).json({
-              message: 'File Uploaded Successfully',
-              url: url
-          });
-      }
-  );
+            var hostName = 'https://mystorageaccountname.blob.core.windows.net';
+            var url = blobService.getUrl(containerName, request.files.file.name, null, hostName);
+
+            // console.log(url)
+            return response.status(200).json({
+                message: 'File Uploaded Successfully',
+                url: url
+            });
+        }
+    );
 });
 
 
@@ -82,4 +83,4 @@ app.post("/upload", (request, response) => {
 // Run the app
 app.listen(port, () => {
     console.log(`App listening at port ${port}...`)
-  })
+})
