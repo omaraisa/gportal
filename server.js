@@ -1,8 +1,8 @@
 import { express } from 'express';
 import { fileUpload } from 'express-fileupload';
-import { azureStorage } from 'azure-storage';
-import { intoStream } from 'into-stream';
-import { dotenv } from 'dotenv';dotenv.config();
+import  azureStorage  from 'azure-storage';
+import  intoStream  from 'into-stream';
+import  dotenv  from 'dotenv';dotenv.config();
 //const express = require('express')
 // const fileUpload = require('express-fileupload');
 // const path = require("path");
