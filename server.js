@@ -4,6 +4,8 @@ import azureStorage from 'azure-storage';
 import { fileURLToPath } from "url";
 import intoStream from 'into-stream';
 import dotenv from 'dotenv';
+import path from "path";
+
 dotenv.config();
 //const express = require('express')
 // const fileUpload = require('express-fileupload');
@@ -38,7 +40,7 @@ app.use(
     })
 );
 app.get('/', (req, res) => {
-    res.render('pages/index', {
+    res.render('pages/index.ejs', {
         version: 1.0,
         port: port,
     })
