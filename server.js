@@ -1,9 +1,14 @@
-const express = require('express')
-const fileUpload = require('express-fileupload');
-const path = require("path");
-const azureStorage = require('azure-storage')
-const intoStream = require('into-stream')
-const dotenv = require('dotenv'); dotenv.config();
+import { express } from 'express';
+import { fileUpload } from 'express-fileupload';
+import { azureStorage } from 'azure-storage';
+import { intoStream } from 'into-stream';
+import { dotenv } from 'dotenv';dotenv.config();
+//const express = require('express')
+// const fileUpload = require('express-fileupload');
+// const path = require("path");
+// const azureStorage = require('azure-storage')
+// const intoStream = require('into-stream')
+// const dotenv = require('dotenv'); dotenv.config();
 // Global variables
 const app = express()
 const port = process.env.PORT || 5000;
