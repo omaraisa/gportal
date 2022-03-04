@@ -1,6 +1,7 @@
 import express from 'express';
 import fileUpload from 'express-fileupload';
 import azureStorage from 'azure-storage';
+import { fileURLToPath } from "url";
 import intoStream from 'into-stream';
 import dotenv from 'dotenv';
 dotenv.config();
@@ -17,6 +18,10 @@ const containerName = "layerscontainer";
 const blobService = azureStorage.createBlobService(
     process.env.AZURE_STORAGE_CONNECTION_STRING
 );
+const __filename = fileURLToPath(
+    import.meta.url);
+const __dirname = path.dirname(__filename);
+
 // App configuration
 app.set('view engine', 'ejs')
 app.use(express.static('assets'))
