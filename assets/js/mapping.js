@@ -1,1 +1,5088 @@
-const _0x5775=['C0LRtue=','B3bLBG==','iCkmW4lcJce=','utm','W6rOW7RcHSoMFa==','csvURL','KjsHG','GHMVQ','WOZdHCoWhuG=','WRWNvtukgSoHW7m=','WRlcIvbXWQy=','vkDLr','y3jLyxrLrwXLBwvUDa==','Dwv1qxm=','W7SzwMjL','action','wGfes8oe','QPmno','nCkLW6xcHCoo','<p>xls,xlsx,txt,\x20csv,json,geojson</p>','uhbIu0y=','W4GEWPu7WQ8=','W6b+WR9nWRFdSY7dHZVcJ8oaWPNdLCkf','tmoPWRZdHW==','POQBT','ywrKrxzLBNrmAxn0zw5LCG==','W41gn3TZWOSyC8kvorxcTmoLWRKzWRa=','Lwwqq','muWzWPaWW7O=','v1blq0W=','xSoLWQRdL8k3xdxcUmkQWQCbmmoS','ywrKsNnVBKj0BG==','WP3cHMXUWRhdKJy8BNvCWQldOSklW65J','WQ82W7VcL0tdNCkTjKJdPs9jl8kjrq==','W6SYcL7dPG==','uejuEfG=','heatmapSelect','zxnYAs1Py29Ulw1HChm=','labelsVisible','nwVdH3Dj','W6jhagy=','geometry','rmk1vCkiW59ef8kXAmkPlcldMG==','dMfpWO8hW4xdVqpdS8kFWPK=','WOZdNSogn0a1WRK=','b3rEWP4eW4ddJJJdUCkBWPJcQ1G=','WQm8WQRdHv1oW5pdKSoJWOBdNwjy','return\x20/\x22\x20+\x20this\x20+\x20\x22/','عذراً\x20لا\x20يمكن\x20تصدير\x20بيانات\x20هذه\x20الطبقة','C2LTCgXLtgvNzw5Kvg9Nz2XL','W5KWW4NdNwe=','Dw5PCxvLlxzHBhvL','khCgWP8z','nSkwWRn6zW==','WR4AW6PWW64=','ywPHEa==','qwvctee=','EgHZAhe=','WPDfW63cJmo6WPOkW4dcSJveuM3cMgdcHq==','nKapWRO8','kZNRE','W6CoW7BcOeK=','zxnYAs93AwrNzxrZl0v4CgfUza==','runIntersection','b8kUiSoD','pYpdVtxdRSosW4ChAui7g2H/W4Lzqmo4FhnLsYNcSSoo','ACoVWRBdKCko','DNfnwwO=','yMfJA2DYB3vUza==','t2PeWPBcPSkj','wVrWN','qCojWOZdVSks','W501WP4pBq==','qaLiF','UeAQP','WPJdLexdUKG=','uNnSqNC=','y2XHC3ncCMvHA0LUzM9Z','zxHPC3rPBMC=','uxrmzKO=','bgmvWP8h','thD3Cxe=','aKhdJ05k','kMQwZ','eSkIi8o2W60mD8ocW4ndjb3cTSkOW6Om','uxjksee=','wmk+uSkDW5bvC8k5r8kUla==','y2HHBMDL','BK0kWP3dHa==','W6T/W7hcGmoMCCkXWQxcPZ9KWQO3za==','createElement','W5CSW7tcQNy=','EEkeM','nNhdS39FW63dUCkfDM/dIvCOWRFcJ0FcK3GQywa=','pmkNWQPqu8o/Fmoj','AgfSB1nPEMu=','W6inW5y=','options','C3vIC3rYAw5N','t3GEWORdOa==','D2vIu2vYDMLJzurPDG==','children','b8kGhI7cVmkaWPNcQJG=','WQSNwtC=','W69OW6dcPmo+CCkoWQxcPY9dWQeBCG==','WR4OWRBdKLz7','getElementsByClassName','rbprA','D2LKz2v0sgvHzgvY','ciWaS','/upload','NcZDX','CLPwrLC=','dhLEWOqoW4q=','W4H5WQfTWRJdOGRdPG==','zxnYAs9Nzw9TzxrYEs9Nzw9TzxrYEuvUz2LUzq==','W7NcUSklru1tv8oUWOG=','gSkYW4ZcK8oKWQldJxNdKG==','BSoxWORcPmkGW4xdHJVcPmkS','vKTODwy=','xaD0A8onxSojg8kCeW==','ieuEWPG7W6vbWRu=','amk5W47cK8o1WP7dVfa=','W4RcUaxcMMq=','ediJk','W7RcGZNcOgS=','W4hcHmoxfSoY','WOZdLmovbLqKWRtdPa==','CxvLCNLfEhrLBNq=','VYiGk','HKWoT','r1PSCfC=','y3fNEuC=','W5qJgWBcMvPrWOhcNuRcICoqW5ziq8kbwW==','JySbl','yhOgWOhdNq==','النافذة\x20المنبثقة','uuvmvKy=','y2HLy2TLza==','kUjqr','features','fromObjects','W7qlWQn8W7iB','WPJcKgjsWOe=','WQSkW7HfW6O=','uNLeC08=','XYkjX','WOldHmofgNC=','mKtdKe1Q','WQGGW5NcL0hdLmkHnui=','qbQwj','WR4OWQ3dKKHHW5JdLmoEWP3dIwG=','Cdzsy8ol','tfvTyMO=','WRuSWRVdSKHTW5VdLSo5WOFdRx5IWRq=','WOxcShLiWPm=','ySXFs','W73dJcBdNHhcTg/dHCki','zLqeWPpdQW==','t0Tqyum=','W4GhkchcPa==','CxvLCNLjBNb1DerPDG==','DIxfG','WRK8W6tcNatdGCkTm0xdKYOcgmkdqZhcLCosDSkzkCoa','i0rsWOGd','DxjS','W6JcSCoTeXhdHmoNW59ujCoqW5dcUwJdV3i=','rgretLm=','rCoDWOFcV8k/W7tdMxldUmoObsZdMSovWOS=','W6GrW4xdMLG=','y2XPCefUywX5C2LZqNrU','kjBna','AlfXt','tXH7vmog','W4qLW6VcM1W=','W4SewLDM','f8k1W5hcHSo6WOVdOa==','DhH0','wURwq','bufferDistance','x1f1zxj5','juYar','B3bLCMf0Aw9UywXjDgvTCW==','uuPLD00=','CxnuzxO=','vfnUzxK=','ELb3tK0=','W6inW5BcRu7dRWm2hSoAgNDEtSoEWOm=','A2vVC1e=','pXWfv','jeGyWPK6W6nwWQiDW6Sxza==','esri/widgets/Editor','D29REui=','wMfwsNu=','WOVdLCoqn1CZWR/dO8otW6tcHmowz8ksn00=','gmkVhd7cQW==','uwLmsuC=','Bg5duMu=','vxDpwwm=','aSkRhIZcUSkG','complete','ANnVBKXHEwvYrgL2','naRRb','W6yAW4dcGrFdHWWY','WQqUW78/WP7cOGy=','WP/dMmo4pfe=','W45opf1U','WQGrW65bW6zDw8oW','lmoDW4K5tW==','nYpdKW3dJq==','W7KCW5RcIvy=','W54ocrxcK8k/W5f/bJKU','EeHksNy=','WRGQsbWcdCoPW7G6WQjBd3r9','المعالم\x20المحددة','rLnuB2C=','iSk7WRfqxW==','lrcDX','W7ZcPmoAhSoKW65yW5JcPsy3qvi=','100%','hmkfW7lcOWLRaLJdPhddPhHZna==','Bg9N','uvbbyu8=','eSkIiW==','vvHnCfO=','Ew85WR7dLG==','iNFdTvThW6VdVmkSEwldN2CxWORcI0ZcUwOdBq==','WQVdGgJdLwG=','symbologyWidget','vSoDWOlcVSk5','W7OfW5FdIM18W58/WPxcVCo3WP9eqr3dVG==','bufferUnit','fCkJm8oqW7m6CSotW7TjpW==','selectionLayers','nt/dQchdRSoJW6etFguTngP2W4LgvG==','الخريطة\x20الافتراضية','W4vqixRcUXW1WO8=','W6RcTmolkCoXW41qW5ZcVYChxwHL','lSkBWPnBzW==','W7FcKCkdAKe=','uSk6n8klWPdcNvFdPdX7g8kv','WQxdHSozWOCG','jHRdTHddJa==','wLabWPldUWZdNGrIEa==','uLv3DwO=','classificationMethod','wMD1sgi=','y3jLyxrLq2XHC3ncCMvHA3nszw5KzxjLCG==','Ahr0Chm6lY91DgLSAxr5lMfYy2DPC29UBgLUzs5JB20VyxjJz2LZl3jLC3qVC2vYDMLJzxmVvxrPBgL0AwvZl1bYAw50Aw5Nvg9VBhmVr1btzxj2zxiVrxHWB3j0jtiWv2vIjtiWtwfWjtiWvgfZAW==','fCRwe','WOVdGCoef08YWPldV8o2W6hcKW==','nearLayer2','test','sqJVZ','W71OW6hcOmoH','WRaUW7tcKeFdMmkSjNJdNcbc','C2nYyxrJAeXHEwvYrMLLBgruExbL','W5KVnJ/cPa==','emkUlSoFW78BFmoy','.csv','W5C/gYRdL05q','W5SmfrBcPq==','lCk9gqNcVG==','F8k3mSkfWP7cIgZdIW==','tKvxvhm=','BMfTzq==','AtNcICklW4S=','Cxzutfu=','mrXhW','zCkIf8k5WP4=','touches','C2nYB2XSsgvPz2H0','WORdTxxcTmorWP7cU8oi','yMfJA1DPzgDLDej0BG==','t2H4zey=','uhrdwhK=','TaVgJ','suD3Ag4=','JnthW','WPxdQmoy','zMLLBgrZ','AxrLBxm=','WP/cIMfhWQpdHt0M','targetSelectionLayer','WOJcJvTFWRxdNJyV','rd7cLmkVW7RcSCoLD8khiCoxoSoAWPC9ha==','g8oHW78qBa==','W4dcU8o6kCo1','lHHhA','labelingInfo','simpleSymbolSelector','W599WRncWR4=','rYlcP','Dw5KzwzPBMvK','WROjW5b5W64=','jeGdWReZW7jjWR4NW6yLEc4T','t0GuW4RcNwZdKmo6WQBdL8oiW7D9EW==','W5GBdtxcKCk+W79Yaseit1RdKq==','s2XHtwq=','jmuot','HIbJO','AJYHl','C2vSzwn0vg9Nz2XL','existing','pCkoW7FcSSos','W701WQygFSotn2ek','osldQJ3cTCoaW60pB1q8kJvjW4nxr8ojCq==','BMvHCKfUywX5C2LZqNrU','W48vf1/dQ2nmrq==','esri-icon-description','W7JcVqpcOhu=','y2XPCefUywX5C2LZv2LKz2v0vgvTCgXHDgu=','WOFdSMJcSmobWRRcISoHW7i=','jpIUc','xCk2u8kyW5K=','zNf1z3m=','unionLayersNo','W78pWQ5CW6WnWO3dILldN8kiW7ZdPai=','W4pcHCofoWe=','AxH3tw8=','tw5yqxm=','AgvHDg1HCa==','KtstQ','W68jW5BdOq==','uNn5wgi=','CgfUzwW=','numClasses','W6GfWQPSW7a8WOxdGKZdH8kRW7hdIa==','WO4sW7HcW5W=','W7bac3W8WOddUmo0EJJcNtZdGaO=','<h4>أدخل\x20الرابط</h4>','yMXHy2S=','WQ3cOwnMWQq=','removeSelection','tgfIzwXuB2DNBgvcDg4=','h8oRW6C6CSoGlq3cRmk9tmkNCc0=','W6GyWRn3W7q8WO/dIfVdH8kV','WPXsW6BcP8ozWQ0O','W67cOmofgCor','W5HnjL1TWQixFSk8iLq=','WRi6W7VcTKFdKmkXmLtdGq==','inputs','WO3dRMpcTmohWPFcM8oaW5S2W7SJWOK=','uunqrxG=','CpOSG','vCk2Ddmi','ELbpELu=','WPOSWQ7dG0LPW4BcK8kK','W7VcSmoKorhdHa==','W4BcUCk8E00=','yxr0CMLIDxrLC1rHyMXLrgL2','amkVpCowW5CmFSotW6foaWBcTmkHW6mB','bFKGy','CwGLS','W63cSb3cNhdcKrHKASk4C8oxkSkc','UVNSd','fqmSw','W7TpdNJcLq==','DxbSB2fKrM9YBvrLBxbSyxrL','NUsSv','2AlzLTQW2llyJnQVWRhBRTI42lJAI9MHtTUY2Q/zODUok9Mj2yZyODMu25hBVnMl','thOqWQxdQG==','u8k9CsGvEvBcUgv5W4vhD2bLW5JdLa==','text','x19WCM90B19F','2kFzHnIX2kZyP9IHinIX2yhyUsdyP9IT2k/zIsdyP9Me2lxzITI6inIN2ytyQTIN2ytzITIPoIb4Bhn4lcb4BhmSignZDIWGDhH0lcb6Axa=','A0G1W4RcJMNcNSou','QhPuQ','nnbEE','CBkFV','serxN','W70oW4hdINP6W5K=','rgba(0,255,255,1)','EEpMu','2|3|0|1|5|4','v2Ddrwy=','IGSZs','gSoAW5/dRSoT2OFAMDI125lcVnMr2lVAGTQi24ByH8oMWQFcMYyOwq==','W7pdTWtdVdu=','CwLOyLa=','z2vVANnVBG==','zY7cM8kBW40=','Deror0q=','esri/layers/GeoJSONLayer','W7BdPI/dSt8=','W5LQW5RcHCoI','W5xcTmo2bSoe','jgzLyxr1CMuU','l8olW5qswW==','WP4iWOhdK1C=','kCkaeIdcLG==','lhFdRfzn','nearAnalysisWidgetTemplate','DvLvC3m=','uKPftxe=','FIovp','x3TmWPFcOSkana==','aiUaz','maGma','v8kWn8knWPJcIfFdTG==','popupToggleBtn','oSkQa8oQW5G=','zgf0ywzYyw1LtMfTzq==','WQJdKeddM2BdUG==','vhjHBNndyw5Hzge=','WQW/xs0hcCoOW48XWRb8bfH3WRqs','vsjAy','E04vW47cKghcICkjW7ldLmojWRjmbgulCCoXWPVdMmoYBmorWQddGSojtZzpW4jpFNjtn8kheZRdLSkXld93W4xcKSkwW4usW5eEi1hdI8oQWQhcUIOTo8oCtmoVlHeUk3fAW57cNgeQW7TaW57dNmk5CtBcL8oUb2VcQSoWtCoCfSksWQi6WRpcTG==','C2LTCgXLt3v0BgLUzvnPEMvjBNb1Da==','esri-icon-up-arrow','pSk4kJVcUG==','ugD4Dfy=','warn','thPdt3K=','zTuky','WRNdHCo+WRW7','BequW5/cIgpcMmo/WRpdI8oaWQvYvMylCmo6W7ldLCoT','trigger-action','Ehjlt2C=','wKekWOJdTW==','MASXy','gvDTWOWV','s3HaWPa=','rwHnAuW=','lCkRWQXWqG==','IbhJn','bXokR','qmWAc','YDfOY','2i7zSDMk2QlAP9MEWPVzOnMY2BhcV1T9AKHAW7mrW7ZcVWq=','x8kKBmk8W4G=','jYFWr','spRcH','uploadLayerDiv','scdcQmk7W7W=','NIrVI','2RxyI9U12llAP3JzNnUN2A/AG9MO','W6BcUSklvgTjv8o/','ieiBWPST','lfoOv','WR4Rwa==','D0rYEfK=','C2L6zunSyxnZAwzPy2f0Aw9Utwv0Ag9KCW==','WewPP','WQRdJeVdJNpdItpdMCk1zK5ZW6Dr','W7vDagKBWOZdKmo0rZdcKsRdGaO=','WRNdICoKi1u=','DKf2z0C=','Cg9WDxbuzw1WBgf0zq==','amoGW5O4Ea==','gSkeW6i=','EgDHrgK=','omkYnSoEW5G=','C3bHDgLHBfjLzMvYzw5Jzq==','W7CqW4lcJq==','ChLgAwi=','FIrPC8oj','uNn2tgS=','CqjpDmoP','fCoRW6CnD8oM','الرجاء\x20إكمال\x20جميع\x20الحقول','W7NcQmopcq==','W6hcSmogcCoVW5S=','WO3dTCoEWOec','W7bkbhWAWPVdP8oI','W6qXFvjq','W4Shcru=','zchdOa==','u8k5n8koWPG=','hSoIW7WqBa==','s3rvueW=','zxH0zw50','nN3dS2PcW6ddTSkeCMldHeOk','qQpdr','mCk+d8oYW7K=','yK9iENC=','W7qlWRH8W6WGWOhdG1pdQmkLW6NdGHtdUq==','werbv1y=','v0jAuva=','W7NdLsNdMXS=','z3PtB2O=','rxPoq0G=','actionsSections','o8keW5VdS8kV','W5TknK4b','v3D1uxi=','DOTIX','sgvHDg1HCcaXmq==','WQddMvhcGCoa','vg5dBhq=','aiApZ','wgzvC3i=','font','WO/dUglcKmofWPFcSmoyW7iYW605WPHWW5rS','zg93BMXVywrrDwvYEuj0BG==','W4qemZZdGG==','xxDnWRhcV8kapSkuW6lcHuBcSd7dMsLy','downloadQueryBtn','SEopr','rCkPEsGtAM7cHwD4W4Xqw2b2W4G=','W44zfeVdONq=','rvqkWOhdObW=','W7rRWQP8WRldTY/dSddcNCoNWPldUCkpW77dJa==','BgfIzwXZvMLZAwjSzq==','Bg95tNq=','hhrtWO8kW5xdMW8=','zgLZywjSzvnLBgvJDgLVBG==','WQCSWRRdTLC=','amkIWO15CG==','W6aBW53cM0S=','rOBBc','W77cVSoGmG==','yZoCi','uxb2AMu=','AMFdSxjeW6/dTq==','DMfSDwvZ','qCoaWORcOmkLW43dLwG=','ueuAs','W6bgfMenWOxdPW==','W6JdUrhdVdO=','WO3dQxxcOCoCWP/cT8owW5SjW7SJWPL7W4n7WO3cJmoKWR8=','MECFx','WOpdI8oRWRGa','W5moW7dcQvq=','W6aBW5FcIuZdRYGUn8oEdg1p','vfrowfm=','ugLxENi=','2yByT9IN2yiG2kFzHnIQ2lxyR9Mk2le=','r2W4WQFdQW==','W5GBdtxcKCk+W79Yase5DgRdTSoHp8orWPddMd7dLM4=','ywrK','gmVxK','W7XLW7hcJW==','queryValues','W6ymW7xcKMi=','Dg9WlwXLzNq=','C2vYDMLJzvvsta==','NEHQa','w1XKWRNcJW==','y2XVBMvoB2rL','WPuPW4DOW6y=','W7WHWRixWPe=','DvL3wwS=','W7S3uf5qpmoSW4W=','e8kBW7hdSCkpcCkqr8oN','WRCrWQ7dGui=','DtSuP','q3bSqKO=','WP7dMCoDWRCv','DMzSAKy=','ksiup','yNPgA3q=','b8k0W4FcMa==','square','mfKoWPG6','2Q7zVnIu2iS=','WRq4WRRdKfC=','y2zOs2K=','EmkqtmkPW5e=','zxnYAs93AwrNzxrZl0zLyxr1CMvuywjSzq==','WQyGWRVdM0e=','ugfkufe=','clone','eLOcL','mKGyWQmM','W6vFbhWgWOJdRSodtdlcKsRdGbzTWP0=','W7Hfcw4M','rgP1rem=','source','gSkYmCoEW54=','zxnYAs1Py29UlwXHyMvSCW==','cCo7W7ynz8odjqNcTSk8Fmk7sG==','W6BcUSkix3HE','BgfIzwXPBMDxAwrNzxruzw1WBgf0zq==','info','WQi/W7H6W7W=','csvDiv','yxbWBhK=','uvbOBeu=','D0TpzwW=','W4aDs196','uCo4WQhdNSki','GaqHG','wxzzE','Dw5PB24=','zhXHWP3cUa==','BsmLE','W6LXWQDUWPi=','wNXBWRhcQmkgoa==','y3jLyxrLuMvUzgvYzxi=','ABgRw','W5i8bGhdK2nxWOhcNW==','WR4/tdWadmohW7u9WRP9','W5WPW77dMuO=','z2vVBwv0CNLuExbL','WQ42W5NcHw8=','t2DqWPJcRa==','name','umxNc','BgfIzwXPBMDjBMzV','rDuNF','vSohWPJcUa==','zvH1BwG=','y2HPBgrYzw4=','vqMYj','map','WRRdPwRcUmoy','attributes','CubyWPRcHW==','split','Tile\x20Service','W4JcVCoPomoL','y3vZDg9TAxPLuMvUzgvYzxjcDg4=','W6ugW4dcRvNdQqu=','y3n2','C2LTCgXLuMvUzgvYzxjeAxy=','tNzUtK0=','thnithq=','sizeRendererSymbol','yvPvufe=','checked','xhshq','W7ncfxWw','uniqueLegendToggle','mCk6WRXCqG==','colorPointsSize','BMvHCMvZDeLe','W7emW5ZcJf3dUaGW','eCksjSoMW7e=','tmowWOVdPCko','W5C1cbVdG19DWPy=','wwz6DNG=','ssvGV','E0DzWO7cNG==','m3b4','W4vBj3VcNW==','WRGQsbWcdCoPW7G6WQjQnerAWRSwyWNdIGhcICkK','IwAns','W7OcW4FdPM14W4uUWORcSCoOWO5cwXhdO8oh','esri/smartMapping/renderers/type','WROzW7fvW6fc','et3dLaddOa==','push','zKv3tw4=','mCkeW6/cNXu=','AfLzw','W6KVWRinWOy=','WObaW6xcVmoP','WPJdImo7aMu=','W5VcOaZcI2xcVa1nBSk/','fmoVW6OABmo2','W4WrdalcNSk+','cCkCW6xdSCkUlCkTBSooWQpdQd3cSW==','rwD2DxK=','wyQQY','zxnYAs9SyxLLCNmVs01mtgf5zxi=','y3f6DuW=','rercEuu=','yM9VA21HCMTZtgLZDa==','length','tmkYs8kOW5bvm8kWqmk0cZFdTYC=','p8kRWQ10xCo2DmoiWOj0W6XBWO/dRa==','zMPZv','zgvSzxrLqM9VA21HCMTcDg4=','zTBLU','WOBdQwZcV8oD','B0zNDNC=','bufferAnalysisBtn','wg9iAxe=','AhvXAfy=','B0j2uwW=','W60RWRaCWOyQfmkK','4|0|2|3|1|5','ojKjR','k8kqW6tcTsm=','ELmNWPxdLG==','W7G+WQyeEmoZ','BMvHCKXHEwvYmq==','WRu7W7pcMfG=','PLgOS','PZJZD','zwjfAvy=','W67cUCowamo5W5PyW5C=','W6/cRr3cQ33cLWffzCk4umoSf8ki','W7eiW5ZcJfFdPW==','qWTBASow','W6CYWQutymo+tKeNw8o6WPlcHa==','WRHZW5ZcJCoi','W7X0W6tcHa==','W7n9d3Gg','vmohWOxcVSkOW4xdHa==','z0TZqwC=','zMLUzeXHEwvYqNLjza==','D3zrEwC=','sgnwB','rSk1Et8Fy23cU2z7W5S=','rSk0nmkvWPG=','luZth','ZxtVp','WOZdLelcM8oN','vMfyBxq=','xrpcHSk5W6i=','WPjiW7RcUCoGWP4D','zgL2','ywrKrgf0ywzYyw1LrgL2','longitude','C3LTyM9SB2D5v2LKz2v0','W7O0WQyg','zxHWB3j0rgf0yvDPzgDLDfrLBxbSyxrL','labelingFields','YsfWf','W6uXpWJdVa==','CxbkAhm=','esri/layers/WMSLayer','W7SyWR94W7qnWQxdG1NdHSkVW6VdMq==','zLHLC2W=','wxnMv2y=','WOFdVmoqWPKz','WR89W7pcLf/dLmkoieJdLZr6iCkivIdcGmoQwSkapmobC3tdSa==','qe0eWQNdVq==','W7SGWQjCW6W=','wurjC3q=','zYPRN','ywrKtgf5zxjcDg4=','A21Svvjm','display:\x20flex;flex-direction:\x20column;justify-content:\x20flex-start;gap:\x2010px;line-height:\x2025px;','fJdeT','ANPHC2G=','W6hcSmogcCoVW6ruW4RcPq==','lmkVW77cIs0=','W7f6WQD9WR4=','setItem','sOFRY','n0z6WQyN','fKqgK','WOzuW7RcOq==','fmkJm8o2W7CmDmotW6fEfrdcMSkI','DtWHv','YqALK','W77cQqxcM3q=','size','zMLSzxm=','WQ4QW7VcML3dLa==','W5iUfaRcKq==','qyJPn','W6vBhgqk','XWELN','ibDBQ','xCo0WRddGCkAxJJcMCk5WPezo8o8WRK=','esri/layers/GraphicsLayer','q2DWsu4=','uNzjuwm=','DMfSDwu=','A2PcBMe=','WRmmWPVdLg8=','r8owWO8=','W4KFfqxcMa==','W4xcVCoDpt8=','ffWHU','W6/cUSo7eWBdGSoH','tLHSCwG=','W50fWQH2W4W=','rSkGxJuy','wvQyg','vCogWPlcVmkO','editor','WPq3vb0Q','ZJruq','vgfwz0O=','W6WTWQWzWPC7gCkAkColr8kcW7FcI1RdUG==','hSoNW7ytESo2','W7O7rf8=','ALfnsKW=','EeisW7VcKgxcNCowWRZdHSoNWQ59wW==','WRuHW7JcKfNdUCkwdh0=','sx1aWPVcP8kKpSkbW4lcLuBcRsJdOcvox3KDW4nmW5BdLmkFW4TIW6W=','W6vBf2ebWO7dQ8o3ua==','sgGEW5hcTa==','y29SB3jszw5KzxjLCLn5BwjVBa==','visible','yM9VA19UzxC=','tKXXvuS=','u2HLzxrZ','2kRzHDIR2yRzHcdyQnIZ2yRyTW==','currentTarget','LANds','WPNdNSobaeiZ','esri/layers/FeatureLayer','geodesicBuffer','yM90Dg9TlxjPz2H0','xSkYsSkSW48=','WMS','W5moW4RcNg4=','2kFzHnIU2lhzITI32kKG2kFzHnIN2yhyQTIX2kFyTTMk2kK=','csv','x39gWPRcRmkRp8keW4S=','WXypM','JPLmf','w2fiWOtcOCkmm8kt','vK9rzwO=','FRotn','W7VcUaJcMNJcKWbYBSkQD8oNo8kcWRxcHW==','intersects','QojXg','VuUSa','rnEMk','mCOtv','YBZUM','forEach','B3b0Aw9U','zwrPDg9Yvg9Nz2XL','fnGkS','RkNyK','W6KUW7hdJxG=','labelPrefix','CxvLCNLgzwf0DxjLCW==','WRO8tJbbg8oPW7WMWQjuf01PWR4zD1xdTGxcISkLW5BcQSocW7Prl3PEif1/','zgLZCgXHEq==','CxvLCNLgAwvSzhm=','FSkqEHy1','BLPUAei=','W687uf55l8oWW5VcJgJdJmkiW7y=','tLjvreq=','KHorb','rKzXAuq=','الرجاء\x20اختيار\x20طبقات\x20من\x20نفس\x20النوع','polygon','W6f5W7hcJmoH','n3FdR3PoW7ZdTmk7','AX/cP8k+W78=','AKzfyMq=','removeChild','C291CMnL','wGArK','WO7dMmohe0m6WRtdSW==','x8k4t8oaW45zoCk9wG==','W6rSW7BcHmo+FCknWQFcGdvNWRC=','cxrEWP4CW5pdMXG=','W6BdJdldOXe=','iMLRWROl','zLvgBgK=','gtldG8ou2RVBVnUj2kRdQWpdQqlcN8ofDWBcI8kF','W6RcUCoGjIVdGmoWW45QFq==','XcISQ','y3jLyxrL','CwDvveK=','W6CaWRSzWQi=','W48NegldHq==','DeL1CeC=','background','nRWGS','selectTemplate','zxjwALC=','C2L6zunVBg9Ysw5WDxq=','FCkZAXq9','W7WLwL1L','y29UC3rYDwn0B3i=','SQsQi','layers','symbologyWidgetTemplate','jhBdPvTDW6VdV8k9w3/dN1elWRdcJ1K=','W73cRmo5mW==','w8oGWQ3dG8k3xdxcUmkQW5C=','W55Ap3a3','wgP2wNO=','u3HKDfq=','display','pDnrt','WR/dQuhdS0e=','D1zYv04=','zKzyDuy=','zgLZywjSzwq=','eCCfx','W6GrW5ldU3j4W50zWRZcUmoLWP9iqbBdV8oblN4=','WOOUxrSJ','z1nZAe4=','tSkKtCkeWPnxo8k6q8kLptZdH2ZcUeFdLSoAWOWfhSkQW5SqW67cHmoHoeFdPG==','BNvTvhLWzxm=','Fnclz','WQSQrc0=','sNDIuNi=','yNrUvgvTCgXHDgu=','W79gcha6','W5FcQmoNlCo4','wMrqWRhcMW==','W6dcRqJcMNZcKXXYBSkIDSoWlmkjWQtcPSoiW54=','ExjMwvu=','iN7dHvX6','yYjsF8ow','WQjvW4hcJCou','c8oNW6KA','amkOW5VcMSoZ','xa5ZyCokbW==','kscAW','W7GRWQO9WO89hmkZjSogymkjW7dcJG==','r8kYuCkkW4Hy','W6OhW5ZcJuRdGJKphG==','C2L6zvjLBMrLCMvYu3LTyM9S','seTxB1q=','W4y+WPWvWPK=','W5ZdHqRdVsW=','portalItemID','a8kPk8okW7WgDW==','white','BxPzre0=','createRenderer','LhTkX','FVpOd','W6RcUCoMjqldTSoGW49/kCoxW6BcQgG=','W6S3WQ4D','W6ORWQS5WPa=','y3jLyxrLt2jQzwn0vvjm','W7i+WQKxECoPbL8=','qwXMwhq=','is\x20not\x20found','YpBmz','nuWBWOe6','g8o+WQpdKCotd3ZdPmo0W4vksmk/W7VdNwHSW5Ti','nSohW7aUza==','mSkzW6VcLHe=','W4zcWOnLWRC=','h0LaWPJcPHpcIs0fsmkUxai=','eCkNjmoyW7WBDSodW6fo','none','zM9UDa==','pZNdVtFdSCosW6a=','symbol','W7BdHdVdUHdcRG==','popupTemplate','teDSEfm=','WRyeCrCb','W67cSmo9eWVdHmoKW452omoHW53cLwi=','vhrirfG=','W648WR5UW44=','touchLayer2','layerInfos','cWmpA','WRuHW6lcKfNdGSkNiKxdSYHmjmkvqIZcH8o8s8kd','W59wivDRWOK=','aEnJS','Namkb','x8oPWRddTSkxwchcUmk2WPe6amobWRm=','gCkPW5dcRmoE','sgvHDg1HCcaXoq==','NKRRy','larMb','dCoJW6SXFq==','rvLWwui=','addLayerWidget','W47cIJ/cUwm=','W7ldGJRdRW==','W5ykhb3cJG==','bSkXW5RcUmo1','C2LTCgXLlwzPBgW=','pkgyY','BKfbv2O=','W6WtCfbD','mSk+WPbKuG==','WRZdNehdKw/dQYddJa==','gfAID','W48pW7ddO28=','A08UW7tcUq==','sg5nu0O=','ufPkwKq=','qujNuNC=','ChPXvhO=','BMvHCKXHEwvYmG==','W77cOCoEgmo0W4LrW6VcTduGvKrVW7BdHG==','uKmnr','uuLdsve=','W4SOBwbs','W5i5pG7dPq==','W7H0W5lcImoW','WOFdIvdcOCob','j0WdWPu5W6vfWRySW6eRAbq9','iYoFh','W6GDkcVdTa==','qSkXFti=','eANjh','Girxx','backWidgetBtn','WPdcG2PoWQVdVZKKtv9aWRRdQmkxW7G=','CMvZDwX0','W7Pob20dWOddRmo2ydRcKJC=','tLahWQhdVGRdLJrEqmoDwxTS','Cg9SEwDVBG==','VOrNC','B25PBNb1Da==','BCNpU','Cg9NugS=','sMfeyKG=','W7GnW5ZdOx5xW54VWRW=','zMDry3m=','findLayerById','fontSizeSlider','W54CfLxdQW==','gSkUW4dcGmo5','target','2i3zMDIM2yFAHLpAITIT24RzNnU52lG=','graphics','W6S4WQTwW7K=','values','mxWYFdr8m3WW','wVAxt','C1fZtKu=','esri/smartMapping/renderers/size','kDJLg','CwDADeO=','W7emW5/cH07dRY4Qo8oFdq==','qCoxWP/cLCkHW4hdM37dUmoOnaBdUSol','rNHirvG=','zh5qWRpcGG==','W4bOiNTv','W4Srfu7dQW==','y2HHBMDLq1jt','W41si3DRWOGzumkWnahcPCo0','D0Tlq3q=','W7zUWQPMWQ/dVY/dHW==','W5qIgWddHa==','WP/dOCo1b0O=','m1GeWPW=','z29uBW==','u1bQCuC=','j0KtWQCg','WOJdKmohf0W3WQe=','rectangle','WO3dLN7cKmoF','twXmvhO=','qw9mDKy=','fCkQkmoCW6K=','cLusT','nMSrN','vLLPr2S=','qKnoCfu=','W5apWRTTW60jWPdcJW3cMa==','add','Fmo7WP7cVCkf','EJRqE','qxfkvxK=','W6rhf2pcPq==','Bgf5zxi=','sSkZw8kOW4PvmmkHySkPoJRdMY3cJKu=','WOBdQCosWPqiWPjiW7G=','a8kZW5lcG8oMWR7dTLpdUwT4rLxdOq==','XYSimpleSymbolInput','x2j1zMzLCL8G','wX9GCSogeSobo8kyeSoEy2VcQxJdLG==','uCk8BbKwBM/cSMXQW6TBD2O=','WO0QW7jOW6S=','W7pdNZVdTWdcUfRdImksW73dObfgrW==','EYpYB','W49opfbGWQazy8k8','sNjfWOhcRa==','green','W7ifW7tdUNW=','W40BfXtcMmkPW7DL','CNvUqNvMzMvY','bLuaH','W7lcQSkjxcnEsSo5WOy/W4e=','sSoxWOZcTCkJW4ddS3xdT8o+gHRdLW==','zM1Nu2G=','simple-marker','rMHLENO=','W7ORu1HAiG==','qosrq','wmkYu8kiW59eo8kX','WRRdIv7dMwtdUXhdNCkPB1K=','Aw5Uzxjive1m','ywLbCfO=','whrNwNm=','WOqyW53cHey=','open','W61+W6BcImk9EmkcWRNcRcLYW7CrrxiQjNnLqG==','exportDataWidget','C2LTCgXLlw1HCMTLCG==','C0L6Axe=','CxvLCNLpCgvYyxrVCNm=','NRUDD','wuvSDKm=','zundzNG=','hCtFS','BpCZN','3|1|2|4|0|5|6','W7GnW5RdRha=','ywPfD3q=','navigateTo','W5izWOW0WPS=','AARLy','W75AWOrUWQS=','cSkmW5NdVCkF','ENbUvhC=','q8oZWQxcUSkL','W7JcKCkTrwS=','YEvub','ywrKv2vIu2vYDMLJzuj0BG==','jWZVM','WRmUxJWcomo2W7GhWQn/egL8WQ8d','d8oBW5aPAa==','WPbeW6JcVCo5WO0b','a3bDWO8fW4JdKaZdK8kDWPVcQq==','HGquX','sSkhlmkwWQ4=','jL7dLf1h','ECDVF','BM9Uzq==','Aw50zxjZzwn0Aw9Uqw5HBhLZAxnxAwrNzxruzw1WBgf0zq==','qBiJB','xckNO','g8krW7VdKCkljmkQFSoNWRJdNYdcOmo9CCoT','Khncc','WRNcMNjUWQK=','Cg9YDgfStgf5zxi=','WQ8uW7rdW68=','fCk5W4pcGSoJWPJdVeC=','Heatmap\x2015','Dgv4Da==','W7FdIcRdKXJcUgxdImksW63dHXPQuq==','WRWNzGG9','POST','Bfnjy3a=','W643sN9zk8oKW5VcKf7dT8k4W5S0','BmkeCCk9W50=','wgD2v0S=','BsFeU','AuTntM8=','pGFdTIhdQq==','objectIdField','W7JcVrRcHG==','ExSbt','WQKRDsOE','MjEEh','CgP3u1i=','WRGQuZqlhmo2W6q=','qKDisLa=','item','WQOQsrGD','W77cSSondCoPW4TvW7xcScOGvMDOW7ddJZRcNWuaFG==','C3r5Bgu=','sgvHDg1HCcaXnG==','OEosM','popupEnabled','WQyHWQRdMq==','Heatmap\x2010','oedNC','CKfkDgG=','zKPAqNK=','oCkLW4JcR8of','xls','QhFWy','thnkAwe=','click','WQyFW4LgW6m=','WPRcUM1yWQS=','AZdJf','zMztWRRcGq==','IGsNb','q2XJBhG=','W6W6WQCuWOy=','W7ipW4FdQMLQW5qOWQ3cVCoRWOvTtGhdQCoBDq==','WONdUxlcKmoFWPFcS8ojW5aVW5W0WRr6','s2Hevgq=','AeLkr3m=','y29SB3i=','TnClt','z3jHCgHPy3m=','2PJzKnMt2yhdNDUS2RRzLDMg','zxnYAs9SyxLLCNmVvgLSzuXHEwvY','WRamWQJdNga=','bookmarksList','nYKCy','r0HnvLe=','aCk5W4pcKG==','zMrnt2y=','W5Ovdx7dONreuGCPwudcKCkt','WONdVSowp2W=','W67cO8omomoKW5Hy','DwvxB0C=','C2LTCgXL','eFBGx','FafEC','W4Thj3TPWOSBySk3jctcUCojWRm=','WO5nW7RcSq==','t2nrue0=','W6r0WQr6WR/dVY3dGYhcNSoXWQtdTCkx','ngFdPgXsW5JdSmkLyNpdNW==','v8kWlmkLWPhcMuJdQIflmmkAWR7dHq==','WRm5WR/dKKPS','frBdIW7dQq==','W6ZcTmo6iG7dJ8oU','لا\x20توجد\x20نتيجة\x20لهذا\x20البحث','W78pWRv0W6uCWPldLMJdKSk6W6a=','WP3cHMW=','W6SNwfXqpmonW5FcJv7dLmkVW7e1WQ/dHCk9W6W=','2kFzHnIQ2k3ySDMk2ymG2ytyO9I52ytzIq==','BKDLwNG=','W7KhetZcSq==','W54chfRdUNrQwWGUAhVcQSksW7n3WQZcJrZcLSo5W4lcISkPjW==','RsvLk','W6tcRqFcIwxcMG==','point','WR8NW7/cMu/dG8kNlW==','D1fdvvu=','wuaaWOW=','vSk6kSkLWPZcN00=','Dg91y2HbBMfSExnPC1DPzgDLDfrLBxbSyxrL','WORcG2rEWQi=','export-data','clearScreen','DqCCe','NskIy','CCo+WOtcHmk4','A0vZA1e=','zxnYAs1Py29UlwrVD25SB2fK','W7hcU8kmrgfjzSoIWOq2W5NdSvddRMldU8o5','g8oMW7yCDCoGja==','bDVig','الرجاء\x20تحديد\x20الطبقة\x20المستهدفة!','A01puwi=','dCkbW6RcKWa=','yxbWzw5Kq2HPBgq=','GuQeh','hCkqW6VdKCkrjmkPB8ofWQxdRI3cJmo3','Bgf0Axr1zgu=','vLjjwgW=','W5rlgw/cUq==','W7GYW5ldQ20=','WOddO8omW50FWOLkW6jh','CknSs','WQ46wsSxlSoHW7WGWQnRe04=','SfTqD','runclip','WRVdTSoeWP8C','hSk7aYm=','qSk5uCkiW454cSkyyG==','WPSoW4PlW4S=','smksuSkHW68=','W48lcHG=','Fntei','xYrkrCoB','cCkvW6JcKWTNafm=','vwrIwvy=','FtdTf','pOnYe','W7ZcSrNcIW==','DhLWzq==','appInfo','wfDfte4=','WDlcA','Uashf','vDAnp','BwfhBwe=','طبقة\x20الاقتطاع\x20يجب\x20تكون\x20تكون\x20من\x20المضلعات','addKMLBtn','W6BcVmoT','yJVcGCkIW4S=','W7CZWQepAmoPbKi=','Bgf5zxjZ','CKPUtw0=','CNLbBLe=','iNFdTvThW6VdVmkSEwldRLWNWRO=','vCo1WQFcLCko','vmk2BcGvzI/cU2D4W50=','umk1DZmi','W5W+WQKxyCo6eWX/','W44afvldUG==','tLaCWONdTXVdIsHKtCoVrq==','tmkPDdCv','y2XVBMu=','W7KXdJlcIG==','zerNBge=','fullExtent','W6a8tK9b','z3jHCgHPyW==','localBookmarks','W6FcVr3cGNJcNaK=','mQdeI','queryFeatures','we5os1O=','B3b0Aw9UCW==','zCsUD','W7ffW4BcQSof','A2f6tg4=','ywrKqM9VA21HCMTcDg4=','WOZcL3Td','C2vSzwn0Aw9Utgf5zxjZ','W7WYWQWg','gOMMF','FfbRX','W7Pohg0DWQddRmo3rIC=','a8kZnmoB','i8kQdCozW5C=','uvzZweW=','wvbOtgu=','square-us-meter','r8ocWPVcTCkJW4ddTxpdV8oWeG==','WReUutW=','zYPaZ','hmoVW6CEEmo3iqxcP8khB8kZxa==','2yByQTMk2kZyQsdyP9Me2kJyRDIR','W4OIB1Lq','CxLkug4=','B0yuW43cMq==','nmkgW47cHSob','WQCDW7jtW5u=','XtrJM','AgVmX','pJyqf','vwvry1C=','WPFdPmovWPWjWPjiW6q=','chrlWQ8fW4tdKW7dTmkhWR/cV3q/','W7vKeW==','dataframesList','pSk6W6xcVaC=','y05cBM8=','EufpzNa=','tWP1q8odfSoadmktamo5AeFcOW==','zwPYDNu=','wLzkBgi=','W4m1hrRdHen/WOdcLulcMmoxWOTR','W4GJuNXM','WQyWWR/dKG==','popup','W5vMl2NcHW==','anQsZ','WR0RW7lcSf3dLmkSnx3dMZvzlCkcvdC=','mtaWmhb4','W5xdNrpdGYC=','W53cVYBcT3i=','measureDistance','W4iKeapdKW==','obHye','WReHWQRdLe9TW5i=','vfnOrNC=','wvvnse4=','e3KvWOiU','union','pFhTD','WPldO8ooWRumWOnf','W6FcJCkuF3C=','W7aCW4pcKxW=','mzXQp','W7aYWR4=','qNvtrwK=','W7iKWO8iWOC=','v1r1D2i=','hDPNs','WQ4xW7jlW6Lqtmo/FHddRSkFWRhcLI4=','awrsWR4qW5hdMXG=','geometryType','jwHvWRm6','W5erW6ldGNy=','rt9SFmod','s3rXBum=','binary','z3q3WQJdGG==','W6zuW5/cOSoR','EMHJtMW=','A3npDhq=','Aw5MBW==','sX1Kz8oBfSoObCkygCoEF3O=','urgNy','lYFnr','then','XidOK','esri/widgets/Legend','zxnYAs9ZBwfYDe1HChbPBMCVC3LTyM9SB2D5l3nPEMu=','W5/dNbpdNH4=','querySelectorAll','W4j7gh18','mfqAWPyWW7S=','W7zUWQ56WQldKcBdGYhcJSoWWOxdRW==','W5LmoK9WWOSKySk3napcSSoLWQu4WQT7','oJJdVtJdVSoe','zxnYAs93AwrNzxrZl0fYzwfnzwfZDxjLBwvUDdje','1|4|2|6|5|3|0','B8oCWO/dSmk3','WRtcKxHSWQ8=','2kxyTTIN2yhyQsdyP9Me2lFyQnMc2kK=','DgHLBG==','WRzNW7T0W6/dQNhdNMpcH8k3WPZcRW==','WPRdVxtcSSowWOy=','normal','panel2','vgnJEve=','remove','D3LruvK=','aSkgWOL3EG==','createClassBreaksRenderer','DcdTi','W7T5W63cJCo3','W4PxkNpcPq==','yM9VA21HCMTZrgL2','constructor','afIfq','rd7cLa==','C3n2r1y=','gWqsM','W4/AITIC2RZzG9U62le=','xCkaxXqC','W7Cje2ldNq==','oSkHWRzAxmoYA8ogWP9xW4DgWQhdRCkqWQKtW7pdS8onWOJdNZS=','fYCjB','W6hcPGFcI2pcUJHTrW==','SVckN','CMvTB3zL','y2jkqwm=','BJLKqCoI','W7uZdt7cUW==','u1fwA1C=','BfnWtKG=','BgfIzwXPBMDgAwvSzhm=','BkAct','yAOfp','W4zZixdcPW==','VVsbb','تمثيل\x20بالحجم','2kFzHnIQ2yxyQ9Mk2yq=','XRMNJ','2k3ySnMbinIN2ytyT9IO2ylyQq==','WPjiW78=','W5axWQCsWPm=','v1rZEuG=','gwzRi','yNPhy3a=','queryExtent','kmlURL','WRFdOmotWOmiW4b5W6TrW6hcPa==','value','cmkuW7/cIGa=','W7FdIdhdUXhcQxRdLa==','gSkvW4FcSmob','W7CpWRv6W7O=','Cgf0Aa==','jZwMr','W73cUSoAiHxdImoNW4W=','B2DNqvm=','WOybW7D5W5C=','zyslQ','colorClassificationMethods','Bzqzv','UImOK','WQ0UsdaboSoLW7mZWRnkgLr9WRifvbpdSG==','p8oaW7eurG==','tNrlW5ZdU8ovAComWO7dNGtdS3FcL34ycZu=','yCotWQRcKCko','BgvUz3rO','QUGam','zuHowfy=','b8k6fsBcVq==','extractDataBtn','qLjfCu4=','zw50CMLLCW==','appendChild','oOTDv','W5rubM3cNW==','pgGZpTI32kJzGTIPiePtt04Gpc9OmZ4=','mNcXI','W4uaW4pcONW=','Heatmap\x2012','ijERr','WP9pW6/cPSo+WPifW4dcLZnz','<h3>\x20رفع\x20طبقة\x20</h3>','QAqYJ','C0rXD2m=','oK42WOuO','2RJyITUV2ztBHnM5uDUZ2AFANnIf2RtcMDUn2itBMMlyVTQT2BNzN9Mi2jDd2i3BQ9IG2RhyS9QS2yxALG==','miCYC','W7r6WRHYWRK=','z2v0rwXLBwvUDej5swq=','FLmsW4ZcLwlcHCohWRFdGq==','W4LrivCQWOixFSk8iHxdR8ojWRODWQvOECkTfLZcKW/dGG==','b8k/n8ow','#76E284','zg91yMXL','qWtII','tfrvsLq=','top-right','AIPSx8o2','WPRdPxBcSa==','CgfUzwW1','rqPBU','WQWGW6BcGfVdTmkSifpdNInj','v3zxA08=','QeoQj','nGeZx','pyFib','W7b7ewCa','v8k9FbKmBMZcO053W5Pww2bWW58=','nmk0W4JcPq8=','W4rnmK/cSHy+','A14wW5S=','AuykW4VcMq==','W611W6dcHmo8ya==','WRCUudy9aCo+W7GhWRPWeLHR','zMXVB3i=','W6i6WQqwAq==','hxRdSLbK','simple-fill','xgaDi','C3LTyM9SB2D5t3b0Aw9UC0rPDG==','D1vdvNy=','esri-icon-close','oMewWOazW75bWRCTW4ecBqiQWQu=','W7GjW5BdRhb8W5u=','tGbZq8ooemof','qIJcKCkAW6tcVCoOCa==','ywrKug9YDgfSsxrLBuj0BG==','OTNCj','DLLTC2u=','emokW4mXBq==','W44IchtdTW==','W6zRWRTTWRxdSGddIJZcL8oM','lSkIW57cRse=','tTzys','WRjsW4hcUCoM','W7WdWQLPW6WjWPK=','WOtdUCopWPG=','CMfUzg9T','W7m8hvRdQa==','tNzhWPdcRmkxnCks','WQi8WRZdNW==','yqkWL','xTOjN','ryOpD','simpleSizeController','u0zusNG=','W4rOi3vn','DqdcUSkWW4G=','W7W/rNrw','W4rljwBcTWy=','Dg9tDhjPBMC=','u8ocWOFcV8kSW4ddUNRdR8o5bd3dH8ob','WRmRt3qgb8oXW68ZWRP4bu4=','ObjectID','href','ANfWzwy=','w3zDWRhcPCkapCkfW4dcMhFcVrldKW==','W7dcTSkwqgjAsW==','W6uJW6JcQKe=','W6egW53cG2FdQX0Yn8oDdvXismoEWPtcOW==','W699fgS7','OBJECTID','MMRfG','Bpltu','W5OncXNdKmkYW7f4axG+v3hdMCoO','gHxdGrFdOa==','rgba(255,255,255,1)','A1btzvG=','sLKsWPFdOs3dItrrx8owtLrNuq==','WP3dPwVcT8oCWP4=','iSo9W5Kjtq==','WRJdKuFdKg7dRtFdMW==','BxjyAfC=','f8kSWRnuuSoNumoP','ChvQtMq=','f8kJk8owW68mw8ozW6bboGJcOCkTW40kW64=','ChjLDMvUDerLzMf1Bhq=','ALbTDeu=','Heatmap\x201','dhZdL3jk','Du9vt1K=','W7pcUSkrDwjEx8oOWO0LW7FdRvddPa==','uCoNWOBdQ8k9','clnay','zgLZDgfUy2u=','W6z/WQ9nWQ3dSY3dLHNcKSoXWPtdUCkpW7JdMW==','cSkuW7hdSCkr','WR5hW7dcUCoI','sqnTuSowa8oigSkUa8oszw3cRW==','hSkCW6ZdTCkFlCkHBG==','fJZBy','W5a2culdPG==','twjsq2y=','qxH2r3C=','nearLayer1','W44jffNdOx1gubaBCLZcTmktW6e=','W5SFc37dR3jb','Cg9WDxbfBMfIBgvK','qLLwCfe=','W7qvgsldGW==','queryInputType','NADLP','W6xdIcVdLWC=','e8krW47dUSkh','rgr3BNy=','WOxoH','xhzBB','BNH9WRlcUq==','cvriWQCh','WPVcH3XUWQVdKJuTtgHTWQ/dJSkb','W4jVW7BcMCoC','NJuQC','Dgv4Dc9JC3y=','touchLayer1','wSk4Ba==','northing','WPRcUNP8WRi=','y2XVC2vmzwz0twvUDq==','lmkSW7BdK8kw','WQCDW6rt','WP3cU2PUWQ4=','WPe1vd4H','mNW0Fdb8nxWXFdm=','DMLZAwjSzq==','WQ0mW6LsW61ts8oGAdq=','zgLZCgXHEtOGzMXLEdTMBgv4lwrPCMvJDgLVBJOGy29SDw1Uo2P1C3rPzNKTy29UDgvUDdOGzMXLEc1ZDgfYDdTNyxa6ideWChG7BgLUzs1OzwLNAhq6idi1ChG7','muGAWPSPW7i=','jbsBl','csmLa','wNnkDLm=','WQ3dMeldIw8=','esri-icon-zoom-out-fixed','h8oRW7WsE8oXmHe=','wmkJrSkbW5K=','xmkKrSkuW7K=','txJRE','basemap','.json','C3LTyM9S','W4uGiWVdUW==','esri-icon-close-circled','disabled','W5NcJmoafX0=','yczPh','W6f1W6pcRmo9','W5rxneLT','W6r6WPfkWOO=','sfJBZ','whHxA20=','attribute-table','W6q8sgn/','WPJcUNTkWQO=','panel0','WwuQr','W4u/haZdNMfzWPZcN13dJa==','W7G8ltBdTq==','qNbSDhu=','r1nouge=','Aw5WDxq=','W4vhl2FcTGeKWOu=','WQqOWQpdGKe=','PkaJV','gCoQW7C6AmoGlHZcJSkGFCkQxcFdSSku','BSk8utyJ','vwDLzKq=','ryAnQ','W6n6WR9PWR3dPcldJZdcImooWONdR8kv','C2L6zq==','IlDYC','YmNrF','WP3cKNHoWQNdKXSGs3bl','RCbpj','W7JcNSoeoJu=','zAHrU','q1vkvKO=','cpbIP','W7T9W7xcLCo7DCkpWPlcRd1KWQO3EeCd','title','BwfWvMLLD0rPDG==','W7S3u1vdk8okW5BcL0BdKq==','uMvSywm=','uCkJmmkmWRO=','long','Heatmap\x2017','qqHjw','W687WQ0q','rNrovvC=','change','o1GqWOm3','pSk5W7BcVYC=','W4FcQZJcVLW=','JStgy','esri/widgets/BasemapGallery','Qcrbu','vfTyn','vGnLE','W6r0mexcTW==','v2nwu2u=','dCkMfsJcPCkTWQK=','WQGNW7pcMW==','WO8EuGS+','cmksdCoAWOqhzG==','W64eW4BdJMG=','qxj0ywy=','BWDqE','W7KqW4hcHgK=','WVmRC','UyCOX','W5KsfH/cJW==','zKnDV','2kFzHnIX2kZyP9IHinIN2k7yQTMk2kFySsdyT9IO2ylyQq==','EFiFn','W70NWRiZWPq=','undefined','WOhdQSoqWQOG','W4ynWRepWPq=','uhefWRBdLq==','scratchLayerFields','OKKNJ','WQKUucWl','ugrTvfa=','W7X4cHXCumkW','wLDYB0S=','YYMwq','IxkIo','k1VdLxvs','q8kGoSktWONcJKZdOsG=','j3JdTe1/','uqH1v8oF','C2L6zvjLBMrLCMvYrgL2','kozKv','nZnhB','Arial','CMvUzgvYzxi=','gSkeW6lcOXnRauNdHM3dLxvFpSomWPO=','xnqZE','Ieipw','sfrjBei=','rxviCK0=','WQWAW7pcGuK=','ww1oCKy=','CK9cqMm=','field','W7ZdJcFdSWy=','mjbPu','zKTXz0S=','h8kNpSowW6KGD8oqW6bz','toMap','sNv1B3K=','العنصر\x20رقم\x20{ObjectID}','W7NcTmohga==','W7O9WQWrW4WUgmkZp8obdCk9W5JcMMhdTIDU','h8k9W5VcK8oKWPK=','FVqSk','lmZUO','W6CMWQ0qWPi=','2kFzHnIX2kZyP9IHinIQ2k3yR9Mk2k8G2kFzHnI32kJzGTIN2kO=','FdRnO','W6dcSCooiWa=','XmGIE','eSkuW6pcIXy=','zM9YrwfJAa==','W7mRWRaFWPCW','WQWMusKcdCohW7i4WRLRp1nPWQid','W60IW5hcSL4=','uCk8DZeFF3dcRG==','style','W48lWOXHW4i=','r8ogWP/cOSkKW4BdG2/dS8oV','APIPd','WQK0W6hdLeTMW4xdH8oLWOBdJhneWQjDWPtcVCkMhCorW7RdVhRdS8kncmo8WO4dW6tdSIS=','simple','W5e3D1bS','WRJdOCoHnhe=','vePrAhq=','kEskQ','WRK8W6tcNatdHSkRjvBdLZjEz8kOwdBcGmoFuCkokCoGD2hdPLKvW6fpldBdNhr0','CKr1tKy=','WQeIWQRdG0DG','W4XFbKem','WQe+WQ7dS1q=','log','W7POW7RcHCo3zSkgWRi=','seLIsK8=','NgCEg','Bmrva','WOaTW7vAW6S=','WR8JW7FcHLJdS8kWjfddMq9dlSkdqG==','popupConfigWidgetTemplate','Bvb6Eui=','C2vSzwn0zwq=','vSoDWPVcPCk9W7ddK3BdPSoWfWVdLG==','KCatG','D2vIu2vYDMLJzq==','W7P0W5VcKCow','color','y2Lxyvm=','y2fwDwC=','W5vljh7cUW==','WQNdTuZdJ0W=','append','yM9VA21HCMTZv2LKz2v0','y2XPy2S=','zxVCJ','W7u/WQW=','W5/dMHpdKbC=','vxrTA1u=','KSlgL','Dw5PCxvL','ta3cSSk7W7y=','WPldMCohgLa=','qVjmg','WRxdMepdMq==','dhLwWOynW5pdMWu=','vgLtrKe=','Gwfks','mhW0Fdz8mNWXFdv8mW==','W6TKW4pcGmob','vXNcPmkEW4y=','W5fwowBcTG==','ySkwvCkLW6q=','keys','W49lbf9w','geojson','EKjxthy=','D3vhz2S=','W49OWQjlWOS=','W5eFW7VcUvS=','W6uZr19hb8oNW5JcKvK=','CMvTB3zLqwXS','WRxcJKXYWOq=','yK1zyKe=','sw52ywXPzcbNzw9TzxrYEq==','wCoOWQa=','W75SW7JcLmo3','Ehv3wNm=','rmoMWQDbpTQM2A/zHTQgW6NyQDQA2iJzRTQ/25e3WPWgg8keW7q=','gLJAj','W7nHee/cQW==','zw1WDhK=','renderer','cx1qWOuB','zfHZyw0=','y3vYCMvUDfrHCMDLDa==','WEGmE','zMXLEa==','wKWEWOBdVqpdLdzj','C3rYAw5NAwz5','yuPQsxe=','WOldSSoanhi=','xIvSn','rCkLnmkpWPZcMeddQWTEbSkcWRRdGmo3WQDWD8kh','ud/cHCkRW78=','y29SB3jdBgfZC2vZtM8=','Aw50zxjZzwn0Aw9Utgf5zxiX','DEBZJ','BmoiWPFdSCkZ','INcdU','W6nkeeKC','inputTextTemplate','thumb-drag','gray','diamond','AG7cVSkPW6y=','nMVdRhXeW6i=','keDHX','b8kLW5lcKW==','b0CcWRaC','OksUU','bookmarkToggle','v0rSy0e=','W44FdeNdRxq=','#C6115A','FfObWQ3dHa==','keosQ','toString','esri/layers/support/LabelClass','ALbzA1e=','ufPxBwi=','CMDIysGYntuSmJu1ldi1nsWXkq==','TShFw','colorRendererDiv','W7u+WPOmWQy=','WPNdHmowavuKWRJdUCo4','tKTuBei=','QSvrA','WQ0CW7LKW6vfx8oYFYBdQSkEWPlcMIW=','selectedOptions','pvrrWQGB','wmkHxd4v','tLvZu3y=','WOtdLmovag03WQJdSSoTWRW=','W6zAfMa=','MKZGV','option','FxHEX','الرجاء\x20اختيار\x20طبقات\x20من\x20نوع\x20المضلعات','W6JcPCo5mWNdHCokW4nXimoh','Dg91y2HbBMfSExnPC0j0BG==','tfvOEM8=','pUetb','WO3dLmoan00ZWRZdSSoXW7NcTCoBs8ky','2z/BITQI2zpyUDQKynMc26/BPTMe27ez2i/BN9UFn9Qh2A3zHnQy2OJyQG==','W6DAahOwWQ/dP8oWxshcHJ3dLG==','XoHiq','xZDeA8oy','meGfWOWr','ChjVDg90ExbL','W7Tgc0akWOddPCo5xq==','W6VcUmonh8oPW6TvW5dcVtC=','yMX1CLjHBMDLu2XPzgvYrgL2','W6BcHCoLeYK=','WOnkW4dcKCoF','WRZdRu/cS8oJ','DKP3wLK=','r1vdse4=','getAttribute','NIoxc','KCcME','W6dcTmorgq==','bAwrx','WOBdKmowf00/WR/dSmoCW6lcM8onCmkp','x3XgWOBcRCkmpSkbW5RcIuBcGdldGq==','sSkZw8k9W5nckSk0qSkjpsVdKWhcN1K=','pCkfW6FcKHb8cH3dMwhdLhDtm8om','W6bocx0kWPO=','WRSQW7NcMe7dHCkWoa==','legend','WQumW7HnW7C=','WRfuW5JcRmoK','W68iW4VcJuRdGWmKpCoa','OJCUr','W7mva3tdJa==','W5Pdp0TG','ywTpvMG=','B0GkW4FcM2/cNG==','W6tcQSkwwa==','DgL0Bgu=','g3LAWOq=','txHnyuK=','AKfbDxa=','floor','W4WJW6NdNKS=','EuurWRFdLa==','DutGC','W7SgWRv3W6u=','wNH0vNa=','Uxdyt','swXewum=','items','gygqL','rmk8DJGFEwFcPq==','EeXVBKzPzwXKu2vSzwn0','W4xcVCkUz38=','scratchLayerFieldDiv','C2vSzwn0zwrpChrPB25Z','empty','W73cP8oGnWNdHSoLW44=','WQ86tZe=','PWciD','Dw14tMm=','DgH1BwiTzhjHzW==','CwvJq3m=','A8oyWQRcVmke','DxrTwM9Uzq==','bhXtWQyiW5JdMXNdNSkAWOS=','WQ0iW61fW6PvFCo8zcVdOW==','t1roq2O=','ugXkAKW=','otVdNZddQG==','twrht1a=','l0GzWPmRW78=','WRSNWQhdKLzaW6ldVSoB','cmkjW7ZcGZDRavNdR3BdG3n+oCoF','wgvjALK=','hidden','WrSTv','EePZvfO=','yCk2wWGq','lMPZB24=','W5rdlh/cTG==','BgfIzwXtDwzMAxG=','raPVyCoBgW==','2kFzHnIQ2k3ySDMk2ymG2ytyO9IZ2yhzHa==','A1LbqLe=','yuzgzfm=','WRqMWR3dSKvRW54=','W67zUTIR2yJAGDIu','i0uYnZG3oa==','esri/PopupTemplate','2lFyQnMc2kFyQIdzHDIV2yxzInIS2kKG','sQsNE','W6pcKCkSv0m=','rq55tSokgSokaCkj','2RpAM9Uu2jZyQDIAeTQN247zVTU/2RS52QZzL9Ue2RrS2yxBT9IJ2ApBQDQP2ii=','sLnqC2i=','h8k9W4dcK8o6WOpdT1pdL2L7AW==','yureC20=','yMLUza==','c8kzW4dcJWC=','zxnYAs9ZBwfYDe1HChbPBMCVC3LTyM9SB2D5l2HLyxrTyxa=','vI7cGSkpW6NcOmo4','emkanSoGW5e=','gmkiW6/cIGf8cLm=','WRSQW6lcSeFdLmkVjf/dHGruaCki','WRVdPglcRmoh','ug5rtey=','r2fXseC=','W4aLF1rg','W67cUCoAd8o2W41z','qJ/cHmkVW6dcSCoMzSkLpmoMn8o2WP0=','hfpdPLfp','polyline','top-left','x8olWOldHSkP','wxfdsLm=','CMvVCMrLCG==','createScratchLayer','ZIMVi','W77cM8oamsO=','z2zbsuq=','getElementById','WQaDW7PfW6PvE8o6BcxdQ8kEWRi=','WOjyW7NcRa==','Heatmap\x206','sgvHDg1HCca4','XeIjY','WQpdUSo9ieW=','BhjJz2q=','yJQcY','W6bkWQfcWRK=','Nnvkt','W73cP8oGmqddHmo7WOz5l8oxW43cS2G=','gGHtV','W7/cM8oXiJm=','fmkZW7BcMq==','MlLTz','Aw5MB3jTyxrPB24=','W4T7m2lcMG==','W7GAnMhdVa==','SOcva','visibility','pmkbW7FcRIi=','eSk4W4BcS8oGWO/dT0ddKM5UCetdOrtcUa==','nITky','rAJth','WQtcQw9OWO8=','yNzsCeG=','centroid','W7robMmiWPVdRCoKrZa=','W7pcICkKvuq=','DFvBd','emkQkmoDW74NDSosW6O=','GDqOB','W7SdWO14W5m=','z2v0rwXLBwvUDhncEunSyxnZtMfTzq==','get','ixVdSN9jW6ldTmkT','huqhV','W4vhne/cVXa7WPNcPSooW7STdSol','BW5WtSoO','x2bFWRJcQmkCnCks','W7OMr1zq','z2v0u2nOzw1LqNLoyw1L','c8kAW4FdOSkj','eb3dJtJdKW==','head','rJBcMCkjW6C=','zuD2ufu=','C2vYDMLJzvnLBgvJDg9Y','W4ygChLF','WQldUmowog4=','Feature\x20Service','EGHlu','D2LKz2v0vg9Nz2XL','zMLYC3rdAgLSza==','Cg9PBNq=','vhziWOdcPmkeimkYW4VcGLhcOsNdKJ5UuwO=','h8o6W7aQsG==','WRO8tJbbh8oTW7KZWRnTbrjkWRqwFb/dHGhcLG==','intersect','W7JcTmoklCoU','WPubWOldOxu=','l8kiWOXJrG==','W7KoWR5CW7ynWO7dM3ddGSk5W7hdIaJdR8km','W5SrdH7cKCk0W7nZ','amkOmHpcOG==','Heatmap\x205','W6TLW7hcGSo5CCkh','plUlL','random','W7T0W7NcG8o9Ea==','pXERS','cSkyW5tcPmor','zNvSBev4DgvUDa==','sNzRCMK=','twZuc','WPpdQCoiWRubWOvaW69DW7NcG8oHmmkz','fmkqW7lcJWPGha==','W68mW5ZcJ0ZdOG==','tmo/WPFdOSkp','rCkGDt4vzW==','A21Stgf5zxi=','nmkMWO1jxG==','ztPpl','jeGyWPK6W6nwWQi=','fuSzWQCC','ggBKB','x3jhWO7cOW==','vgHLihzPzxCNCYbYzxnVDxjJzxmGzMfPBgvKihrVigXVywq6ia==','wabXC8oFj8oibmkngmoAzwS=','zNzsCwu=','s2v5C3rVBMuGugLWzwXPBMu=','W7GRWRevWOySa8kV','24BzKnU22QdzVDQT2yDI2BxBT9ME2kVzUDIj','<h3>\x20أدخل\x20الرقم\x20التعريفي\x20</h3>','Aw50zxjZzwn0','jsonLayer','sM5Tsgm=','BuiiW5RcMxlcLCob','AwPfuNi=','DgfYz2v0','WQjmW6FcPmoa','FSkQCr8Q','W6y+WQyhACoPbL4=','dVjXy','W7aAshT2','goTo','jxQuT','u8oxWP7cKCk+','W70VWR0tWOqQhSkJjSow','xBklU','vUIvy','z2vVBwv0CNK=','fEwMn','innerHTML','y2XHC3m=','W4SwattcQG==','fSRkw','W6OGWRCxWO0zh8k3jmoluCkzW4RcQepdSq==','WOu8DI89','selectedIndex','W4ngje/cPra4WOJcHmotW4OGiSobqmko','DuTTBNi=','hmkRes/cJ8k7WO/cJHRcPNiNWRFdGuRdLwbA','CxvLCNLwywX1zxneAxy=','W6O+uvrqamoMW5RcMW==','pZNdStJdVSofW6ef','cSktW43cGsy=','rdpcL8kmW68=','W7NdGYRdSWBcRM3dJSkiW7ddQG1VvmovEuiS','c1/dPh1s','lastChild','WOGUW6dcVKW=','CNvev3q=','cCkRba7cOSkTWQdcGHRcS0iNWQ3dKq==','BNzPtu4=','zgf0zq==','symbologyOptionsDiv','W507WO09WOO=','ospXh','cLglv','scrollHeight','CfjBm','hCkPkCow','Bw92zs1KB3DU','Zgztf','WR4DW65fW7b4umoGAdxdOCkAWRxcLG==','DLDdBxy=','DbtcHmk/W6m=','W77dJdpdSW==','tvDsthG=','WRu6ztGC','queryLayers','Eg5XwKu=','esri/Graphic','rCoEWOtcVSkOW6RdMx/dSW==','r0HxAM4=','kdpRY','move-up','B25SB2fK','W7ZdIdddSqdcTq==','r3DMA3m=','oHVdGHBdOW==','ousfd','g3bDWOym','fields','W6f3WQrNWQK=','W65hef7cKq==','BvvUtfG=','yxr0CMLIDxrLCW==','tSoTWQJdHSkE','BwDWvgm=','uffUuLa=','tgn5yuC=','type','n8kaWRTNwG==','tKDnywK=','D1rsqK8=','MEoQB','W4qkWQyXxa==','k8kKamoHW74=','rDtos','W7xcR8kvvwbFCCoLWOO9W5e=','WPpcPL1fWPi=','WPO5W7f5W6e=','bufferDistanceField','hasOwnProperty','y29UC29Szq==','sSkZw8kVW5nFnCk4t8kYiGRdLZu=','W6fJW6dcHmoGz8kgWQpcVtjUWRyED10dntS=','AwrhDwC=','BMPSzKK=','oZtdRbhdTSosW6KozKukifn+','Bgf5zxjjBMzVCW==','W5avgeJdU2nmDHS4EG==','n1qhWPe=','TmnmL','W5y2kcBdSG==','WQOrW7neW4Hqr8oXFWxdVSkYWRi=','W5mrff4=','W7pdNIG=','zMvHDhvYzxm=','sxLPve4=','WReHWQBdM0b6W5pdNq==','qvjVsg8=','nearestCoordinate','W5a0dsRdGeHwWPhcTKBcJSoxWPX8sCkC','g2HpWO8=','W54oW4hdOfC=','uflZM','adddataframeBtn','ch5RWOu=','W4fnlgxcOq==','PpbSF','esri/widgets/Print','ElVTx','W5VcO8oabWq=','W67cPXVcQ3dcKqq=','B3v0BgLUzq==','W6D9W7hcK8oZymkkWQ/cPZPTWPeMC0Kv','h8kjW7xcLGLVfG==','labelingColors','addEventListener','esri-icon-configure-popup','A296s3y=','wLzbtxO=','BfKvG','iVouE','mtaWjq==','ruPrs3C=','rNLhC1G=','WaNGL','spatialReference','txP1z0W=','C3bSAxq=','jLWpX','haloColor','shPDWPJcRa==','s3PnWOdcOq==','2Q/AJnMy24lyTTUttnIk2kBBO9My2RP+2QRANTUBWOhAJ9QA27NBK9Mr26/zGW==','ChvZAa==','W4TRjuZcHa==','lxjtWR8f','EjOZr','y2XHC3nPzMLJyxrPB25nzxrOB2q=','hujjn','WPKCL','WQ8QW6tcJwu=','gxv2WPKz','esri/widgets/Slider','IKIRm','a3ZdONjr','C29YDgLUz01LDgHVza==','WPmGW5ZcOeG=','kKmzWPeTW59WWPyf','W7NcRmoppWu=','C0HgA0W=','WO3dSgNcU8ow','BwTcDe4=','W4q0d2NdIq==','uI/cT8knW6C=','utils','lon','tZOqE','NorS','r1DKuKm=','W5yqdrxcJ8kOW7D0gZWLwf/dLmo0o8oqW5e=','CNLpCeq=','simple-line','rgFdQ','cloneNode','fgQcs','wUDJR','WO/cLNfhWQi=','maxHeight','WRVcIMLLWQm=','W5GicuNdQ2jAxGyZ','W7pcKSoQjsW=','kmkxW4RcKtq=','lastIndexOf','Egvuy','iLAaH','toLowerCase','igRdTxTfW7O=','fCo8W4Sxsq==','zOsgi','2RhzQ9Mn2ylzInQV2QxAUWNzS9QW2jdAKnI52ytBKq=='];(function(_0x55902e,_0x270d56){const _0x57751b=function(_0x357c67){while(--_0x357c67){_0x55902e['push'](_0x55902e['shift']());}},_0x59976a=function(){const _0xebfa12={'data':{'key':'cookie','value':'timeout'},'setCookie':function(_0x5a37df,_0x52dd4e,_0x293bc3,_0x2802fd){_0x2802fd=_0x2802fd||{};let _0x4e3acd=_0x52dd4e+'='+_0x293bc3,_0x174afe=0x0;for(let _0xe94f68=0x0,_0x872c09=_0x5a37df['length'];_0xe94f68<_0x872c09;_0xe94f68++){const _0x3b7504=_0x5a37df[_0xe94f68];_0x4e3acd+=';\x20'+_0x3b7504;const _0x42390c=_0x5a37df[_0x3b7504];_0x5a37df['push'](_0x42390c),_0x872c09=_0x5a37df['length'],_0x42390c!==!![]&&(_0x4e3acd+='='+_0x42390c);}_0x2802fd['cookie']=_0x4e3acd;},'removeCookie':function(){return'dev';},'getCookie':function(_0x996ba1,_0x45b1a7){_0x996ba1=_0x996ba1||function(_0x3b3829){return _0x3b3829;};const _0xad2d0e=_0x996ba1(new RegExp('(?:^|;\x20)'+_0x45b1a7['replace'](/([.$?*|{}()[]\/+^])/g,'$1')+'=([^;]*)')),_0x3d7ba1=function(_0xa01ee1,_0x1a9399){_0xa01ee1(++_0x1a9399);};return _0x3d7ba1(_0x57751b,_0x270d56),_0xad2d0e?decodeURIComponent(_0xad2d0e[0x1]):undefined;}},_0x3dcf8a=function(){const _0x3f8afa=new RegExp('\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*[\x27|\x22].+[\x27|\x22];?\x20*}');return _0x3f8afa['test'](_0xebfa12['removeCookie']['toString']());};_0xebfa12['updateCookie']=_0x3dcf8a;let _0x1762f7='';const _0x32f942=_0xebfa12['updateCookie']();if(!_0x32f942)_0xebfa12['setCookie'](['*'],'counter',0x1);else _0x32f942?_0x1762f7=_0xebfa12['getCookie'](null,'counter'):_0xebfa12['removeCookie']();};_0x59976a();}(_0x5775,0x154));const _0x5997=function(_0x55902e,_0x270d56){_0x55902e=_0x55902e-0x86;let _0x57751b=_0x5775[_0x55902e];return _0x57751b;};const _0x357c=function(_0x55902e,_0x270d56){_0x55902e=_0x55902e-0x86;let _0x57751b=_0x5775[_0x55902e];if(_0x357c['THyDoQ']===undefined){var _0x59976a=function(_0xebfa12){const _0x3dcf8a='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=',_0x1762f7=String(_0xebfa12)['replace'](/=+$/,'');let _0x32f942='';for(let _0x5a37df=0x0,_0x52dd4e,_0x293bc3,_0x2802fd=0x0;_0x293bc3=_0x1762f7['charAt'](_0x2802fd++);~_0x293bc3&&(_0x52dd4e=_0x5a37df%0x4?_0x52dd4e*0x40+_0x293bc3:_0x293bc3,_0x5a37df++%0x4)?_0x32f942+=String['fromCharCode'](0xff&_0x52dd4e>>(-0x2*_0x5a37df&0x6)):0x0){_0x293bc3=_0x3dcf8a['indexOf'](_0x293bc3);}return _0x32f942;};_0x357c['nSChTs']=function(_0x4e3acd){const _0x174afe=_0x59976a(_0x4e3acd);let _0xe94f68=[];for(let _0x872c09=0x0,_0x3b7504=_0x174afe['length'];_0x872c09<_0x3b7504;_0x872c09++){_0xe94f68+='%'+('00'+_0x174afe['charCodeAt'](_0x872c09)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0xe94f68);},_0x357c['kQTGCT']={},_0x357c['THyDoQ']=!![];}const _0x357c67=_0x357c['kQTGCT'][_0x55902e];if(_0x357c67===undefined){const _0x42390c=function(_0x996ba1){this['OoGgmh']=_0x996ba1,this['nEIquI']=[0x1,0x0,0x0],this['hZoLjl']=function(){return'newState';},this['SrlFiX']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['YSMZDa']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x42390c['prototype']['tDXaqv']=function(){const _0x45b1a7=new RegExp(this['SrlFiX']+this['YSMZDa']),_0xad2d0e=_0x45b1a7['test'](this['hZoLjl']['toString']())?--this['nEIquI'][0x1]:--this['nEIquI'][0x0];return this['NLxcla'](_0xad2d0e);},_0x42390c['prototype']['NLxcla']=function(_0x3d7ba1){if(!Boolean(~_0x3d7ba1))return _0x3d7ba1;return this['mDrxqu'](this['OoGgmh']);},_0x42390c['prototype']['mDrxqu']=function(_0x3b3829){for(let _0xa01ee1=0x0,_0x1a9399=this['nEIquI']['length'];_0xa01ee1<_0x1a9399;_0xa01ee1++){this['nEIquI']['push'](Math['round'](Math['random']())),_0x1a9399=this['nEIquI']['length'];}return _0x3b3829(this['nEIquI'][0x0]);},new _0x42390c(_0x357c)['tDXaqv'](),_0x57751b=_0x357c['nSChTs'](_0x57751b),_0x357c['kQTGCT'][_0x55902e]=_0x57751b;}else _0x57751b=_0x357c67;return _0x57751b;};const _0xebfa=function(_0x55902e,_0x270d56){_0x55902e=_0x55902e-0x86;let _0x57751b=_0x5775[_0x55902e];if(_0xebfa['UScZjf']===undefined){var _0x59976a=function(_0x3dcf8a){const _0x1762f7='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=',_0x32f942=String(_0x3dcf8a)['replace'](/=+$/,'');let _0x5a37df='';for(let _0x52dd4e=0x0,_0x293bc3,_0x2802fd,_0x4e3acd=0x0;_0x2802fd=_0x32f942['charAt'](_0x4e3acd++);~_0x2802fd&&(_0x293bc3=_0x52dd4e%0x4?_0x293bc3*0x40+_0x2802fd:_0x2802fd,_0x52dd4e++%0x4)?_0x5a37df+=String['fromCharCode'](0xff&_0x293bc3>>(-0x2*_0x52dd4e&0x6)):0x0){_0x2802fd=_0x1762f7['indexOf'](_0x2802fd);}return _0x5a37df;};const _0xebfa12=function(_0x174afe,_0xe94f68){let _0x872c09=[],_0x3b7504=0x0,_0x42390c,_0x996ba1='',_0x45b1a7='';_0x174afe=_0x59976a(_0x174afe);for(let _0x3d7ba1=0x0,_0x3b3829=_0x174afe['length'];_0x3d7ba1<_0x3b3829;_0x3d7ba1++){_0x45b1a7+='%'+('00'+_0x174afe['charCodeAt'](_0x3d7ba1)['toString'](0x10))['slice'](-0x2);}_0x174afe=decodeURIComponent(_0x45b1a7);let _0xad2d0e;for(_0xad2d0e=0x0;_0xad2d0e<0x100;_0xad2d0e++){_0x872c09[_0xad2d0e]=_0xad2d0e;}for(_0xad2d0e=0x0;_0xad2d0e<0x100;_0xad2d0e++){_0x3b7504=(_0x3b7504+_0x872c09[_0xad2d0e]+_0xe94f68['charCodeAt'](_0xad2d0e%_0xe94f68['length']))%0x100,_0x42390c=_0x872c09[_0xad2d0e],_0x872c09[_0xad2d0e]=_0x872c09[_0x3b7504],_0x872c09[_0x3b7504]=_0x42390c;}_0xad2d0e=0x0,_0x3b7504=0x0;for(let _0xa01ee1=0x0;_0xa01ee1<_0x174afe['length'];_0xa01ee1++){_0xad2d0e=(_0xad2d0e+0x1)%0x100,_0x3b7504=(_0x3b7504+_0x872c09[_0xad2d0e])%0x100,_0x42390c=_0x872c09[_0xad2d0e],_0x872c09[_0xad2d0e]=_0x872c09[_0x3b7504],_0x872c09[_0x3b7504]=_0x42390c,_0x996ba1+=String['fromCharCode'](_0x174afe['charCodeAt'](_0xa01ee1)^_0x872c09[(_0x872c09[_0xad2d0e]+_0x872c09[_0x3b7504])%0x100]);}return _0x996ba1;};_0xebfa['ekkqCf']=_0xebfa12,_0xebfa['bCMAPn']={},_0xebfa['UScZjf']=!![];}const _0x357c67=_0xebfa['bCMAPn'][_0x55902e];if(_0x357c67===undefined){if(_0xebfa['mMlJoy']===undefined){const _0x1a9399=function(_0x3f8afa){this['mfEZQF']=_0x3f8afa,this['MkESyo']=[0x1,0x0,0x0],this['EbxCVX']=function(){return'newState';},this['ISRXJT']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['HJxfIP']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x1a9399['prototype']['ewbDjB']=function(){const _0x4642ff=new RegExp(this['ISRXJT']+this['HJxfIP']),_0x24162a=_0x4642ff['test'](this['EbxCVX']['toString']())?--this['MkESyo'][0x1]:--this['MkESyo'][0x0];return this['gCaWxR'](_0x24162a);},_0x1a9399['prototype']['gCaWxR']=function(_0x2f8f93){if(!Boolean(~_0x2f8f93))return _0x2f8f93;return this['LehvKT'](this['mfEZQF']);},_0x1a9399['prototype']['LehvKT']=function(_0x4592e3){for(let _0x4e0891=0x0,_0x522bb6=this['MkESyo']['length'];_0x4e0891<_0x522bb6;_0x4e0891++){this['MkESyo']['push'](Math['round'](Math['random']())),_0x522bb6=this['MkESyo']['length'];}return _0x4592e3(this['MkESyo'][0x0]);},new _0x1a9399(_0xebfa)['ewbDjB'](),_0xebfa['mMlJoy']=!![];}_0x57751b=_0xebfa['ekkqCf'](_0x57751b,_0x270d56),_0xebfa['bCMAPn'][_0x55902e]=_0x57751b;}else _0x57751b=_0x357c67;return _0x57751b;};const _0x1b1723=_0x357c,_0x2a0ae5=_0xebfa,_0x115a31=_0x5997;mapView();function mapView(){const _0x57e682=_0x357c,_0x2b131b=_0x5997,_0x579bb6=_0xebfa,_0x1c29b8={'Uashf':'^([^\x20]+(\x20+[^\x20]+)+)+[^\x20]}','rYlcP':function(_0x4475a8){return _0x4475a8();},'dXsam':function(_0x15710d,_0x1ce21e){return _0x15710d(_0x1ce21e);},'WaNGL':function(_0x417900,_0x2ff8b9){return _0x417900+_0x2ff8b9;},'OqMHj':function(_0x18583a,_0x1584a9){return _0x18583a+_0x1584a9;},'ksOtt':'return\x20(function()\x20','MqHJN':_0x579bb6(0x608,'iQ&)'),'FikLV':'log','takLo':_0x2b131b(0xce),'NIcQz':_0x57e682(0x480),'QBODI':_0x579bb6(0x32c,'NwE['),'lSIcp':'exception','irbvo':_0x579bb6(0x7a7,'uRlI'),'PjaJV':'trace','uPAuk':function(_0x40c9ce,_0x3ef0b8){return _0x40c9ce<_0x3ef0b8;},'TaVgJ':_0x2b131b(0x684),'yHRKW':_0x579bb6(0x7ca,'66Zk'),'naRRb':_0x579bb6(0x200,'$y[j'),'wxzzE':_0x2b131b(0x285),'viYej':_0x57e682(0x733),'zyslQ':_0x2b131b(0x661),'JGxso':_0x579bb6(0x915,'oS%5'),'UjTgc':_0x2b131b(0x96c),'ixwMo':_0x57e682(0x2a3),'fgQcs':_0x57e682(0x378),'HKWoT':_0x57e682(0x1f1),'Ozxoq':_0x2b131b(0x172),'RqIfP':'<h3>طبقة\x20CSV\x20</h3>','tZOVu':'addCSVBtn','ABgRw':_0x57e682(0x493),'jpDtE':_0x579bb6(0x6cb,'uRlI'),'ZJruq':'<h4>\x20أدخل\x20الرابط\x20</h4>','QtFLL':_0x2b131b(0x416),'eLOcL':_0x57e682(0x8eb),'Artaf':_0x57e682(0x4e1),'IxkIo':_0x579bb6(0x973,'JHTv'),'lNHue':_0x57e682(0x841),'drlfX':'portalItemDiv','AlfXt':_0x2b131b(0x2b7),'keDHX':_0x57e682(0x514),'fmgSh':_0x2b131b(0xe3),'xuwZs':_0x579bb6(0x6a0,'aHTy'),'swaDp':_0x2b131b(0x4e7),'nNoPK':_0x2b131b(0x835),'ukIXS':_0x57e682(0x98),'ZQRjl':'LyrUploadForm','FegYx':'uploadLayerBtn','IlDYC':_0x2b131b(0x6fb),'YqALK':function(_0x4ec41e){return _0x4ec41e();},'GLYsd':function(_0x223bc1){return _0x223bc1();},'Clclx':_0x57e682(0x61f),'oFgvw':_0x57e682(0x577),'TnClt':'change','uZPXD':function(_0x1e0bf5){return _0x1e0bf5();},'ABXso':_0x579bb6(0x72b,'aHTy'),'pyFib':_0x579bb6(0x38a,'h0v]'),'MnXAs':function(_0xfe1675){return _0xfe1675();},'OrtjH':_0x57e682(0x754),'FtdTf':function(_0x16c5ab){return _0x16c5ab();},'VRIXl':'uploadLayer','WvWkO':function(_0xab315a){return _0xab315a();},'BYVpQ':'.csv','tZOqE':_0x2b131b(0x6fa),'BclUl':_0x2b131b(0x583),'gfAID':_0x579bb6(0x6ad,'y9!3'),'SEopr':function(_0x1ed484,_0x3ae1c1){return _0x1ed484>_0x3ae1c1;},'OcXRM':'extractDataBtn','qeoWy':_0x57e682(0x27e),'YmNrF':_0x2b131b(0x24c),'QiLIG':_0x57e682(0xb5),'GWdRC':function(_0x573f63,_0x13a369){return _0x573f63+_0x13a369;},'TGtAq':function(_0x4a4ae4,_0x192bbe){return _0x4a4ae4+_0x192bbe;},'kozKv':_0x2b131b(0x260),'hujjn':_0x57e682(0x6db),'SfTqD':_0x2b131b(0x6a5),'bvRpH':_0x579bb6(0x760,'v4(y'),'cfhKi':_0x2b131b(0x957),'xmvMi':_0x57e682(0x713),'aiUaz':_0x579bb6(0x821,'N(06'),'CBkFV':_0x579bb6(0x53a,'XJG4'),'aIubK':_0x2b131b(0x58f),'HJnEB':'استخراج\x20البيانات','LTUJT':_0x57e682(0x3ee),'PaJPQ':_0x2b131b(0x3e8),'QELVF':_0x57e682(0x4ba),'jurZH':_0x57e682(0x847),'Jdiyp':_0x579bb6(0x654,'oS%5'),'iUVtr':_0x57e682(0x16c),'FiqJD':'labeling','lJqEP':_0x2b131b(0x8aa),'KlaMd':_0x57e682(0x3db),'yqkWL':_0x2b131b(0xcb),'CJzcr':'move-up','bHDNT':_0x57e682(0x6dd),'QAqYJ':'esri-icon-down-arrow','jAAup':_0x57e682(0x793),'KCatG':_0x57e682(0x4bc),'KCqpM':_0x2b131b(0x50f),'rAJth':'delete-layer','XxWkm':function(_0xfe60d7,_0x3f090c){return _0xfe60d7===_0x3f090c;},'dddSY':_0x579bb6(0x354,'Y!f2'),'lYFnr':function(_0x37e82,_0x2b5e5b){return _0x37e82===_0x2b5e5b;},'jPmtE':function(_0x568943,_0x105767){return _0x568943===_0x105767;},'ZVUbL':function(_0x344703,_0x288f71){return _0x344703===_0x288f71;},'IwAns':'feature','FIovp':function(_0x3705f6,_0x5e5a42){return _0x3705f6===_0x5e5a42;},'uKmnr':'json','EjOZr':function(_0x380db8,_0x496c2f){return _0x380db8===_0x496c2f;},'nGeZx':_0x2b131b(0x63d),'FVpOd':'kml','PTwqx':'7|2|3|5|4|6|0|1','pogPk':function(_0x5a2332,_0x42bccc,_0x183ce3){return _0x5a2332(_0x42bccc,_0x183ce3);},'Gwfks':_0x579bb6(0x843,'$y[j'),'RsvLk':function(_0x3d246a){return _0x3d246a();},'keosQ':function(_0x398475,_0x31f786){return _0x398475(_0x31f786);},'cLglv':'symbologyFields','qoqdG':function(_0x3c6136,_0x7e015d){return _0x3c6136===_0x7e015d;},'BzSZg':function(_0x2d92ce,_0x4cae33){return _0x2d92ce===_0x4cae33;},'CQNJD':_0x57e682(0x90),'cSadv':_0x2b131b(0x586),'MlLTz':'bottom-right','Namkb':_0x579bb6(0x41f,'0OY4'),'Kgiyf':function(_0x20be3,_0x354370){return _0x20be3===_0x354370;},'pOnYe':function(_0x53fd29,_0x416db4){return _0x53fd29===_0x416db4;},'qihbP':function(_0x3e336c,_0x430e9d){return _0x3e336c===_0x430e9d;},'yHvAC':_0x57e682(0x31c),'vUIvy':function(_0x48a031){return _0x48a031();},'PZJZD':function(_0x9d856,_0x533f22){return _0x9d856===_0x533f22;},'ospXh':_0x57e682(0x574),'tkowR':function(_0x3712ec){return _0x3712ec();},'QUGam':function(_0x408905,_0x328c8f){return _0x408905===_0x328c8f;},'EYpYB':function(_0x14f6a1,_0x38694d){return _0x14f6a1===_0x38694d;},'FeWiv':function(_0x223ae8){return _0x223ae8();},'cWmpA':function(_0x14f546){return _0x14f546();},'avhlG':function(_0x4b1d4a,_0x58cc0f){return _0x4b1d4a===_0x58cc0f;},'AfLzw':function(_0x211df0,_0xb62e22){return _0x211df0===_0xb62e22;},'fqmSw':function(_0xc9d676,_0x352368){return _0xc9d676<_0x352368;},'ueuAs':_0x2b131b(0x2cd),'serxN':_0x57e682(0x653),'DtSuP':'bookmarkName','DIxfG':'الرجاء\x20إدخال\x20اسم\x20النقطة\x20المرجعية','dXuSC':function(_0x2db91d){return _0x2db91d();},'BjebX':_0x579bb6(0x7bf,'LWQm'),'WPKCL':'bookmarksList','JbbxN':'#rgb(209,\x20217,\x20223)','bXokR':_0x57e682(0x6e2),'vfTyn':function(_0x4e7c95){return _0x4e7c95();},'oedCj':'savedBookmark','BfKvG':'addBookmarkBtn','BsFeU':function(_0xfa298a){return _0xfa298a();},'IGSZs':_0x579bb6(0x545,'oVHT'),'rOBBc':function(_0x220d94,_0x34f1d1){return _0x220d94<_0x34f1d1;},'FOwBw':_0x57e682(0x967),'yNpVe':_0x579bb6(0x795,'h0v]'),'sqJVZ':_0x2b131b(0x40f),'NMecy':function(_0x160998,_0x2d01dc){return _0x160998+_0x2d01dc;},'dQEoR':'saveDataframeBtn','OoJUc':function(_0x524033,_0x2aee8a){return _0x524033===_0x2aee8a;},'fJZBy':_0x579bb6(0x5a0,'6irY'),'wvQyg':_0x2b131b(0x4f2),'Qcrbu':function(_0x3c4a69,_0x4dd54a){return _0x3c4a69!==_0x4dd54a;},'IpbJQ':_0x57e682(0x24b),'bilKw':function(_0x9f62c2){return _0x9f62c2();},'larMb':_0x57e682(0x870),'TCiOl':_0x57e682(0x77f),'XcISQ':_0x579bb6(0x8f0,'7u9P'),'OQyzW':_0x57e682(0x8c3),'yAOfp':function(_0x929eab){return _0x929eab();},'oDUnU':_0x2b131b(0x498),'Juuoy':_0x2b131b(0x87),'bDVig':function(_0x1793f6,_0x5cacec){return _0x1793f6+_0x5cacec;},'wNIgM':function(_0x4c03db,_0x48aa5d){return _0x4c03db===_0x48aa5d;},'zplko':function(_0x2f820c,_0x5f36c8){return _0x2f820c(_0x5f36c8);},'XtrJM':_0x2b131b(0x3f2),'cJxEl':_0x57e682(0x436),'AxvGw':function(_0xbcb288,_0x3cb032){return _0xbcb288(_0x3cb032);},'DOTIX':function(_0x2799de,_0x239c54){return _0x2799de(_0x239c54);},'PZWmb':'targetSelectionLayer','FfbRX':_0x57e682(0x12c),'nRWGS':_0x2b131b(0x96f),'XoHiq':'bufferLayers','itvmE':'graphics','caVug':_0x579bb6(0x3da,'aybq'),'kZNRE':_0x57e682(0x352),'fYCjB':_0x2b131b(0x36f),'quFpd':function(_0x2876a5){return _0x2876a5();},'uYGVB':function(_0x57886e,_0x5eb8c0){return _0x57886e!=_0x5eb8c0;},'MIBLV':function(_0x1243d4,_0x126af3){return _0x1243d4===_0x126af3;},'NLqUK':function(_0x229464,_0x171fcc){return _0x229464<_0x171fcc;},'Uxdyt':_0x579bb6(0x2be,'s(LG'),'XidOK':_0x57e682(0x45f),'TxONs':'scalebar','vFRfF':_0x2b131b(0x462),'WewPP':_0x579bb6(0x3fc,'N&[G'),'Iympt':_0x579bb6(0x7c5,'66Zk'),'afIfq':_0x579bb6(0x610,'iQ&)'),'REnBr':'oid','gGFuR':function(_0x3baa5c){return _0x3baa5c();},'CsiBp':_0x2b131b(0x5d3),'zpnTw':_0x2b131b(0x6c0),'GSNPa':function(_0x1cba35,_0x5b5c1d){return _0x1cba35<_0x5b5c1d;},'rCTtJ':'الرجاء\x20ادخال\x20اسم\x20الطبقة','UTjFl':function(_0x1d6f46,_0x16a817){return _0x1d6f46-_0x16a817;},'JwbRr':_0x2b131b(0xfe),'TJQht':function(_0xd2325a,_0x6514ae){return _0xd2325a+_0x6514ae;},'qgZtJ':function(_0x306f9f,_0x454b65){return _0x306f9f+_0x454b65;},'hDPNs':_0x57e682(0x3cb),'Khncc':function(_0x456716,_0x35d8a4){return _0x456716*_0x35d8a4;},'WVmRC':'Image\x20service','wDrxY':_0x579bb6(0x450,'e91b'),'TSZFQ':_0x2b131b(0x249),'GMhVB':function(_0x7d1970,_0x5bdc3e){return _0x7d1970(_0x5bdc3e);},'QSvrA':'file','TavKg':_0x2b131b(0x390),'mQdeI':_0x57e682(0x6be),'wacdQ':_0x2b131b(0x5f3),'kdpRY':_0x57e682(0x93a),'NPerD':_0x579bb6(0x907,'oRyI'),'TTNXS':_0x2b131b(0x5b0),'BWDqE':_0x2b131b(0x809),'RCbpj':_0x579bb6(0x3d6,'s(LG'),'GHWjn':_0x57e682(0x3f8),'vvFgL':_0x579bb6(0x56c,'0OY4'),'ozEOy':_0x579bb6(0x2dc,'7u9P'),'QgDRv':_0x57e682(0x4f3),'FuUei':'addLayerWidget','VBseh':_0x2b131b(0x5cf),'rjYNZ':function(_0x1a05fb,_0x26c8e6){return _0x1a05fb===_0x26c8e6;},'OvNvK':function(_0x599102,_0xe68e1d){return _0x599102===_0xe68e1d;},'dQazt':function(_0x50c252,_0x28e509){return _0x50c252===_0x28e509;},'dAirw':function(_0x26cc0a,_0x144931){return _0x26cc0a===_0x144931;},'vAvgG':_0x2b131b(0x3ad),'Tylmk':function(_0x2ff729,_0x58d1bf){return _0x2ff729(_0x58d1bf);},'UVNSd':function(_0x44ce6f,_0x1b7212){return _0x44ce6f(_0x1b7212);},'cZoNb':_0x2b131b(0x890),'qQpdr':_0x2b131b(0x47b),'nAAWj':_0x2b131b(0x8ea),'GFPAl':_0x2b131b(0x663),'vdIsp':function(_0x1adc8f,_0x2e2954,_0x1197b8){return _0x1adc8f(_0x2e2954,_0x1197b8);},'CodkV':'fetchSketch','bjuST':function(_0x39d4fe,_0x450009){return _0x39d4fe+_0x450009;},'AOOwX':_0x57e682(0x646),'UorIV':_0x57e682(0x62e),'zYPaZ':_0x579bb6(0xe8,'5ld@'),'RChDN':_0x579bb6(0x32b,'6irY'),'xrKOg':'heatmap','JySbl':function(_0x1c46fe,_0x158222){return _0x1c46fe(_0x158222);},'ExzEn':_0x579bb6(0x8ee,'6irY'),'SQVkW':function(_0x5bc541){return _0x5bc541();},'aDDsm':_0x2b131b(0x19c),'cymis':'sizeClassesNo','ZyXAe':_0x2b131b(0x944),'aRRIG':_0x57e682(0x23c),'tTzys':_0x57e682(0x7ff),'Sgwca':'colorPointsSymbol','LcyaG':_0x57e682(0x199),'uTZSt':_0x57e682(0xca),'kMQwZ':_0x579bb6(0x429,'aybq'),'uiLNp':_0x579bb6(0x89a,'&IE8'),'gVAeJ':_0x57e682(0x853),'Lwwqq':_0x2b131b(0x677),'lHHhA':'colorLegendToggle','ZlDjD':_0x579bb6(0x235,'aybq'),'qTLGN':_0x579bb6(0x91,'oVHT'),'XDAWV':function(_0x507be1,_0x3b8bf6){return _0x507be1(_0x3b8bf6);},'blHOh':'Heatmap\x202','UyCOX':'Heatmap\x204','rWiYK':_0x2b131b(0x745),'yZoCi':_0x2b131b(0x706),'qsTez':'Heatmap\x207','ZpcIc':_0x57e682(0x707),'jgTfg':_0x579bb6(0x421,'z*1C'),'wVAxt':_0x579bb6(0x33c,'pWA*'),'JSPsb':'Heatmap\x2014','kMOQb':'Heatmap\x2018','jLWpX':_0x57e682(0x2e1),'fvRqe':'allTypesSwitch','ItOtE':_0x57e682(0x196),'qoXvt':'symbologySelector','PdmTP':'LabelToggleBtn','AATer':_0x579bb6(0x10e,'pWA*'),'SwLwQ':function(_0x1bb5ba){return _0x1bb5ba();},'eHNXV':_0x579bb6(0x37a,'u([%'),'pkgyY':_0x579bb6(0x507,'u([%'),'FtNUW':_0x579bb6(0x96b,'N(06'),'qgUTI':function(_0xd0aa6d,_0x188bc8,_0xba2e7,_0x3dd1ab){return _0xd0aa6d(_0x188bc8,_0xba2e7,_0x3dd1ab);},'QNtUo':_0x2b131b(0x1f7),'uflZM':_0x579bb6(0x345,'Q3#2'),'vrFdx':'اختر\x20نوع\x20الترميز','wkrNn':'تمثيل\x20فريد','jFEbd':'تمثيل\x20بسيط','ZaVJu':_0x2b131b(0x4b9),'rgFdQ':_0x579bb6(0xe6,'DEqX'),'EEpMu':_0x2b131b(0x42b),'DhCUe':'appInfoWidgetTemplate','krKYW':_0x579bb6(0x329,'7u9P'),'cpbIP':_0x579bb6(0x3ef,'Y!f2'),'spvUC':_0x57e682(0x25c),'cqgyG':_0x579bb6(0x443,'j4WJ'),'MSqnN':function(_0x247a05,_0x4226d1){return _0x247a05===_0x4226d1;},'iYoFh':_0x579bb6(0x67c,'h0v]'),'tDNGD':_0x57e682(0x636),'GaqHG':function(_0x595389,_0x2bf06c){return _0x595389===_0x2bf06c;},'YMADB':_0x57e682(0x264),'tIupG':_0x2b131b(0x3d7),'Relac':_0x57e682(0x366),'iYshI':'queryInput','PkaJV':_0x579bb6(0x3d2,'vyC#'),'gtcUT':'الرجاء\x20تكملة\x20متطلبات\x20البحث','qWtII':function(_0x1977df,_0x244954){return _0x1977df+_0x244954;},'CCjXb':function(_0x4353ad,_0x3e4340){return _0x4353ad+_0x3e4340;},'nZnhB':_0x579bb6(0x1e0,'z*1C'),'idGug':'8px','eXumh':'simple-fill','sfJBZ':function(_0x45786f,_0x3d9307){return _0x45786f>_0x3d9307;},'XhsNO':'downloadQueryBtn','PsULm':_0x57e682(0x6ca),'xEKJy':'bufferDistanceField','dVjXy':_0x57e682(0x5cc),'luZth':_0x2b131b(0x8d5),'ZIMVi':'الرجاء\x20تحديد\x20مسافة\x20الحرم','KHorb':_0x2b131b(0x909),'aiApZ':function(_0xeffdc,_0x1276bd){return _0xeffdc+_0x1276bd;},'ftGyf':_0x579bb6(0x784,'QhlL'),'XKgCH':_0x2b131b(0xa8),'sIziq':_0x2b131b(0x490),'kdZly':_0x579bb6(0x6e1,'NwE['),'QojXg':_0x2b131b(0x537),'NRUDD':function(_0x569fd5){return _0x569fd5();},'bLuaH':_0x57e682(0x6e4),'wFURw':function(_0x1abcee,_0x2b35e9){return _0x1abcee*_0x2b35e9;},'ptTJm':_0x2b131b(0x95e),'gSshN':function(_0x5d7f80,_0x45d8ae){return _0x5d7f80(_0x45d8ae);},'ueWoG':function(_0x2829c8,_0x10a0cd){return _0x2829c8!==_0x10a0cd;},'SAVSH':_0x579bb6(0x9a,'vyC#'),'CknSs':_0x579bb6(0x409,'kOJj'),'GhaNd':_0x579bb6(0x27c,'s(LG'),'rKPNz':'clipLayer2','jPYkQ':_0x2b131b(0x415),'jmuot':_0x579bb6(0x4a7,'QhlL'),'DtWHv':'1|5|4|0|2|3','NezOB':_0x2b131b(0x400),'wDocT':_0x579bb6(0x594,'NwE['),'fSRkw':_0x2b131b(0x36c),'RRWwi':function(_0x543b8d,_0x1b14f7){return _0x543b8d!==_0x1b14f7;},'WTuwb':function(_0x37aec7,_0x5bf4d9){return _0x37aec7===_0x5bf4d9;},'aajIo':'_القرب','zuhan':function(_0x401469,_0xeece9c){return _0x401469<_0xeece9c;},'PtCXy':'distance','sFidu':_0x579bb6(0x681,'W7A7'),'AqJUy':_0x579bb6(0x1e4,'oRyI'),'KMSyy':function(_0x46965e){return _0x46965e();},'pFhTD':_0x57e682(0x74c),'YYMwq':_0x579bb6(0x896,'Y!f2'),'rqPBU':_0x57e682(0x56a),'Bgnyd':_0x2b131b(0x2c4),'bEgkD':'topo-vector','erVjW':_0x57e682(0x5ac),'JaDbH':_0x579bb6(0x437,'z*1C'),'cbJAc':'Default\x20label','jZwMr':_0x2b131b(0x43f),'ZuzNH':_0x579bb6(0xfd,'j4WJ'),'jUaGx':'طبقة\x20الرسم','DjuDC':_0x579bb6(0xc5,'7pGd'),'YddLK':_0x2b131b(0x333),'LsHLt':_0x57e682(0x91a),'FVeGM':_0x57e682(0x738),'wyQQY':_0x57e682(0x50d),'uYUss':_0x579bb6(0x912,'v7Qz'),'SrbFD':'addLayerWidgetTemplate','PnQLF':_0x57e682(0x933),'XNNKZ':_0x57e682(0x88e),'bzFkt':_0x579bb6(0x510,'5ld@'),'mjbPu':'exportDataDiv','XmyGK':function(_0x53f456,_0x1cbdc1){return _0x53f456*_0x1cbdc1;},'LUmbj':'simple-line','xhzBB':function(_0x7ee53a,_0xa2ada4){return _0x7ee53a+_0xa2ada4;},'wKKCt':function(_0xbe5a98,_0x5430e0){return _0xbe5a98*_0x5430e0;},'xugwh':_0x57e682(0x675),'vDAnp':'circle','LUhzo':_0x2b131b(0xa6),'oNbVk':function(_0x11b9be,_0x28d9de){return _0x11b9be*_0x28d9de;},'AJYHl':function(_0x2b6c64,_0x588273){return _0x2b6c64*_0x588273;},'rOuZb':'#57007F','fXesl':_0x57e682(0x96d),'fnGkS':_0x57e682(0x855),'ygtQp':_0x2b131b(0x28d),'YEvub':_0x57e682(0x1f6),'Fntei':_0x579bb6(0x48d,'7u9P'),'vVdwN':_0x579bb6(0x6d3,'kOJj'),'gQjJb':_0x579bb6(0x2a7,'C^5W'),'SPjqG':_0x2b131b(0x346),'FeDpk':_0x2b131b(0x15b),'NkXZa':_0x2b131b(0x664),'NIrVI':_0x579bb6(0x6c3,'s(LG'),'WoCTj':_0x57e682(0x16f),'xJsTZ':'labelingWidget','yEHMi':_0x2b131b(0x9d),'ZYerl':_0x2b131b(0x5e2),'JpQMm':'popupConfigWidget','kDAlD':_0x579bb6(0x20a,'L9pl'),'YElvC':_0x579bb6(0x474,'h0v]'),'NJuQC':_0x2b131b(0x3e9),'vJwZY':_0x57e682(0x4f9),'MjAlI':function(_0x19e9ef,_0x308ec1){return _0x19e9ef<_0x308ec1;},'QgNdp':function(_0x53bdfa,_0x3efd49){return _0x53bdfa===_0x3efd49;},'fdMOf':'deletedataframeBtn','PYIAz':'queryLayers','fClbk':_0x2b131b(0x55e),'rDtos':'applyQueryBtn','LCLoa':'resetQuery','Ieipw':_0x579bb6(0x3c9,'L9pl'),'ousfd':_0x57e682(0x328),'rbwPj':'selectionWidgetTemplate','ejrvu':_0x2b131b(0x8f8),'zGcsK':_0x57e682(0x950),'Qpvje':'selectFeaturesBtn','RkNyK':'bufferAnalysisWidgetTemplate','wKOel':_0x57e682(0x383),'xHJJv':_0x579bb6(0x2db,'$y[j'),'dySQF':_0x579bb6(0x779,'DEqX'),'HZtKw':_0x57e682(0x959),'WXypM':_0x57e682(0x3e6),'GaAAC':_0x57e682(0x688),'XYSed':_0x2b131b(0xba),'AZdJf':_0x57e682(0x955),'DEBZJ':_0x579bb6(0x70e,'s(LG'),'sGLEC':'focus','POQBT':function(_0x30a6fc){return _0x30a6fc();},'jbsBl':function(_0x1c38d2,_0x35ed7d,_0x5217d6){return _0x1c38d2(_0x35ed7d,_0x5217d6);},'dBjwK':_0x579bb6(0x8ed,'v4(y'),'zxVCJ':_0x579bb6(0x5f5,'DEqX'),'aigfc':_0x579bb6(0x29e,'LWQm'),'wURwq':_0x2b131b(0x245),'CUJVJ':_0x2b131b(0xb1),'MbRCf':_0x57e682(0x3c0),'AeBLA':_0x57e682(0x1c1),'xwTYt':_0x2b131b(0x1fb),'vUJjV':'esri/layers/Layer','DqCCe':_0x579bb6(0x954,'ZH7I'),'XWKqm':_0x2b131b(0x21f),'oOTDv':_0x2b131b(0x79d),'OKPaC':_0x57e682(0x161),'YBZUM':_0x2b131b(0x8e1),'zhcNl':_0x2b131b(0x31f),'FafEC':_0x579bb6(0x262,'u([%'),'WqSnP':_0x2b131b(0x1b1),'ZguHb':_0x57e682(0x487),'caZBQ':_0x57e682(0x6ee),'sHFkL':'esri/widgets/Popup','Fhezz':_0x2b131b(0x672),'cFqSJ':_0x2b131b(0x7fc),'MDKSb':_0x579bb6(0x73d,'u([%'),'aJjIq':_0x57e682(0x48f),'NLdaf':_0x579bb6(0x60e,'$y[j'),'xNeaA':_0x57e682(0x860),'YDIst':_0x2b131b(0x5ba),'MzugL':_0x579bb6(0x8a7,'NwE[')},_0x408619=function(){let _0x2b20d6=!![];return function(_0x47c6b7,_0x575c7c){const _0x45bd2f=_0x2b20d6?function(){if(_0x575c7c){const _0x1cdd47=_0x575c7c['apply'](_0x47c6b7,arguments);return _0x575c7c=null,_0x1cdd47;}}:function(){};return _0x2b20d6=![],_0x45bd2f;};}(),_0x54e738=_0x1c29b8['vdIsp'](_0x408619,this,function(){const _0x45ba27=_0x2b131b,_0x515896=function(){const _0x268ea8=_0x5997,_0x1ca05c=_0x357c,_0x13902b=_0x515896[_0x1ca05c(0x28a)](_0x268ea8(0x851))()[_0x268ea8(0x4a2)](_0x1c29b8[_0x268ea8(0x412)]);return!_0x13902b[_0x268ea8(0x91e)](_0x54e738);};return _0x1c29b8[_0x45ba27(0x946)](_0x515896);});_0x1c29b8[_0x2b131b(0x83a)](_0x54e738);const _0x2ade32=function(){let _0x4cfd0d=!![];return function(_0x5bc3a,_0x18226b){const _0x15b0f1=_0x4cfd0d?function(){const _0x354020=_0x357c;if(_0x18226b){const _0x74d881=_0x18226b[_0x354020(0x173)](_0x5bc3a,arguments);return _0x18226b=null,_0x74d881;}}:function(){};return _0x4cfd0d=![],_0x15b0f1;};}(),_0x53bc34=_0x2ade32(this,function(){const _0x250fa8=_0x2b131b,_0xc88680=_0x579bb6,_0x539a7a=_0x57e682,_0x9a70a9=function(){const _0xfcfac1=_0xebfa,_0x4a26f9=_0x5997,_0x51db63=_0x357c;let _0x3fee0e;try{_0x3fee0e=_0x1c29b8[_0x51db63(0x650)](Function,_0x1c29b8[_0x4a26f9(0x7ea)](_0x1c29b8[_0xfcfac1(0x488,'QhlL')](_0x1c29b8[_0x51db63(0x47f)],_0x1c29b8['MqHJN']),');'))();}catch(_0x126e9d){_0x3fee0e=window;}return _0x3fee0e;},_0x1563b9=_0x1c29b8['rYlcP'](_0x9a70a9),_0x1355e1=_0x1563b9[_0x539a7a(0x7be)]=_0x1563b9['console']||{},_0x52292f=[_0x1c29b8['FikLV'],_0x1c29b8['takLo'],_0x1c29b8[_0xc88680(0x2c8,'j4WJ')],_0x1c29b8['QBODI'],_0x1c29b8[_0x539a7a(0x391)],_0x1c29b8[_0xc88680(0x316,'Q3#2')],_0x1c29b8['PjaJV']];for(let _0x53e300=0x0;_0x1c29b8[_0xc88680(0x32d,'W7A7')](_0x53e300,_0x52292f[_0xc88680(0x2b1,'LWQm')]);_0x53e300++){const _0x46ca99=_0x2ade32[_0x539a7a(0x28a)][_0x539a7a(0x691)][_0x539a7a(0x6ec)](_0x2ade32),_0x495a82=_0x52292f[_0x53e300],_0x157af6=_0x1355e1[_0x495a82]||_0x46ca99;_0x46ca99[_0x539a7a(0x9e)]=_0x2ade32['bind'](_0x2ade32),_0x46ca99[_0x250fa8(0x671)]=_0x157af6[_0xc88680(0xa0,'y9!3')]['bind'](_0x157af6),_0x1355e1[_0x495a82]=_0x46ca99;}});_0x1c29b8['POQBT'](_0x53bc34),_0x1c29b8[_0x2b131b(0x579)](require,[_0x1c29b8['dBjwK'],_0x1c29b8[_0x2b131b(0x629)],_0x1c29b8[_0x579bb6(0x783,'tIy0')],_0x1c29b8[_0x2b131b(0x8d4)],_0x579bb6(0x362,'s6tb'),_0x1c29b8[_0x57e682(0x5a8)],_0x579bb6(0x4f0,'7u9P'),_0x1c29b8[_0x57e682(0x556)],_0x1c29b8[_0x57e682(0x85a)],_0x1c29b8['xwTYt'],_0x579bb6(0x8c5,'$y[j'),_0x1c29b8[_0x579bb6(0x910,'Zt]E')],_0x2b131b(0x486),_0x1c29b8[_0x2b131b(0x3ea)],_0x1c29b8[_0x579bb6(0x360,'$y[j')],_0x1c29b8[_0x2b131b(0x4df)],'esri/widgets/LayerList',_0x57e682(0x895),_0x1c29b8[_0x57e682(0x8c1)],_0x1c29b8[_0x2b131b(0x259)],'esri/smartMapping/renderers/heatmap',_0x1c29b8[_0x57e682(0x47e)],_0x1c29b8[_0x2b131b(0x3cd)],_0x1c29b8['WqSnP'],_0x1c29b8[_0x57e682(0x918)],_0x1c29b8[_0x579bb6(0x58c,'6irY')],_0x2b131b(0x7d9),_0x1c29b8[_0x57e682(0x803)],_0x1c29b8[_0x57e682(0x358)],_0x2b131b(0x6e3),_0x1c29b8[_0x579bb6(0x6f0,'oVHT')],_0x1c29b8['MDKSb'],_0x1c29b8[_0x57e682(0x656)],_0x1c29b8[_0x579bb6(0x520,'66Zk')],_0x1c29b8[_0x579bb6(0x280,'DEqX')],'esri/widgets/BasemapToggle',_0x1c29b8[_0x57e682(0x203)],_0x1c29b8[_0x57e682(0x7ec)]],function(_0x51ded5,_0x78fb53,_0x5c71e0,_0x4ed782,_0x436dcf,_0x9b6fae,_0x3ec3f6,_0x377b5f,_0x51ae85,_0xdb4aec,_0x49a825,_0x60f434,_0x55e53c,_0x4bdbba,_0x41ef5c,_0x5a4809,_0x5613b6,_0x594140,_0x84b036,_0x2fa4ef,_0x1491dc,_0x5e7b2c,_0x336c39,_0x1535aa,_0x148d9b,_0x179981,_0x5dbc4f,_0x5976c9,_0x1adf96,_0x409e52,_0x1eda38,_0xa7ab6,_0x15d9ab,_0x5be5cf,_0x2614c5,_0x304ff1,_0x182835,_0x3cbd67){const _0x37be03=_0x2b131b,_0x139205=_0x57e682,_0x353cc9=_0x579bb6,_0x24d34c={'XmGIE':_0x1c29b8[_0x353cc9(0x1d5,'oS%5')],'wVrWN':_0x1c29b8[_0x139205(0x335)],'spRcH':_0x1c29b8['TxONs'],'pdaZh':_0x1c29b8[_0x353cc9(0xd7,'uRlI')],'TmnmL':_0x1c29b8[_0x37be03(0xed)],'btgqS':_0x1c29b8[_0x353cc9(0x2c9,'kOJj')],'QYNIK':_0x37be03(0x22f),'ggBKB':_0x1c29b8[_0x37be03(0x4a3)],'LzCOy':_0x139205(0x14a),'OTNCj':_0x37be03(0x52f),'WOxoH':_0x1c29b8[_0x353cc9(0x67e,'uRlI')],'HIbJO':function(_0x13e889){const _0x50a9b2=_0x353cc9;return _0x1c29b8[_0x50a9b2(0x6fc,'N)JJ')](_0x13e889);},'kscAW':_0x1c29b8[_0x353cc9(0x928,'IZn(')],'mFpyh':_0x1c29b8[_0x139205(0x374)],'NgCEg':_0x353cc9(0x3a2,'L9pl'),'sRqOy':function(_0x2c9a41,_0x5e7f30){const _0x18ad58=_0x353cc9;return _0x1c29b8[_0x18ad58(0x874,'vyC#')](_0x2c9a41,_0x5e7f30);},'dgDHq':function(_0x2556d5,_0x4272d9){const _0x10e62d=_0x37be03;return _0x1c29b8[_0x10e62d(0x124)](_0x2556d5,_0x4272d9);},'wXEmw':function(_0x594e8a,_0x1fe031){const _0x3e677a=_0x37be03;return _0x1c29b8[_0x3e677a(0x118)](_0x594e8a,_0x1fe031);},'kazLn':_0x1c29b8[_0x353cc9(0x638,'tIy0')],'NADLP':function(_0x1e1415,_0x1c825e){return _0x1c29b8['UTjFl'](_0x1e1415,_0x1c825e);},'RUwuj':_0x1c29b8[_0x139205(0x2a2)],'ryOpD':_0x37be03(0x5b5),'HGquX':_0x37be03(0x6ff),'PpbSF':_0x1c29b8['pyFib'],'zRtvS':function(_0x3fb45c,_0x5472fb){const _0x96581a=_0x139205;return _0x1c29b8[_0x96581a(0x60c)](_0x3fb45c,_0x5472fb);},'WBZQP':'العنصر\x20رقم\x20{','iktHD':_0x37be03(0x827),'ZWroK':function(_0x1703b3,_0x3af50d){const _0x4272fd=_0x139205;return _0x1c29b8[_0x4272fd(0x321)](_0x1703b3,_0x3af50d);},'ZVJlb':_0x1c29b8['ABXso'],'maGma':_0x1c29b8['hDPNs'],'FyGsX':function(_0x173629,_0x253442){return _0x173629+_0x253442;},'miCYC':function(_0x1e45d6,_0xe88619){const _0x3fba9e=_0x37be03;return _0x1c29b8[_0x3fba9e(0x387)](_0x1e45d6,_0xe88619);},'RkTFp':_0x1c29b8['IxkIo'],'gwzRi':'GeoJsonLayer_','xdqsy':function(_0x3bf578,_0x4e910d,_0x21b81d){return _0x3bf578(_0x4e910d,_0x21b81d);},'vfQhb':_0x1c29b8[_0x37be03(0x5c8)],'pjwSR':_0x1c29b8[_0x139205(0xeb)],'OJCUr':_0x1c29b8[_0x353cc9(0x8f2,'j4WJ')],'XtgZs':function(_0x555162,_0x34e25d){return _0x1c29b8['GMhVB'](_0x555162,_0x34e25d);},'ntVDX':_0x1c29b8[_0x37be03(0x67b)],'IOueO':_0x1c29b8[_0x353cc9(0x787,'$y[j')],'NGMai':_0x1c29b8['mQdeI'],'KjsHG':_0x1c29b8['wacdQ'],'eANjh':_0x1c29b8[_0x37be03(0x7a0)],'huqhV':_0x1c29b8['NPerD'],'zAHrU':_0x1c29b8[_0x139205(0x13f)],'nMsrZ':function(_0x48690b,_0x419b77){return _0x1c29b8['MIBLV'](_0x48690b,_0x419b77);},'fMmnr':_0x1c29b8[_0x37be03(0x5c6)],'bTaUj':_0x1c29b8[_0x37be03(0x5a5)],'nxDbo':_0x1c29b8[_0x139205(0x79f)],'EdCQN':_0x1c29b8[_0x353cc9(0x4e0,'e91b')],'BXMTg':_0x1c29b8['ozEOy'],'bVnus':_0x1c29b8['QgDRv'],'mewez':_0x139205(0x75e),'iWBQz':_0x1c29b8['FuUei'],'QVsXL':function(_0x434386,_0x596a92){return _0x434386!==_0x596a92;},'aFFdS':_0x1c29b8[_0x353cc9(0x844,'66Zk')],'cNBno':function(_0x1c49a8,_0x25fc37){return _0x1c29b8['rjYNZ'](_0x1c49a8,_0x25fc37);},'HsiCP':function(_0x1ef897,_0x5a619a){return _0x1ef897+_0x5a619a;},'cqzuL':_0x1c29b8[_0x37be03(0x5a3)],'suqyD':function(_0x313d2d,_0x37e004){return _0x1c29b8['OvNvK'](_0x313d2d,_0x37e004);},'fFXuF':_0x139205(0x8d3),'nfBXl':function(_0x4abcca,_0x5b3966){const _0x16479d=_0x353cc9;return _0x1c29b8[_0x16479d(0x4b7,'e91b')](_0x4abcca,_0x5b3966);},'rLbsF':_0x1c29b8[_0x139205(0x77d)],'mzYDM':function(_0x204858,_0x22c796){return _0x1c29b8['dAirw'](_0x204858,_0x22c796);},'KuaVo':_0x1c29b8[_0x139205(0xf1)],'VOrNC':function(_0x387a33,_0x15b555){const _0xbb85d0=_0x353cc9;return _0x1c29b8[_0xbb85d0(0x190,'uEyB')](_0x387a33,_0x15b555);},'UtmkU':function(_0x3d2673,_0x5dffee){const _0x34b880=_0x37be03;return _0x1c29b8[_0x34b880(0x95)](_0x3d2673,_0x5dffee);},'TccyQ':_0x1c29b8['cZoNb'],'RfYKC':_0x1c29b8[_0x37be03(0x10b)],'rrdcq':'CSV_Sheet','idQnz':_0x1c29b8[_0x139205(0x2ed)],'NUsSv':function(_0x5d130e,_0x28f9a4){return _0x5d130e==_0x28f9a4;},'RJEMq':_0x37be03(0x4db),'gOMMF':_0x1c29b8['GFPAl'],'XWELN':function(_0x251715,_0x4fc471,_0x2cedf7){const _0x520e46=_0x353cc9;return _0x1c29b8[_0x520e46(0x7fb,'uRlI')](_0x251715,_0x4fc471,_0x2cedf7);},'htovJ':'_extraction','sDqwc':_0x1c29b8['CodkV'],'lrcgd':function(_0x47e9ea,_0x3871e9){const _0x55034f=_0x353cc9;return _0x1c29b8[_0x55034f(0x5dd,'vyC#')](_0x47e9ea,_0x3871e9);},'VKhuf':_0x1c29b8[_0x37be03(0x80a)],'UwOYc':_0x1c29b8[_0x139205(0x702)],'xnqZE':function(_0x31b9b7,_0x1460be){return _0x31b9b7*_0x1460be;},'NEHQa':_0x1c29b8['AOOwX'],'wuGgk':_0x1c29b8[_0x353cc9(0x66f,'oS%5')],'ARoHo':_0x1c29b8[_0x37be03(0x442)],'pujNd':_0x1c29b8['RChDN'],'bAwrx':_0x1c29b8[_0x139205(0xd4)],'MjEEh':_0x1c29b8[_0x37be03(0x78f)],'VYiGk':function(_0x339b14,_0x583768){return _0x339b14===_0x583768;},'RyDsO':function(_0xd69981,_0x92add7){const _0x5e4fa6=_0x37be03;return _0x1c29b8[_0x5e4fa6(0x8a8)](_0xd69981,_0x92add7);},'BcUWQ':_0x1c29b8[_0x353cc9(0x388,'Pf[X')],'NEWTs':_0x1c29b8[_0x37be03(0x137)],'BpCZN':function(_0x38bfa3,_0x3663c8){return _0x38bfa3(_0x3663c8);},'SFTJx':function(_0x26af95){const _0x3bf486=_0x139205;return _0x1c29b8[_0x3bf486(0x4b2)](_0x26af95);},'HvUbD':_0x37be03(0x4d0),'MxMaI':_0x1c29b8[_0x139205(0x6eb)],'MECFx':_0x1c29b8['cymis'],'VAlYe':_0x1c29b8[_0x353cc9(0x2a5,'L9pl')],'thxDW':_0x1c29b8['aRRIG'],'hvBxp':_0x139205(0x65b),'cZZjA':_0x1c29b8[_0x37be03(0x51b)],'jWZVM':_0x37be03(0x526),'NvnNM':_0x1c29b8['Sgwca'],'jQMJL':_0x1c29b8[_0x37be03(0xa4)],'yrfYU':_0x353cc9(0x8ca,'oRyI'),'EEkeM':_0x1c29b8[_0x139205(0x7a4)],'PBTxX':_0x1c29b8[_0x139205(0x7b0)],'kYABQ':_0x1c29b8[_0x353cc9(0x121,'NwE[')],'uRNxk':_0x1c29b8[_0x37be03(0x875)],'rbprA':_0x1c29b8[_0x353cc9(0x8ef,'W7A7')],'BQzRz':_0x1c29b8[_0x353cc9(0x720,'Y!f2')],'xjcim':_0x1c29b8[_0x37be03(0x83d)],'iLAaH':_0x1c29b8[_0x37be03(0x942)],'JMtNF':_0x1c29b8[_0x353cc9(0x824,'kOJj')],'qUyGr':_0x1c29b8['qTLGN'],'DuOUr':function(_0x387c20,_0x34bb8b){const _0x5cc973=_0x139205;return _0x1c29b8[_0x5cc973(0x10f)](_0x387c20,_0x34bb8b);},'BKvnV':_0x37be03(0x1a1),'YeKKM':_0x353cc9(0x73b,'aHTy'),'INcdU':_0x1c29b8['blHOh'],'ZVAMz':_0x1c29b8[_0x37be03(0x5c9)],'AqDgR':_0x1c29b8[_0x353cc9(0x281,'66Zk')],'lhTxo':_0x1c29b8[_0x37be03(0x132)],'YUMHN':_0x1c29b8[_0x139205(0x8da)],'UaaBM':_0x1c29b8[_0x353cc9(0x611,'N(06')],'qaLiF':_0x1c29b8[_0x353cc9(0x3b1,'h0v]')],'Girxx':_0x1c29b8[_0x37be03(0x31d)],'tpJdM':_0x1c29b8[_0x139205(0x6e9)],'Nnvkt':_0x1c29b8[_0x139205(0x3f3)],'QBTRV':_0x1c29b8[_0x37be03(0x7ee)],'KhDTd':_0x37be03(0x846),'KsSvV':_0x1c29b8[_0x139205(0x75d)],'obHye':_0x353cc9(0x659,'v7Qz'),'OYyjp':_0x1c29b8['ItOtE'],'Bzqzv':_0x1c29b8[_0x353cc9(0x72e,'(o2u')],'Bpltu':function(_0x22cb69,_0x3545c8){return _0x1c29b8['bjuST'](_0x22cb69,_0x3545c8);},'TShFw':_0x1c29b8[_0x139205(0x5d6)],'vsjAy':_0x1c29b8['AATer'],'oRNpc':function(_0x69e48b){return _0x69e48b();},'FxHEX':function(_0x4f28c5){const _0x214ad3=_0x353cc9;return _0x1c29b8[_0x214ad3(0x819,'kOJj')](_0x4f28c5);},'nviMN':_0x37be03(0x7e0),'zOsgi':_0x1c29b8[_0x139205(0x4d9)],'XfxJe':_0x353cc9(0x37c,'JHTv'),'RsyXb':_0x1c29b8[_0x37be03(0x2ec)],'phVNs':_0x1c29b8[_0x139205(0x5b4)],'hIJGs':function(_0x3c472a,_0x46542d,_0x180bb3,_0x34049d){const _0x38de89=_0x139205;return _0x1c29b8[_0x38de89(0x27f)](_0x3c472a,_0x46542d,_0x180bb3,_0x34049d);},'mkBtN':_0x1c29b8[_0x353cc9(0x797,'tIy0')],'gnBvL':_0x1c29b8[_0x37be03(0x5e0)],'IAjHX':_0x1c29b8[_0x37be03(0x7f8)],'xIvSn':_0x1c29b8[_0x37be03(0x7d4)],'ZxtVp':function(_0x4ba887,_0x357b3d){const _0x23640f=_0x37be03;return _0x1c29b8[_0x23640f(0x5bb)](_0x4ba887,_0x357b3d);},'AgVmX':_0x37be03(0x1d2),'PQnRP':_0x1c29b8[_0x37be03(0x936)],'MxTPb':function(_0x2af4de,_0x4831b9){return _0x2af4de==_0x4831b9;},'nMSrN':_0x1c29b8['vrFdx'],'BCNpU':_0x1c29b8['wkrNn'],'ssvGV':_0x1c29b8[_0x139205(0x270)],'aETcK':_0x1c29b8[_0x139205(0x8e3)],'cNfZO':_0x1c29b8[_0x37be03(0x810)],'UhkYI':_0x1c29b8['WPKCL'],'fXrWu':_0x1c29b8[_0x37be03(0xa7)],'mNcXI':_0x1c29b8[_0x139205(0x2b4)],'adbIn':'savedBookmark','QeoQj':_0x1c29b8['DhCUe'],'AYHml':_0x1c29b8[_0x353cc9(0x8f3,'ZH7I')],'Jvkri':_0x1c29b8[_0x37be03(0x5a9)],'LFunA':_0x1c29b8[_0x353cc9(0x8cb,'5q&t')],'fEwMn':_0x1c29b8['IlDYC'],'CIiJE':_0x1c29b8[_0x139205(0x8a6)],'vqMYj':function(_0x473273,_0x307b3d){const _0x68eea4=_0x353cc9;return _0x1c29b8[_0x68eea4(0x192,'aHTy')](_0x473273,_0x307b3d);},'IbhJn':_0x1c29b8[_0x37be03(0x301)],'umxNc':_0x1c29b8['fJZBy'],'JyjYS':function(_0x20e7de,_0x9864cb){const _0xf73e9e=_0x353cc9;return _0x1c29b8[_0xf73e9e(0x393,'LWQm')](_0x20e7de,_0x9864cb);},'ijTDf':_0x353cc9(0x5d7,'u([%'),'KRkBh':function(_0x4d29eb,_0x290739){return _0x4d29eb+_0x290739;},'aYbEi':function(_0x3a8be5,_0x10d858){return _0x1c29b8['uYGVB'](_0x3a8be5,_0x10d858);},'Hfypn':_0x1c29b8[_0x139205(0xb0)],'RvIQc':function(_0x6bfdb7,_0x54f473){const _0x4fd50e=_0x353cc9;return _0x1c29b8[_0x4fd50e(0x718,'kOJj')](_0x6bfdb7,_0x54f473);},'oBvQl':function(_0x1ecfc0,_0x4f231e){return _0x1ecfc0(_0x4f231e);},'NXlqh':_0x1c29b8['YMADB'],'qyJPn':function(_0xb858e4,_0x1259d3){return _0xb858e4(_0x1259d3);},'qqHjw':'لا\x20يمكن\x20إجراء\x20البحث\x20على\x20هذه\x20الطبقة','zfCOs':_0x1c29b8[_0x139205(0x282)],'bzGcp':_0x1c29b8[_0x139205(0x5ae)],'QPmno':_0x1c29b8[_0x353cc9(0x714,'e91b')],'vNxtT':_0x1c29b8[_0x37be03(0x59b)],'GDqOB':function(_0x4c30bd,_0x4c78d0){return _0x4c30bd===_0x4c78d0;},'bOHzw':function(_0x1cdf5b,_0x23086f){const _0x1eded0=_0x353cc9;return _0x1c29b8[_0x1eded0(0x72a,'&IE8')](_0x1cdf5b,_0x23086f);},'diLwU':_0x1c29b8[_0x353cc9(0x73c,'j4WJ')],'wTRBO':function(_0x3e76d,_0x27f1c3){const _0x12f523=_0x37be03;return _0x1c29b8[_0x12f523(0x4f4)](_0x3e76d,_0x27f1c3);},'UzcCu':function(_0x4a0fb6,_0x22bc7d){return _0x1c29b8['CCjXb'](_0x4a0fb6,_0x22bc7d);},'UzZsJ':function(_0x5d0320,_0x284c32){return _0x5d0320===_0x284c32;},'tsSQt':_0x37be03(0x87),'LANds':function(_0x379b0a,_0x2e86e6){return _0x1c29b8['CCjXb'](_0x379b0a,_0x2e86e6);},'GNbkX':function(_0x921567,_0x86fb3a){const _0x4f764e=_0x37be03;return _0x1c29b8[_0x4f764e(0x178)](_0x921567,_0x86fb3a);},'jYFWr':function(_0x349b51,_0x4c0dd0,_0x17feeb){const _0x6badc2=_0x353cc9;return _0x1c29b8[_0x6badc2(0x39b,'u([%')](_0x349b51,_0x4c0dd0,_0x17feeb);},'ajEwt':_0x139205(0x6d9),'VaXmt':_0x1c29b8['nZnhB'],'MASXy':_0x1c29b8[_0x353cc9(0x5fc,'s(LG')],'Egvuy':_0x1c29b8[_0x139205(0x18c)],'xynwf':_0x37be03(0x66e),'uwdgP':_0x139205(0x1ac),'wsyyE':function(_0x172919,_0x269893){const _0x27aa26=_0x37be03;return _0x1c29b8[_0x27aa26(0x58d)](_0x172919,_0x269893);},'lEkse':_0x37be03(0x34f),'BsmLE':_0x1c29b8[_0x353cc9(0x50a,'vyC#')],'QJewM':_0x37be03(0x825),'Ndeox':_0x37be03(0x80b),'roLbR':function(_0xfd2812,_0x1ac92b){return _0xfd2812<=_0x1ac92b;},'qosrq':_0x1c29b8['PsULm'],'CmkFB':_0x1c29b8['PZWmb'],'clnay':_0x1c29b8[_0x139205(0x623)],'FRotn':_0x1c29b8[_0x37be03(0x2e3)],'kEskQ':_0x1c29b8['xEKJy'],'yHWyo':_0x1c29b8[_0x139205(0x1ce)],'iVouE':_0x1c29b8[_0x37be03(0x76b)],'yybqo':_0x1c29b8[_0x37be03(0x1eb)],'VVsbb':_0x1c29b8[_0x37be03(0x700)],'xBklU':_0x1c29b8[_0x37be03(0x269)],'XeIjY':_0x1c29b8[_0x353cc9(0x16b,'oVHT')],'QPAaO':function(_0x2380a5,_0x24b7fb){const _0x1b479f=_0x139205;return _0x1c29b8[_0x1b479f(0x35e)](_0x2380a5,_0x24b7fb);},'NKTlB':function(_0x353d25,_0x4e1ccb){const _0x74e51c=_0x139205;return _0x1c29b8[_0x74e51c(0x35e)](_0x353d25,_0x4e1ccb);},'vvXRz':_0x139205(0x347),'bMYbA':function(_0x491324,_0x57e477){const _0x462079=_0x139205;return _0x1c29b8[_0x462079(0x35e)](_0x491324,_0x57e477);},'TtHDX':_0x139205(0x675),'xTOjN':function(_0x3d59d6,_0x481ad8){return _0x3d59d6+_0x481ad8;},'IKIRm':_0x1c29b8['ftGyf'],'eGBDM':_0x1c29b8[_0x353cc9(0x71c,'Pf[X')],'SxdtT':function(_0x2a26ea,_0x2fc1e5){return _0x2a26ea===_0x2fc1e5;},'VfnSC':_0x1c29b8[_0x139205(0x365)],'JPLmf':function(_0x4dd08d,_0x1c46b5){const _0x437b7e=_0x139205;return _0x1c29b8[_0x437b7e(0x6f5)](_0x4dd08d,_0x1c46b5);},'PlJjL':_0x353cc9(0x3b8,'5q&t'),'BZYpi':_0x1c29b8[_0x353cc9(0x1df,'&IE8')],'eCCfx':_0x1c29b8[_0x37be03(0x255)],'KtqmC':_0x139205(0x5fa),'anQsZ':function(_0x18c228){const _0x160ed4=_0x353cc9;return _0x1c29b8[_0x160ed4(0x1e1,'JHTv')](_0x18c228);},'vWCmv':function(_0x2cd324){return _0x2cd324();},'jVMdF':'الرجاء\x20اختيار\x20طبقات\x20من\x20نوع\x20المضلعات','UeQcW':function(_0x5cb0be){const _0x5027b5=_0x139205;return _0x1c29b8[_0x5027b5(0x268)](_0x5cb0be);},'sDUJJ':function(_0x1aa644){const _0x2918d3=_0x37be03;return _0x1c29b8[_0x2918d3(0x367)](_0x1aa644);},'YuGae':function(_0x40148e,_0x21ec53){return _0x40148e(_0x21ec53);},'mgpTc':_0x1c29b8[_0x37be03(0x353)],'APIPd':function(_0x18c57a,_0x45055f){const _0x4a2469=_0x139205;return _0x1c29b8[_0x4a2469(0x35e)](_0x18c57a,_0x45055f);},'sOFRY':function(_0x2cbb70,_0x57d633){const _0x69c967=_0x353cc9;return _0x1c29b8[_0x69c967(0x741,'Zt]E')](_0x2cbb70,_0x57d633);},'fJdeT':_0x1c29b8['ptTJm'],'loyNt':function(_0x25a012,_0x370b69){const _0x48ed29=_0x37be03;return _0x1c29b8[_0x48ed29(0x5bb)](_0x25a012,_0x370b69);},'HnMSJ':function(_0x4c111f,_0x594142){const _0x2eedea=_0x139205;return _0x1c29b8[_0x2eedea(0x597)](_0x4c111f,_0x594142);},'AoLvF':function(_0x22fd1a,_0xa0de5b){return _0x1c29b8['gSshN'](_0x22fd1a,_0xa0de5b);},'dDgla':function(_0x486be5,_0x379a62){const _0x1771bf=_0x139205;return _0x1c29b8[_0x1771bf(0x3ca)](_0x486be5,_0x379a62);},'XlTHC':function(_0x252ae7,_0x59e5bd){const _0xe7a318=_0x139205;return _0x1c29b8[_0xe7a318(0x29d)](_0x252ae7,_0x59e5bd);},'DeJpC':_0x1c29b8['SAVSH'],'FFqiD':function(_0x76f45e){return _0x76f45e();},'yDvRG':function(_0x42d0ad){return _0x1c29b8['NRUDD'](_0x42d0ad);},'ExSbt':_0x1c29b8[_0x37be03(0x3fd)],'qWAEk':function(_0x5753a4,_0xd84638){const _0xdee9be=_0x353cc9;return _0x1c29b8[_0xdee9be(0x418,'tIy0')](_0x5753a4,_0xd84638);},'MWRLx':_0x1c29b8[_0x353cc9(0x816,'Pf[X')],'kjBna':_0x1c29b8[_0x353cc9(0x89f,'C^5W')],'PgxtV':function(_0x1a8c56,_0x1cd0d1){return _0x1a8c56(_0x1cd0d1);},'TiSFA':_0x353cc9(0x6e8,'Y!f2'),'lmZUO':_0x1c29b8[_0x139205(0x673)],'uEmov':function(_0x461481,_0x34fe16){const _0xc5db32=_0x37be03;return _0x1c29b8[_0xc5db32(0x11c)](_0x461481,_0x34fe16);},'CplBJ':function(_0x9b9353,_0xbc8c7a){const _0x1e86a3=_0x37be03;return _0x1c29b8[_0x1e86a3(0x11c)](_0x9b9353,_0xbc8c7a);},'wVQSA':_0x1c29b8[_0x37be03(0x94d)],'EJRqE':function(_0x57c819,_0xeac9a5){return _0x1c29b8['GSNPa'](_0x57c819,_0xeac9a5);},'NKRRy':_0x1c29b8[_0x37be03(0x213)],'wZqjy':function(_0x557b76,_0x70039e){const _0x5105b6=_0x37be03;return _0x1c29b8[_0x5105b6(0x178)](_0x557b76,_0x70039e);},'Oawwy':function(_0x5a0a4b,_0x27bbfb){return _0x5a0a4b(_0x27bbfb);},'CpOSG':_0x1c29b8[_0x353cc9(0x6aa,'66Zk')],'nYKCy':function(_0x545f13,_0x333aee){const _0x42d676=_0x139205;return _0x1c29b8[_0x42d676(0x6f5)](_0x545f13,_0x333aee);},'zKnDV':_0x1c29b8[_0x353cc9(0x45c,'e91b')],'PvZpt':function(_0x37a875,_0x555f06){return _0x37a875(_0x555f06);},'FBVWr':function(_0x3792d9){const _0x5e1170=_0x37be03;return _0x1c29b8[_0x5e1170(0x367)](_0x3792d9);},'Yfzvx':function(_0x599c37,_0x5e45d6){return _0x599c37!==_0x5e45d6;},'Xtjzy':function(_0x584ef8){const _0x17e3a2=_0x37be03;return _0x1c29b8[_0x17e3a2(0x367)](_0x584ef8);},'gGHtV':function(_0x36bb71,_0x29eed4){return _0x36bb71!==_0x29eed4;},'UBXKD':'touchLayer2','rDuNF':function(_0x3f486e,_0x3a4225){const _0x5666d6=_0x37be03;return _0x1c29b8[_0x5666d6(0x178)](_0x3f486e,_0x3a4225);},'fCRwe':function(_0x5b8f7d,_0x95b578){return _0x5b8f7d(_0x95b578);},'chZQS':'runtouch','uOUOY':_0x139205(0x2f8),'qBiJB':_0x1c29b8[_0x37be03(0x778)],'NzhgO':function(_0x11932b,_0x598f91){return _0x1c29b8['RRWwi'](_0x11932b,_0x598f91);},'qbQwj':function(_0x218d96,_0x33b2f6){const _0x37527c=_0x139205;return _0x1c29b8[_0x37527c(0x472)](_0x218d96,_0x33b2f6);},'gKsAg':_0x1c29b8['aajIo'],'yFozn':function(_0xd168b9,_0x8c5825){const _0x2c448c=_0x353cc9;return _0x1c29b8[_0x2c448c(0x8fa,'Zt]E')](_0xd168b9,_0x8c5825);},'BtkqA':_0x1c29b8[_0x139205(0x935)],'vZOho':function(_0x59c1c6,_0x44ead1){return _0x59c1c6===_0x44ead1;},'YQZHb':function(_0x29791f){const _0x1345f1=_0x353cc9;return _0x1c29b8[_0x1345f1(0x952,'Q3#2')](_0x29791f);},'ryAnQ':_0x1c29b8['sFidu'],'DdDNS':_0x1c29b8[_0x139205(0x340)],'kUjqr':function(_0x2c41b9){const _0x531fe4=_0x139205;return _0x1c29b8[_0x531fe4(0x268)](_0x2c41b9);},'LnRAT':function(_0x212547){const _0x3ac333=_0x353cc9;return _0x1c29b8[_0x3ac333(0x2aa,'&IE8')](_0x212547);},'VNVxG':function(_0x1c07cd){return _0x1c07cd();},'RslBw':_0x1c29b8[_0x37be03(0x46a)],'OKKNJ':_0x1c29b8[_0x37be03(0x5d9)],'QPhlE':function(_0xc823bc,_0xc238ce){return _0xc823bc==_0xc238ce;},'qmWAc':_0x139205(0x7e7),'xnIGf':_0x1c29b8[_0x37be03(0x4fa)],'UdbYV':_0x353cc9(0x3bf,'XJG4'),'TmyGl':_0x1c29b8['Bgnyd']};let _0x5be6f7={},_0xaa21ca={},_0x8bff60=_0x1c29b8['IpbJQ'];_0x5be6f7[_0x8bff60]=new _0x51ded5({'basemap':_0x1c29b8[_0x353cc9(0x3c1,'iQ&)')]});let _0x5e8ca4=new _0x5c71e0({'wkid':0xf11}),_0x574e7e=new _0x78fb53({'container':_0x1c29b8[_0x139205(0x286)],'map':_0x5be6f7[_0x8bff60],'zoom':0x3,'center':[0x0,0x0]}),_0x17743f=new _0x41ef5c({'title':_0x139205(0x141),'listMode':_0x1c29b8[_0x139205(0x310)]});var _0x211537=new _0x3cbd67({'view':_0x574e7e});let _0x1fc5a8=new _0x55e53c({'view':_0x574e7e});_0x574e7e['ui'][_0x37be03(0x33d)](_0x1fc5a8,_0x139205(0x247));let _0x583c49=new _0x182835({'view':_0x574e7e}),_0x24b458=new _0x15d9ab({'view':_0x574e7e,'label':_0x1c29b8['cbJAc'],'unit':_0x1c29b8['jZwMr']}),_0x3fbf74=new _0x5be5cf({'view':_0x574e7e,'label':_0x1c29b8[_0x139205(0x4af)],'unit':_0x1c29b8[_0x37be03(0x4cb)]}),_0xb037aa=new _0xa7ab6({'view':_0x574e7e,'unit':_0x1c29b8[_0x353cc9(0x3b4,'aHTy')]}),_0x4a38cb=new _0x41ef5c({'title':_0x1c29b8[_0x353cc9(0x156,'N&[G')]}),_0x244aa6=new _0x4bdbba({'layer':_0x4a38cb,'view':_0x574e7e,'creationMode':_0x1c29b8[_0x139205(0x169)]}),_0x2a7b6b=new _0x4bdbba({'layer':_0x17743f,'view':_0x574e7e,'availableCreateTools':[_0x1c29b8[_0x353cc9(0x7c8,'NwE[')],_0x1c29b8['YddLK']],'creationMode':_0x1c29b8[_0x353cc9(0x669,'5ld@')]});var _0x3c8562=new _0x2fa4ef({'view':_0x574e7e});let _0x28e450=new _0x5dbc4f({'view':_0x574e7e,'printServiceUrl':_0x1c29b8[_0x139205(0x19b)]}),_0x4f6956=document['getElementsByClassName'](_0x1c29b8[_0x353cc9(0x4b0,'&IE8')]);for(let _0x2a1c73=0x0;_0x1c29b8[_0x353cc9(0x8f4,'v4(y')](_0x2a1c73,_0x4f6956[_0x139205(0x4d7)]);_0x2a1c73++){_0x4f6956[_0x2a1c73][_0x139205(0x83b)](_0x1c29b8['TnClt'],_0x13a370=>{const _0x189f57=_0x353cc9,_0x20c890=_0x37be03,_0x2dd3f8=_0x139205;let _0x347d8c=_0x13a370['target'][_0x2dd3f8(0x92b)];if(_0x28efd7)_0x574e7e['ui']['remove'](_0x28efd7);switch(_0x347d8c){case _0x24d34c[_0x20c890(0x5fd)]:_0x13a370[_0x2dd3f8(0x651)][_0x189f57(0x511,'5q&t')]?_0x574e7e['ui']['add'](_0x1fc5a8,_0x24d34c[_0x2dd3f8(0x297)]):_0x574e7e['ui']['remove'](_0x1fc5a8);break;case _0x24d34c[_0x20c890(0xe2)]:_0x13a370[_0x2dd3f8(0x651)]['checked']?_0x574e7e['ui']['add'](_0xb037aa,_0x24d34c[_0x20c890(0x868)]):_0x574e7e['ui'][_0x189f57(0x8e,'s(LG')](_0xb037aa);break;case _0x24d34c['pdaZh']:_0x13a370[_0x20c890(0x242)][_0x2dd3f8(0x8ac)]?_0x574e7e['ui'][_0x20c890(0x33d)](_0x3fbf74,_0x24d34c['TmnmL']):_0x574e7e['ui'][_0x189f57(0x218,'$y[j')](_0x3fbf74);break;case _0x24d34c['btgqS']:_0x13a370[_0x20c890(0x242)][_0x189f57(0x5c0,'IZn(')]?_0x574e7e['ui'][_0x20c890(0x33d)](_0x24b458,_0x24d34c[_0x20c890(0x7c7)]):_0x574e7e['ui']['remove'](_0x24b458);break;case _0x20c890(0x582):_0x13a370[_0x2dd3f8(0x651)][_0x20c890(0x19e)]?_0x574e7e['ui'][_0x20c890(0x33d)](_0x583c49,_0x24d34c[_0x189f57(0x768,'JHTv')]):_0x574e7e['ui'][_0x20c890(0x49a)](_0x583c49);break;case _0x24d34c['QYNIK']:_0x13a370[_0x20c890(0x242)][_0x189f57(0x3f0,'j4WJ')]?_0x574e7e['ui'][_0x189f57(0x901,'oVHT')](_0x3c8562,'top-right'):_0x574e7e['ui'][_0x20c890(0x49a)](_0x3c8562);break;case _0x24d34c[_0x20c890(0x759)]:_0x13a370[_0x20c890(0x242)][_0x20c890(0x19e)]?(_0x5be6f7[_0x8bff60][_0x189f57(0xea,'u([%')](_0x4a38cb),_0x574e7e['ui'][_0x20c890(0x33d)](_0x244aa6,_0x20c890(0x4f6))):_0x574e7e['ui'][_0x20c890(0x49a)](_0x244aa6);break;default:break;}});}let _0xfcdf6,_0x4825b9,_0x52f27f,_0x379bd4;widgetBackMenus={'symbologyOptionsDiv':_0x1c29b8[_0x37be03(0x137)],'simpleRendererDiv':_0x1c29b8[_0x37be03(0x1c0)],'colorRendererDiv':_0x1c29b8[_0x353cc9(0x8c2,'XJG4')],'uniqueRendererDiv':_0x1c29b8[_0x37be03(0x1c0)],'sizeRendererDiv':_0x37be03(0x78c),'heatmapRendererDiv':_0x1c29b8[_0x139205(0x49b)],'labelingOptionsDiv':'none','popupConfigDiv':_0x1c29b8[_0x353cc9(0x5c4,'5q&t')],'bookmarksDiv':_0x1c29b8[_0x353cc9(0x65a,'tIy0')],'addBookmarkDiv':_0x1c29b8[_0x139205(0xbb)],'scratchLayerDiv':_0x1c29b8[_0x353cc9(0x3a1,'u([%')],'webServiceDiv':_0x1c29b8[_0x37be03(0x137)],'csvDiv':_0x1c29b8[_0x353cc9(0x12d,'iQ&)')],'kmlLayerDiv':_0x1c29b8[_0x139205(0x82f)],'jsonLayerDiv':_0x1c29b8[_0x353cc9(0x560,'QhlL')],'portalItemDiv':_0x1c29b8[_0x353cc9(0x76f,'oRyI')],'uploadLayerDiv':_0x1c29b8[_0x353cc9(0x5c4,'5q&t')],'coordinatesDiv':_0x1c29b8[_0x139205(0x356)],'exportDataDiv':_0x1c29b8['ueuAs'],'bufferAnalysisDiv':_0x1c29b8[_0x353cc9(0x73f,'L9pl')],'intersectionAnalysisDiv':_0x1c29b8[_0x353cc9(0x2c0,'DEqX')],'touchAnalysisDiv':_0x1c29b8[_0x37be03(0x137)],'nearAnalysisDiv':_0x1c29b8['ueuAs'],'unionAnalysisDiv':_0x1c29b8[_0x353cc9(0x248,'LWQm')],'clipAnalysisDiv':_0x139205(0x382),'symdifAnalysisDiv':_0x1c29b8[_0x353cc9(0x248,'LWQm')],'selectionDiv':_0x1c29b8['ueuAs'],'appDescription':_0x1c29b8[_0x353cc9(0x920,'s6tb')]};let _0x28efd7=document[_0x139205(0x4ee)](_0x1c29b8['SrbFD'])[_0x37be03(0x811)](!![]);_0x28efd7['id']=_0x37be03(0x2e6);let _0xe308ce=document[_0x37be03(0x703)](_0x139205(0x933))[_0x353cc9(0x79e,'oRyI')](!![]);_0xe308ce['id']=_0x1c29b8[_0x139205(0x6f4)];let _0xf77e31=document[_0x37be03(0x703)](_0x1c29b8[_0x353cc9(0x6f3,'uEyB')])[_0x37be03(0x811)](!![]);_0xf77e31['id']=_0x139205(0x56f);let _0xc103e7=document[_0x37be03(0x703)](_0x1c29b8[_0x139205(0x42f)])[_0x353cc9(0x311,'5q&t')](!![]);_0xc103e7['id']=_0x1c29b8['XNNKZ'];let _0x2d11bd=![],_0x21fe9c=document[_0x37be03(0x88c)](_0x139205(0x205)),_0x5a1ac9,_0x407789,_0xa46780,_0x37d252,_0x1f7d4b=0x0,_0x24bb06;for(let _0x5aff32=0x0;_0x1c29b8[_0x353cc9(0x8f4,'v4(y')](_0x5aff32,_0x21fe9c['length']);_0x5aff32++){_0x21fe9c[_0x5aff32][_0x139205(0x83b)](_0x1c29b8[_0x37be03(0x4ff)],_0x83d11f=>{const _0x1cc502=_0x139205,_0x43efa1=_0x353cc9,_0x2b6f5b=_0x37be03,_0x552b2d={'aZUPQ':_0x1c29b8['TaVgJ']};let _0x4f1291=_0x83d11f[_0x2b6f5b(0x242)][_0x2b6f5b(0x69a)](_0x1c29b8[_0x43efa1(0x432,'s6tb')]);_0x1c29b8['rYlcP'](_0x186aac);if(!_0x2d11bd){scratchLayerWidget=document[_0x43efa1(0x94b,'XJG4')](_0x1c29b8[_0x2b6f5b(0x8ec)])['cloneNode'](!![]),_0x5a1ac9=document['createElement'](_0x43efa1(0x4bd,'JHTv')),_0x5a1ac9['id']=_0x1cc502(0x886),_0x5a1ac9[_0x43efa1(0x2b2,'v4(y')]+='<h4>حدد\x20نوع\x20الطبقة</h4>';let _0x5708df=document[_0x43efa1(0x567,'Pf[X')](_0x1c29b8[_0x2b6f5b(0x179)])[_0x2b6f5b(0x811)](!![]);_0x5708df['id']=_0x1c29b8['viYej'];let _0x164b3a=[_0x43efa1(0x6a2,'kOJj'),'Image\x20service'];_0x164b3a[_0x43efa1(0x512,'&IE8')](_0x14e17c=>{const _0x2563c5=_0x1cc502;let _0x4a254c=document['createElement'](_0x552b2d[_0x2563c5(0x19d)]);_0x4a254c[_0x2563c5(0x222)]=_0x14e17c,_0x4a254c[_0x2563c5(0x38d)]=_0x14e17c,_0x5708df[_0x2563c5(0x3f5)](_0x4a254c);}),_0x5a1ac9[_0x2b6f5b(0x4de)](_0x5708df);let _0x46b4a8=document['getElementById'](_0x1c29b8[_0x2b6f5b(0x4cf)])[_0x43efa1(0x780,'aybq')](!![]);_0x46b4a8['id']=_0x1c29b8['JGxso'],_0x5a1ac9[_0x1cc502(0x35d)]+=_0x1c29b8['UjTgc'],_0x5a1ac9[_0x2b6f5b(0x4de)](_0x46b4a8);let _0x1aef00=document[_0x2b6f5b(0x703)](_0x1c29b8[_0x1cc502(0x961)])[_0x43efa1(0x722,'oVHT')](!![]);_0x1aef00['id']=_0x1c29b8[_0x1cc502(0x312)],_0x1aef00['innerHTML']=_0x43efa1(0x318,'&IE8'),_0x5a1ac9[_0x43efa1(0x182,'u([%')](_0x1aef00),_0x28efd7[_0x2b6f5b(0x4de)](_0x5a1ac9),_0x37d252=document['createElement'](_0x1c29b8[_0x1cc502(0x2b4)]),_0x37d252['id']=_0x1c29b8[_0x43efa1(0x401,'N&[G')],_0x37d252[_0x2b6f5b(0x775)]+=_0x1c29b8[_0x43efa1(0x697,'uEyB')],_0x37d252[_0x2b6f5b(0x775)]+=_0x43efa1(0xab,'oRyI');let _0x4795e7=document[_0x2b6f5b(0x703)](_0x1c29b8[_0x2b6f5b(0x4cf)])[_0x1cc502(0x14d)](!![]);_0x4795e7['id']='csvURL',_0x37d252[_0x1cc502(0x3f5)](_0x4795e7);let _0x2cf0e7=document[_0x2b6f5b(0x703)](_0x1c29b8[_0x43efa1(0x58a,'s6tb')])[_0x1cc502(0x14d)](!![]);_0x2cf0e7['id']=_0x1c29b8[_0x43efa1(0x1a7,'N)JJ')],_0x2cf0e7[_0x2b6f5b(0x775)]=_0x1c29b8[_0x2b6f5b(0x180)],_0x37d252[_0x2b6f5b(0x4de)](_0x2cf0e7),_0x28efd7[_0x43efa1(0x91c,'W7A7')](_0x37d252),_0x407789=document['createElement'](_0x1c29b8[_0x1cc502(0x2b4)]),_0x407789['id']=_0x1c29b8[_0x43efa1(0x678,'DEqX')],_0x407789['innerHTML']+=_0x43efa1(0x27b,'tIy0'),_0x407789[_0x2b6f5b(0x775)]+=_0x1c29b8[_0x2b6f5b(0x231)];let _0x110bae=document['getElementById'](_0x1c29b8[_0x2b6f5b(0x4cf)])['cloneNode'](!![]);_0x110bae['id']=_0x1cc502(0x206),_0x407789[_0x1cc502(0x3f5)](_0x110bae);let _0xf773a=document['getElementById'](_0x1c29b8[_0x1cc502(0x961)])[_0x2b6f5b(0x811)](!![]);_0xf773a['id']=_0x1c29b8['QtFLL'],_0xf773a[_0x1cc502(0x35d)]=_0x1c29b8[_0x1cc502(0x2f6)],_0x407789[_0x1cc502(0x3f5)](_0xf773a),_0x28efd7[_0x43efa1(0x6cc,'h0v]')](_0x407789),_0xa46780=document[_0x1cc502(0x82e)](_0x1c29b8['HKWoT']),_0xa46780['id']=_0x1c29b8[_0x2b6f5b(0x165)],_0xa46780[_0x1cc502(0x35d)]+=_0x1c29b8[_0x1cc502(0x5c5)],_0xa46780[_0x2b6f5b(0x775)]+=_0x43efa1(0x64a,'j4WJ');let _0x309d9a=document['getElementById'](_0x1c29b8[_0x43efa1(0x5c7,'v4(y')])[_0x2b6f5b(0x811)](!![]);_0x309d9a['id']=_0x1c29b8[_0x2b6f5b(0x5da)],_0xa46780[_0x1cc502(0x3f5)](_0x309d9a);let _0x4e909b=document[_0x1cc502(0x4ee)](_0x1c29b8[_0x43efa1(0x111,'QhlL')])[_0x2b6f5b(0x811)](!![]);_0x4e909b['id']=_0x1c29b8[_0x43efa1(0x376,'Y!f2')],_0x4e909b['innerHTML']=_0x1c29b8[_0x1cc502(0x2f6)],_0xa46780[_0x43efa1(0x519,'6irY')](_0x4e909b),_0x28efd7[_0x43efa1(0x91c,'W7A7')](_0xa46780),portalItemDiv=document[_0x2b6f5b(0x87c)](_0x1c29b8[_0x2b6f5b(0x8a4)]),portalItemDiv['id']=_0x1c29b8[_0x43efa1(0x927,'XJG4')],portalItemDiv[_0x43efa1(0x897,'Q3#2')]+=_0x2b6f5b(0x761);let _0x29ce3b=document[_0x43efa1(0x2b0,'DEqX')](_0x43efa1(0x90c,'ZH7I'))[_0x1cc502(0x14d)](!![]);_0x29ce3b['id']=_0x1c29b8[_0x2b6f5b(0x8ce)],_0x29ce3b[_0x43efa1(0x1e9,'0OY4')]=_0x43efa1(0x94a,'y9!3'),portalItemDiv['appendChild'](_0x29ce3b);let _0x21f54a=document['getElementById'](_0x1c29b8[_0x43efa1(0x201,'oS%5')])['cloneNode'](!![]);_0x21f54a['id']=_0x1c29b8[_0x2b6f5b(0x667)],_0x21f54a[_0x1cc502(0x35d)]=_0x1cc502(0x493),portalItemDiv[_0x1cc502(0x3f5)](_0x21f54a),_0x28efd7['appendChild'](portalItemDiv),uploadLayerDiv=document[_0x2b6f5b(0x87c)](_0x43efa1(0x46f,'z*1C')),uploadLayerDiv['id']=_0x1c29b8['fmgSh'],_0x24bb06=document[_0x2b6f5b(0x703)](_0x1c29b8[_0x1cc502(0x649)]),uploadLayerDiv[_0x43efa1(0x95a,'uEyB')]+=_0x1c29b8[_0x43efa1(0x612,'iQ&)')],uploadLayerDiv[_0x43efa1(0x801,'5ld@')]+=_0x1c29b8['nNoPK'];let _0x1f8ae9=document[_0x2b6f5b(0x703)](_0x1c29b8[_0x43efa1(0x696,'JHTv')])['cloneNode'](!![]);_0x1f8ae9['id']=_0x1c29b8['ZQRjl'];let _0x6b2d3d=_0x1f8ae9[_0x43efa1(0x6f1,'kOJj')][0x0];_0x6b2d3d['id']=_0x1c29b8['FegYx'],uploadLayerDiv[_0x1cc502(0x3f5)](_0x1f8ae9),_0x28efd7[_0x43efa1(0x687,'s(LG')](uploadLayerDiv),_0x28efd7[_0x2b6f5b(0x4de)](_0x24bb06),_0x2d11bd=!![];}let _0x98993d=_0x28efd7[_0x43efa1(0x1dc,'L9pl')];for(_0x5aff32=0x1;_0x5aff32<_0x98993d[_0x43efa1(0x6dc,'&IE8')];_0x5aff32++){_0x98993d[_0x5aff32][_0x43efa1(0xd5,'oS%5')]['display']=_0x1cc502(0x382);}switch(_0x4f1291){case'scratchLayer':_0x574e7e['ui'][_0x1cc502(0x144)](scratchLayerWidget,_0x1c29b8[_0x2b6f5b(0x5a2)]),_0x1c29b8[_0x2b6f5b(0x214)](_0x5f30b1),_0x1c29b8[_0x43efa1(0x8d0,'v4(y')](_0x421ac4);break;case _0x1c29b8[_0x1cc502(0x3b6)]:_0x5a1ac9['style']=_0x1c29b8[_0x1cc502(0x1cc)],_0x574e7e['ui'][_0x1cc502(0x144)](_0x28efd7,_0x1cc502(0x149)),document[_0x43efa1(0x567,'Pf[X')](_0x1c29b8[_0x43efa1(0x3fa,'e91b')])[_0x43efa1(0x7d1,'NwE[')](_0x1c29b8[_0x2b6f5b(0x3bd)],function(){const _0x1456e0=_0x2b6f5b,_0x317107=_0x1cc502;document[_0x317107(0x4ee)](_0x24d34c[_0x317107(0xcf)])[_0x1456e0(0x4c5)]='';}),document[_0x43efa1(0x7c3,'ZH7I')](_0x1c29b8[_0x2b6f5b(0x812)])[_0x2b6f5b(0x7e1)](_0x2b6f5b(0x3b0),_0x3a9cbf),_0x1c29b8['uZPXD'](_0x5f30b1);break;case _0x1c29b8['ABXso']:_0x37d252['style']=_0x1c29b8['oFgvw'],_0x574e7e['ui']['add'](_0x28efd7,_0x1c29b8[_0x43efa1(0xc3,'oVHT')]),document[_0x1cc502(0x4ee)](_0x1c29b8['tZOVu'])[_0x2b6f5b(0x7e1)](_0x1c29b8[_0x1cc502(0xf9)],_0x135f87),_0x1c29b8['MnXAs'](_0x5f30b1);break;case _0x1c29b8['OrtjH']:_0x407789['style']=_0x2b6f5b(0x207),_0x574e7e['ui'][_0x43efa1(0x3d9,'Pf[X')](_0x28efd7,_0x1c29b8[_0x2b6f5b(0x5a2)]),document['getElementById'](_0x2b6f5b(0x416))['addEventListener'](_0x1c29b8['pyFib'],_0x23d39f),_0x5f30b1();break;case _0x2b6f5b(0x763):_0xa46780[_0x2b6f5b(0x604)]=_0x1c29b8['oFgvw'],_0x574e7e['ui'][_0x2b6f5b(0x33d)](_0x28efd7,_0x1c29b8[_0x2b6f5b(0x5a2)]),document[_0x1cc502(0x4ee)](_0x1c29b8['lNHue'])[_0x43efa1(0x54f,'6irY')](_0x1c29b8['pyFib'],_0x3d16ce),_0x1c29b8[_0x1cc502(0x962)](_0x5f30b1);break;case _0x1cc502(0x389):portalItemDiv[_0x43efa1(0x639,'e91b')]=_0x43efa1(0xc9,'y9!3'),_0x574e7e['ui'][_0x1cc502(0x144)](_0x28efd7,_0x1c29b8[_0x2b6f5b(0x5a2)]),document['getElementById'](_0x43efa1(0x6a1,'LWQm'))['addEventListener'](_0x1c29b8[_0x43efa1(0x22c,'0OY4')],_0x11cdab),_0x1c29b8[_0x2b6f5b(0x40b)](_0x5f30b1);break;case _0x1c29b8[_0x1cc502(0x3f9)]:uploadLayerDiv['style']=_0x1c29b8['oFgvw'],_0x574e7e['ui']['add'](_0x28efd7,_0x1c29b8[_0x2b6f5b(0x5a2)]),_0x1c29b8[_0x1cc502(0x4fc)](_0x13cbcf),_0x5f30b1();break;default:break;}});}function _0x421ac4(){const _0x19ac6e=_0x139205,_0x3728e5=_0x353cc9,_0x134fd5=_0x37be03,_0x3a8d0b={'oedNC':_0x24d34c[_0x134fd5(0x2af)],'YCoww':_0x24d34c[_0x3728e5(0x555,'66Zk')],'qpJhs':_0x24d34c[_0x134fd5(0x616)],'JStgy':function(_0x2cb6c9,_0xa7279f){const _0x3be2ba=_0x3728e5;return _0x24d34c[_0x3be2ba(0x518,'66Zk')](_0x2cb6c9,_0xa7279f);},'MAoOa':function(_0x2ad9bf,_0x12d44f){return _0x24d34c['dgDHq'](_0x2ad9bf,_0x12d44f);},'OcQPM':function(_0x2b0c96,_0x33c0ef){const _0x4ebc93=_0x3728e5;return _0x24d34c[_0x4ebc93(0x68f,'&IE8')](_0x2b0c96,_0x33c0ef);},'LLUlI':_0x24d34c[_0x19ac6e(0x433)],'FyhLL':_0x19ac6e(0x922),'vnasr':function(_0x33e27a,_0x5b6024){return _0x33e27a<_0x5b6024;},'ebEiV':function(_0x28fb53,_0x152014){const _0x3d565f=_0x134fd5;return _0x24d34c[_0x3d565f(0x55f)](_0x28fb53,_0x152014);},'WgCEf':function(_0x56d753,_0x52e290){return _0x56d753==_0x52e290;},'fwyER':_0x24d34c[_0x19ac6e(0x916)]};document['getElementById'](_0x24d34c[_0x134fd5(0x2af)])['addEventListener'](_0x24d34c[_0x3728e5(0x185,'$y[j')],function(){const _0x30cdca=_0x3728e5,_0x22c874=_0x19ac6e,_0x2abd87=_0x134fd5;let _0x495699=document['getElementById'](_0x3a8d0b[_0x2abd87(0x3a9)])[_0x22c874(0x222)],_0x5458dd=document[_0x2abd87(0x703)](_0x30cdca(0xd2,'y9!3'))[_0x2abd87(0x887)][_0x30cdca(0x751,'v4(y')];if(_0x495699>_0x5458dd)for(i=_0x5458dd;i<_0x495699;i++){var _0x5c1fe9=document['getElementById'](_0x3a8d0b[_0x30cdca(0x5d1,'DEqX')])[_0x30cdca(0x24d,'aHTy')](!![]);_0x5c1fe9[_0x2abd87(0x887)][0x0][_0x22c874(0x222)]='',document['getElementById'](_0x3a8d0b['qpJhs'])[_0x2abd87(0x626)](_0x5c1fe9);}else{if(_0x3a8d0b[_0x2abd87(0x5b9)](_0x495699,_0x5458dd))for(i=_0x5458dd;_0x3a8d0b['MAoOa'](i,_0x495699);i--){document[_0x2abd87(0x703)](_0x30cdca(0x87f,'vyC#'))[_0x2abd87(0x271)](document[_0x2abd87(0x703)](_0x3a8d0b[_0x22c874(0x1fa)])[_0x2abd87(0x786)]);}}}),document[_0x19ac6e(0x4ee)](_0x24d34c[_0x134fd5(0x37e)])['addEventListener'](_0x24d34c[_0x134fd5(0x7d8)],function(){const _0x36df03=_0x19ac6e,_0x591be9=_0x3728e5;let _0x318e20=document['getElementById'](_0x591be9(0x233,'DEqX'))[_0x36df03(0x222)],_0x5bf07e=document['getElementById']('scratchLayerGeometry')['value'],_0x191538=[{'name':_0x24d34c[_0x591be9(0x502,'kOJj')],'alias':_0x24d34c[_0x591be9(0x502,'kOJj')],'type':_0x24d34c[_0x591be9(0x23b,'y9!3')]}],_0x370300=_0x24d34c[_0x591be9(0x735,'W7A7')](_0x488031);function _0x488031(){const _0x185008=_0x5997,_0x1aa10a=_0x591be9,_0x8b2791=_0x36df03;if(!_0x318e20)return _0x3a8d0b[_0x8b2791(0x3d0)](alert,_0x3a8d0b[_0x1aa10a(0x72f,'ZH7I')]),![];else{if(_0x5bf07e=='')return _0x3a8d0b[_0x1aa10a(0x5b8,'C^5W')](alert,_0x1aa10a(0x68c,'j4WJ')),![];else{let _0x568382=document['getElementsByClassName']('scratchLayerField'),_0x3d227c=document['getElementsByClassName'](_0x3a8d0b[_0x1aa10a(0x3dd,'XJG4')]);for(i=0x0;_0x3a8d0b['vnasr'](i,_0x3a8d0b[_0x8b2791(0x1db)](_0x568382['length'],0x1));i++){if(_0x3a8d0b[_0x8b2791(0xa9)](_0x568382[i][_0x1aa10a(0x3f4,'kOJj')],'')){alert(_0x3a8d0b[_0x1aa10a(0x2a6,'aHTy')]);return![];break;}else{let _0x57fc66={'name':_0x568382[i][_0x8b2791(0x222)],'type':_0x3d227c[i][_0x185008(0x4c5)]};_0x191538[_0x1aa10a(0x3e4,'oS%5')](_0x57fc66);}}return!![];}}}if(_0x370300){let _0x4935ff=new _0x4ed782({'title':_0x318e20,'source':[],'fields':_0x191538,'spatialReference':_0x574e7e[_0x36df03(0xf7)],'geometryType':_0x5bf07e});_0x5be6f7[_0x8bff60]['add'](_0x4935ff);}});}function _0x135f87(){const _0x396d77=_0x37be03,_0x1248aa=_0x139205,_0x57eee2=_0x353cc9;let _0x371d8d=document[_0x57eee2(0x8fe,'kOJj')](_0x24d34c['iktHD'])['value'];csvLayer=new _0x436dcf({'title':_0x24d34c[_0x1248aa(0x5d8)](_0x24d34c[_0x1248aa(0x457)],_0x1f7d4b),'url':_0x371d8d,'renderer':{'type':_0x24d34c[_0x396d77(0xc0)],'symbol':{'type':_0x396d77(0x357),'size':0x6,'color':_0x24d34c[_0x1248aa(0x7e9)]('#',Math[_0x396d77(0x6b3)](_0x24d34c['miCYC'](Math[_0x396d77(0x748)](),0xffffff))['toString'](0x10))}}}),_0x5be6f7[_0x8bff60][_0x1248aa(0x144)](csvLayer),csvLayer['when'](_0xabe0f6=>{const _0x3665bf=_0x396d77,_0x22cd07=_0x1248aa,_0x13fad2=_0x57eee2;let _0x1efd5e=[];csvLayer[_0x13fad2(0x84c,'LWQm')]=csvLayer[_0x22cd07(0x93a)][0x0][_0x22cd07(0x92b)],csvLayer[_0x22cd07(0x93a)][_0x22cd07(0x5ff)](_0x27fc0c=>{const _0x4cf475=_0x13fad2;let _0x415ab2={'fieldName':_0x27fc0c[_0x4cf475(0x632,'7pGd')]};_0x1efd5e[_0x4cf475(0x399,'C^5W')](_0x415ab2);});let _0x2367b2={'title':_0x24d34c[_0x13fad2(0x37f,'v7Qz')](_0x24d34c[_0x22cd07(0x110)],csvLayer[_0x13fad2(0x2d1,'QhlL')][0x0][_0x3665bf(0x187)])+'}','content':[{'type':_0x3665bf(0x7a8),'fieldInfos':_0x1efd5e}]};csvLayer[_0x22cd07(0x55b)]=!![],csvLayer[_0x13fad2(0x969,'pWA*')]=_0x2367b2,_0x1f7d4b+=0x1;});}let _0x4e474e=0x0;function _0x23d39f(){const _0x2b2968=_0x37be03,_0x28878f=_0x353cc9;let _0x324dac=document[_0x28878f(0x3d3,'v7Qz')](_0x2b2968(0x4c3))['value'],_0x58d819=new _0x51ae85({'url':_0x324dac,'title':_0x24d34c['FyGsX']('KML\x20Layer_',_0x4e474e)});_0x5be6f7[_0x8bff60][_0x2b2968(0x33d)](_0x58d819),_0x4e474e+=0x1;}let _0x38c932=0x0;function _0x3d16ce(){const _0x32783d=_0x37be03,_0x4e4e09=_0x353cc9,_0x37159c=_0x139205;let _0x23f292=document[_0x37159c(0x4ee)](_0x24d34c[_0x4e4e09(0x565,'aHTy')])[_0x37159c(0x222)],_0x153e97=new _0x9b6fae({'url':_0x23f292,'title':_0x24d34c[_0x32783d(0x4c0)]+_0x38c932});_0x5be6f7[_0x8bff60][_0x37159c(0x144)](_0x153e97),_0x1fc5a8['layerInfos'][_0x32783d(0x1b4)]({'layer':XYLayer,'title':_0x24d34c[_0x4e4e09(0x834,'Q3#2')](_0x24d34c[_0x4e4e09(0x8cf,'&IE8')],_0x38c932)}),_0x38c932+=0x1;}function _0x3a9cbf(){const _0x3f23f8=_0x353cc9,_0x419340=_0x139205;let _0x19f0f1=document[_0x419340(0x4ee)](_0x419340(0x733))[_0x3f23f8(0x648,'s6tb')],_0x4ae4c6=serviceURL['value'];_0x24d34c['xdqsy'](_0x5ef809,_0x19f0f1,_0x4ae4c6);}function _0x5ef809(_0x35ebc4,_0x5045f8){const _0x2025bf=_0x139205,_0x44457e=_0x353cc9,_0x3ac876=_0x37be03;switch(_0x35ebc4){case _0x3ac876(0x736):let _0x3f39d0=new _0x4ed782({'url':_0x5045f8});_0x5be6f7[_0x8bff60][_0x3ac876(0x33d)](_0x3f39d0),_0x3f39d0['when'](()=>{const _0x583461=_0x3ac876;return _0x3f39d0[_0x583461(0x4c2)]();})['then'](_0x38d3d4=>{const _0x19836b=_0x357c,_0x40473b=_0xebfa;_0x574e7e[_0x40473b(0x7d6,'uRlI')](_0x38d3d4[_0x19836b(0x109)]);});break;case _0x3ac876(0x194):let _0xb9daaf=new _0x377b5f({'url':_0x5045f8});_0x5be6f7[_0x8bff60]['add'](_0xb9daaf),_0xb9daaf['when'](()=>{const _0x2858c4=_0x3ac876;_0x574e7e[_0x2858c4(0x76d)](_0xb9daaf['fullExtent']);});break;case _0x24d34c['vfQhb']:let _0x2186e0=new _0x3ec3f6({'url':_0x5045f8});_0x5be6f7[_0x8bff60][_0x44457e(0x4a4,'tIy0')](_0x2186e0),_0x2186e0['when'](()=>{const _0x24acd3=_0x3ac876,_0x20e74f=_0x357c;_0x574e7e[_0x20e74f(0x32f)](_0x2186e0[_0x24acd3(0x428)]);});break;case _0x24d34c[_0x2025bf(0x39d)]:let _0x1659e9=new WFSLayer({'url':_0x5045f8});_0x5be6f7[_0x8bff60][_0x44457e(0x647,'N)JJ')](_0x1659e9);break;case _0x24d34c[_0x3ac876(0x6a9)]:let _0x270a8a=new _0xdb4aec({'url':_0x5045f8});_0x5be6f7[_0x8bff60][_0x2025bf(0x144)](_0x270a8a);break;default:break;}}function _0x11cdab(){const _0x375946=_0x139205,_0x2b52dd=_0x37be03;let _0x55aebb=document[_0x2b52dd(0x703)](_0x1c29b8[_0x375946(0x2c3)])['value'];var _0x4c9e03=new _0x4ed782({'portalItem':{'id':_0x55aebb}});_0x5be6f7[_0x8bff60]['add'](_0x4c9e03);}let _0x306e21,_0x58dbad,_0x46e1e8=[],_0x3ffdda={},_0x2c968c=[],_0x3b3e87={},_0x56ef2a=[],_0x3e3348=document['getElementById'](_0x1c29b8[_0x37be03(0x42d)]),_0x4b9743=document[_0x353cc9(0x3b9,'uEyB')](_0x1c29b8[_0x139205(0x159)]);function _0x13cbcf(_0x196ff1){const _0x16ff39=_0x139205,_0x488741=_0x353cc9,_0x384da5={'pXERS':function(_0x35d826,_0xcd6db0){const _0x1bd00a=_0x357c;return _0x24d34c[_0x1bd00a(0x62c)](_0x35d826,_0xcd6db0);},'UgefD':function(_0x4d2fba){const _0x169ed9=_0x357c;return _0x24d34c[_0x169ed9(0x615)](_0x4d2fba);},'tRhwp':_0x24d34c['ntVDX'],'HTIlB':_0x24d34c[_0x488741(0x176,'aybq')],'EJQKw':_0x24d34c[_0x16ff39(0x499)]};document[_0x16ff39(0x4ee)](_0x488741(0x52d,'oRyI'))[_0x16ff39(0x83b)](_0x24d34c[_0x488741(0x1ba,'W7A7')],_0x3cfa14=>{const _0x12012f=_0x5997,_0x318097=_0x16ff39,_0x1bbff1=_0x488741,_0x401e3f={'eFBGx':function(_0x4bfed7,_0x4b9053){const _0x15911f=_0x357c;return _0x24d34c[_0x15911f(0x35f)](_0x4bfed7,_0x4b9053);},'CwGLS':_0x24d34c['ntVDX'],'zTBLU':_0x24d34c[_0x1bbff1(0x8a9,'oS%5')],'gWqsM':_0x1bbff1(0x134,'vyC#'),'HuZxX':_0x24d34c[_0x318097(0x7b3)],'YAgOd':_0x24d34c['KjsHG'],'KSlgL':_0x24d34c[_0x1bbff1(0x375,'oRyI')],'saszb':_0x24d34c['OTNCj'],'FDYCz':_0x24d34c[_0x1bbff1(0x20b,'kOJj')],'iKMNo':_0x24d34c[_0x1bbff1(0x8b5,'W7A7')],'KtstQ':_0x12012f(0x1f3),'KVJat':_0x24d34c[_0x12012f(0x5a7)],'cLusT':function(_0xbe2aa8,_0x2dbd55){return _0x24d34c['nMsrZ'](_0xbe2aa8,_0x2dbd55);},'QUQAN':_0x24d34c[_0x1bbff1(0x885,'oS%5')],'iPoei':_0x24d34c[_0x1bbff1(0x1a6,'oVHT')],'wUDJR':function(_0x1da4f0,_0x272b1a){return _0x1da4f0===_0x272b1a;},'SVckN':_0x24d34c[_0x1bbff1(0x67f,'0OY4')],'BQYkv':_0x24d34c['EdCQN'],'cLUCl':_0x12012f(0x56d),'oPlEN':_0x24d34c['BXMTg'],'cObMM':_0x24d34c[_0x1bbff1(0x397,'ZH7I')],'HspGh':_0x24d34c['mewez'],'PLgOS':_0x24d34c[_0x1bbff1(0x62f,'tIy0')],'wUCVv':function(_0x5423be,_0x109811){const _0x3385bf=_0x318097;return _0x24d34c[_0x3385bf(0x43d)](_0x5423be,_0x109811);},'xZYKE':_0x24d34c[_0x318097(0x6df)],'pUetb':function(_0x15e6fc,_0x5b0dbc){const _0x25d180=_0x1bbff1;return _0x24d34c[_0x25d180(0x46c,'Y!f2')](_0x15e6fc,_0x5b0dbc);},'NDBUm':function(_0x54551a,_0x478ada){const _0x232ca0=_0x318097;return _0x24d34c[_0x232ca0(0x453)](_0x54551a,_0x478ada);},'jxQuT':_0x24d34c[_0x1bbff1(0x6b5,'oS%5')]};_0xfcdf6=_0x3cfa14[_0x318097(0x767)][_0x318097(0x217)][0x0],_0x3cfa14[_0x318097(0x546)]();let _0x4a7b2b=_0xfcdf6[_0x318097(0x92b)],_0x2a69eb=_0x4a7b2b[_0x12012f(0x81a)]('.'),_0x2187ab=_0x4a7b2b[_0x1bbff1(0x679,'W7A7')](0x0,_0x2a69eb),_0x512592=_0x4a7b2b[_0x1bbff1(0x5dc,'v7Qz')](_0x24d34c[_0x1bbff1(0x769,'0OY4')](_0x2a69eb,0x1));if(_0x512592===_0x24d34c[_0x1bbff1(0x974,'L9pl')]||_0x24d34c[_0x1bbff1(0x46d,'v4(y')](_0x512592,_0x24d34c[_0x318097(0x298)]))_0x24d34c[_0x1bbff1(0x265,'0OY4')](_0x3225be);else{if(_0x24d34c[_0x1bbff1(0x744,'IZn(')](_0x512592,_0x24d34c[_0x1bbff1(0x625,'7pGd')])||_0x512592===_0x12012f(0x63d))_0x24d34c[_0x318097(0x615)](_0x7e866e);else{if(_0x24d34c[_0x318097(0x2ba)](_0x512592,_0x1bbff1(0x3cf,'JHTv'))||_0x512592===_0x24d34c['KuaVo']){let _0x4e9dc9=new FileReader();_0x4e9dc9[_0x318097(0x7a2)]=_0x1a7468=>{const _0x57549c=_0x318097,_0x530dda=_0x1bbff1,_0x2366a3=_0x12012f;XYFeatures=_0x384da5[_0x2366a3(0x74a)](_0x51798d,_0x1a7468[_0x530dda(0x496,'uEyB')][_0x57549c(0x308)]),XYColumns=Object[_0x530dda(0x571,'h0v]')](XYFeatures[0x0]),_0x384da5[_0x57549c(0x59e)](_0x4161a9);},_0x4e9dc9[_0x1bbff1(0x77e,'IZn(')](_0xfcdf6);}else _0x24d34c[_0x12012f(0x30c)](alert,_0x318097(0x9f));}}async function _0x3225be(){const _0xcbe7ca=_0x318097,_0x3c19ea=_0x12012f,_0x4947a8=_0x1bbff1;let _0x17638a=new FormData();_0x17638a[_0x4947a8(0x3d4,'iQ&)')](_0x401e3f[_0x3c19ea(0x93)],_0xfcdf6);let _0x3fd5a5;$[_0xcbe7ca(0x859)]({'global':![],'type':_0x401e3f[_0x3c19ea(0x1ca)],'url':_0x401e3f[_0x3c19ea(0x4a6)],'processData':![],'contentType':![],'data':_0x17638a,'success':function(_0x52d282){const _0x1efdbc=_0x3c19ea,_0x484ca6=_0xcbe7ca,_0x5e6ecc={'XjvZz':function(_0x2aa293,_0x7e2fb1){const _0x2e00d0=_0x5997;return _0x401e3f[_0x2e00d0(0x3cc)](_0x2aa293,_0x7e2fb1);},'zYPRN':function(_0x50f03c,_0xb4161b){return _0x50f03c(_0xb4161b);}};_0x3fd5a5=_0x52d282[_0x484ca6(0x8c7)],$[_0x1efdbc(0x726)](_0x3fd5a5,function(_0x51c26b){const _0x48c4bf=_0x1efdbc,_0x8ae198=_0xebfa;XYFeatures=$['csv'][_0x8ae198(0x8b7,'$y[j')](_0x51c26b),XYColumns=Object[_0x48c4bf(0x63b)](XYFeatures[0x0]),XYFeatures[_0x48c4bf(0x25a)](_0x59fd04);function _0x59fd04(_0x4a6a9e,_0x3326d8){const _0x52e149=_0x357c,_0xf01a63=_0x48c4bf;for(const _0xdffe3 in _0x4a6a9e){if(_0x4a6a9e[_0xf01a63(0x7bd)](_0xdffe3)){let _0x5d78a1=_0x5e6ecc[_0x52e149(0x292)](Number,_0x4a6a9e[_0xdffe3]);if(_0x5e6ecc[_0xf01a63(0x204)](isNaN,_0x5d78a1)){}else _0x4a6a9e[_0xdffe3]=_0x5d78a1;}XYFeatures[_0x3326d8]=_0x4a6a9e;}}_0x4161a9();});},'error':function(_0x574eae,_0x4276b4,_0x1b73e6){const _0x278469=_0xcbe7ca;console[_0x278469(0x8ff)](_0x1b73e6);}});}async function _0x7e866e(){const _0x137cbf=_0x318097,_0x49bb11=_0x12012f;let _0x16d506=new FormData();_0x16d506[_0x49bb11(0x626)](_0x384da5['tRhwp'],_0xfcdf6);let _0x201f74;$[_0x137cbf(0x859)]({'global':![],'type':_0x384da5[_0x137cbf(0x5e7)],'url':_0x384da5[_0x137cbf(0x7e8)],'processData':![],'contentType':![],'data':_0x16d506,'success':function(_0x4db827){const _0x561e78=_0x137cbf;_0x201f74=_0x4db827[_0x561e78(0x8c7)];let _0x273356=new _0x9b6fae({'url':_0x201f74,'title':_0x2187ab});_0x5be6f7[_0x8bff60][_0x561e78(0x144)](_0x273356);},'error':function(_0x124aab,_0x3ecab8,_0x25184f){const _0x40781c=_0x137cbf;console[_0x40781c(0x8ff)](_0x25184f);}});}function _0x4161a9(){const _0x136252=_0x318097,_0x292df4=_0x1bbff1,_0x1485d9=_0x12012f,_0x53c052={'qecCs':function(_0x21b455,_0x37d786){return _0x21b455===_0x37d786;},'XYkjX':_0x401e3f[_0x1485d9(0x964)],'zwhHt':function(_0x28246d,_0x40948f){return _0x28246d===_0x40948f;},'LsJia':_0x401e3f['KVJat'],'YPhLe':function(_0x48629b,_0x397549){const _0x4e8f10=_0x1485d9;return _0x401e3f[_0x4e8f10(0x338)](_0x48629b,_0x397549);},'RPUFP':_0x401e3f['QUQAN'],'KtUPL':_0x401e3f['iPoei'],'qsKgC':function(_0x115ac7,_0x2faf26){const _0x16e5bb=_0x1485d9;return _0x401e3f[_0x16e5bb(0x813)](_0x115ac7,_0x2faf26);},'UyMBG':_0x401e3f[_0x1485d9(0x4ad)],'ijERr':function(_0x6fd0d4,_0x6c119e){return _0x6fd0d4===_0x6c119e;},'SOcva':_0x401e3f['BQYkv'],'plUlL':_0x401e3f[_0x292df4(0x380,'vyC#')],'WDlcA':_0x401e3f[_0x292df4(0x695,'s(LG')],'AARLy':_0x401e3f[_0x292df4(0x3c8,'W7A7')],'FLOwP':_0x401e3f[_0x292df4(0x2d4,'u([%')],'udkxM':_0x401e3f[_0x292df4(0x492,'Pf[X')]};_0x12d012(_0x401e3f[_0x1485d9(0x1d9)],_0x292df4(0x3d1,'6irY')),XYColumns['forEach'](_0x5425b2);function _0x5425b2(_0x21b1ef,_0x4a2499){const _0x10bb77=_0x1485d9,_0x4fba25=_0x357c,_0x31cdb7=_0x292df4;var _0x3d506b=document[_0x31cdb7(0x1fc,'pWA*')]('option');_0x3d506b[_0x31cdb7(0x505,'y9!3')]=_0x21b1ef,_0x3d506b[_0x31cdb7(0x839,'N)JJ')]=_0x21b1ef;let _0x4a7bf7=_0x3d506b[_0x31cdb7(0x34d,'7u9P')](!![]);;_0x3e3348[_0x4fba25(0x3f5)](_0x3d506b),_0x4b9743[_0x31cdb7(0x440,'oRyI')](_0x4a7bf7);var _0x3f0165=_0x21b1ef[_0x10bb77(0x81d)]();if(_0x53c052[_0x4fba25(0x6c8)](_0x3f0165,_0x53c052[_0x10bb77(0x8b4)])||_0x53c052['zwhHt'](_0x3f0165,_0x53c052[_0x4fba25(0x3af)])||_0x53c052['YPhLe'](_0x3f0165,_0x53c052[_0x31cdb7(0x60b,'W7A7')])||_0x53c052['YPhLe'](_0x3f0165,'x')||_0x53c052[_0x4fba25(0x43e)](_0x3f0165,_0x53c052[_0x4fba25(0x108)]))_0x306e21=_0x21b1ef;if(_0x53c052[_0x31cdb7(0x782,'kOJj')](_0x3f0165,_0x53c052['UyMBG'])||_0x53c052[_0x10bb77(0x4e5)](_0x3f0165,_0x53c052[_0x10bb77(0x716)])||_0x53c052[_0x4fba25(0x766)](_0x3f0165,'y')||_0x53c052[_0x10bb77(0x4e5)](_0x3f0165,_0x53c052[_0x10bb77(0x747)]))_0x58dbad=_0x21b1ef;let _0x3c8278={'fieldName':_0x21b1ef};_0x46e1e8[_0x10bb77(0x1b4)](_0x3c8278);let _0x21a7dc=XYFeatures[_0x4a2499],_0x352052;switch(typeof _0x21a7dc[_0x21b1ef]){case _0x53c052[_0x4fba25(0x66c)]:_0x352052=_0x53c052[_0x10bb77(0x411)];break;default:_0x352052=_0x53c052[_0x10bb77(0x371)];}_0x3ffdda[_0x21b1ef]=_0x352052;let _0x2dd97c={'name':_0x21b1ef,'type':_0x352052};_0x2c968c[_0x4fba25(0x7f3)](_0x2dd97c);}if(_0x401e3f[_0x292df4(0x37b,'j4WJ')](typeof _0x306e21,_0x401e3f['xZYKE']))for(var _0x39d227=0x0;_0x401e3f[_0x1485d9(0x68a)](_0x39d227,_0x3e3348[_0x136252(0x430)][_0x292df4(0x600,'DEqX')]);_0x39d227++){if(_0x3e3348['options'][_0x39d227]['value']===_0x306e21){_0x3e3348[_0x1485d9(0x4c5)]=_0x306e21,_0x3e3348['options'][_0x39d227][_0x1485d9(0x4c5)]=_0x3e3348[_0x136252(0x430)][0x0][_0x1485d9(0x4c5)],_0x3e3348[_0x136252(0x430)][_0x39d227]['text']=_0x3e3348['options'][0x0][_0x1485d9(0x9d)],_0x3e3348[_0x1485d9(0x883)][0x0][_0x292df4(0x6da,'e91b')]=_0x306e21,_0x3e3348[_0x136252(0x430)][0x0][_0x292df4(0x5f4,'L9pl')]=_0x306e21,_0x3e3348['options'][0x0][_0x136252(0x61c)]=!![];break;}}if(_0x401e3f[_0x136252(0x50e)](typeof _0x58dbad,_0x136252(0x947)))for(var _0x39d227=0x0;_0x401e3f[_0x292df4(0x5e9,'$y[j')](_0x39d227,_0x4b9743['options'][_0x136252(0x4d7)]);_0x39d227++){if(_0x401e3f['NDBUm'](_0x4b9743[_0x1485d9(0x883)][_0x39d227][_0x1485d9(0x4c5)],_0x58dbad)){_0x4b9743[_0x1485d9(0x77b)]=_0x39d227,_0x4b9743[_0x292df4(0x509,'z*1C')]=_0x58dbad;break;}}let _0x13ff3a=new _0x4ed782({});addXYtoMapBtn[_0x1485d9(0x7e1)](_0x401e3f[_0x1485d9(0x76e)],_0xef6571);function _0xef6571(){const _0x586ecc=_0x136252,_0x40b4ff=_0x292df4,_0xaa7781=_0x1485d9;var _0x3e4401=document[_0xaa7781(0x703)](_0x401e3f[_0x40b4ff(0x291,'N(06')])['value'],_0x22a7be=document[_0x586ecc(0x4ee)]('yLatFieldSelect')['value'];XYFeatures[_0x40b4ff(0x3e5,'v7Qz')](_0x358c86);function _0x358c86(_0x4e94e0,_0x5bded9){const _0x15f549=_0x586ecc,_0x2da293=_0x40b4ff;var _0x15048e=_0x4e94e0[_0x3e4401],_0x22d142=_0x4e94e0[_0x22a7be];_0x4e94e0[_0x2da293(0x543,'Zt]E')]=_0x5bded9;let _0x16791b={'type':_0x53c052['FLOwP'],'longitude':_0x15048e,'latitude':_0x22d142},_0x382bf6={'type':_0x15f549(0x364),'color':[0xe2,0x77,0x28]},_0x2fd146={'Name':_0x53c052['udkxM'],'Owner':_0x15f549(0xc6)};pointGraphic=new _0x5a4809({'geometry':_0x16791b,'symbol':_0x382bf6,'attributes':_0x4e94e0,'popupTemplate':_0x3b3e87}),_0x56ef2a['push'](pointGraphic);}let _0x26dd8c={'title':_0x401e3f[_0x40b4ff(0x6f9,'vyC#')],'content':[{'type':_0x401e3f[_0xaa7781(0x62d)],'fieldInfos':_0x46e1e8}]};_0x13ff3a['source']=_0x56ef2a,_0x2c968c[_0x40b4ff(0x3e4,'oS%5')]({'name':_0x401e3f['saszb'],'type':_0x401e3f[_0x40b4ff(0x53b,'ZH7I')]}),_0x13ff3a['fields']=_0x2c968c,_0x13ff3a[_0xaa7781(0x398)]=_0x401e3f[_0x40b4ff(0x4ed,'6irY')],_0x13ff3a[_0xaa7781(0x476)]=_0x401e3f[_0x586ecc(0x396)],_0x13ff3a[_0xaa7781(0x2d2)]=_0x26dd8c,_0x13ff3a['title']=_0x2187ab,_0x5be6f7[_0x8bff60][_0x586ecc(0x144)](_0x13ff3a),_0x1fc5a8[_0x586ecc(0x7c4)][_0xaa7781(0x1b4)]({'layer':_0x13ff3a,'title':_0x2187ab}),fixLayerListUI();}}});}function _0x51798d(_0x737888){const _0x23b8b2=_0x37be03,_0x1ac8a1=_0x139205,_0x22bc19=_0x353cc9;let _0x46943d=XLSX[_0x22bc19(0x3c5,'Q3#2')](_0x737888,{'type':_0x24d34c[_0x22bc19(0x8f,'Y!f2')]}),_0x3e8426=uploadLayerBtn['name'][_0x1ac8a1(0x884)](0x0,uploadLayerBtn[_0x23b8b2(0x187)]['indexOf']('.')),_0x2bf307=_0x46943d[_0x22bc19(0x1bb,'C^5W')][0x0],_0x37e7a6=_0x46943d[_0x1ac8a1(0x240)][_0x2bf307],_0x2cf1ae=XLSX[_0x23b8b2(0x808)]['sheet_to_json'](_0x37e7a6),_0x373ae3=XLSX[_0x23b8b2(0x808)][_0x1ac8a1(0x23e)]();return XLSX['utils'][_0x22bc19(0x535,'v4(y')](_0x373ae3,_0x2cf1ae,_0x24d34c['rrdcq']),_0x2cf1ae;}const _0x2c34b9=document[_0x139205(0x4ee)](_0x1c29b8[_0x37be03(0x5ee)])[_0x353cc9(0x181,'NwE[')](!![]);let _0x9102ce,_0x79df3d=_0x37be03(0x925),_0x948f7=document['getElementById'](_0x353cc9(0x21e,'N)JJ'));function _0x14ce8d(){const _0x2a252b=_0x353cc9,_0xafd6aa=_0x37be03,_0x4611d4=_0x139205,_0x51e1e6={'Yhshx':_0x4611d4(0x73a),'BGHJP':_0x1c29b8[_0x4611d4(0x55c)],'IyiTN':_0x1c29b8[_0xafd6aa(0x80a)],'PWciD':_0x1c29b8[_0x2a252b(0x7f5,'uRlI')],'fTtoo':_0x1c29b8[_0xafd6aa(0x2f1)],'CpQce':_0xafd6aa(0x852),'kYGHf':function(_0x3ffad4,_0x36429b){const _0x36b881=_0xafd6aa;return _0x1c29b8[_0x36b881(0x124)](_0x3ffad4,_0x36429b);},'vGnLE':_0x1c29b8['OcXRM'],'VOQej':_0x2a252b(0x8b2,'h0v]')};_0x5be6f7[_0x8bff60][_0x2a252b(0xf4,'kOJj')](_0x17743f),_0x574e7e['ui'][_0x4611d4(0x144)](_0x2a7b6b,_0xafd6aa(0x4f6)),_0x2a7b6b['on'](_0x1c29b8[_0x2a252b(0x166,'5ld@')],function(_0x44652d){const _0x2b8ae9=_0x4611d4,_0x1327f0=_0xafd6aa,_0x2e3371=_0x2a252b;_0x9102ce=null;if(_0x44652d['state']===_0x24d34c[_0x2e3371(0x561,'(o2u')]){_0x17743f[_0x1327f0(0x49a)](_0x44652d['graphic']);let _0xcacc7b=_0x4825b9['createQuery']();_0xcacc7b[_0x1327f0(0x84b)]=_0x44652d[_0x2b8ae9(0x42a)][_0x2e3371(0xc1,'v7Qz')],_0xcacc7b[_0x2e3371(0x29b,'5q&t')]=_0x1327f0(0x254),_0xcacc7b[_0x2e3371(0x458,'NwE[')]=!![],_0x4825b9[_0x1327f0(0x42e)](_0xcacc7b)['then'](function(_0x285a4d){const _0x411eff=_0x2e3371,_0x508eeb=_0x2b8ae9,_0x4df2dc=_0x1327f0;let _0x472d7f=_0x285a4d[_0x4df2dc(0x8ae)][_0x4df2dc(0x18f)](function(_0x73f98f){const _0x168c23=_0x4df2dc;return _0x73f98f[_0x168c23(0x84b)];});switch(_0x285a4d['geometryType']){case _0x51e1e6['Yhshx']:_0x79df3d=_0x51e1e6[_0x508eeb(0x39f)],_0x4bb0e9=_0xa3437e;let _0x537167=[],_0x4a60a0=_0x285a4d['features'];_0x4a60a0[_0x4df2dc(0x25a)](_0xe6d03);function _0xe6d03(_0x3c4d0f){const _0x125942=_0x4df2dc,_0x3de21f=_0x508eeb;_0x537167[_0x3de21f(0x7f3)](_0x3c4d0f[_0x125942(0x191)]);}_0x9102ce=$[_0x411eff(0x7cb,'QhlL')][_0x4df2dc(0x8af)](_0x537167);break;case _0x51e1e6[_0x508eeb(0x7cd)]:_0x79df3d=_0x51e1e6['PWciD'],_0x4bb0e9=_0x3d4b28,_0x9102ce=JSON['stringify'](_0x285a4d);break;case _0x51e1e6[_0x411eff(0x500,'N(06')]:_0x4bb0e9=_0x1c00a1,_0x9102ce=JSON['stringify'](_0x285a4d),_0x79df3d=_0x51e1e6[_0x4df2dc(0x6c5)];break;default:alert(_0x51e1e6[_0x411eff(0x445,'aybq')]);break;}_0x574e7e[_0x508eeb(0x3be)][_0x508eeb(0x643)](),_0x472d7f[_0x508eeb(0x5ff)](_0x546cbb);function _0x546cbb(_0x25582a){const _0x2ffa9e=_0x4df2dc;let _0x15601c=new _0x5a4809({'geometry':_0x25582a,'symbol':_0x4bb0e9});_0x574e7e[_0x2ffa9e(0x319)]['add'](_0x15601c);}_0x51e1e6[_0x411eff(0x4a8,'0OY4')](_0x285a4d[_0x508eeb(0x7cc)]['length'],0x0)&&(document[_0x411eff(0x349,'0OY4')](_0x51e1e6[_0x4df2dc(0x5bd)])[_0x411eff(0x8f1,'h0v]')]=![],document[_0x411eff(0x1ae,'u([%')](_0x411eff(0x94,'C^5W'))[0x0][_0x4df2dc(0x604)][_0x411eff(0x71f,'N(06')]=_0x51e1e6[_0x508eeb(0x251)]);});}});}function _0x28f996(){const _0x576f61=_0x353cc9,_0x51de24=_0x37be03,_0x905fab=_0x139205,_0xd04ee4={'mjQpd':function(_0x2abeff,_0x18e03b){const _0x389c0e=_0x5997;return _0x24d34c[_0x389c0e(0x99)](_0x2abeff,_0x18e03b);},'YDfOY':_0x24d34c[_0x905fab(0xbc)],'zPwNM':_0x24d34c[_0x51de24(0x438)],'ZHPFK':function(_0x2d68b7,_0x2c626c,_0x4e8963){const _0x3cb6eb=_0x51de24;return _0x24d34c[_0x3cb6eb(0x21c)](_0x2d68b7,_0x2c626c,_0x4e8963);},'Bmrva':function(_0x51bb8d,_0x45178a){const _0x141bcd=_0xebfa;return _0x24d34c[_0x141bcd(0x640,'6irY')](_0x51bb8d,_0x45178a);},'jjlcJ':_0x24d34c['htovJ']};if(document['getElementById'](_0x24d34c[_0x905fab(0x4e9)])){let _0x2f92b6=document[_0x51de24(0x703)](_0x576f61(0x90a,'oVHT'));_0x2f92b6[_0x576f61(0x5e4,'kOJj')](_0x24d34c['ryOpD'],_0x56d125=>{const _0x5f45ff=_0x51de24,_0x15dbfc=_0x905fab,_0x15ceb4=_0x576f61;_0xd04ee4[_0x15ceb4(0x471,'DEqX')](_0x2f92b6[_0x15ceb4(0x746,'s6tb')],!![])?_0x14ce8d():(_0x574e7e['ui']['remove'](_0x2a7b6b),_0x5be6f7[_0x8bff60][_0x15dbfc(0x4ae)](_0x17743f),document[_0x5f45ff(0x703)](_0xd04ee4[_0x5f45ff(0xde)])[_0x15ceb4(0x553,'(o2u')]=!![],document[_0x5f45ff(0x88c)](_0xd04ee4['YDfOY'])[0x0]['style'][_0x15dbfc(0x866)]=_0xd04ee4[_0x15dbfc(0x8dc)]);});}document[_0x51de24(0x703)](_0x24d34c['RJEMq'])['addEventListener']('click',function(){const _0x491bbd=_0x51de24,_0x4c1c6d=_0x576f61;_0xd04ee4[_0x4c1c6d(0x49c,'Zt]E')](_0x42257e,_0x9102ce,_0xd04ee4[_0x491bbd(0x617)](_0xd04ee4['Bmrva'](_0x4825b9[_0x4c1c6d(0x7f0,'aHTy')],_0xd04ee4['jjlcJ']),_0x79df3d));});}let _0x3e7c6e={'type':_0x1c29b8[_0x37be03(0x5e1)],'style':'circle','color':_0x1c29b8['aiApZ']('#',Math[_0x139205(0x508)](_0x1c29b8[_0x353cc9(0x325,'aHTy')](Math[_0x139205(0x51f)](),0xffffff))['toString'](0x10)),'size':_0x1c29b8[_0x353cc9(0x350,'5q&t')]},_0x16f2b7={'type':_0x1c29b8[_0x353cc9(0x8c6,'uRlI')],'color':_0x1c29b8['xhzBB']('#',Math[_0x353cc9(0x337,'oVHT')](Math[_0x139205(0x51f)]()*0xffffff)[_0x37be03(0x671)](0x10)),'width':0x3},_0x24d24a={'type':'simple-fill','color':'#'+Math['floor'](_0x1c29b8[_0x139205(0x32a)](Math[_0x37be03(0x748)](),0xffffff))['toString'](0x10),'outline':{'color':_0x1c29b8[_0x353cc9(0x5b6,'5ld@')],'width':0x2}},_0xa3437e={'type':_0x1c29b8[_0x37be03(0x5e1)],'style':_0x1c29b8['vDAnp'],'color':_0x1c29b8[_0x353cc9(0x8a0,'L9pl')],'size':_0x1c29b8[_0x139205(0x7c1)]},_0x3d4b28={'type':_0x1c29b8[_0x139205(0x8bb)],'color':_0x1c29b8[_0x353cc9(0x618,'h0v]')],'width':0x3},_0x1c00a1={'type':_0x1c29b8['eXumh'],'color':'rgba(255,255,255,0)','outline':{'width':0x2,'color':_0x1c29b8[_0x139205(0x689)]}},_0x179a3b={'type':_0x1c29b8['hDPNs'],'symbol':{'type':'simple-marker','style':_0x1c29b8[_0x37be03(0x413)],'color':'#'+Math[_0x353cc9(0x7a9,'6irY')](_0x1c29b8[_0x353cc9(0x408,'&IE8')](Math[_0x37be03(0x748)](),0xffffff))[_0x37be03(0x671)](0x10),'size':_0x353cc9(0x105,'ZH7I')}},_0x56d5b6={'type':_0x1c29b8[_0x353cc9(0x517,'j4WJ')],'symbol':{'type':_0x353cc9(0x878,'LWQm'),'color':_0x1c29b8['xhzBB']('#',Math[_0x353cc9(0x5ca,'XJG4')](_0x1c29b8[_0x353cc9(0x7b2,'Zt]E')](Math[_0x353cc9(0x83e,'5ld@')](),0xffffff))['toString'](0x10)),'width':0x3}},_0x2be05f={'type':_0x1c29b8[_0x37be03(0x473)],'symbol':{'type':_0x139205(0x2eb),'color':_0x1c29b8[_0x37be03(0x564)]('#',Math['floor'](_0x1c29b8[_0x37be03(0x94f)](Math['random'](),0xffffff))[_0x353cc9(0x93e,'Pf[X')](0x10)),'outline':{'color':_0x1c29b8[_0x353cc9(0x58b,'7u9P')],'width':0x2}}},_0x5825e1={'type':_0x1c29b8[_0x139205(0x266)],'size':0x6,'color':_0x1c29b8['rOuZb'],'outline':{'width':0.5,'color':_0x1c29b8[_0x139205(0x1fd)]}},_0x1cd1de={'type':_0x1c29b8[_0x37be03(0x473)],'symbol':_0x5825e1},_0x53ee18={'view':_0x574e7e},_0x2a5eb7={'type':_0x1c29b8[_0x37be03(0x25d)],'defaultSymbol':{'type':_0x1c29b8[_0x139205(0x266)]}};const _0xc57135=document[_0x139205(0x4ee)](_0x1c29b8[_0x353cc9(0x5de,'&IE8')])[_0x37be03(0x811)](!![]);_0xc57135['id']=_0x1c29b8[_0x37be03(0x635)];const _0x4219ba=document[_0x353cc9(0x2d5,'s(LG')](_0x1c29b8[_0x37be03(0x377)])[_0x139205(0x14d)](!![]);_0x4219ba['id']=_0x37be03(0x363);let _0xc3cb0=document[_0x37be03(0x703)](_0x1c29b8[_0x353cc9(0x92c,'tIy0')])[_0x139205(0x14d)](!![]);_0xc3cb0['id']=_0x1c29b8['LcyaG'];let _0x3985e2=document[_0x353cc9(0x237,'y9!3')](_0x37be03(0x677))[_0x37be03(0x811)](!![]);_0x3985e2['id']=_0x1c29b8[_0x139205(0x873)];let _0x538762=document[_0x37be03(0x703)](_0x1c29b8[_0x37be03(0x407)])['cloneNode'](!![]);_0x538762['id']=_0x1c29b8[_0x37be03(0x407)];let _0x3516ed=document[_0x37be03(0x703)]('sizeRendererDiv')['cloneNode'](!![]);_0x3516ed['id']=_0x1c29b8[_0x353cc9(0x2d7,'pWA*')];let _0x5eab44=document[_0x139205(0x4ee)](_0x1c29b8[_0x353cc9(0x70c,'6irY')])[_0x139205(0x14d)](!![]);_0x5eab44['id']=_0x1c29b8['gQjJb'];let _0x293c39,_0x1ec322,_0x469a47,_0x3d23dd,_0x1b657a,_0x35e52c,_0x18d916,_0x376331,_0x209d6a,_0x18acdb,_0x3764c4=document[_0x37be03(0x703)]('selectTemplate')[_0x353cc9(0x34d,'7u9P')](!![]);_0x3764c4['id']=_0x1c29b8[_0x139205(0x330)];let _0x99bdc4=[_0x1c29b8['vDAnp'],_0x1c29b8['FeDpk'],_0x1c29b8[_0x353cc9(0x82c,'Pf[X')],_0x1c29b8[_0x37be03(0xe5)],_0x353cc9(0x12f,'v4(y'),'x'];_0x99bdc4[_0x353cc9(0x84e,'W7A7')](_0x1d8e26);function _0x1d8e26(_0x443b22,_0x35c17c){const _0x51ff31=_0x353cc9,_0x33baa2=_0x139205;let _0x2ce90b=document[_0x33baa2(0x82e)](_0x1c29b8[_0x51ff31(0x1f9,'NwE[')]);_0x2ce90b[_0x33baa2(0x222)]=_0x443b22,_0x2ce90b['text']=_0x443b22,_0x3764c4[_0x33baa2(0x3f5)](_0x2ce90b);}function _0x52ac7c(){const _0x269cba=_0x37be03,_0xf554aa=_0x139205,_0x298c68=_0x353cc9,_0x1dd409={'GxyyV':_0x24d34c[_0x298c68(0x941,'L9pl')],'duhnV':function(_0x1d34ec,_0x136b5b){const _0x57d062=_0x298c68;return _0x24d34c[_0x57d062(0x570,'(o2u')](_0x1d34ec,_0x136b5b);},'UXMpZ':function(_0x17d870,_0x28c03f){const _0x164eed=_0x357c;return _0x24d34c[_0x164eed(0x8b3)](_0x17d870,_0x28c03f);},'FLHDd':function(_0x419a62,_0x574cb6){const _0x35f656=_0x357c;return _0x24d34c[_0x35f656(0x33a)](_0x419a62,_0x574cb6);},'EZcZb':_0x24d34c['BcUWQ'],'VQZGx':function(_0x4c3827){const _0x5338d6=_0x5997;return _0x24d34c[_0x5338d6(0x94e)](_0x4c3827);},'fKqgK':_0x24d34c['NEWTs'],'bJVQK':function(_0x2e592a,_0x88ab74){const _0x220055=_0x5997;return _0x24d34c[_0x220055(0x36b)](_0x2e592a,_0x88ab74);},'uKfBr':function(_0x52c23f){const _0x4705b1=_0x357c;return _0x24d34c[_0x4705b1(0x527)](_0x52c23f);},'txJRE':'simpleOutlineColorInput','lfoOv':_0xf554aa(0x25b),'nnbEE':_0x24d34c['HvUbD'],'csmLa':_0x24d34c[_0xf554aa(0x6b1)],'hCtFS':_0xf554aa(0xec),'jpIUc':_0x24d34c[_0x269cba(0x13b)],'ciWaS':_0x24d34c[_0x298c68(0x620,'s6tb')],'iimxU':_0x24d34c[_0x298c68(0x7bb,'h0v]')],'YsfWf':_0x24d34c[_0x298c68(0x777,'XJG4')],'YpBmz':_0x24d34c['hvBxp'],'BuSEi':_0x24d34c[_0x298c68(0xac,'QhlL')],'QhFWy':_0x24d34c[_0x269cba(0x379)],'urgNy':_0x24d34c[_0xf554aa(0x19a)],'rnEMk':_0x24d34c[_0xf554aa(0x236)],'lSpNH':_0x24d34c[_0xf554aa(0x2a8)],'wokyB':'simpleSymbolController','ncDLK':function(_0x2536a4,_0x2a0a83,_0x5f1be4){const _0x32738c=_0x269cba;return _0x24d34c[_0x32738c(0x21c)](_0x2536a4,_0x2a0a83,_0x5f1be4);},'WrSTv':_0x24d34c[_0x269cba(0x87e)],'nXjKV':_0x24d34c[_0xf554aa(0x845)],'VuUSa':function(_0x29fd70,_0xee2120){const _0x67af44=_0x269cba;return _0x24d34c[_0x67af44(0x8a3)](_0x29fd70,_0xee2120);},'iwLqf':_0x24d34c[_0xf554aa(0x6de)],'LhTkX':_0x24d34c['uRNxk'],'GHMVQ':_0x24d34c[_0x269cba(0x88d)],'QtLfJ':_0x24d34c[_0x298c68(0x854,'5q&t')],'wGArK':_0x24d34c[_0x298c68(0x34a,'h0v]')],'nITky':function(_0x226f74,_0x12d8cc,_0x219f43){const _0x1ddc09=_0xf554aa;return _0x24d34c[_0x1ddc09(0x410)](_0x226f74,_0x12d8cc,_0x219f43);},'ksiup':_0x24d34c['xjcim'],'bcqVl':_0x298c68(0x1be,'(o2u'),'zMPZv':_0x24d34c[_0x269cba(0x81c)],'ikBXF':_0x24d34c[_0x298c68(0x4b1,'XJG4')],'YqCJS':_0xf554aa(0x5df),'QJgKn':_0x24d34c['qUyGr'],'ejGdp':_0x24d34c[_0x298c68(0x807,'tIy0')],'dADqp':'uniqueRendererDiv','QCPEx':function(_0x2fa4a5,_0x16e7a5){return _0x24d34c['DuOUr'](_0x2fa4a5,_0x16e7a5);},'jwYqL':_0x24d34c['BKvnV'],'rKdXP':_0x24d34c['YeKKM'],'QICIQ':_0x24d34c[_0x269cba(0x65f)],'xckNO':_0x24d34c[_0xf554aa(0x7e4)],'rZVFW':_0x24d34c[_0x298c68(0x115,'(o2u')],'QCkMc':_0x24d34c[_0x298c68(0x755,'Zt]E')],'ECDVF':_0x24d34c[_0xf554aa(0x467)],'GUCHN':_0x24d34c[_0x298c68(0x29c,'u([%')],'zPOzU':_0x24d34c[_0x269cba(0x86b)],'QhPuQ':_0xf554aa(0x119),'FdRnO':_0x24d34c[_0x269cba(0x305)],'FVqSk':_0x24d34c[_0x298c68(0x585,'NwE[')],'KlMJb':_0x269cba(0x38c),'DcdTi':_0xf554aa(0x3a4),'DSzmR':_0x24d34c[_0x269cba(0x70d)],'dPoOK':_0x24d34c['QBTRV'],'njlfI':_0x24d34c[_0xf554aa(0x3ba)],'BkAct':_0x298c68(0x4d3,'u([%'),'yczPh':_0xf554aa(0x694),'BVdmS':'heatmapLegendToggle','qKMlR':_0x24d34c['KsSvV'],'ediJk':_0x24d34c[_0x269cba(0x464)],'oggAS':'auto'};let _0x282a7b=document[_0xf554aa(0x4ee)](_0x24d34c['MjEEh']),_0x51c44d=document[_0x298c68(0x532,'aHTy')](_0x24d34c[_0x298c68(0x4be,'DEqX')]);_0x1ec322=document[_0x269cba(0x703)](_0x24d34c[_0x269cba(0x4d1)]),document[_0x269cba(0x703)](_0x24d34c['MjEEh'])['addEventListener'](_0x269cba(0x5b5),_0x4f73be);function _0x4f73be(){const _0x488df9=_0xf554aa,_0x288a67=_0x298c68,_0x33f57c=_0x269cba;_0x293c39=document[_0x33f57c(0x703)](_0x1dd409[_0x288a67(0x87a,'oS%5')])[_0x488df9(0x222)],_0x1dd409['duhnV'](_0x1ec322['value'],'')?(_0x1dd409[_0x488df9(0x902)](_0x43df21,event),_0x1dd409['FLHDd'](_0x51c44d[_0x288a67(0x727,'vyC#')],!![])&&(_0x51c44d[_0x33f57c(0x587)]=![],_0x51c44d[_0x488df9(0x3a3)][_0x33f57c(0x283)]=_0x1dd409[_0x288a67(0x452,'kOJj')])):(_0x1dd409['VQZGx'](_0x287c82),_0x1dd409['UXMpZ'](_0x43df21,event));}document['getElementById'](_0x298c68(0x13a,'uEyB'))[_0x298c68(0x8e4,'W7A7')]('click',_0x9702f3=>{const _0x151705=_0x298c68,_0x19a616=_0xf554aa;_0x1ec322['value']===_0x1dd409[_0x19a616(0x5ef)]?_0x1dd409['bJVQK'](alert,_0x151705(0x7f2,'C^5W')):_0x1dd409['uKfBr'](_0x35a623);}),_0x1ec322[_0xf554aa(0x83b)](_0x24d34c[_0x269cba(0x525)],_0x287c82);function _0x287c82(){const _0x62d5a4=_0xf554aa,_0x350af6=_0x298c68,_0x444ffe=_0x269cba;_0x469a47=_0x1ec322[_0x444ffe(0x4c5)];let _0x1f29b6=document['getElementById'](_0x350af6(0x559,'66Zk'))[_0x62d5a4(0x222)];switch(_0x469a47){case _0x24d34c[_0x62d5a4(0x414)]:switch(_0x4825b9[_0x444ffe(0x476)]){case _0x62d5a4(0x73a):_0x2be05f[_0x350af6(0x359,'aybq')]['color']=_0x24d34c['lrcgd']('#',Math[_0x350af6(0x7a9,'6irY')](_0x24d34c[_0x444ffe(0x4ec)](Math['random'](),0xffffff))['toString'](0x10)),_0x4825b9[_0x350af6(0x151,'aybq')]=_0x179a3b;break;case _0x24d34c[_0x62d5a4(0x899)]:_0x2be05f[_0x62d5a4(0x584)][_0x350af6(0x940,'j4WJ')]=_0x24d34c[_0x62d5a4(0x70a)]('#',Math[_0x350af6(0x107,'j4WJ')](Math[_0x350af6(0x1de,'v4(y')]()*0xffffff)['toString'](0x10)),_0x4825b9[_0x350af6(0x76a,'z*1C')]=_0x56d5b6;break;case _0x24d34c[_0x62d5a4(0x8e8)]:_0x2be05f[_0x62d5a4(0x584)][_0x62d5a4(0x3bc)]='#'+Math[_0x350af6(0x64f,'uRlI')](_0x24d34c[_0x62d5a4(0x79c)](Math[_0x62d5a4(0x51f)](),0xffffff))[_0x62d5a4(0x52c)](0x10),_0x4825b9[_0x444ffe(0x64e)]=_0x2be05f;break;default:console['log'](_0x24d34c[_0x444ffe(0x14b)]);}break;case _0x24d34c[_0x62d5a4(0x63f)]:_0x209d6a={'layer':_0x4825b9,'field':_0x1f29b6},_0x1535aa[_0x444ffe(0x2bb)](_0x209d6a)[_0x444ffe(0x484)](function(_0x400094){const _0x596a80=_0x62d5a4;_0x4825b9[_0x596a80(0x5e3)]=_0x400094[_0x596a80(0x5e3)];});break;case _0x24d34c[_0x62d5a4(0x7cf)]:_0x18d916={'layer':_0x4825b9,'view':_0x574e7e,'field':_0x1f29b6,'classificationMethod':_0x24d34c[_0x62d5a4(0x544)],'numClasses':0x4,'defaultSymbolEnabled':![]},_0x336c39[_0x62d5a4(0x919)](_0x18d916)['then'](function(_0x4a5963){const _0x9399e=_0x350af6;_0x4825b9['renderer']=_0x4a5963[_0x9399e(0x956,'66Zk')];});break;case _0x444ffe(0x216):_0x376331={'layer':_0x4825b9,'view':_0x574e7e,'field':_0x1f29b6,'classificationMethod':_0x24d34c[_0x350af6(0x958,'C^5W')],'defaultSymbolEnabled':![],'numClasses':0x4},_0x5e7b2c[_0x350af6(0x863,'ZH7I')](_0x376331)[_0x350af6(0x6b0,'uRlI')](function(_0x3375c2){const _0x494e14=_0x62d5a4;_0x4825b9[_0x494e14(0x5e3)]=_0x3375c2[_0x494e14(0x5e3)];});break;case _0x24d34c[_0x444ffe(0x69e)]:_0x53ee18[_0x350af6(0x5ed,'QhlL')]=_0x4825b9,_0x53ee18[_0x444ffe(0x5ec)]=_0x1f29b6,_0x1491dc[_0x350af6(0xef,'N(06')](_0x53ee18)[_0x62d5a4(0x494)](function(_0x351d2e){const _0x273f97=_0x444ffe;_0x4825b9['renderer']=_0x351d2e[_0x273f97(0x64e)];});break;default:}}function _0x35a623(){const _0x4edc28=_0x269cba,_0x1e3e03=_0x298c68,_0xfa0e4=_0xf554aa,_0x4ed36e={'ySXFs':_0xfa0e4(0x287),'wQCUU':_0x1dd409[_0x1e3e03(0x2a4,'N(06')],'mjKsH':_0x1dd409[_0x4edc28(0x1f8)],'PiWzr':_0x1dd409['YpBmz'],'eeGzZ':_0x1dd409[_0x1e3e03(0x78d,'DEqX')],'vdHbO':'allTypesSwitch'};_0x4825b9[_0x1e3e03(0x423,'oS%5')]===_0x4edc28(0x26c)?(document[_0x1e3e03(0x1dd,'C^5W')](_0x1dd409[_0x4edc28(0x3ae)])[_0x1e3e03(0x814,'Pf[X')][_0x4edc28(0x294)]=_0x1dd409[_0x4edc28(0x210)],document['getElementById'](_0x4edc28(0x1a3))['style'][_0xfa0e4(0x263)]=_0x1dd409[_0x1e3e03(0xb2,'QhlL')],document[_0xfa0e4(0x4ee)](_0x1dd409[_0x4edc28(0x482)])[_0x1e3e03(0x22e,'oRyI')][_0x4edc28(0x294)]=_0x1dd409[_0xfa0e4(0x5ef)]):(document[_0x1e3e03(0x3ce,'7u9P')](_0x1dd409['QhFWy'])['style']['display']=_0x1dd409[_0x4edc28(0x257)],document[_0xfa0e4(0x4ee)](_0x1dd409[_0xfa0e4(0x4b3)])['style']['display']=_0x1dd409[_0x1e3e03(0x832,'&IE8')],document[_0xfa0e4(0x4ee)](_0x1dd409['urgNy'])[_0x1e3e03(0x49f,'s6tb')][_0xfa0e4(0x263)]=_0x1dd409['rnEMk']);switch(_0x469a47){case _0xfa0e4(0x3cb):_0x1dd409['FLHDd'](_0x4825b9['geometryType'],_0x4edc28(0x26c))?document[_0x1e3e03(0x3c7,'66Zk')](_0x1dd409[_0xfa0e4(0x8e2)])[_0x4edc28(0x604)]['display']=_0x1e3e03(0x792,'oVHT'):document[_0x4edc28(0x703)](_0x1dd409['wokyB'])[_0x4edc28(0x604)][_0x1e3e03(0x7df,'kOJj')]=_0x1dd409['rnEMk'];_0x1dd409['ncDLK'](_0x12d012,_0x1dd409[_0x4edc28(0x6d6)],_0x1dd409[_0x1e3e03(0x857,'Zt]E')]);_0x1dd409[_0x4edc28(0x256)](_0x1b657a,undefined)&&(_0x1b657a=new _0x1eda38({'container':'simpleSizeInput','min':0x3,'max':0x50,'steps':0x1,'values':[0xc],'snapOnClickEnabled':![],'visibleElements':{'labels':!![],'rangeLabels':!![]}}),_0x35e52c=new _0x1eda38({'container':_0x1dd409['iwLqf'],'min':0x0,'max':0x5,'values':[0.5],'steps':0.5,'snapOnClickEnabled':!![],'visibleElements':{'labels':!![],'rangeLabels':!![]}}));var _0x3f57e5=document[_0x4edc28(0x489)](_0x1dd409[_0x4edc28(0x2bc)]);for(i of _0x3f57e5){i[_0x1e3e03(0x45e,'$y[j')](_0x1dd409[_0x4edc28(0x2bc)],function(){const _0x120872=_0xfa0e4,_0x52b7d0=_0x4edc28,_0x5e9936=_0x1e3e03;let _0x69d5d6=this['id'];switch(_0x69d5d6){case _0x5e9936(0x601,'u([%'):var _0x6edde2=_0x4825b9[_0x52b7d0(0x64e)][_0x5e9936(0x804,'uEyB')](),_0x153de7=this[_0x52b7d0(0x4c5)];_0x6edde2[_0x5e9936(0x666,'vyC#')]['color']=_0x153de7,_0x4825b9['renderer']=_0x6edde2;break;case _0x1dd409[_0x52b7d0(0x581)]:var _0x6edde2=_0x4825b9[_0x52b7d0(0x64e)][_0x120872(0x425)]();const _0x3d06ed=this[_0x5e9936(0x1b9,'JHTv')];_0x6edde2[_0x5e9936(0x48b,'5ld@')][_0x120872(0x7dd)][_0x5e9936(0x7d7,'e91b')]=_0x3d06ed,_0x4825b9[_0x5e9936(0x1a5,'v4(y')]=_0x6edde2;break;default:}});}_0x1b657a['on'](_0x1dd409[_0x4edc28(0x829)],function(){const _0x37fd85=_0x1e3e03,_0x366929=_0xfa0e4;var _0x27712f=_0x4825b9['renderer'][_0x366929(0x425)](),_0x4e003f=_0x1b657a[_0x37fd85(0x1b2,'h0v]')][0x0];_0x27712f[_0x366929(0x584)][_0x37fd85(0x2ac,'j4WJ')]=_0x4e003f,_0x4825b9['renderer']=_0x27712f;}),_0x35e52c['on'](_0x1dd409[_0x1e3e03(0x740,'iQ&)')],function(){const _0x5d546a=_0x1e3e03,_0x56c0e9=_0xfa0e4,_0x49c95d=_0x4edc28;var _0x58aa28=_0x4825b9[_0x49c95d(0x64e)]['clone'](),_0x360ceb=_0x35e52c[_0x56c0e9(0x135)][0x0];_0x58aa28[_0x56c0e9(0x584)][_0x5d546a(0x42c,'C^5W')][_0x5d546a(0x7f1,'aHTy')]=_0x360ceb,_0x4825b9[_0x5d546a(0x26e,'vyC#')]=_0x58aa28;}),_0x1dd409['bJVQK'](_0x74cc8d,_0x1dd409[_0xfa0e4(0x871)]);break;case _0x1dd409[_0x4edc28(0x273)]:_0x1dd409[_0x1e3e03(0x5db,'vyC#')](_0x12d012,_0x4edc28(0x906),_0x1dd409[_0x4edc28(0x158)]),document[_0x4edc28(0x703)]('sizeSliderDiv')[_0x4edc28(0x775)]='';const _0x55aec3=new _0x1eda38({'container':_0x1dd409['bcqVl'],'min':0x3,'max':0x28,'values':[0xc],'snapOnClickEnabled':![],'visibleElements':{'labels':![],'rangeLabels':!![]}});_0x55aec3['on'](_0x1dd409[_0xfa0e4(0x3c4)],function(){const _0xbb8ecb=_0x4edc28,_0x17c4a=_0xfa0e4;var _0x58e8ab=_0x4825b9[_0x17c4a(0x5e3)][_0xbb8ecb(0x164)]();_0x18acdb=_0x55aec3[_0x17c4a(0x135)][0x0];var _0x1debe1=_0x58e8ab[_0x17c4a(0x86f)];_0x1debe1[_0x17c4a(0x5ff)](_0x1a320d);function _0x1a320d(_0x58b1c9,_0x5a201e){const _0xf1ecb=_0x17c4a,_0x2157ba=_0xbb8ecb;_0x1debe1[_0x5a201e][_0x2157ba(0x2d0)][_0xf1ecb(0x5a1)]=_0x18acdb;}_0x58e8ab['classBreakInfos']=_0x1debe1,_0x4825b9[_0x17c4a(0x5e3)]=_0x58e8ab;}),_0x74cc8d(_0x1dd409[_0x4edc28(0x1c8)]);break;case _0x1dd409[_0x1e3e03(0x54c,'N)JJ')]:_0x1dd409[_0x4edc28(0x71a)](_0x12d012,_0x1dd409[_0x4edc28(0x6d6)],_0x1dd409[_0xfa0e4(0x6fd)]),_0x74cc8d(_0x1dd409['QJgKn']);var _0x3f57e5=document[_0x4edc28(0x489)](_0x1dd409[_0x1e3e03(0x227,'s(LG')]);for(i of _0x3f57e5){i[_0x4edc28(0x7e1)](_0x1dd409[_0x1e3e03(0x2b6,'QhlL')],function(){const _0x5fe025=_0xfa0e4,_0x479d50=_0x1e3e03,_0x396d5c=_0x4edc28;let _0xcbe6ee=this['id'];switch(_0xcbe6ee){case _0x4ed36e[_0x396d5c(0x8be)]:var _0x404373=_0x4825b9[_0x396d5c(0x64e)][_0x479d50(0x6b7,'pWA*')](),_0x199ad5=this[_0x5fe025(0x222)],_0x3d472b=_0x404373['classBreakInfos'];_0x3d472b[_0x5fe025(0x5ff)](_0x3604aa);function _0x3604aa(_0x1d3663,_0x22504c){const _0x34d897=_0x479d50;_0x3d472b[_0x22504c][_0x34d897(0x867,'aHTy')][_0x34d897(0x8b,'0OY4')]=_0x199ad5;}_0x404373['classBreakInfos']=_0x3d472b,_0x4825b9[_0x5fe025(0x5e3)]=_0x404373;break;default:}});}break;case _0x1dd409[_0x1e3e03(0x6cf,'ZH7I')]:_0x1dd409[_0x4edc28(0x71a)](_0x12d012,_0xfa0e4(0x1f4),_0x1dd409['dADqp']),_0x1dd409[_0x1e3e03(0x64c,'e91b')](_0x74cc8d,_0x1dd409['jwYqL']);break;case _0xfa0e4(0x963):_0x12d012(_0x1dd409['WrSTv'],_0x1dd409[_0x1e3e03(0x830,'aybq')]);let _0x5f365e=[_0x4edc28(0x548),_0x1dd409[_0xfa0e4(0x2fb)],_0x1e3e03(0x8d,'iQ&)'),_0x1dd409[_0x4edc28(0x385)],_0x1dd409[_0xfa0e4(0x892)],_0x1dd409[_0x1e3e03(0x96e,'Pf[X')],_0x1dd409[_0x4edc28(0x381)],_0x1dd409[_0xfa0e4(0x699)],_0x1dd409[_0xfa0e4(0x8c)],_0x4edc28(0x3a8),_0x1dd409[_0x4edc28(0xa1)],_0x4edc28(0x4e4),_0x1dd409[_0x4edc28(0x5fb)],_0x1dd409[_0x4edc28(0x5f7)],_0x1dd409['KlMJb'],_0x1dd409[_0x4edc28(0x49e)],_0x4edc28(0x5b1),_0x1dd409['DSzmR'],_0x1dd409[_0x1e3e03(0x296,'7pGd')],_0x1e3e03(0x898,'oRyI')],_0x58c420=document['getElementById']('heatmapSelect');_0x58c420['id']=_0x1dd409[_0x1e3e03(0x168,'N(06')],_0x5f365e[_0x1e3e03(0x512,'&IE8')](_0x115c7c=>{const _0x5b2f9b=_0x4edc28,_0x2ef04f=_0xfa0e4;var _0x5e6def=document[_0x2ef04f(0x82e)](_0x1dd409[_0x5b2f9b(0xe9)]);_0x5e6def['value']=_0x115c7c,_0x5e6def[_0x5b2f9b(0x9d)]=_0x115c7c,_0x58c420[_0x5b2f9b(0x4de)](_0x5e6def);});const _0x4ad436=new _0x1eda38({'container':_0x1dd409[_0x4edc28(0x4b5)],'min':0.1,'max':0x1,'values':[0.1,0x1],'steps':0.1,'thumbsConstrained':![],'rangeLabelInputsEnabled':!![],'syncedSegmentsEnabled':!![],'snapOnClickEnabled':![],'visibleElements':{'labels':!![],'rangeLabels':!![]}});_0x4ad436['on'](_0x1dd409[_0x1e3e03(0x183,'5q&t')],function(){const _0x572fe1=_0x1e3e03;_0x53ee18['minRatio']=_0x4ad436['values'][0x0],_0x53ee18['maxRatio']=_0x4ad436['values'][0x1],_0x1491dc[_0x572fe1(0x87b,'s6tb')](_0x53ee18)['then'](function(_0xcdb853){const _0x522663=_0x5997;_0x4825b9[_0x522663(0x64e)]=_0xcdb853['renderer'];});});const _0x3307cb=new _0x1eda38({'container':_0x1dd409[_0x4edc28(0x589)],'min':0x1,'max':0x14,'values':[0xa],'steps':0x2,'thumbsConstrained':![],'rangeLabelInputsEnabled':!![],'syncedSegmentsEnabled':!![],'snapOnClickEnabled':![],'visibleElements':{'labels':!![],'rangeLabels':!![]}});_0x3307cb['on'](_0xfa0e4(0x6c7),function(){const _0x5cd514=_0x1e3e03,_0x37467f=_0xfa0e4,_0x564e43=_0x4edc28;_0x53ee18['blurRadius']=_0x3307cb[_0x564e43(0x31b)][0x0],_0x1491dc[_0x37467f(0x17f)](_0x53ee18)[_0x5cd514(0x303,'0OY4')](function(_0x3ce5f5){const _0x42ba5e=_0x37467f,_0x51f711=_0x564e43;_0x4825b9[_0x51f711(0x64e)]=_0x3ce5f5[_0x42ba5e(0x5e3)];});}),_0x1dd409[_0xfa0e4(0x89)](_0x74cc8d,_0x1dd409[_0x1e3e03(0x8d1,'aybq')]);break;default:}document[_0xfa0e4(0x4ee)]('simpleSymbolSelector')&&document['getElementById'](_0x1dd409['iimxU'])['addEventListener'](_0x1dd409['ciWaS'],_0x571aad=>{const _0x4bfb5e=_0xfa0e4,_0x2e6087=_0x4edc28,_0x2bf7d9=_0x1e3e03;var _0x219fd1=_0x4825b9[_0x2bf7d9(0x6bd,'0OY4')]['clone']();const _0x29e97c=document[_0x2e6087(0x703)](_0x4ed36e[_0x4bfb5e(0x3e3)])['selectedOptions'][0x0][_0x2e6087(0x4c5)];_0x219fd1[_0x4bfb5e(0x584)]['style']=_0x29e97c,_0x4825b9[_0x2bf7d9(0x765,'y9!3')]=_0x219fd1;});document[_0x1e3e03(0x2df,'N)JJ')](_0x1dd409[_0xfa0e4(0x1fe)])&&document[_0x4edc28(0x703)](_0x1dd409[_0xfa0e4(0x1fe)])[_0x4edc28(0x7e1)](_0x1dd409[_0x1e3e03(0x724,'pWA*')],_0x5a9ff7=>{const _0x2f3bbf=_0x4edc28,_0x55ba82=_0xfa0e4,_0x5c58d1=_0x1e3e03;var _0xfe242c=_0x4825b9[_0x5c58d1(0x344,'N&[G')]['clone']();const _0x48f9dc=document['getElementById'](_0x4ed36e['mjKsH'])[_0x55ba82(0x6c1)][0x0][_0x2f3bbf(0x4c5)],_0x34f053=_0xfe242c[_0x5c58d1(0x53e,'oS%5')];_0x34f053[_0x55ba82(0x5ff)](_0x8b876f);function _0x8b876f(_0x45b1d5,_0x3fb773){const _0x29f7be=_0x2f3bbf;_0x34f053[_0x3fb773][_0x29f7be(0x2d0)]['style']=_0x48f9dc;}_0xfe242c[_0x5c58d1(0x619,'$y[j')]=_0x34f053,_0x4825b9[_0x2f3bbf(0x64e)]=_0xfe242c;});document[_0x1e3e03(0x8bc,'iQ&)')]('colorClassificationMethods')&&document[_0x1e3e03(0x8f7,'u([%')](_0x1dd409[_0x4edc28(0xa2)])[_0x4edc28(0x7e1)](_0x1dd409[_0x4edc28(0x88f)],_0x4b66fe=>{const _0x430d7d=_0x1e3e03,_0x13377e=_0x4edc28,_0x23aacb=_0xfa0e4;let _0xf2501a=document['getElementById'](_0x1dd409['nnbEE'])[_0x23aacb(0x6c1)][0x0][_0x13377e(0x4c5)];_0x18d916[_0x23aacb(0x7f7)]=_0xf2501a,_0x336c39[_0x430d7d(0x3de,'66Zk')](_0x18d916)[_0x430d7d(0x889,'u([%')](function(_0x5eae37){const _0x36d1b8=_0x430d7d,_0x5eb66c=_0x13377e;if(_0x18acdb===undefined)_0x4825b9[_0x5eb66c(0x64e)]=_0x5eae37['renderer'];else{var _0xf17d22=_0x5eae37['renderer'];_0xf17d22['classBreakInfos'][_0x36d1b8(0x84e,'W7A7')](_0x209610);function _0x209610(_0x17af2f,_0x9565dd){const _0x3698ed=_0x36d1b8;_0xf17d22['classBreakInfos'][_0x9565dd][_0x3698ed(0x749,'s6tb')][_0x3698ed(0x235,'aybq')]=_0x18acdb;}_0x4825b9[_0x5eb66c(0x64e)]=_0xf17d22;}});});document[_0x1e3e03(0x88a,'s6tb')](_0x1dd409[_0x4edc28(0x2c5)])&&document['getElementById'](_0x1dd409[_0x1e3e03(0x2b5,'DEqX')])[_0x1e3e03(0x93f,'tIy0')](_0x4edc28(0x5b5),_0x5a3a80=>{const _0x1be5e9=_0x1e3e03,_0x53e097=_0xfa0e4,_0x368a8d=_0x4edc28;let _0x4fea0e=document[_0x368a8d(0x703)](_0x4ed36e[_0x53e097(0x140)])[_0x1be5e9(0x57c,'7pGd')];_0x18d916[_0x1be5e9(0x86,'$y[j')]=_0x4fea0e,_0x336c39[_0x53e097(0x919)](_0x18d916)[_0x1be5e9(0x84a,'N(06')](function(_0x39ad43){_0x4825b9['renderer']=_0x39ad43['renderer'];});});document[_0xfa0e4(0x4ee)](_0x1dd409[_0x4edc28(0x57a)])&&document[_0x1e3e03(0x54b,'Y!f2')](_0xfa0e4(0x2b3))[_0x4edc28(0x7e1)](_0x1dd409[_0x1e3e03(0x637,'s6tb')],_0x39a222=>{const _0x110697=_0x4edc28,_0x2f3976=_0x1e3e03,_0x582ec8=_0xfa0e4;var _0x44bca8=_0x4825b9[_0x582ec8(0x5e3)][_0x2f3976(0x106,'v7Qz')]();let _0x3df6bc=document[_0x2f3976(0x54b,'Y!f2')](_0x1dd409['csmLa'])[_0x110697(0x67d)][0x0][_0x582ec8(0x222)];var _0x3262e=_0x44bca8['classBreakInfos'];_0x3262e[_0x2f3976(0x926,'NwE[')](_0x4662bb);function _0x4662bb(_0x1ddef0,_0x13cb62){const _0x3f7c1e=_0x582ec8,_0x45ee58=_0x110697;_0x3262e[_0x13cb62][_0x45ee58(0x2d0)][_0x3f7c1e(0x3a3)]=_0x3df6bc;}_0x44bca8['classBreakInfos']=_0x3262e,_0x4825b9[_0x582ec8(0x5e3)]=_0x44bca8;});document[_0xfa0e4(0x4ee)](_0x1dd409['hCtFS'])&&document[_0x4edc28(0x703)](_0x1dd409[_0x1e3e03(0x657,'W7A7')])[_0x4edc28(0x7e1)](_0x1dd409[_0xfa0e4(0x622)],_0x3df22b=>{const _0x1902fc=_0x1e3e03,_0x471ade=_0x4edc28;let _0x59f504=document[_0x471ade(0x703)](_0x1dd409[_0x471ade(0x36a)])['selectedOptions'][0x0][_0x471ade(0x4c5)];_0x376331[_0x471ade(0x917)]=_0x59f504,_0x5e7b2c[_0x471ade(0x49d)](_0x376331)[_0x1902fc(0x15a,'Q3#2')](function(_0xc4881b){const _0x157010=_0x357c;_0x4825b9[_0x157010(0x5e3)]=_0xc4881b['renderer'];});});document[_0xfa0e4(0x4ee)](_0x1dd409['jpIUc'])&&document[_0xfa0e4(0x4ee)](_0x1dd409[_0x1e3e03(0x2ef,'Zt]E')])[_0x4edc28(0x7e1)](_0x1dd409[_0x1e3e03(0x63c,'7u9P')],_0x260068=>{const _0x318c05=_0x4edc28,_0x5e3169=_0xfa0e4;let _0x26ea30=document[_0x5e3169(0x4ee)](_0x1dd409[_0x318c05(0x95b)])['value'];_0x376331[_0x318c05(0x968)]=_0x26ea30,_0x5e7b2c[_0x318c05(0x49d)](_0x376331)[_0x5e3169(0x494)](function(_0x132627){const _0x35e8d4=_0xebfa;_0x4825b9[_0x35e8d4(0x614,'s6tb')]=_0x132627[_0x35e8d4(0xe7,'Y!f2')];});});document[_0x4edc28(0x703)](_0x1dd409[_0xfa0e4(0x7c2)])&&document['getElementById'](_0x1dd409[_0x1e3e03(0x17d,'6irY')])[_0x1e3e03(0x83c,'7u9P')](_0xfa0e4(0x879),_0x54e8e3=>{const _0x106c13=_0xfa0e4,_0xfe94b7=_0x1e3e03,_0x1b5aec=_0x4edc28;let _0x131510=document[_0x1b5aec(0x703)](_0x1b5aec(0x846))[_0x1b5aec(0x67d)][0x0][_0xfe94b7(0x7ad,'N)JJ')];_0x53ee18[_0xfe94b7(0x84f,'uRlI')]=_0x179981[_0x106c13(0x72d)]({'basemap':_0x5be6f7[_0x8bff60][_0xfe94b7(0x332,'W7A7')],'name':_0x131510}),_0x1491dc[_0x1b5aec(0x2bb)](_0x53ee18)['then'](function(_0x338b4e){const _0x3a0d4f=_0x1b5aec;_0x4825b9[_0x3a0d4f(0x64e)]=_0x338b4e['renderer'];});});document['getElementById'](_0x1dd409[_0xfa0e4(0x470)])&&document[_0x4edc28(0x703)](_0x1e3e03(0x10a,'vyC#'))[_0x4edc28(0x7e1)](_0xfa0e4(0x879),_0x328e5e=>{const _0x5e9eb4=_0x4edc28,_0x2c4af4=_0x1e3e03;let _0x5afb3f=document[_0x2c4af4(0x237,'y9!3')](_0x4ed36e[_0x2c4af4(0x148,'v4(y')])[_0x5e9eb4(0x67d)][0x0][_0x5e9eb4(0x4c5)];_0x209d6a['sortBy']=_0x5afb3f,_0x1535aa[_0x2c4af4(0x34b,'QhlL')](_0x209d6a)[_0x2c4af4(0x965,'5q&t')](function(_0x222d5a){const _0x47bf61=_0x2c4af4;_0x4825b9[_0x47bf61(0x351,'XJG4')]=_0x222d5a[_0x47bf61(0x1d1,'DEqX')];});});document[_0x1e3e03(0x30a,'oS%5')](_0x1dd409[_0x1e3e03(0x5a6,'s(LG')])&&document[_0x4edc28(0x703)](_0x1e3e03(0x552,'&IE8'))[_0xfa0e4(0x83b)]('change',_0x3bd1b7=>{const _0x40adad=_0x4edc28,_0x2db882=_0xfa0e4,_0x662412=_0x1e3e03;let _0x3e072a=document[_0x662412(0x1c6,'LWQm')](_0x4ed36e['vdHbO'])['children'][0x0];if(_0x3e072a[_0x662412(0x2cf,'ZH7I')])_0x209d6a[_0x662412(0x475,'uRlI')]=-0x1;else _0x209d6a[_0x2db882(0x29f)]=0xa;_0x1535aa[_0x40adad(0x2bb)](_0x209d6a)[_0x2db882(0x494)](function(_0x2df4a7){const _0x4e6274=_0x662412;_0x4825b9[_0x4e6274(0x521,'aHTy')]=_0x2df4a7[_0x4e6274(0x76a,'z*1C')];});});function _0x74cc8d(_0x1c9e0){const _0x2e0702=_0x1e3e03,_0x262702=_0xfa0e4;document[_0x262702(0x4ee)](_0x1c9e0)[_0x262702(0x83b)](_0x1dd409[_0x2e0702(0x2fd,'NwE[')],_0x1ed22d=>{const _0x2f7377=_0x2e0702,_0x229984=_0x262702,_0x1585c6=document['getElementById'](_0x1c9e0)[_0x229984(0x18d)][0x0];if(_0x1585c6[_0x2f7377(0x6f7,'L9pl')])_0x4825b9[_0x2f7377(0x355,'oRyI')]=!![];else _0x4825b9[_0x2f7377(0x704,'h0v]')]=![];});}let _0x29627b=document[_0xfa0e4(0x725)](_0x1dd409[_0x4edc28(0x89e)]);_0x29627b[0x0]['style'][_0x1e3e03(0x692,'N(06')]=_0x4edc28(0x8fd),_0x29627b[0x0][_0xfa0e4(0x3a3)]['height']=_0x1dd409[_0xfa0e4(0x4cd)];}}let _0x1603bd,_0x2cac8b,_0x5c2aa7,_0x1f7134,_0x4b0e9b,_0x35bbfd='',_0x4befc3='';const _0x247390=document[_0x139205(0x4ee)](_0x1c29b8[_0x353cc9(0x6d8,'0OY4')])[_0x139205(0x14d)](!![]);let _0x4f990f=document[_0x37be03(0x703)](_0x1c29b8[_0x139205(0x5d6)]);_0x247390['id']=_0x1c29b8[_0x139205(0x6d7)];function _0x2fd0e5(){const _0x1ae812=_0x37be03,_0x50ca5b=_0x353cc9,_0x6a4c38=_0x139205;switch(_0x4825b9[_0x6a4c38(0x40e)]){case _0x1c29b8[_0x50ca5b(0xfc,'&IE8')]:_0x5be6f7[_0x8bff60][_0x1ae812(0x28c)]['items'][_0x52f27f]['labelingInfo'][0x0]['labelExpressionInfo'][_0x50ca5b(0x817,'66Zk')]=_0x1c29b8['OqMHj'](_0x1c29b8[_0x6a4c38(0x8e6)],document['getElementById']('labelingFields')[_0x1ae812(0x4c5)]);break;case'feature':_0x5be6f7[_0x8bff60][_0x1ae812(0x28c)][_0x1ae812(0x6bb)][_0x52f27f][_0x6a4c38(0x189)][0x0]['labelExpression']=_0x1c29b8[_0x6a4c38(0x80c)](_0x1c29b8['TGtAq'](_0x1c29b8['TGtAq'](document[_0x6a4c38(0x4ee)](_0x1c29b8[_0x6a4c38(0x7e3)])['value'],'\x20['),document[_0x1ae812(0x703)](_0x1ae812(0x1f7))[_0x50ca5b(0x1ea,'v7Qz')])+']\x20',document[_0x6a4c38(0x4ee)](_0x1c29b8[_0x50ca5b(0x1cb,'uEyB')])[_0x1ae812(0x4c5)]);break;default:}}function _0x584798(_0x443007){const _0x26de99=_0x353cc9,_0x8d798d=_0x139205,_0x1b2745=_0x37be03,_0x46528d={'PgBAl':function(_0x12e9af,_0x2c4cdd){return _0x12e9af+_0x2c4cdd;},'gmVxK':function(_0x34bff5,_0x2cdd76){return _0x34bff5(_0x2cdd76);},'qvTLU':function(_0xf1d51c){return _0x24d34c['oRNpc'](_0xf1d51c);},'DutGC':_0x24d34c[_0x1b2745(0x676)],'JnmHc':function(_0x5d18fb){const _0x3c81af=_0x1b2745;return _0x24d34c[_0x3c81af(0x685)](_0x5d18fb);},'eRjpi':_0x24d34c[_0x8d798d(0x78a)]};switch(_0x443007[_0x8d798d(0x40e)]){case _0x24d34c[_0x8d798d(0x1c2)]:document[_0x8d798d(0x4ee)](_0x24d34c['zOsgi'])[_0x1b2745(0x604)][_0x8d798d(0x263)]=_0x24d34c[_0x26de99(0x11a,'uEyB')];break;case _0x24d34c['XfxJe']:document['getElementById'](_0x24d34c[_0x1b2745(0x820)])[_0x26de99(0x21b,'N(06')][_0x1b2745(0x294)]=_0x24d34c['jQMJL'];break;default:}document[_0x26de99(0x392,'aybq')](_0x1b2745(0x314))[_0x1b2745(0x775)]='',document[_0x1b2745(0x703)](_0x24d34c[_0x8d798d(0x966)])[_0x8d798d(0x35d)]='';const _0x44449b=new _0x1eda38({'container':_0x24d34c['phVNs'],'min':0x6,'max':0x28,'values':[0xa],'steps':0x1,'snapOnClickEnabled':![],'visibleElements':{'labels':!![],'rangeLabels':!![]}}),_0x4ee8aa=new _0x1eda38({'container':_0x24d34c['RsyXb'],'min':0x0,'max':0x8,'values':[0x1],'steps':0x1,'snapOnClickEnabled':![],'visibleElements':{'labels':!![],'rangeLabels':!![]}});if(_0x5be6f7[_0x8bff60][_0x8d798d(0x41a)][_0x26de99(0x2e9,'XJG4')][_0x52f27f][_0x1b2745(0x943)]){function _0x42cae0(_0x5d4a6e){const _0x70fb7e=_0x8d798d,_0x7f5570=_0x1b2745;var _0x5cbd0f=_0x5d4a6e[_0x7f5570(0x671)](0x10);return _0x24d34c[_0x70fb7e(0x680)](_0x5cbd0f[_0x7f5570(0x1c5)],0x1)?_0x24d34c[_0x70fb7e(0x596)]('0',_0x5cbd0f):_0x5cbd0f;}function _0x559733(_0x2392c7,_0x346212,_0x50f109){const _0x3819f4=_0x1b2745,_0xc90a8a=_0x26de99;return _0x46528d[_0xc90a8a(0x13d,'v4(y')]('#'+_0x46528d['gmVxK'](_0x42cae0,_0x2392c7),_0x46528d[_0x3819f4(0x145)](_0x42cae0,_0x346212))+_0x46528d['gmVxK'](_0x42cae0,_0x50f109);}let _0x87de5b=_0x559733(_0x5be6f7[_0x8bff60][_0x26de99(0x100,'L9pl')][_0x26de99(0x1d8,'$y[j')][_0x52f27f]['labelingInfo'][0x0][_0x8d798d(0x584)][_0x1b2745(0x621)]['r'],_0x5be6f7[_0x8bff60][_0x8d798d(0x41a)][_0x26de99(0x5fe,'kOJj')][_0x52f27f][_0x1b2745(0x943)][0x0]['symbol'][_0x1b2745(0x621)]['g'],_0x5be6f7[_0x8bff60][_0x1b2745(0x28c)][_0x8d798d(0x93b)][_0x52f27f][_0x26de99(0x309,'N(06')][0x0][_0x26de99(0x753,'0OY4')][_0x8d798d(0x3bc)]['b']),_0x57d0da=_0x24d34c[_0x8d798d(0x3bb)](_0x559733,_0x5be6f7[_0x8bff60][_0x1b2745(0x28c)]['items'][_0x52f27f][_0x8d798d(0x189)][0x0]['symbol'][_0x1b2745(0x7ef)]['r'],_0x5be6f7[_0x8bff60]['layers'][_0x8d798d(0x93b)][_0x52f27f]['labelingInfo'][0x0]['symbol'][_0x1b2745(0x7ef)]['g'],_0x5be6f7[_0x8bff60][_0x8d798d(0x41a)][_0x8d798d(0x93b)][_0x52f27f][_0x26de99(0x8b9,'iQ&)')][0x0][_0x8d798d(0x584)][_0x1b2745(0x7ef)]['b']);_0x4b0e9b=_0x5be6f7[_0x8bff60][_0x26de99(0x88b,'iQ&)')][_0x1b2745(0x6bb)][_0x52f27f]['labelingInfo'][0x0],document[_0x26de99(0x7c3,'ZH7I')](_0x26de99(0x69f,'W7A7'))[_0x1b2745(0x4c5)]=_0x87de5b,document[_0x1b2745(0x703)](_0x26de99(0x307,'Pf[X'))[_0x8d798d(0x222)]=_0x57d0da,_0x44449b[_0x26de99(0x6a3,'N(06')][0x0]=_0x5be6f7[_0x8bff60]['layers'][_0x26de99(0x4da,'IZn(')][_0x52f27f]['labelingInfo'][0x0][_0x26de99(0x53f,'uEyB')][_0x1b2745(0x11e)][_0x1b2745(0x216)],_0x4ee8aa[_0x8d798d(0x135)][0x0]=_0x5be6f7[_0x8bff60]['layers'][_0x1b2745(0x6bb)][_0x52f27f][_0x8d798d(0x189)][0x0]['symbol']['haloSize'];}else document[_0x8d798d(0x4ee)](_0x8d798d(0x970))['checked']=![],_0x4b0e9b=_0x5328d0[_0x26de99(0x315,'66Zk')](),_0x5be6f7[_0x8bff60][_0x1b2745(0x28c)][_0x1b2745(0x6bb)][_0x52f27f][_0x26de99(0x37d,'uRlI')]=[_0x4b0e9b];document[_0x26de99(0x971,'j4WJ')](_0x24d34c[_0x8d798d(0x805)])[_0x8d798d(0x83b)](_0x1b2745(0x5b5),_0x2b4358=>{const _0x2e2e2e=_0x1b2745,_0x7e599=_0x8d798d;_0x46528d[_0x7e599(0x92d)](_0x2fd0e5),document[_0x7e599(0x4ee)](_0x46528d[_0x2e2e2e(0x6b6)])[_0x7e599(0x8ac)]=!![],_0x5be6f7[_0x8bff60][_0x7e599(0x41a)][_0x7e599(0x93b)][_0x52f27f][_0x7e599(0x129)]=!![];}),document['getElementById'](_0x24d34c['gnBvL'])[_0x8d798d(0x30d)]=function(){_0x2fd0e5();},document[_0x26de99(0x1c7,'Zt]E')](_0x24d34c[_0x26de99(0x63a,'LWQm')])['oninput']=function(){const _0x35562e=_0x8d798d;_0x46528d[_0x35562e(0x764)](_0x2fd0e5);},document[_0x26de99(0x949,'5ld@')](_0x24d34c['TShFw'])[_0x26de99(0x501,'0OY4')](_0x24d34c['ryOpD'],_0x1a0f35=>{const _0x32c3cd=_0x1b2745,_0x2b969c=_0x26de99,_0x23e6e9=_0x8d798d;document['getElementById'](_0x24d34c[_0x23e6e9(0x466)])[_0x2b969c(0x465,'iQ&)')]?(_0x5be6f7[_0x8bff60]['layers']['items'][_0x52f27f][_0x23e6e9(0x189)]=[_0x4b0e9b],_0x5be6f7[_0x8bff60][_0x32c3cd(0x28c)]['items'][_0x52f27f][_0x32c3cd(0x848)]=!![]):_0x5be6f7[_0x8bff60]['layers'][_0x23e6e9(0x93b)][_0x52f27f]['labelsVisible']=![],_0x4df5de();});let _0x1ce180=document[_0x1b2745(0x703)](_0x24d34c['nviMN']);_0x1ce180[_0x8d798d(0x30d)]=function(){const _0x4b2ca8=_0x8d798d,_0x4d2090=_0x26de99,_0x5137be=_0x1b2745;_0x5c2aa7=document[_0x5137be(0x703)](_0x46528d[_0x4d2090(0x1e3,'N(06')])[_0x4d2090(0x3f4,'kOJj')],_0x5be6f7[_0x8bff60][_0x4d2090(0x5f6,'Q3#2')][_0x4b2ca8(0x93b)][_0x52f27f][_0x4b2ca8(0x189)][0x0][_0x5137be(0x2d0)]['color']=_0x5c2aa7;};let _0x49d826=document[_0x26de99(0x237,'y9!3')](_0x24d34c['vsjAy']);_0x49d826['oninput']=function(){const _0x52ff7e=_0x8d798d,_0x7b0e78=_0x26de99,_0x4743e6=_0x1b2745;_0x1f7134=document[_0x4743e6(0x703)](_0x24d34c[_0x4743e6(0xc8)])['value'],_0x5be6f7[_0x8bff60]['layers']['items'][_0x52f27f][_0x7b0e78(0x276,'s6tb')][0x0][_0x52ff7e(0x584)]['haloColor']=_0x1f7134;},_0x44449b['on'](_0x1b2745(0x662),function(){const _0xec9211=_0x8d798d,_0x31b090=_0x1b2745,_0x1acb18=_0x26de99;let _0x48cba2=_0x5be6f7[_0x8bff60][_0x1acb18(0x100,'L9pl')]['items'][_0x52f27f][_0x31b090(0x943)][0x0];_0x48cba2[_0xec9211(0x584)][_0xec9211(0x2ce)][_0x31b090(0x216)]=_0x44449b[_0x31b090(0x31b)][0x0],_0x5be6f7[_0x8bff60]['layers'][_0xec9211(0x93b)][_0x52f27f][_0x31b090(0x943)][0x0]=_0x48cba2;}),_0x4ee8aa['on']('thumb-drag',function(){const _0x1e3212=_0x26de99,_0x3425dc=_0x1b2745,_0x4d4a56=_0x8d798d;let _0x296806=_0x5be6f7[_0x8bff60]['layers'][_0x4d4a56(0x93b)][_0x52f27f]['labelingInfo'][0x0];_0x296806[_0x3425dc(0x2d0)][_0x4d4a56(0x881)]=_0x4ee8aa[_0x3425dc(0x31b)][0x0],_0x5be6f7[_0x8bff60][_0x3425dc(0x28c)][_0x3425dc(0x6bb)][_0x52f27f][_0x1e3212(0x921,'$y[j')][0x0]=_0x296806;});}let _0x5328d0=new _0x1adf96({'labelExpressionInfo':{'expression':''},'symbol':{'type':_0x1c29b8[_0x353cc9(0x869,'N)JJ')],'color':_0x1c29b8[_0x353cc9(0x3b2,'Pf[X')],'haloSize':0x1,'haloColor':_0x37be03(0x2b9),'font':{'family':_0x1c29b8['ZYerl'],'size':0x8,'weight':_0x37be03(0x497)}}});const _0x57641e=document[_0x353cc9(0x2df,'N)JJ')](_0x37be03(0x61a))['cloneNode'](!![]);let _0x984d5b=document['getElementById'](_0x1c29b8[_0x353cc9(0x5d0,'N&[G')]);_0x57641e['id']=_0x1c29b8[_0x353cc9(0x478,'5q&t')];function _0x4c6321(_0x20b6ff){const _0x55287f=_0x139205,_0x4fe334=_0x37be03,_0x336e61=_0x353cc9;if(_0x20b6ff[_0x336e61(0x75c,'&IE8')]){if(_0x20b6ff[_0x4fe334(0x3a6)])document[_0x4fe334(0x703)](_0x24d34c[_0x336e61(0x1ef,'tIy0')])[_0x4fe334(0x19e)]=!![];else document[_0x55287f(0x4ee)](_0x4fe334(0xc2))[_0x55287f(0x8ac)]=![];}else document[_0x336e61(0x455,'&IE8')](_0x24d34c[_0x4fe334(0x658)])[_0x4fe334(0x19e)]=![];document['getElementById']('popupToggleBtn')[_0x55287f(0x83b)](_0x336e61(0x893,'uRlI'),_0x27eaf9=>{const _0xe1d568=_0x336e61,_0x554d12=_0x4fe334,_0x29500a=_0x55287f;if(document[_0x29500a(0x4ee)](_0x24d34c[_0x554d12(0x658)])[_0x554d12(0x19e)]){_0x5be6f7[_0x8bff60][_0xe1d568(0x100,'L9pl')][_0x554d12(0x6bb)][_0x52f27f][_0x554d12(0x3a6)]=!![];let _0x4eedc1=[];if(_0x24d34c[_0x554d12(0x1ec)](_0x20b6ff[_0x29500a(0x93a)],undefined)){_0x20b6ff[_0xe1d568(0x2d1,'QhlL')]['forEach'](_0x4dd2a3=>{const _0x4be2a6=_0xe1d568,_0x41b027=_0x29500a;let _0xb984d0={'fieldName':_0x4dd2a3[_0x41b027(0x92b)]};_0x4eedc1[_0x4be2a6(0x435,'Pf[X')](_0xb984d0);});let _0x3a1a09={'title':_0x24d34c[_0xe1d568(0x89d,'C^5W')](_0x24d34c[_0x554d12(0x539)](_0x24d34c[_0xe1d568(0x6b4,'5q&t')],_0x20b6ff['fields'][0x0][_0x29500a(0x92b)]),'}'),'content':[{'type':_0x24d34c[_0x554d12(0x304)],'fieldInfos':_0x4eedc1}]};_0x5be6f7[_0x8bff60]['layers'][_0x29500a(0x93b)][_0x52f27f][_0x29500a(0xf2)]=_0x3a1a09;}}else _0x5be6f7[_0x8bff60][_0x29500a(0x41a)]['items'][_0x52f27f][_0xe1d568(0x4fb,'$y[j')]=![];});}const _0x15bdcb=new _0x5613b6({'view':_0x574e7e,'container':document[_0x37be03(0x703)]('layerList'),'selectionEnabled':!![],'multipleSelectionEnabled':!![],'listItemCreatedFunction':function(_0x27b61b){const _0x2231b8=_0x139205,_0x3c3a8b=_0x353cc9,_0x6c200e=_0x37be03,_0x533b3c=_0x27b61b[_0x6c200e(0x3a0)];_0x533b3c[_0x3c3a8b(0x550,'(o2u')]={'content':_0x1c29b8[_0x6c200e(0x3ff)],'open':![],'visible':!![]},_0x533b3c[_0x6c200e(0x114)]=[[{'title':'عرض\x20كامل\x20البيانات','className':_0x6c200e(0x57d),'id':_0x3c3a8b(0x354,'Y!f2')},{'title':_0x1c29b8[_0x2231b8(0x71d)],'className':_0x1c29b8[_0x2231b8(0x15f)],'id':_0x1c29b8['xmvMi']},{'title':_0x1c29b8[_0x6c200e(0xbf)],'className':_0x1c29b8[_0x6c200e(0xa3)],'id':_0x1c29b8['aIubK']},{'title':_0x1c29b8['HJnEB'],'className':_0x1c29b8[_0x2231b8(0x4f5)],'id':_0x1c29b8[_0x2231b8(0x163)]}],[{'title':_0x1c29b8[_0x2231b8(0x8ab)],'className':_0x1c29b8[_0x3c3a8b(0x2e0,'Q3#2')],'id':_0x1c29b8[_0x3c3a8b(0x1b6,'kOJj')]},{'title':'النصوص','className':_0x1c29b8[_0x3c3a8b(0x2ff,'uEyB')],'id':_0x1c29b8[_0x3c3a8b(0x4e3,'v4(y')]},{'title':_0x1c29b8[_0x3c3a8b(0x326,'7u9P')],'className':_0x6c200e(0x7e2),'id':_0x6c200e(0x45b)}],[{'title':_0x1c29b8[_0x2231b8(0x94c)],'className':_0x1c29b8[_0x6c200e(0x523)],'id':_0x1c29b8['CJzcr']},{'title':_0x1c29b8[_0x3c3a8b(0x1ed,'uEyB')],'className':_0x1c29b8[_0x6c200e(0x4e8)],'id':_0x1c29b8['jAAup']}],[{'title':_0x1c29b8[_0x6c200e(0x61e)],'className':_0x1c29b8['KCqpM'],'id':_0x1c29b8[_0x6c200e(0x71b)]}]];}});document[_0x139205(0x4ee)](_0x1c29b8['kDAlD'])[_0x353cc9(0x2ad,'Q3#2')]['display']=_0x37be03(0x2cd),_0x15bdcb['on'](_0x37be03(0xd3),function(_0x3a37a3){const _0x4a8a29=_0x353cc9,_0x5af41d=_0x139205,_0x41be3c=_0x37be03;let _0x118a5c=_0x3a37a3[_0x41be3c(0x831)]['id'];_0x4825b9=_0x3a37a3[_0x41be3c(0x3a0)][_0x5af41d(0x342)];if(_0x1c29b8['XxWkm'](_0x118a5c,_0x1c29b8[_0x4a8a29(0x331,'5ld@')]))_0x574e7e[_0x4a8a29(0x711,'Q3#2')](_0x4825b9[_0x41be3c(0x428)]);else{if(_0x1c29b8[_0x5af41d(0x58e)](_0x118a5c,_0x4a8a29(0x4e6,'JHTv')))window[_0x5af41d(0x823)](_0x4825b9['url']);else{if(_0x1c29b8[_0x41be3c(0x483)](_0x118a5c,'symbology')){if(_0x1c29b8[_0x5af41d(0x547)](_0x4825b9[_0x5af41d(0x40e)],_0x1c29b8[_0x5af41d(0x5ea)])||_0x1c29b8['ZVUbL'](_0x4825b9[_0x41be3c(0x7b1)],_0x1c29b8[_0x41be3c(0x1af)])||_0x1c29b8[_0x41be3c(0xbd)](_0x4825b9[_0x4a8a29(0x40d,'C^5W')],_0x1c29b8[_0x5af41d(0x77d)])||_0x1c29b8[_0x41be3c(0x7f6)](_0x4825b9[_0x4a8a29(0x28f,'s(LG')],_0x1c29b8[_0x41be3c(0x4fe)])||_0x4825b9[_0x41be3c(0x7b1)]===_0x1c29b8[_0x41be3c(0x2bd)]){const _0xa9d5b5=_0x1c29b8['PTwqx'][_0x41be3c(0x193)]('|');let _0x3c375d=0x0;while(!![]){switch(_0xa9d5b5[_0x3c375d++]){case'0':_0x1d1c81();continue;case'1':_0x1c29b8[_0x4a8a29(0x404,'h0v]')](_0x52ac7c);continue;case'2':_0x574e7e['ui']['add'](_0xc57135,_0x1c29b8[_0x41be3c(0x5a2)]);continue;case'3':_0x1c29b8[_0x5af41d(0x30f)](_0x12d012,_0x1c29b8['Gwfks'],_0x41be3c(0x78c));continue;case'4':_0x1c29b8[_0x4a8a29(0x591,'Pf[X')](_0x59ecdc,_0x4825b9['id']);continue;case'5':_0x1c29b8[_0x5af41d(0xfb)](_0x5f30b1);continue;case'6':_0x1c29b8[_0x41be3c(0x670)](_0x6c5acc,_0x1c29b8[_0x41be3c(0x78f)]);continue;case'7':_0x186aac();continue;}break;}}}else{if(_0x1c29b8['EjOZr'](_0x118a5c,_0x1c29b8['aIubK'])){if(_0x4825b9[_0x41be3c(0x7b1)]===_0x1c29b8[_0x4a8a29(0x97,'e91b')]||_0x4825b9[_0x5af41d(0x40e)]===_0x1c29b8[_0x41be3c(0x1af)]||_0x1c29b8[_0x4a8a29(0x715,'66Zk')](_0x4825b9[_0x41be3c(0x7b1)],_0x1c29b8[_0x5af41d(0x77d)])||_0x1c29b8['qoqdG'](_0x4825b9['type'],_0x1c29b8[_0x4a8a29(0x171,'h0v]')])||_0x1c29b8[_0x4a8a29(0x2fc,'aybq')](_0x4825b9[_0x4a8a29(0x40d,'C^5W')],_0x1c29b8[_0x41be3c(0x2bd)])){let _0x1480ba=[];document[_0x4a8a29(0x392,'aybq')](_0x1c29b8['CQNJD'])[_0x5af41d(0x35d)]='',_0x4825b9[_0x41be3c(0x7a8)][_0x5af41d(0x5ff)](_0x46ed21=>{const _0x2ee17e=_0x5af41d,_0x58d784=_0x4a8a29;_0x1480ba['push']({'name':_0x46ed21[_0x58d784(0x441,'u([%')],'label':_0x46ed21[_0x2ee17e(0x92b)],'visible':!![]});});const _0x47ecd7=new _0x84b036({'view':_0x574e7e,'layer':_0x4825b9,'container':_0x1c29b8['CQNJD'],'fieldConfigs':_0x1480ba,'menuConfig':{'items':[{'label':_0x4a8a29(0x4c4,'N&[G'),'iconClass':_0x1c29b8[_0x4a8a29(0x3fb,'5q&t')],'clickFunction':_0x3c4c2b}]}});_0x186aac(),_0x574e7e['ui'][_0x5af41d(0x64d)](_0x1c29b8[_0x4a8a29(0x1b3,'ZH7I')]),_0x574e7e['ui'][_0x5af41d(0x144)](_0x47ecd7,_0x1c29b8[_0x41be3c(0x2de)]);function _0x3c4c2b(){const _0x4bdac2=_0x41be3c,_0x692a19=_0x4a8a29;_0x47ecd7[_0x692a19(0x69d,'L9pl')][_0x4bdac2(0x361)]=![],_0x574e7e['ui']['remove'](_0x47ecd7);}}}else{if(_0x1c29b8['Kgiyf'](_0x118a5c,_0x1c29b8[_0x5af41d(0x163)])){if(_0x4825b9[_0x4a8a29(0x1e2,'s6tb')]===_0x1c29b8['YmNrF']||_0x1c29b8[_0x41be3c(0x40c)](_0x4825b9[_0x4a8a29(0x4f8,'uEyB')],_0x1c29b8[_0x4a8a29(0x6f6,'aybq')])||_0x4825b9[_0x5af41d(0x40e)]===_0x1c29b8['uKmnr']||_0x1c29b8[_0x5af41d(0xad)](_0x4825b9[_0x4a8a29(0x4f1,'oVHT')],_0x1c29b8[_0x5af41d(0x3dc)])||_0x4825b9[_0x41be3c(0x7b1)]===_0x1c29b8[_0x4a8a29(0x5be,'e91b')]){const _0x119935=_0x1c29b8[_0x4a8a29(0x76c,'aybq')][_0x41be3c(0x193)]('|');let _0x49761c=0x0;while(!![]){switch(_0x119935[_0x49761c++]){case'0':_0x1c29b8[_0x41be3c(0x3df)](_0x28f996);continue;case'1':_0x1c29b8[_0x41be3c(0x772)](_0x186aac);continue;case'2':_0x574e7e['ui'][_0x41be3c(0x33d)](_0x4219ba,_0x1c29b8[_0x5af41d(0x6ba)]);continue;case'3':_0x59ecdc(_0x4825b9['id']);continue;case'4':_0x5f30b1();continue;}break;}}}else{if(_0x1c29b8['qihbP'](_0x118a5c,_0x1c29b8['FiqJD'])){if(_0x1c29b8[_0x5af41d(0x2f5)](_0x4825b9[_0x4a8a29(0xff,'L9pl')],_0x1c29b8['YmNrF'])||_0x1c29b8[_0x5af41d(0x2f5)](_0x4825b9['type'],_0x1c29b8['IwAns'])||_0x4825b9['type']===_0x1c29b8[_0x41be3c(0x2fa)]||_0x1c29b8[_0x41be3c(0x1da)](_0x4825b9[_0x4a8a29(0x1e2,'s6tb')],_0x5af41d(0xae))||_0x1c29b8[_0x4a8a29(0x529,'tIy0')](_0x4825b9[_0x4a8a29(0x504,'y9!3')],_0x1c29b8[_0x41be3c(0x2bd)])){const _0x45a3dc=_0x1c29b8[_0x41be3c(0x78e)][_0x5af41d(0x7ed)]('|');let _0x37578f=0x0;while(!![]){switch(_0x45a3dc[_0x37578f++]){case'0':_0x1c29b8[_0x41be3c(0x772)](_0x5f30b1);continue;case'1':_0x1c29b8[_0x5af41d(0x8de)](_0x6c5acc,_0x5af41d(0x4b4));continue;case'2':_0x1c29b8['tkowR'](_0x186aac);continue;case'3':_0x1c29b8[_0x5af41d(0x8de)](_0x584798,_0x4825b9);continue;case'4':_0x574e7e['ui'][_0x4a8a29(0x939,'N&[G')](_0x247390,_0x1c29b8[_0x5af41d(0x6ba)]);continue;case'5':_0x1c29b8[_0x41be3c(0x670)](_0x59ecdc,_0x4825b9['id']);continue;}break;}}}else{if(_0x1c29b8[_0x4a8a29(0x903,'oS%5')](_0x118a5c,'popup'))(_0x1c29b8[_0x41be3c(0x4d8)](_0x4825b9[_0x4a8a29(0xff,'L9pl')],_0x1c29b8[_0x5af41d(0x5ea)])||_0x4825b9[_0x5af41d(0x40e)]===_0x1c29b8['IwAns']||_0x4825b9[_0x4a8a29(0x668,'Q3#2')]===_0x1c29b8['uKmnr']||_0x4825b9[_0x4a8a29(0x2bf,'DEqX')]===_0x1c29b8['nGeZx']||_0x1c29b8[_0x5af41d(0x2e5)](_0x4825b9['type'],_0x1c29b8['FVpOd']))&&(_0x1c29b8[_0x4a8a29(0x341,'e91b')](_0x186aac),_0x574e7e['ui']['add'](_0x57641e,_0x1c29b8[_0x4a8a29(0x644,'Pf[X')]),_0x5f30b1(),_0x1c29b8[_0x41be3c(0x670)](_0x59ecdc,_0x4825b9['id']),_0x1c29b8[_0x4a8a29(0x449,'h0v]')](_0x4c6321,_0x4825b9));else{if(_0x1c29b8[_0x4a8a29(0x5b7,'kOJj')](_0x118a5c,_0x41be3c(0x7a1)))_0x59ecdc(_0x4825b9['id']),_0xaf645d(_0x4825b9),fixLayerListUI();else{if(_0x1c29b8[_0x41be3c(0x34c)](_0x118a5c,_0x1c29b8[_0x5af41d(0x6b2)]))_0x59ecdc(_0x4825b9['id']),_0x48a182(_0x4825b9),_0x1c29b8[_0x41be3c(0x2da)](fixLayerListUI);else _0x1c29b8[_0x4a8a29(0x5af,'v7Qz')](_0x118a5c,_0x1c29b8[_0x5af41d(0x3aa)])&&_0x5be6f7[_0x8bff60][_0x41be3c(0x49a)](_0x4825b9);}}}}}}}}});function _0x59ecdc(_0xb5e980){const _0xbc4189=_0x37be03,_0x383d78=_0x353cc9,_0xfea778={'NWtfy':function(_0x1e675d,_0x10de88){return _0x1e675d===_0x10de88;}};let _0x3ad18c=_0x5be6f7[_0x8bff60][_0x383d78(0x8b0,'pWA*')][_0xbc4189(0x6bb)];_0x3ad18c[_0x383d78(0x503,'e91b')](_0x493955);function _0x493955(_0x185c87,_0x438e47){_0xfea778['NWtfy'](_0xb5e980,_0x185c87['id'])&&(_0x52f27f=_0x438e47);}}function _0xaf645d(_0x17a315){const _0x39b733=_0x139205,_0x50f007=_0x353cc9,_0x5b67dc=_0x37be03;let _0x4c256d=_0x5be6f7[_0x8bff60][_0x5b67dc(0x28c)][_0x50f007(0x1d6,'z*1C')];_0x24d34c[_0x50f007(0x31a,'pWA*')](_0x52f27f,_0x4c256d)&&_0x5be6f7[_0x8bff60][_0x39b733(0x6fe)](_0x17a315,_0x52f27f+0x1);}function _0x48a182(_0x45e00c){const _0x10bf46=_0x353cc9,_0x20218d=_0x139205;_0x52f27f>0x0&&_0x5be6f7[_0x8bff60][_0x20218d(0x6fe)](_0x45e00c,_0x24d34c[_0x10bf46(0x47c,'oS%5')](_0x52f27f,0x1));}function _0x6c5acc(_0xb4bcfb){const _0x371103=_0x139205,_0x4fed0b=_0x353cc9,_0x2e9c10=_0x37be03,_0x4ec2b1=_0x24d34c[_0x2e9c10(0x44b)][_0x4fed0b(0x1ff,'N&[G')]('|');let _0xddfbb2=0x0;while(!![]){switch(_0x4ec2b1[_0xddfbb2++]){case'0':var _0x22fb17=document[_0x2e9c10(0x87c)](_0x24d34c[_0x371103(0x7af)]);continue;case'1':document[_0x371103(0x4ee)](_0xb4bcfb)['appendChild'](_0x22fb17);continue;case'2':_0x22fb17[_0x2e9c10(0x4c5)]='';continue;case'3':_0x22fb17['text']=_0x4fed0b(0x15d,'aybq');continue;case'4':document['getElementById'](_0xb4bcfb)[_0x2e9c10(0x775)]='';continue;case'5':_0x4825b9['fields'][_0x4fed0b(0x6e0,'iQ&)')](_0x322ac4=>{const _0x2cfeac=_0x4fed0b,_0x3e26cc=_0x2e9c10;var _0xfedc71=document['createElement'](_0x3e26cc(0x684));_0xfedc71['value']=_0x322ac4['name'],_0xfedc71[_0x2cfeac(0x2a1,'u([%')]=_0x322ac4['name'],document[_0x2cfeac(0x455,'&IE8')](_0xb4bcfb)[_0x2cfeac(0x35c,'7pGd')](_0xfedc71);});continue;}break;}}function _0x4df5de(){const _0x15f6c9=_0x37be03,_0x62b31=_0x353cc9;_0x5be6f7[_0x8bff60][_0x62b31(0x127,'oS%5')][_0x62b31(0x177,'N)JJ')][_0x52f27f][_0x15f6c9(0x848)]?_0x4f990f[_0x62b31(0xbe,'aHTy')]=!![]:_0x4f990f[_0x15f6c9(0x19e)]=![];}function _0x1aa30f(){const _0x224f70=_0x139205,_0x44fc23=_0x353cc9;_0x24d34c[_0x44fc23(0x279,'uRlI')](_0x5be6f7[_0x8bff60][_0x224f70(0x41a)][_0x224f70(0x93b)][_0x52f27f]['labelingInfo'],null)&&(_0x5be6f7[_0x8bff60][_0x224f70(0x41a)][_0x224f70(0x93b)][_0x52f27f][_0x44fc23(0x6ea,'Q3#2')]=_0x5328d0);}function _0x1d1c81(){const _0x44718d=_0x139205,_0x18f0c6=_0x37be03;_0x3ffdda={};let _0x389375=_0x5be6f7[_0x8bff60][_0x18f0c6(0x28c)][_0x18f0c6(0x6bb)][_0x52f27f][_0x44718d(0x93a)];_0x389375[_0x44718d(0x5ff)](_0x5508a2=>{const _0x3d5ca1=_0x18f0c6;let _0x244be7=_0x5508a2[_0x3d5ca1(0x187)],_0x52ab51=_0x5508a2[_0x3d5ca1(0x7b1)];_0x3ffdda[_0x244be7]=_0x52ab51;});}function _0x43df21(_0x4ef82b){const _0x9d286f=_0x139205,_0x5b2093=_0x353cc9,_0x2a3b6f=_0x37be03;let _0x54dfa2=document[_0x2a3b6f(0x703)](_0x24d34c[_0x2a3b6f(0x39c)])[_0x5b2093(0x95c,'LWQm')],_0x535b33=_0x3ffdda[_0x54dfa2],_0x2599ba,_0x210154;switch(_0x535b33){case _0x24d34c['BXMTg']:_0x2599ba={'none':_0x24d34c['nMSrN'],'simple':_0x9d286f(0x241),'unique':_0x24d34c[_0x9d286f(0x33b)]},_0x24d34c[_0x5b2093(0x20f,'uRlI')](_0x29e28e,_0x2599ba,_0x1ec322);break;case _0x9d286f(0x78b):_0x2599ba={'none':_0x24d34c['nMSrN'],'simple':_0x24d34c[_0x9d286f(0x4a5)],'unique':_0x24d34c[_0x9d286f(0x33b)]},_0x29e28e(_0x2599ba,_0x1ec322);break;default:_0x210154={'none':_0x24d34c[_0x2a3b6f(0x339)],'color':'تمثيل\x20باللون','size':_0x24d34c[_0x5b2093(0x224,'iQ&)')],'heatmap':_0x24d34c[_0x5b2093(0x911,'Y!f2')],'simple':_0x24d34c[_0x2a3b6f(0x1aa)],'unique':_0x24d34c[_0x2a3b6f(0x30e)]},_0x29e28e(_0x210154,_0x1ec322);}}function _0x29e28e(_0xa65ae,_0x188b42){const _0x1f114e=_0x139205,_0x3fb761=_0x353cc9;while(_0x188b42[_0x3fb761(0x693,'L9pl')]){_0x188b42[_0x3fb761(0x5ad,'aybq')](_0x188b42[_0x1f114e(0x739)]);}for(const [_0x331ca2,_0x42bb91]of Object[_0x1f114e(0x4dd)](_0xa65ae)){let _0x17afc3=document[_0x3fb761(0x88,'uEyB')](_0x1c29b8[_0x1f114e(0x232)]);_0x17afc3['value']=''+_0x331ca2,_0x17afc3['text']=''+_0x42bb91,_0x188b42['appendChild'](_0x17afc3);}return _0x188b42;}function _0x84cd88(){const _0x683f06=_0x139205,_0x501223=_0x353cc9,_0x41e8cf=_0x37be03;_0x1c29b8[_0x41e8cf(0x1b7)](_0x3d23dd,undefined)&&(_0x3d23dd=document[_0x41e8cf(0x703)]('symbologyOptionsDiv')[_0x41e8cf(0x811)](!![]),_0xc57135[_0x41e8cf(0x775)]='',_0xc57135[_0x501223(0x8f5,'XJG4')](_0xc103e7),_0xc57135[_0x683f06(0x3f5)](_0x3d23dd));}function _0xdc04f7(_0x3e2040){const _0x190402=_0x353cc9,_0x25fa2e=_0x139205,_0x4dc301=_0x37be03;_0x379bd4=document[_0x4dc301(0x703)](_0x3e2040);for(i=0x1;_0x1c29b8[_0x4dc301(0x96)](i,_0x379bd4[_0x25fa2e(0x18d)][_0x25fa2e(0x4d7)]);i++){_0x379bd4[_0x4dc301(0x887)][i]['style'][_0x25fa2e(0x263)]=_0x1c29b8[_0x190402(0xda,'Zt]E')];}}function _0x12d012(_0x12a6cf,_0x3ad6d1){const _0x2589d4=_0x353cc9,_0xffc327=_0x139205,_0x2cc2aa=_0x37be03;_0x1c29b8['keosQ'](_0xdc04f7,_0x12a6cf),document[_0x2cc2aa(0x703)](_0x3ad6d1)[_0xffc327(0x3a3)][_0x2cc2aa(0x294)]=_0x1c29b8[_0x2589d4(0x690,'5ld@')];}let _0x1c2b11=document[_0x353cc9(0x94b,'XJG4')](_0x353cc9(0x4aa,'Zt]E'))[_0x37be03(0x811)](!![]);_0x1c2b11['id']=_0x1c29b8[_0x139205(0x368)];let _0x49e2a1=document['getElementById'](_0x139205(0x434))[_0x37be03(0x811)](!![]);_0x49e2a1['id']='addBookmarkBtn';let _0x616584=document[_0x353cc9(0x6f2,'$y[j')](_0x1c29b8[_0x353cc9(0x3d5,'ZH7I')])['cloneNode'](!![]);_0x616584['id']=_0x139205(0x1c9);let _0x8340d6,_0x1923ba,_0x3109db={};localStorage['getItem'](_0x1c29b8['EEpMu'])!==null&&(_0x3109db=JSON[_0x353cc9(0x447,'y9!3')](localStorage['getItem'](_0x1c29b8[_0x353cc9(0x55d,'NwE[')])));document['getElementById'](_0x37be03(0x66b))[_0x353cc9(0x343,'LWQm')](_0x1c29b8[_0x353cc9(0x2fe,'s6tb')],function(){const _0x3fdcd8=_0x353cc9,_0x36a052=_0x37be03,_0x54f43b=_0x139205,_0x2f0559={'FSTog':_0x54f43b(0x627),'GTpzW':_0x1c29b8[_0x36a052(0x154)],'ojKjR':function(_0x2bad54,_0x14230b){return _0x1c29b8['AfLzw'](_0x2bad54,_0x14230b);},'ztPpl':_0x1c29b8[_0x36a052(0x8c4)],'fqugs':function(_0x482f88){return _0x1c29b8['dXuSC'](_0x482f88);},'thHJE':function(_0x19cb6c,_0x8d1c2b,_0xcd250d){const _0x365396=_0x54f43b;return _0x1c29b8[_0x365396(0x30f)](_0x19cb6c,_0x8d1c2b,_0xcd250d);},'LePTB':_0x1c29b8[_0x3fdcd8(0x96a,'h0v]')],'mPzyB':_0x1c29b8[_0x3fdcd8(0x849,'vyC#')],'kDJLg':function(_0x533847,_0x1ab045){return _0x533847<_0x1ab045;},'EFiFn':_0x1c29b8[_0x3fdcd8(0x837,'DEqX')],'fQOOY':_0x1c29b8[_0x3fdcd8(0x568,'s6tb')],'twZuc':function(_0x19f77f,_0x5c98bd){return _0x19f77f<_0x5c98bd;},'vfljF':_0x1c29b8[_0x36a052(0xdc)]};_0x1c29b8[_0x36a052(0x5bc)](_0x186aac),_0x574e7e['ui'][_0x3fdcd8(0x939,'N&[G')](_0x1c2b11,_0x1c29b8['IlDYC']),_0x5f30b1(),document[_0x54f43b(0x4ee)](_0x1c29b8[_0x36a052(0x7f9)])[_0x3fdcd8(0x2b2,'v4(y')]='';for(let _0xbf727a in _0x3109db){let _0x57e8e8=_0x3109db[_0xbf727a],_0x50996f=document[_0x36a052(0x87c)](_0x1c29b8['HKWoT']);_0x50996f[_0x54f43b(0x776)]=_0x1c29b8['oedCj'],_0x50996f[_0x3fdcd8(0x238,'$y[j')]=_0xbf727a,document[_0x3fdcd8(0x8fe,'kOJj')](_0x1c29b8[_0x36a052(0x7f9)])['appendChild'](_0x50996f);}document[_0x3fdcd8(0x2b0,'DEqX')](_0x1c29b8[_0x36a052(0x7e5)])[_0x54f43b(0x83b)](_0x1c29b8[_0x54f43b(0xf9)],function(){const _0x5cac03=_0x36a052,_0x1bab41=_0x3fdcd8,_0x16b8a7=_0x54f43b,_0x1a5e5d={'ibDBQ':function(_0x3c96ac,_0x4ab7c3,_0x1e7887){return _0x3c96ac(_0x4ab7c3,_0x1e7887);},'WLoTu':_0x2f0559['FSTog'],'SQsQi':_0x16b8a7(0x4a1),'MeSFn':_0x2f0559[_0x1bab41(0x1ab,'aHTy')],'ZIumH':function(_0x4ea3d5,_0x2071e2){const _0x4b8430=_0x5997;return _0x2f0559[_0x4b8430(0x1d3)](_0x4ea3d5,_0x2071e2);},'kZqkF':_0x2f0559[_0x5cac03(0x756)],'aDlBy':'localBookmarks','CgpIN':function(_0x457b1b){const _0x6468a2=_0x1bab41;return _0x2f0559[_0x6468a2(0x15e,'iQ&)')](_0x457b1b);}};_0x2f0559[_0x1bab41(0x2f3,'y9!3')](_0x12d012,_0x2f0559[_0x16b8a7(0x8f9)],_0x2f0559[_0x1bab41(0x7aa,'e91b')]),document[_0x5cac03(0x703)]('saveBookmarkBtn')[_0x1bab41(0x8c8,'s(LG')](_0x2f0559[_0x16b8a7(0x61b)],function(){const _0x1a5b3e=_0x16b8a7,_0x58dbaf=_0x1bab41,_0x4dbc9a=_0x5cac03;_0x1a5e5d[_0x4dbc9a(0x21d)](_0x12d012,_0x1a5e5d[_0x58dbaf(0x3ec,'oRyI')],_0x1a5e5d[_0x4dbc9a(0x28b)]),_0x8340d6=document[_0x1a5b3e(0x4ee)](_0x1a5e5d['MeSFn'])[_0x58dbaf(0x34e,'aHTy')];if(_0x1a5e5d[_0x58dbaf(0x33e,'oRyI')](_0x8340d6,''))alert(_0x1a5e5d[_0x58dbaf(0x856,'5ld@')]);else{document['getElementById'](_0x1a5e5d[_0x58dbaf(0x116,'N(06')])['value']='';let _0x4af9d6=_0x574e7e['extent'];_0x4af9d6[_0x58dbaf(0x632,'7pGd')]=_0x8340d6,_0x3109db[_0x8340d6]=_0x4af9d6,localStorage[_0x4dbc9a(0x20d)](_0x1a5e5d['aDlBy'],JSON['stringify'](_0x3109db)),_0x1a5e5d[_0x1a5b3e(0x220)](_0x5a9cbd);}_0x102bb6();});}),_0x1c29b8[_0x36a052(0x395)](_0x102bb6),document[_0x3fdcd8(0x971,'j4WJ')](_0x1c29b8[_0x36a052(0xaa)])['addEventListener'](_0x1c29b8[_0x3fdcd8(0x905,'7pGd')],function(){const _0xdd2869=_0x54f43b,_0x51c481=_0x36a052,_0x55314d=_0x3fdcd8,_0x52309a={'lrcDX':function(_0x28f0fc){return _0x28f0fc();},'DsHpj':function(_0xa0013d,_0x2bbafb){const _0x450d9c=_0x5997;return _0x2f0559[_0x450d9c(0x320)](_0xa0013d,_0x2bbafb);},'fBrCH':_0x2f0559['EFiFn'],'drjyF':_0x2f0559[_0x55314d(0x923,'XJG4')],'BREqN':function(_0x10d4c5){const _0x27c34e=_0x357c;return _0x2f0559[_0x27c34e(0x95d)](_0x10d4c5);}};for(let _0x2f1459=0x0;_0x2f0559[_0x51c481(0x74e)](_0x2f1459,document[_0xdd2869(0x4ee)](_0x2f0559[_0x51c481(0x5cd)])[_0x51c481(0x887)][_0xdd2869(0x4d7)]);_0x2f1459++){document[_0xdd2869(0x4ee)](_0x51c481(0x3c2))[_0xdd2869(0x18d)][_0x2f1459][_0x55314d(0x72c,'aybq')][_0x51c481(0x283)]=_0x2f0559[_0xdd2869(0x157)],document[_0x51c481(0x703)]('bookmarksList')[_0xdd2869(0x18d)][_0x2f1459][_0xdd2869(0x83b)]('click',_0x12c57c=>{const _0x25e91b=_0x55314d,_0xc32a21=_0x51c481,_0x42fcb5=_0xdd2869;delete _0x3109db[_0x12c57c[_0x42fcb5(0x767)][_0xc32a21(0x775)]],_0x52309a[_0xc32a21(0x8fb)](_0x5a9cbd);for(let _0x2408f=0x0;_0x52309a[_0x25e91b(0x51c,'JHTv')](_0x2408f,document[_0x42fcb5(0x4ee)](_0x52309a['fBrCH'])[_0x25e91b(0x419,'z*1C')][_0xc32a21(0x1c5)]);_0x2408f++){document[_0x42fcb5(0x4ee)](_0x42fcb5(0x1c4))[_0xc32a21(0x887)][_0x2408f][_0xc32a21(0x604)][_0x42fcb5(0x866)]=_0x52309a[_0x25e91b(0x8b1,'Pf[X')],_0x52309a[_0x42fcb5(0x4dc)](_0x102bb6);}});}});});function _0x188a58(_0x5272a7){const _0x16020b=_0x353cc9;_0x574e7e[_0x16020b(0x506,'s6tb')]=_0x3109db[_0x5272a7];}function _0x102bb6(){const _0xb101cb=_0x353cc9,_0xb66037=_0x139205,_0x19db1c=_0x37be03;for(let _0x12cf9a=0x0;_0x1c29b8[_0x19db1c(0x130)](_0x12cf9a,document['getElementById'](_0x1c29b8[_0xb66037(0x83f)])[_0xb101cb(0x924,'oVHT')][_0x19db1c(0x1c5)]);_0x12cf9a++){document[_0xb66037(0x4ee)](_0x1c29b8[_0xb101cb(0x491,'N)JJ')])[_0xb101cb(0x7ce,'iQ&)')][_0x12cf9a]['addEventListener'](_0x1c29b8['pyFib'],_0x4c8264=>{const _0xfc0bdc=_0xb101cb;_0x188a58(_0x4c8264[_0xfc0bdc(0x2ae,'&IE8')][_0xfc0bdc(0x403,'LWQm')]);});}}function _0x5a9cbd(){const _0x858b34=_0x139205,_0x354ead=_0x37be03,_0x2a732e=_0x353cc9;document[_0x2a732e(0x7c3,'ZH7I')](_0x24d34c['UhkYI'])[_0x2a732e(0x888,'IZn(')]='',localStorage['setItem'](_0x24d34c[_0x2a732e(0x56e,'Pf[X')],JSON[_0x2a732e(0x23a,'N(06')](_0x3109db));for(let _0x2439cc in _0x3109db){let _0x4e48dc=_0x3109db[_0x2439cc],_0x1edba4=document['createElement'](_0x24d34c[_0x354ead(0x4e2)]);_0x1edba4[_0x858b34(0x776)]=_0x24d34c['adbIn'],_0x1edba4[_0x858b34(0x35d)]=_0x2439cc,document['getElementById'](_0x24d34c['UhkYI'])[_0x354ead(0x4de)](_0x1edba4);}}function _0x3c0c7d(){const _0xb5cac9=_0x139205,_0x62fc13=_0x37be03,_0x14deeb=_0x353cc9,_0x5e62c6={'zBWLv':_0x1c29b8[_0x14deeb(0x426,'XJG4')],'kPSeX':function(_0x3aa1ce,_0x341484){const _0x12c56e=_0x357c;return _0x1c29b8[_0x12c56e(0x5eb)](_0x3aa1ce,_0x341484);},'LGlxS':function(_0x391228){return _0x391228();},'Ddwnv':_0x1c29b8[_0x62fc13(0x2de)],'WyJlK':_0x62fc13(0x4f6),'hJpKH':_0x1c29b8[_0x62fc13(0x712)]};document[_0xb5cac9(0x4ee)](_0x1c29b8['yNpVe'])[_0x14deeb(0x719,'Q3#2')](_0x1c29b8[_0x62fc13(0x4ff)],function(){const _0x5006b4=_0x14deeb,_0x464848=_0xb5cac9,_0x5dbdb2=_0x62fc13;let _0x8584cc=document[_0x5dbdb2(0x88c)](_0x5e62c6[_0x464848(0x63e)]);for(i=0x0;_0x5e62c6[_0x464848(0x53d)](i,_0x8584cc[_0x5006b4(0x8e9,'IZn(')]);i++){const _0x5218eb=_0x5006b4(0x495,'6irY')[_0x464848(0x7ed)]('|');let _0x539d19=0x0;while(!![]){switch(_0x5218eb[_0x539d19++]){case'0':_0x8584cc[i][_0x5dbdb2(0x604)][_0x5006b4(0x6e7,'&IE8')]='0';continue;case'1':_0x5e62c6[_0x464848(0x2d3)](fixLayerListUI);continue;case'2':_0x574e7e['ui'][_0x464848(0x64d)](_0x5e62c6[_0x464848(0x562)]);continue;case'3':_0x574e7e['ui'][_0x5006b4(0x939,'N&[G')](_0x211537,_0x5e62c6['WyJlK']);continue;case'4':_0x574e7e['ui'][_0x464848(0x64d)](_0x464848(0x149));continue;case'5':_0x574e7e['ui'][_0x5dbdb2(0x6c2)](_0x5e62c6[_0x5006b4(0x528,'7u9P')]);continue;case'6':_0x574e7e['ui'][_0x5006b4(0x1a0,'N(06')](_0x5e62c6['WyJlK']);continue;}break;}}});}function _0x2834ae(){const _0x26674c=_0x37be03,_0x827102=_0x139205;document[_0x827102(0x4ee)](_0x1c29b8[_0x26674c(0x91f)])[_0x827102(0x83b)](_0x1c29b8[_0x827102(0xf9)],function(){const _0x139184=_0xebfa,_0x411fab=_0x26674c,_0x27f07e=_0x827102;let _0x21d82d=document[_0x27f07e(0x4ee)](_0x24d34c[_0x411fab(0x4fd)])[_0x139184(0x24d,'aHTy')](!![]);_0x21d82d['id']=_0x24d34c[_0x139184(0x2ca,'6irY')],_0x24d34c[_0x27f07e(0x324)](_0x186aac),_0x574e7e['ui'][_0x411fab(0x33d)](_0x21d82d,'top-left'),_0x24d34c[_0x27f07e(0x324)](_0x5f30b1);});}function _0x29b05e(){const _0x1b0e6d=_0x37be03,_0x1d553b=_0x139205,_0x34d087={'XbGRe':_0x24d34c[_0x1d553b(0x74d)]};document[_0x1b0e6d(0x703)](_0x24d34c['LFunA'])[_0x1d553b(0x83b)](_0x24d34c[_0x1b0e6d(0x7d8)],function(){const _0x38a4c6=_0x1d553b,_0x2ed342=_0x1b0e6d,_0x2bbc12=_0xebfa;document[_0x2bbc12(0x68b,'W7A7')]('editorToggleInput')[_0x2ed342(0x19e)]?(document[_0x38a4c6(0x4ee)](_0x34d087[_0x2bbc12(0x7b7,'oVHT')])[_0x38a4c6(0x8ac)]=![],_0x574e7e['ui'][_0x2bbc12(0x578,'5ld@')](_0x3c8562)):(document[_0x38a4c6(0x4ee)](_0x2bbc12(0x9c,'0OY4'))['checked']=!![],_0x574e7e['ui'][_0x2ed342(0x33d)](_0x3c8562,_0x2bbc12(0x275,'LWQm')));});}function _0x5f48f4(){const _0x27944c=_0x353cc9,_0x660f06=_0x139205;document[_0x660f06(0x4ee)](_0x27944c(0x972,'pWA*'))['addEventListener'](_0x24d34c[_0x660f06(0x836)],function(){const _0x396d13=_0x5997,_0x136027=_0x660f06;_0x24d34c['FxHEX'](_0x186aac),_0x574e7e['ui'][_0x136027(0x144)](_0x28e450,_0x24d34c[_0x396d13(0x774)]);});}document['getElementById'](_0x1c29b8[_0x37be03(0x569)])[_0x37be03(0x7e1)](_0x1c29b8[_0x139205(0xf9)],function(){const _0x20bfe8=_0x37be03,_0x403a09=_0x139205;_0x574e7e['graphics']['removeAll'](),_0x15bdcb[_0x403a09(0x8d8)][_0x403a09(0x93b)][_0x20bfe8(0x25a)](_0x4460cd=>{const _0x4386f3=_0x403a09;_0x4460cd[_0x4386f3(0x575)]=![];});});let _0x42618d,_0x30352c=document[_0x139205(0x725)](_0x1c29b8[_0x139205(0x698)]),_0x240426=document['getElementById'](_0x1c29b8[_0x37be03(0x554)]);for(let _0x19ec0a in _0x5be6f7){let _0x23c96c=document[_0x353cc9(0x13e,'v4(y')](_0x1c29b8[_0x37be03(0x8a4)]);_0x23c96c[_0x37be03(0x775)]=_0x19ec0a,document['getElementById'](_0x1c29b8[_0x353cc9(0x7a5,'ZH7I')])[_0x139205(0x3f5)](_0x23c96c);}for(let _0x12e6d8=0x0;_0x1c29b8[_0x353cc9(0x6c9,'oRyI')](_0x12e6d8,document['getElementById'](_0x1c29b8[_0x139205(0x3ab)])['children']['length']);_0x12e6d8++){if(_0x1c29b8[_0x353cc9(0xb3,'s6tb')](document[_0x37be03(0x703)](_0x37be03(0x451))[_0x37be03(0x887)][_0x12e6d8][_0x353cc9(0x897,'Q3#2')],_0x8bff60))document[_0x37be03(0x703)](_0x1c29b8[_0x139205(0x3ab)])[_0x37be03(0x887)][_0x12e6d8][_0x37be03(0x604)][_0x139205(0x866)]=_0x1c29b8[_0x37be03(0x22d)];}document[_0x139205(0x4ee)](_0x37be03(0x7d5))['addEventListener'](_0x1c29b8[_0x139205(0xf9)],function(){const _0xdb3d7b=_0x353cc9,_0x18daa3=_0x37be03,_0x449955=_0x139205;document['getElementById'](_0x449955(0x1f2))[_0x449955(0x3a3)][_0x449955(0x263)]=_0x1c29b8[_0x18daa3(0xa4)],_0x30352c[0x0][_0x18daa3(0x604)]['maxHeight']=_0x1c29b8[_0xdb3d7b(0x785,'vyC#')](_0x30352c[0x0]['scrollHeight'],'px'),document[_0x18daa3(0x703)](_0x1c29b8['dQEoR'])[_0x18daa3(0x7e1)](_0x1c29b8['pyFib'],function(){const _0x9f43f1=_0x18daa3,_0x52ba55=_0x449955,_0x43bc06=_0xdb3d7b;_0x42618d=document[_0x43bc06(0x349,'0OY4')](_0x24d34c['CIiJE'])[_0x43bc06(0x1ea,'v7Qz')];if(_0x24d34c[_0x43bc06(0x948,'h0v]')](_0x42618d,''))alert(_0x43bc06(0x4eb,'DEqX'));else{document[_0x52ba55(0x4ee)](_0x24d34c[_0x9f43f1(0xdb)])[_0x43bc06(0x4c6,'kOJj')][_0x43bc06(0x8d2,'Q3#2')]=_0x24d34c[_0x43bc06(0x26f,'tIy0')],document[_0x9f43f1(0x703)](_0x43bc06(0x300,'5ld@'))[_0x9f43f1(0x775)]='',_0xaa21ca[_0x8bff60]=_0x574e7e[_0x52ba55(0x109)],_0x8bff60=_0x42618d,_0x5be6f7[_0x8bff60]=new _0x51ded5({'basemap':_0x43bc06(0x6ef,'tIy0')}),_0x574e7e[_0x9f43f1(0x18f)]=_0x5be6f7[_0x8bff60];for(let _0x2f196a in _0x5be6f7){let _0x47d4b8=document['createElement'](_0x24d34c['mNcXI']);_0x47d4b8[_0x9f43f1(0x775)]=_0x2f196a,document[_0x52ba55(0x4ee)](_0x24d34c[_0x43bc06(0x2ea,'Q3#2')])[_0x43bc06(0x84d,'uRlI')](_0x47d4b8);}for(let _0x7e9ba7=0x0;_0x24d34c['JyjYS'](_0x7e9ba7,document[_0x52ba55(0x4ee)](_0x24d34c[_0x43bc06(0x52a,'aybq')])['children'][_0x9f43f1(0x1c5)]);_0x7e9ba7++){if(document['getElementById']('dataframesList')['children'][_0x7e9ba7][_0x9f43f1(0x775)]===_0x8bff60)document[_0x52ba55(0x4ee)](_0x24d34c['umxNc'])[_0x43bc06(0x7ce,'iQ&)')][_0x7e9ba7][_0x43bc06(0x463,'NwE[')][_0x9f43f1(0x283)]=_0x24d34c['ijTDf'];}_0x30352c[0x0][_0x43bc06(0x814,'Pf[X')]['maxHeight']=_0x24d34c['KRkBh'](_0x30352c[0x0][_0x9f43f1(0x790)],'px'),document[_0x43bc06(0x30a,'oS%5')](_0x52ba55(0xc4))[_0x9f43f1(0x4c5)]='';}_0x24d34c['FxHEX'](_0x343157);});});function _0x343157(){const _0x320d6a=_0x37be03,_0x411fef=_0x353cc9;for(let _0xef4b3b=0x0;_0x24d34c[_0x411fef(0x4a9,'66Zk')](_0xef4b3b,document[_0x320d6a(0x703)](_0x24d34c[_0x320d6a(0x188)])[_0x320d6a(0x887)][_0x411fef(0x6d1,'5ld@')]);_0xef4b3b++){document[_0x411fef(0x567,'Pf[X')](_0x24d34c[_0x411fef(0x2e4,'j4WJ')])[_0x411fef(0x541,'7pGd')][_0xef4b3b]['addEventListener'](_0x24d34c[_0x411fef(0x1d4,'kOJj')],function(){const _0x5f32d9=_0x357c,_0x2b10fb=_0x320d6a,_0xe2365b=_0x411fef;_0xaa21ca[_0x8bff60]=_0x574e7e['extent'],_0x8bff60=event[_0xe2365b(0x496,'uEyB')][_0xe2365b(0x953,'z*1C')],_0x574e7e[_0x2b10fb(0x18f)]=_0x5be6f7[_0x8bff60],_0x574e7e[_0x5f32d9(0x109)]=_0xaa21ca[_0x8bff60];for(let _0x314630=0x0;_0x314630<document[_0xe2365b(0x95f,'pWA*')](_0x24d34c[_0x5f32d9(0x6c6)])[_0xe2365b(0x89b,'5ld@')][_0x5f32d9(0x4d7)];_0x314630++){document['getElementById'](_0x24d34c[_0xe2365b(0x85d,'5ld@')])[_0x5f32d9(0x18d)][_0x314630][_0xe2365b(0x57f,'LWQm')][_0xe2365b(0x770,'DEqX')]=_0xe2365b(0x4d5,'aHTy');if(_0x24d34c[_0x2b10fb(0x18e)](document['getElementById'](_0x24d34c[_0x2b10fb(0x188)])[_0x5f32d9(0x18d)][_0x314630][_0xe2365b(0x152,'(o2u')],_0x8bff60))document[_0xe2365b(0x838,'6irY')](_0x24d34c[_0x2b10fb(0x188)])[_0x2b10fb(0x887)][_0x314630][_0x2b10fb(0x604)][_0x5f32d9(0x866)]='#76E284';}});}}document[_0x139205(0x4ee)](_0x1c29b8[_0x139205(0x3c6)])[_0x353cc9(0x85c,'JHTv')](_0x1c29b8[_0x37be03(0x4ff)],function(){const _0x42add4=_0x353cc9,_0x161d99=_0x139205,_0x107300=_0x37be03,_0x2f3efa={'mrXhW':function(_0x3f9629,_0x546988){const _0x2bde8c=_0xebfa;return _0x1c29b8[_0x2bde8c(0x800,'$y[j')](_0x3f9629,_0x546988);},'GuQeh':_0x1c29b8['fJZBy'],'CfjBm':_0x107300(0x90d),'eOcAx':function(_0x3a46ad,_0x2758d1){return _0x1c29b8['rOBBc'](_0x3a46ad,_0x2758d1);},'MKZGV':_0x1c29b8[_0x161d99(0x1e7)],'KxhDD':function(_0x1fdfd2){return _0x1c29b8['BsFeU'](_0x1fdfd2);}};for(let _0x45fa6f=0x0;_0x1c29b8[_0x42add4(0x25f,'5q&t')](_0x45fa6f,document['getElementById']('dataframesList')[_0x161d99(0x18d)][_0x42add4(0x7a3,'QhlL')]);_0x45fa6f++){if(_0x1c29b8[_0x42add4(0x864,'N)JJ')](document[_0x161d99(0x4ee)](_0x1c29b8[_0x107300(0x554)])[_0x161d99(0x18d)][_0x45fa6f][_0x161d99(0x35d)],_0x1c29b8['IpbJQ']))document['getElementById'](_0x1c29b8[_0x161d99(0x3ab)])[_0x107300(0x887)][_0x45fa6f][_0x42add4(0x15c,'5ld@')][_0x161d99(0x866)]=_0x42add4(0x5c3,'LWQm');document[_0x42add4(0x8fe,'kOJj')](_0x1c29b8[_0x161d99(0x3ab)])[_0x42add4(0x781,'ZH7I')][_0x45fa6f][_0x42add4(0x876,'oVHT')](_0x1c29b8['pyFib'],_0x22eb37=>{const _0x5fb589=_0x161d99,_0x2efa3e=_0x107300,_0x4e0361=_0x42add4;if(_0x2f3efa[_0x4e0361(0x81f,'j4WJ')](document['getElementById'](_0x2f3efa['GuQeh'])[_0x4e0361(0x44e,'N&[G')][_0x45fa6f][_0x2efa3e(0x775)],_0x2f3efa['CfjBm']))document[_0x5fb589(0x4ee)](_0x2f3efa[_0x2efa3e(0x3f6)])[_0x4e0361(0x93c,'Pf[X')][_0x45fa6f]['removeEventListener'](_0x4e0361(0x36d,'5q&t'),_0x22eb37);else _0x5be6f7[_0x22eb37[_0x5fb589(0x767)][_0x2efa3e(0x775)]]='',_0xaa21ca[_0x22eb37[_0x2efa3e(0x317)][_0x5fb589(0x35d)]]='',_0x2f3efa[_0x5fb589(0x542)](_0x22eb37['target'][_0x5fb589(0x35d)],_0x8bff60)&&(_0x8bff60=_0x2f3efa[_0x2efa3e(0x791)],_0x574e7e[_0x2efa3e(0x18f)]=_0x5be6f7[_0x8bff60],_0x574e7e[_0x5fb589(0x109)]=_0xaa21ca[_0x8bff60]);_0x2b5076();for(let _0x1648d1=0x0;_0x2f3efa[_0x4e0361(0x9b,'oS%5')](_0x1648d1,document[_0x2efa3e(0x703)](_0x2f3efa[_0x2efa3e(0x3f6)])[_0x4e0361(0x633,'uRlI')][_0x4e0361(0x826,'s6tb')]);_0x1648d1++){document[_0x2efa3e(0x703)](_0x2f3efa[_0x2efa3e(0x3f6)])[_0x4e0361(0x541,'7pGd')][_0x1648d1]['style'][_0x2efa3e(0x283)]=_0x4e0361(0x2c7,'N)JJ');if(_0x2f3efa[_0x2efa3e(0x92e)](document[_0x2efa3e(0x703)](_0x2f3efa[_0x4e0361(0x6a7,'JHTv')])['children'][_0x1648d1][_0x5fb589(0x35d)],_0x8bff60))document['getElementById'](_0x2f3efa['GuQeh'])[_0x5fb589(0x18d)][_0x1648d1][_0x4e0361(0x3b7,'DEqX')][_0x2efa3e(0x283)]=_0x2f3efa[_0x2efa3e(0x683)];}_0x2f3efa[_0x4e0361(0x230,'u([%')](_0x343157);});}});function _0x2b5076(){const _0x27a10f=_0x37be03,_0x479dd1=_0x353cc9,_0x18f5f9=_0x139205;document[_0x18f5f9(0x4ee)](_0x1c29b8[_0x479dd1(0x534,'v4(y')])[_0x479dd1(0x6d2,'iQ&)')]='';for(let _0x434d05 in _0x5be6f7){let _0xe6cf9c=document[_0x18f5f9(0x82e)](_0x1c29b8[_0x27a10f(0x8a4)]);_0xe6cf9c[_0x479dd1(0x953,'z*1C')]=_0x434d05,document[_0x18f5f9(0x4ee)](_0x1c29b8['fJZBy'])['appendChild'](_0xe6cf9c);}}let _0x3bc032,_0x352fd9,_0x215669,_0x4bb0e9,_0x1ee299,_0x30a778,_0x1200bb,_0x372961,_0x217414,_0x418b7f=new _0x4ed782({'title':_0x139205(0x444),'source':[],'fields':[],'spatialReference':_0x574e7e[_0x37be03(0x7eb)]});document['getElementById'](_0x1c29b8['PYIAz'])['addEventListener']('change',function(){const _0x56e631=_0x37be03,_0x42311=_0x139205,_0x1b87a1=_0x353cc9;if(_0x24d34c[_0x1b87a1(0x572,'Pf[X')](this[_0x42311(0x222)],'')){const _0x5e93e2=_0x24d34c[_0x1b87a1(0x551,'JHTv')][_0x56e631(0x193)]('|');let _0x15d719=0x0;while(!![]){switch(_0x5e93e2[_0x15d719++]){case'0':document[_0x42311(0x4ee)](_0x42311(0x120))[_0x56e631(0x587)]=!![];continue;case'1':_0x4825b9[_0x1b87a1(0x8b9,'iQ&)')]=[_0x5328d0];continue;case'2':_0x4825b9=_0x5be6f7[_0x8bff60][_0x56e631(0x313)](_0x217414);continue;case'3':if(_0x24d34c[_0x42311(0x865)](_0x4825b9[_0x56e631(0x7b1)],_0x24d34c[_0x1b87a1(0x974,'L9pl')])||_0x4825b9['type']===_0x24d34c[_0x1b87a1(0x945,'6irY')]||_0x24d34c[_0x56e631(0x18e)](_0x4825b9['type'],_0x24d34c['rLbsF'])||_0x4825b9[_0x1b87a1(0x45a,'iQ&)')]==='geojson'||_0x24d34c[_0x1b87a1(0x641,'v4(y')](_0x4825b9[_0x56e631(0x7b1)],'kml')){_0x24d34c[_0x42311(0x1d0)](_0x6c5acc,_0x24d34c['NXlqh']);var _0x45b549={'outFields':['*'],'returnGeometry':![],'where':''};_0x4825b9[_0x56e631(0x42e)](_0x45b549)['then'](function(_0x4752a9){const _0x22b634=_0x1b87a1;_0x3bc032=_0x4752a9[_0x22b634(0x1a8,'NwE[')];});}else _0x24d34c[_0x56e631(0x21a)](alert,_0x24d34c[_0x56e631(0x5b2)]),document[_0x56e631(0x703)](_0x56e631(0x79b))[_0x56e631(0x4c5)]='';continue;case'4':document['getElementById'](_0x56e631(0x123))[_0x1b87a1(0x639,'e91b')][_0x56e631(0x283)]=_0x24d34c[_0x1b87a1(0x14c,'aHTy')];continue;case'5':_0x372961=_0x4825b9['title']+_0x42311(0x8d6);continue;case'6':_0x217414=this[_0x1b87a1(0x226,'XJG4')];continue;}break;}}}),document[_0x37be03(0x703)](_0x1c29b8[_0x353cc9(0x302,'NwE[')])['addEventListener'](_0x1c29b8[_0x37be03(0x3bd)],function(){const _0x3f2138=_0x353cc9;_0x1c29b8[_0x3f2138(0x5ce,'DEqX')](_0xe7c1a9);}),document[_0x139205(0x4ee)](_0x1c29b8['fClbk'])[_0x37be03(0x7e1)](_0x1c29b8[_0x353cc9(0x2f2,'5q&t')],function(){const _0x5be5b9=_0x353cc9,_0x22019b=_0x37be03,_0x3c1b20=_0x139205;switch(this[_0x3c1b20(0x222)]){case _0x1c29b8[_0x22019b(0x2e3)]:document[_0x5be5b9(0x949,'5ld@')](_0x1c29b8['TCiOl'])[_0x22019b(0x604)][_0x3c1b20(0x263)]=_0x1c29b8['XcISQ'],document[_0x5be5b9(0x1c7,'Zt]E')](_0x1c29b8['OQyzW'])[_0x22019b(0x604)][_0x3c1b20(0x263)]=_0x1c29b8[_0x22019b(0x137)],_0x1c29b8[_0x5be5b9(0x372,'6irY')](_0xe7c1a9);var _0x175144=document[_0x22019b(0x88c)](_0x1c29b8['oDUnU']);_0x175144[0x0][_0x3c1b20(0x3a3)][_0x22019b(0x815)]=_0x175144[0x0]['scrollHeight']+'px';break;case _0x1c29b8[_0x3c1b20(0x5f2)]:document['getElementById'](_0x1c29b8['OQyzW'])[_0x22019b(0x604)][_0x22019b(0x294)]=_0x1c29b8['XcISQ'],document[_0x3c1b20(0x4ee)](_0x5be5b9(0xee,'7pGd'))[_0x3c1b20(0x3a3)][_0x5be5b9(0x1f0,'JHTv')]=_0x1c29b8[_0x22019b(0x137)];var _0x175144=document[_0x5be5b9(0x143,'XJG4')](_0x1c29b8[_0x5be5b9(0x7ba,'Pf[X')]);_0x175144[0x0][_0x22019b(0x604)][_0x5be5b9(0x8bf,'QhlL')]=_0x1c29b8[_0x22019b(0x3f1)](_0x175144[0x0][_0x3c1b20(0x931)],'px');break;default:break;}}),document[_0x139205(0x4ee)](_0x1c29b8[_0x37be03(0x7b8)])[_0x139205(0x83b)](_0x1c29b8[_0x37be03(0x4ff)],function(){const _0x10f41a=_0x139205,_0x375a10=_0x37be03,_0x59f9e2=_0x353cc9;_0x352fd9=document[_0x59f9e2(0x95f,'pWA*')](_0x24d34c['NXlqh'])[_0x59f9e2(0x57c,'7pGd')];let _0xc651c3=document[_0x59f9e2(0x392,'aybq')](_0x375a10(0x79b))[_0x59f9e2(0x3e7,'Pf[X')],_0x3b663f=document[_0x10f41a(0x4ee)](_0x24d34c[_0x10f41a(0x4c1)])[_0x59f9e2(0x2c6,'5ld@')],_0x5d061c=document['getElementById'](_0x375a10(0x55e))[_0x10f41a(0x222)],_0x5ddc84=document[_0x10f41a(0x4ee)](_0x24d34c[_0x375a10(0x833)])[_0x59f9e2(0x3f4,'kOJj')],_0x35b667=document[_0x10f41a(0x4ee)](_0x24d34c['vNxtT'])[_0x10f41a(0x222)],_0x5b35f2=[];_0x418b7f[_0x10f41a(0x272)]=[],_0x418b7f['fields']=_0x4825b9[_0x10f41a(0x93a)],_0x418b7f['geometryType']=_0x4825b9['geometryType'],_0x418b7f[_0x59f9e2(0x125,'0OY4')]=_0x4825b9[_0x375a10(0x7eb)],_0x5be6f7[_0x8bff60]['remove'](_0x418b7f);if(_0x24d34c[_0x59f9e2(0x7db,'s(LG')](_0xc651c3,'')||_0x24d34c[_0x10f41a(0x221)](_0x3b663f,'')||_0x24d34c[_0x375a10(0x723)](_0x352fd9,'')||_0x24d34c[_0x10f41a(0x10d)](_0x5d061c,''))_0x24d34c[_0x375a10(0x21a)](alert,_0x24d34c['diLwU']);else{if(!Number(_0x35b667))_0x35b667=_0x24d34c[_0x10f41a(0x7b4)]('\x27',_0x35b667)+'\x27';if(_0x5d061c===_0x375a10(0x951))_0x215669=_0x24d34c['UzcCu'](_0x352fd9,_0x3b663f)+_0x35b667;else{if(_0x24d34c['UzZsJ'](_0x5d061c,_0x24d34c[_0x59f9e2(0xe0,'LWQm')]))_0x215669=_0x24d34c[_0x375a10(0x243)](_0x24d34c[_0x59f9e2(0xb7,'iQ&)')](_0x352fd9,_0x3b663f),_0x5ddc84);}let _0x47eaee={'outFields':['*'],'returnGeometry':!![],'where':_0x215669};_0x4825b9[_0x59f9e2(0x16d,'j4WJ')](_0x47eaee)[_0x10f41a(0x494)](function(_0x5755ab){const _0x37c8fd=_0x10f41a,_0x28d4c0=_0x375a10,_0x4b3d94=_0x59f9e2;_0x24d34c[_0x4b3d94(0x85f,'v4(y')](_0x5755ab['features'][_0x28d4c0(0x1c5)],0x0)?(_0x736560(_0x5755ab),_0x1200bb=JSON[_0x37c8fd(0x655)](_0x5755ab)):_0x24d34c['qyJPn'](alert,_0x24d34c['zfCOs']);});}});function _0xe7c1a9(){const _0x5f54f1=_0x37be03,_0x3f5968=_0x353cc9,_0x3b15fb=_0x139205;_0x352fd9=document[_0x3b15fb(0x4ee)](_0x24d34c[_0x3b15fb(0x22a)])[_0x3f5968(0x648,'s6tb')],document[_0x3f5968(0x567,'Pf[X')](_0x24d34c[_0x3f5968(0x710,'s(LG')])[_0x3b15fb(0x35d)]='';for(i=0x0;_0x24d34c[_0x3f5968(0x4ce,'h0v]')](i,_0x3bc032[_0x5f54f1(0x1c5)]);i++){let _0x43b16c=document[_0x3b15fb(0x82e)](_0x24d34c[_0x3b15fb(0x7af)]);_0x43b16c[_0x5f54f1(0x4c5)]=_0x3bc032[i][_0x5f54f1(0x191)][_0x352fd9],_0x43b16c['text']=_0x3bc032[i][_0x3f5968(0x4ef,'y9!3')][_0x352fd9],document[_0x5f54f1(0x703)](_0x5f54f1(0x147))[_0x3b15fb(0x3f5)](_0x43b16c);}}function _0x736560(_0x7d26b1){const _0x33599b=_0x37be03,_0x95ae5e=_0x353cc9,_0x514bd9=_0x139205;_0x30a778=[],_0x15bdcb['operationalItems']['items'][_0x514bd9(0x5ff)](_0x3a4d61=>{const _0x3fbb23=_0xebfa;if(_0x24d34c[_0x3fbb23(0x872,'5ld@')](_0x3a4d61['layer']['id'],_0x4825b9['id']))_0x3a4d61[_0x3fbb23(0x138,'N(06')]=![];});let _0x3e2a63=_0x7d26b1[_0x95ae5e(0x8a1,'W7A7')][_0x33599b(0x18f)](function(_0xa644c){return _0xa644c['geometry'];});const _0x2ac24b={'type':_0x24d34c[_0x514bd9(0x1ee)],'style':'circle','color':'#C6115A','size':_0x24d34c[_0x33599b(0xd6)]},_0x1e7513={'type':_0x33599b(0x80f),'color':_0x33599b(0x66e),'width':0x4},_0x395adc={'type':_0x24d34c[_0x33599b(0x81b)],'color':_0x24d34c['xynwf'],'width':_0x24d34c[_0x95ae5e(0x289,'aybq')]};switch(_0x7d26b1['geometryType']){case _0x24d34c['huqhV']:_0x4bb0e9=_0x2ac24b;break;case _0x33599b(0x6fa):_0x4bb0e9=_0x1e7513;break;case _0x514bd9(0x30b):_0x4bb0e9=_0x395adc;break;default:break;}_0x1ee299={'type':_0x514bd9(0x3cb),'symbol':_0x4bb0e9},_0x7d26b1[_0x514bd9(0x7cc)]['forEach'](_0x5d284f=>{const _0xbcc90a=_0x514bd9,_0x10c783=_0x95ae5e;let _0x5c0af6=new _0x5a4809({'geometry':_0x5d284f[_0x10c783(0x2f0,'7pGd')],'attributes':_0x5d284f['attributes'],'symbol':_0x4bb0e9});_0x30a778[_0xbcc90a(0x7f3)](_0x5c0af6);}),_0x418b7f[_0x514bd9(0x5e3)]=_0x1ee299,_0x418b7f[_0x95ae5e(0x244,'W7A7')]=_0x30a778,_0x5be6f7[_0x8bff60][_0x514bd9(0x144)](_0x418b7f),_0x1fc5a8['layerInfos'][_0x95ae5e(0x51e,'N&[G')]({'layer':_0x418b7f}),_0x418b7f[_0x514bd9(0x8a2)]()[_0x95ae5e(0x862,'oVHT')](function(_0x48a138){const _0xcdb51d=_0x514bd9,_0x1fa4b3=_0x33599b,_0x4df23c=_0x95ae5e;_0x574e7e['goTo'](_0x48a138[_0x4df23c(0x81e,'vyC#')]),document['getElementById'](_0x1fa4b3(0x79b))[_0xcdb51d(0x222)]=_0x217414;});if(_0x3e2a63[0x0]['type']===_0x33599b(0x3e1)){var _0x4bf653=[],_0x3d37ef=_0x7d26b1[_0x514bd9(0x7cc)];_0x3d37ef[_0x33599b(0x25a)](_0x1030b1);function _0x1030b1(_0x381c3b){const _0x4379eb=_0x33599b;_0x4bf653[_0x4379eb(0x1b4)](_0x381c3b[_0x4379eb(0x191)]);}const _0x350ff4=$[_0x514bd9(0x198)][_0x33599b(0x8af)](_0x4bf653);var _0x63069e=document[_0x33599b(0x703)]('downloadQueryBtn');_0x24d34c[_0x95ae5e(0x580,'LWQm')](_0x4bf653['length'],0x0)&&(_0x63069e[_0x514bd9(0x299)]=![],_0x63069e[_0x33599b(0x604)][_0x95ae5e(0x2cc,'oVHT')]=_0x24d34c['lEkse']),_0x63069e[_0x33599b(0x7e1)](_0x24d34c['PpbSF'],_0x225a5e=>{const _0x4a569b=_0x33599b;_0x24d34c[_0x4a569b(0xe1)](_0x42257e,_0x350ff4,_0x372961);});}else{var _0x63069e=document[_0x95ae5e(0x6f8,'tIy0')](_0x24d34c[_0x33599b(0x17c)]);_0x63069e[_0x95ae5e(0x932,'uEyB')]=![],_0x63069e[_0x33599b(0x604)][_0x514bd9(0x866)]=_0x33599b(0x34f),_0x63069e[_0x33599b(0x7e1)](_0x24d34c[_0x33599b(0x7d8)],_0x27ea8c=>{const _0x4056d8=_0x514bd9,_0x5498dc=_0x33599b;_0x24d34c[_0x5498dc(0xe1)](_0x42257e,_0x1200bb,_0x24d34c['LANds'](_0x372961,_0x24d34c[_0x4056d8(0x36e)]));});}}document[_0x139205(0x4ee)](_0x1c29b8['LCLoa'])[_0x37be03(0x7e1)](_0x1c29b8[_0x139205(0xf9)],_0x5bc972=>{const _0xcb06f5=_0x37be03,_0x143d80=_0x139205,_0x202e31=_0x353cc9;_0x4825b9!=undefined&&(_0x5be6f7[_0x8bff60][_0x202e31(0x16e,'Y!f2')](_0x418b7f),_0x15bdcb[_0x202e31(0x7de,'s6tb')][_0x143d80(0x93b)][_0xcb06f5(0x25a)](_0x36b056=>{const _0x5d36db=_0xcb06f5,_0x5b2698=_0x143d80,_0x274621=_0x202e31;if(_0x24d34c[_0x274621(0xb8,'IZn(')](_0x36b056[_0x5b2698(0x342)]['id'],_0x4825b9['id']))_0x36b056[_0x5d36db(0x23d)]=!![];}),_0x4825b9[_0x143d80(0x8a2)]()[_0x202e31(0x3a7,'iQ&)')](function(_0x1c47fc){const _0x6b4e69=_0x143d80;_0x574e7e['goTo'](_0x1c47fc[_0x6b4e69(0x109)]);}));});let _0x501f19,_0x3d77a2,_0x85905d='N',_0x1ca514=0x1;document[_0x37be03(0x703)](_0x1c29b8[_0x37be03(0x5e6)])[_0x37be03(0x7e1)](_0x1c29b8[_0x139205(0x11b)],function(){const _0x26d5a9=_0x139205,_0x38ebbc=_0x353cc9,_0x1994b5=_0x37be03;_0x3d77a2=this[_0x1994b5(0x4c5)];if(_0x3d77a2===_0x24d34c[_0x38ebbc(0x913,'N&[G')]){document[_0x38ebbc(0x74f,'N&[G')](_0x24d34c['Ndeox'])[_0x26d5a9(0x83b)](_0x24d34c['ryOpD'],function(){const _0x2d7c14=_0x1994b5;_0x85905d=this[_0x2d7c14(0x4c5)];});for(i=0x1;_0x24d34c['roLbR'](i,0x3c);i++){let _0x3f3555=document['createElement'](_0x24d34c['PQnRP']);_0x3f3555['value']=i,_0x3f3555['text']=i,document[_0x1994b5(0x703)](_0x24d34c['qosrq'])[_0x26d5a9(0x3f5)](_0x3f3555);}document[_0x38ebbc(0x7c3,'ZH7I')](_0x24d34c[_0x1994b5(0x35a)])[_0x26d5a9(0x83b)](_0x24d34c[_0x26d5a9(0x80e)],function(){const _0x3920bb=_0x38ebbc;_0x1ca514=this[_0x3920bb(0x6ab,'7u9P')];});}}),document[_0x353cc9(0x90f,'L9pl')](_0x1c29b8[_0x37be03(0x7a6)])[_0x37be03(0x7e1)](_0x1c29b8[_0x353cc9(0x802,'s(LG')],function(){const _0x1805d6=_0x353cc9,_0x23c862=_0x139205;_0x3d77a2===_0x24d34c[_0x23c862(0x8d9)]?(_0x501f19=_0x574e7e[_0x23c862(0xf7)]['clone'](),_0x501f19[_0x1805d6(0x131,'s(LG')]=0xf11,_0x574e7e[_0x23c862(0xf7)]=_0x501f19):(_0x501f19=_0x574e7e[_0x1805d6(0x128,'6irY')][_0x23c862(0x425)](),_0x501f19[_0x1805d6(0xd8,'aHTy')]=0x10e6,_0x574e7e[_0x1805d6(0x348,'&IE8')]=_0x501f19);});let _0x291d69=document[_0x37be03(0x703)](_0x1c29b8[_0x353cc9(0x858,'h0v]')])[_0x37be03(0x811)](!![]),_0x309060,_0x5e93df,_0x4f781b,_0x137542,_0x45bc75,_0x1a1cf8,_0x444412=new _0x4ed782({'title':_0x1c29b8[_0x139205(0x456)],'source':[],'fields':[]});document[_0x353cc9(0x68b,'W7A7')](_0x1c29b8[_0x353cc9(0x818,'s(LG')])[_0x353cc9(0x122,'aHTy')](_0x1c29b8[_0x353cc9(0x373,'(o2u')],_0x1348bb),document[_0x139205(0x4ee)](_0x1c29b8[_0x139205(0x133)])[_0x139205(0x83b)]('click',_0x1348bb);function _0x1348bb(){const _0x26280f=_0x139205,_0x2e8d28=_0x353cc9,_0x125871=_0x37be03,_0x1cba3d={'SxPQt':function(_0x5f20f2,_0x55e54d){return _0x5f20f2(_0x55e54d);},'akOVh':function(_0x250aea,_0x18496b){const _0x7b95a9=_0xebfa;return _0x1c29b8[_0x7b95a9(0x6e6,'Y!f2')](_0x250aea,_0x18496b);},'zTuky':function(_0x5f59fa,_0x383694){const _0x4fe917=_0xebfa;return _0x1c29b8[_0x4fe917(0x424,'0OY4')](_0x5f59fa,_0x383694);},'OEosM':_0x1c29b8[_0x125871(0x44a)],'mCOtv':function(_0x3c37f8,_0x24ea11){return _0x3c37f8!==_0x24ea11;},'WwuQr':_0x1c29b8['cJxEl'],'hujyv':function(_0x33d8c0,_0x3df926){return _0x33d8c0===_0x3df926;},'BxHAb':'targetSelectionLayer','iemHf':function(_0x40fa3a,_0x11c443){const _0x1fd943=_0x357c;return _0x1c29b8[_0x1fd943(0x557)](_0x40fa3a,_0x11c443);},'JxGaV':_0x1c29b8[_0x2e8d28(0x6ed,'kOJj')]};_0x1c29b8[_0x26280f(0x454)](_0x186aac),_0x574e7e['ui']['add'](_0x291d69,_0x1c29b8[_0x2e8d28(0xc3,'oVHT')]),_0x5f30b1(),_0x1c29b8['DOTIX'](_0x54a4a5,_0x1c29b8['PZWmb']),_0x54a4a5(_0x1c29b8[_0x2e8d28(0x334,'uEyB')]),document['getElementById'](_0x1c29b8[_0x26280f(0x674)])[_0x26280f(0x83b)](_0x125871(0x5b5),function(){const _0x37858e=_0x26280f,_0x3cbf3f=_0x125871,_0x3241ad=_0x2e8d28;if(document[_0x3241ad(0x455,'&IE8')](_0x24d34c[_0x3241ad(0x86d,'7pGd')])['value']!==''){let _0x53791d=document['getElementById'](_0x3cbf3f(0x93d))[_0x3241ad(0x7ad,'N)JJ')];_0x309060=_0x5be6f7[_0x8bff60][_0x3241ad(0x267,'aybq')](_0x53791d),document['getElementById'](_0x3cbf3f(0x90b))[_0x3cbf3f(0x883)][0x0][_0x37858e(0x61c)]=!![],_0x444412[_0x37858e(0x93a)]=_0x309060[_0x3241ad(0x52b,'e91b')],_0x444412[_0x3cbf3f(0x476)]=_0x309060['geometryType'],_0x444412[_0x3cbf3f(0x7eb)]=_0x309060[_0x37858e(0xf7)];let _0xc01ce0=_0x309060[_0x37858e(0x184)];switch(_0xc01ce0){case _0x24d34c['huqhV']:_0x137542=_0xa3437e;break;case _0x24d34c[_0x37858e(0x899)]:_0x137542=_0x3d4b28;break;default:_0x137542=_0x1c00a1;break;}_0x45bc75={'type':_0x3241ad(0x126,'66Zk'),'symbol':_0x137542};}if(_0x4f781b)_0x4f781b['remove']();}),document[_0x125871(0x703)](_0x1c29b8[_0x2e8d28(0x202,'pWA*')])[_0x26280f(0x83b)](_0x1c29b8[_0x125871(0x3bd)],function(){const _0x3cb405=_0x125871,_0x15ba1a=_0x2e8d28,_0x112a15=_0x26280f,_0xf965f9={'EzNCH':function(_0x2b95a7,_0x222af5){const _0x1c7177=_0xebfa;return _0x1cba3d[_0x1c7177(0xf0,'W7A7')](_0x2b95a7,_0x222af5);}};if(_0x1cba3d[_0x112a15(0x6ac)](document[_0x15ba1a(0x7c3,'ZH7I')]('targetSelectionLayer')[_0x112a15(0x222)],''))_0x1cba3d[_0x3cb405(0xd0)](alert,_0x1cba3d[_0x3cb405(0x3a5)]);else{if(_0x1cba3d[_0x3cb405(0x258)](document['getElementById'](_0x1cba3d[_0x112a15(0x117)])[_0x3cb405(0x4c5)],'')){let _0x32e1b3=document[_0x15ba1a(0x3f7,'(o2u')](_0x1cba3d[_0x3cb405(0x593)])[_0x15ba1a(0x59a,'iQ&)')];_0x5e93df=_0x5be6f7[_0x8bff60][_0x3cb405(0x313)](_0x32e1b3);if(_0x4f781b)_0x4f781b['remove']();_0x5be6f7[_0x8bff60]['remove'](_0x444412),_0x1a1cf8=[],_0x444412['source']=[];if(_0x1cba3d[_0x112a15(0x6ac)](_0x5e93df['type'],_0x3cb405(0x319)))_0x5e93df[_0x112a15(0x3be)][_0x112a15(0x93b)]['forEach'](_0x1be4e0=>{const _0x2d8a51=_0x112a15;_0xf965f9[_0x2d8a51(0x113)](_0x343b97,_0x1be4e0);});else{var _0x2534ea={'outFields':['*'],'returnGeometry':!![]};_0x5e93df[_0x112a15(0x261)](_0x2534ea)['then'](function(_0x5eb9d3){const _0x11d923=_0x15ba1a,_0x14c9da=_0x112a15;_0x5eb9d3[_0x14c9da(0x7cc)][_0x11d923(0x55a,'66Zk')](_0x395437=>{const _0x44587a=_0x14c9da;_0xf965f9[_0x44587a(0x113)](_0x343b97,_0x395437);});});}}}});function _0x343b97(_0x456401){const _0x5639e0=_0x2e8d28,_0x37c02e=_0x26280f;var _0x3fcffb={'outFields':['*'],'returnGeometry':!![],'geometry':_0x456401[_0x37c02e(0x773)]};_0x309060[_0x5639e0(0x3fe,'u([%')](_0x3fcffb)['then'](function(_0x13451f){const _0x52cdf8=_0x5639e0,_0x3ee295=_0x5997,_0x185605=_0x37c02e;_0x13451f[_0x185605(0x7cc)][_0x3ee295(0x25a)](_0x52177b=>{const _0x191a40=_0x3ee295,_0x1e524c=_0x185605;let _0x56671b=new _0x5a4809({'geometry':_0x52177b[_0x1e524c(0x773)],'attributes':_0x52177b[_0x191a40(0x191)],'symbol':_0x137542});_0x1a1cf8[_0x191a40(0x1b4)](_0x56671b);}),_0x444412[_0x3ee295(0x64e)]=_0x45bc75,_0x444412[_0x52cdf8(0x1bd,'XJG4')]=_0x1a1cf8,_0x5be6f7[_0x8bff60][_0x3ee295(0x33d)](_0x444412),_0x1fc5a8['layerInfos'][_0x3ee295(0x1b4)]({'layer':_0x444412});});}document['getElementById'](_0x2e8d28(0x1b0,'5q&t'))[_0x2e8d28(0x59c,'j4WJ')]('click',function(){const _0x3184e3=_0x125871,_0x408eda=_0x26280f,_0x232c1c=_0x2e8d28;_0x1cba3d[_0x232c1c(0x4a0,'e91b')](document[_0x408eda(0x4ee)](_0x1cba3d[_0x232c1c(0x10c,'oVHT')])['value'],'')?_0x1cba3d[_0x232c1c(0xb9,'vyC#')](alert,_0x1cba3d[_0x3184e3(0x3a5)]):_0x4f781b=_0x574e7e['on'](_0x1cba3d['JxGaV'],function(_0x50d962){const _0x8680dd=_0x232c1c,_0x46b12e=_0x408eda,_0x504c7e=_0x3184e3;let _0x31ebbe=[];_0x444412[_0x504c7e(0x16a)]=[],_0x444412['fields']=_0x309060['fields'],_0x444412['geometryType']=_0x309060['geometryType'],_0x444412[_0x46b12e(0xf7)]=_0x309060[_0x8680dd(0x167,'N(06')],_0x5be6f7[_0x8bff60][_0x46b12e(0x4ae)](_0x444412);var _0x212d56={'outFields':['*'],'returnGeometry':!![],'geometry':_0x574e7e[_0x504c7e(0x5f1)](_0x50d962)};_0x309060[_0x8680dd(0x850,'iQ&)')](_0x212d56)[_0x504c7e(0x484)](function(_0x17758b){const _0x29b330=_0x8680dd,_0x2bd52a=_0x504c7e;_0x17758b[_0x2bd52a(0x8ae)]['forEach'](_0x676dd9=>{const _0x2ed25a=_0x357c,_0x341491=_0xebfa;let _0x2c769b=new _0x5a4809({'geometry':_0x676dd9[_0x341491(0x757,'5ld@')],'attributes':_0x676dd9[_0x2ed25a(0x7ac)],'symbol':_0x137542});_0x31ebbe['push'](_0x2c769b);}),_0x444412[_0x29b330(0x765,'y9!3')]=_0x45bc75,_0x444412['source']=_0x31ebbe,_0x5be6f7[_0x8bff60][_0x29b330(0x62a,'z*1C')](_0x444412),_0x1fc5a8[_0x29b330(0x642,'aybq')]['push']({'layer':_0x444412});});});}),document[_0x26280f(0x4ee)](_0x1c29b8[_0x125871(0x439)])[_0x2e8d28(0x842,'Pf[X')](_0x2e8d28(0x731,'tIy0'),function(){const _0x54e9b1=_0x26280f;if(_0x4f781b)_0x4f781b[_0x54e9b1(0x4ae)]();}),document[_0x125871(0x703)](_0x1c29b8[_0x125871(0x284)])[_0x125871(0x7e1)](_0x1c29b8['pyFib'],function(){const _0xc6e567=_0x2e8d28,_0x42fa54=_0x26280f;document['getElementById'](_0x42fa54(0x436))[_0xc6e567(0x750,'kOJj')][0x0][_0xc6e567(0x12b,'uRlI')]=!![],document[_0xc6e567(0x729,'e91b')](_0x1cba3d['BxHAb'])['options'][0x0][_0xc6e567(0x35b,'LWQm')]=!![];if(_0x4f781b)_0x4f781b[_0x42fa54(0x4ae)]();_0x5be6f7[_0x8bff60]['remove'](_0x444412);});}let _0x4cacb2=document[_0x139205(0x4ee)](_0x1c29b8[_0x37be03(0x25e)])['cloneNode'](!![]);document[_0x353cc9(0x30a,'oS%5')](_0x37be03(0x1cd))[_0x139205(0x83b)](_0x1c29b8['pyFib'],function(){const _0x310c4f=_0x139205,_0x2089db=_0x353cc9,_0x4a6c18=_0x37be03,_0x4e8059={'ElVTx':_0x1c29b8[_0x4a6c18(0x68e)],'wtiko':_0x1c29b8['itvmE'],'GZlpW':_0x1c29b8['caVug'],'TEFBN':_0x4a6c18(0x7bc),'onimu':function(_0x330a78,_0x167167){return _0x330a78(_0x167167);}};_0x1c29b8[_0x4a6c18(0x4b6)](_0x186aac),_0x574e7e['ui']['add'](_0x4cacb2,_0x1c29b8[_0x2089db(0x595,'NwE[')]),_0x1c29b8['yAOfp'](_0x5f30b1),_0x1c29b8[_0x4a6c18(0x118)](_0x54a4a5,_0x1c29b8[_0x2089db(0x17b,'aHTy')]),document[_0x4a6c18(0x703)](_0x1c29b8[_0x4a6c18(0x68e)])['addEventListener'](_0x1c29b8[_0x4a6c18(0x3bd)],function(){const _0x42655e=_0x2089db,_0x298bf2=_0x4a6c18,_0x3522e1=_0x357c;if(document[_0x3522e1(0x4ee)](_0x4e8059[_0x298bf2(0x7da)])[_0x42655e(0x215,'C^5W')]!==''){let _0xd8ab0f=document[_0x298bf2(0x703)](_0x4e8059[_0x42655e(0x195,'L9pl')])[_0x3522e1(0x222)];_0x4825b9=_0x5be6f7[_0x8bff60][_0x3522e1(0x1e6)](_0xd8ab0f),_0x4825b9[_0x3522e1(0x40e)]===_0x4e8059['wtiko']?(document[_0x42655e(0x38e,'QhlL')](_0x4e8059['GZlpW'])[_0x3522e1(0x430)][0x0][_0x42655e(0x89c,'Q3#2')]=!![],document[_0x42655e(0x1dd,'C^5W')](_0x4e8059[_0x3522e1(0x8a5)])['disabled']=!![],document[_0x298bf2(0x703)](_0x4e8059[_0x42655e(0x87d,'v4(y')])[_0x42655e(0x274,'W7A7')]=!![]):(document[_0x298bf2(0x703)](_0x4e8059[_0x42655e(0x448,'Q3#2')])[_0x298bf2(0x587)]=![],_0x4e8059['onimu'](_0x6c5acc,_0x4e8059['TEFBN']));}}),document[_0x2089db(0x349,'0OY4')](_0x1c29b8[_0x310c4f(0x623)])[_0x310c4f(0x83b)](_0x310c4f(0x879),function(){const _0x30e2e9=_0x310c4f,_0x590a06=_0x2089db,_0x6200ad=_0x4a6c18;document[_0x6200ad(0x703)](_0x24d34c[_0x6200ad(0x54d)])[_0x590a06(0x8e5,'IZn(')]===_0x24d34c[_0x6200ad(0x252)]?document[_0x30e2e9(0x4ee)](_0x24d34c[_0x30e2e9(0x3ed)])['disabled']=![]:document[_0x590a06(0x323,'oRyI')](_0x24d34c['kEskQ'])[_0x590a06(0x880,'Zt]E')]=!![];}),document[_0x4a6c18(0x703)](_0x1c29b8[_0x4a6c18(0x85e)])[_0x310c4f(0x83b)](_0x1c29b8['pyFib'],function(){const _0x7afa16=_0x310c4f,_0x2d72e7=_0x4a6c18,_0x5171d2=_0x2089db,_0x3fcca6={'DFvBd':_0x24d34c['FRotn'],'vYmse':'simple-fill','mnvYJ':function(_0x111af3,_0x2df744){return _0x111af3*_0x2df744;}};if(_0x24d34c['GNbkX'](document[_0x5171d2(0x54b,'Y!f2')](_0x24d34c['yHWyo'])[_0x2d72e7(0x4c5)],''))_0x24d34c[_0x7afa16(0x446)](alert,_0x24d34c[_0x2d72e7(0x7e6)]);else{if(_0x24d34c[_0x5171d2(0x4d4,'j4WJ')](document['getElementById'](_0x24d34c['yybqo'])[_0x7afa16(0x222)],'')&&document[_0x7afa16(0x4ee)]('bufferDistanceType')[_0x7afa16(0x222)]===_0x24d34c[_0x5171d2(0x752,'N)JJ')])_0x24d34c[_0x2d72e7(0x21a)](alert,_0x24d34c[_0x2d72e7(0x4b8)]);else{let _0x54125d=[],_0x530fd0=[],_0x1bc7f6=[],_0x24199a,_0x345578=document[_0x5171d2(0x212,'oVHT')](_0x24d34c[_0x5171d2(0x101,'N&[G')])['value'],_0x39b237=document[_0x2d72e7(0x703)](_0x24d34c[_0x2d72e7(0x771)])[_0x7afa16(0x222)],_0x1b5042=document[_0x2d72e7(0x703)](_0x24d34c[_0x2d72e7(0x60d)])['value'];if(_0x24d34c['GNbkX'](_0x4825b9[_0x7afa16(0x40e)],_0x24d34c[_0x7afa16(0x6d4)])){const _0x3bc10b=[{'name':'ObjectID','alias':_0x24d34c[_0x5171d2(0x665,'tIy0')],'type':_0x24d34c[_0x2d72e7(0x563)]}];_0x24199a=new _0x4ed782({'title':_0x24d34c[_0x7afa16(0x900)](_0x24d34c[_0x7afa16(0x67a)](_0x4825b9['title'],_0x24d34c['vvXRz']),_0x345578),'source':[],'opacity':0.5,'fields':_0x3bc10b,'geometryType':_0x24d34c[_0x7afa16(0x8e8)],'renderer':{'type':_0x24d34c[_0x2d72e7(0xc0)],'symbol':{'type':_0x24d34c[_0x7afa16(0x1bf)],'color':_0x24d34c[_0x7afa16(0x645)]('#',Math[_0x2d72e7(0x6b3)](_0x24d34c[_0x2d72e7(0x5e5)](Math[_0x7afa16(0x51f)](),0xffffff))[_0x2d72e7(0x671)](0x10)),'outline':{'color':_0x24d34c[_0x5171d2(0x2ab,'JHTv')],'width':0x2}}},'spatialReference':_0x4825b9[_0x5171d2(0xc7,'u([%')]}),_0x4825b9['graphics'][_0x5171d2(0x26d,'s6tb')]['forEach'](_0x4b9682=>{const _0x7186d5=_0x7afa16,_0x44c7db=_0x2d72e7;let _0x229f6c=_0x594140[_0x44c7db(0x246)](_0x4b9682[_0x7186d5(0x773)],_0x345578,_0x39b237),_0x244670=new _0x5a4809({'geometry':_0x229f6c,'symbol':{'type':_0x7186d5(0x2eb)}});_0x24199a[_0x7186d5(0x272)][_0x7186d5(0x7f3)](_0x244670);});}else{_0x24199a=new _0x4ed782({'title':_0x24d34c[_0x2d72e7(0x524)](_0x4825b9['title']+_0x24d34c['vvXRz'],_0x345578),'source':[],'opacity':0.5,'geometryType':_0x24d34c[_0x5171d2(0x92f,'v7Qz')],'fields':_0x4825b9['fields'],'popupEnabled':!![],'outFields':['*'],'spatialReference':_0x4825b9[_0x2d72e7(0x7eb)]});if(_0x24d34c[_0x2d72e7(0x1ec)](_0x4825b9['fields'],undefined)){_0x4825b9['fields'][_0x5171d2(0x197,'v4(y')](_0x22575e=>{const _0x2c2cb6=_0x2d72e7;let _0x3876e5={'fieldName':_0x22575e[_0x2c2cb6(0x187)]};_0x1bc7f6[_0x2c2cb6(0x1b4)](_0x3876e5);});let _0x2afc1f={'title':_0x24d34c[_0x5171d2(0x288,'0OY4')],'content':[{'type':_0x24d34c[_0x2d72e7(0x304)],'fieldInfos':_0x1bc7f6}]};_0x24199a[_0x2d72e7(0x2d2)]=_0x2afc1f;}var _0x52ee7a={'outFields':['*'],'returnGeometry':!![]};_0x4825b9[_0x7afa16(0x261)](_0x52ee7a)[_0x5171d2(0x84a,'N(06')](function(_0x43925d){const _0x366b1d=_0x5171d2;_0x43925d[_0x366b1d(0x38b,'Q3#2')][_0x366b1d(0x229,'s(LG')](_0x1e8774=>{const _0x48298c=_0x5997,_0xa3b154=_0x366b1d,_0x43eca0=_0x357c;let _0x5352d7;document[_0x43eca0(0x4ee)]('bufferDistanceType')[_0xa3b154(0x327,'66Zk')]===_0x3fcca6[_0x48298c(0x721)]?_0x5352d7=_0x594140['geodesicBuffer'](_0x1e8774['geometry'],_0x1e8774[_0x48298c(0x191)][_0x1b5042],_0x39b237):_0x5352d7=_0x594140[_0x48298c(0x246)](_0x1e8774[_0xa3b154(0x603,'0OY4')],_0x345578,_0x39b237);let _0x18c3a0=new _0x5a4809({'geometry':_0x5352d7,'attributes':_0x1e8774[_0x43eca0(0x7ac)],'symbol':{'type':_0x3fcca6[_0x43eca0(0x516)],'color':'#'+Math[_0xa3b154(0x420,'0OY4')](_0x3fcca6[_0xa3b154(0x590,'aybq')](Math[_0x43eca0(0x51f)](),0xffffff))['toString'](0x10),'outline':{'color':'rgba(200,200,200,.2)','width':0x2}}});_0x24199a['source'][_0x48298c(0x1b4)](_0x18c3a0);});});}_0x5be6f7[_0x8bff60]['add'](_0x24199a),_0x1fc5a8['layerInfos'][_0x2d72e7(0x1b4)]({'layer':_0x24199a});}}});});let _0x18f7e8=document[_0x37be03(0x703)](_0x1c29b8[_0x139205(0x175)])['cloneNode'](!![]);document['getElementById'](_0x1c29b8[_0x139205(0x8f6)])[_0x37be03(0x7e1)](_0x1c29b8['pyFib'],function(){const _0x4bfc0b=_0x37be03,_0xb86714=_0x139205,_0x32a29a=_0x353cc9,_0x1ed3fd={'canzj':function(_0x3b7c8e,_0x1671e5){return _0x3b7c8e!==_0x1671e5;},'lnCRe':_0x24d34c[_0x32a29a(0x758,'5ld@')],'ZsJvS':function(_0x54b7e3,_0x5a045f){const _0x3ca2e5=_0x32a29a;return _0x24d34c[_0x3ca2e5(0x960,'s(LG')](_0x54b7e3,_0x5a045f);},'WEGmE':_0xb86714(0x3be),'ycAqw':_0x24d34c[_0x32a29a(0x734,'aybq')],'PRfjI':_0x24d34c[_0xb86714(0x6ce)],'zCsUD':function(_0x4b80ff,_0x38cdd6){const _0x319a6d=_0x32a29a;return _0x24d34c[_0x319a6d(0x139,'QhlL')](_0x4b80ff,_0x38cdd6);},'xgaDi':function(_0xa1bc23,_0x262ce4){const _0x358dc5=_0x5997;return _0x24d34c[_0x358dc5(0x524)](_0xa1bc23,_0x262ce4);},'myslC':_0x24d34c['BZYpi'],'NIoxc':_0x24d34c[_0x4bfc0b(0xc0)],'AwwDm':_0x4bfc0b(0x53c),'pJyqf':function(_0x324671,_0x5f4fe7){const _0x204ec9=_0x32a29a;return _0x24d34c[_0x204ec9(0x477,'uRlI')](_0x324671,_0x5f4fe7);},'UeAQP':_0x24d34c[_0xb86714(0x369)],'XfUsr':_0x24d34c[_0xb86714(0x1bf)],'TSney':_0x24d34c['eANjh'],'nqZvH':function(_0x2dda44,_0x287483){const _0x38139f=_0x4bfc0b;return _0x24d34c[_0x38139f(0x21a)](_0x2dda44,_0x287483);},'oeocz':_0x24d34c[_0x32a29a(0xf6,'oVHT')],'sQsNE':_0xb86714(0x30b),'TDSBH':function(_0x4df739,_0x53fdcb){return _0x4df739===_0x53fdcb;},'QrCil':function(_0x1605aa){const _0x69fd5f=_0x4bfc0b;return _0x24d34c[_0x69fd5f(0x45d)](_0x1605aa);},'pXWfv':function(_0x4206e4,_0x2809e3){return _0x4206e4!==_0x2809e3;},'PTbvq':function(_0x156903){const _0x436010=_0xb86714;return _0x24d34c[_0x436010(0x796)](_0x156903);},'dkkLl':_0x24d34c['jVMdF']};_0x24d34c[_0xb86714(0x44d)](_0x186aac),_0x574e7e['ui'][_0x32a29a(0x3d9,'Pf[X')](_0x18f7e8,_0x24d34c[_0xb86714(0x1b5)]),_0x24d34c['sDUJJ'](_0x5f30b1),_0x24d34c['YuGae'](_0x54a4a5,_0x24d34c[_0x4bfc0b(0x7fd)]),_0x24d34c['YuGae'](_0x54a4a5,_0x24d34c[_0xb86714(0x6ce)]);let _0xdfdcfa=[],_0x526ef3=[],_0x2445fc=[],_0x22bf87=[],_0xe7248f=[],_0x83fc7d,_0x3f700a,_0x5d9370,_0x4c0a65,_0x114ab4,_0x1d5b3e,_0x44f6ad;document['getElementById'](_0x32a29a(0x7c0,'s6tb'))[_0x32a29a(0x8dd,'v4(y')](_0x24d34c['ryOpD'],function(){const _0x252833=_0x32a29a,_0x3a652f=_0x4bfc0b,_0x3206be=_0xb86714;if(document[_0x3206be(0x4ee)](_0x24d34c['IKIRm'])['value']!==''){const _0x435455=_0x24d34c['eGBDM'][_0x3a652f(0x193)]('|');let _0x2aab42=0x0;while(!![]){switch(_0x435455[_0x2aab42++]){case'0':_0x83fc7d=[];continue;case'1':_0x4c0a65=document[_0x252833(0x74f,'N&[G')](_0x24d34c[_0x252833(0x709,'W7A7')])['value'];continue;case'2':_0x2445fc=[];continue;case'3':_0xdfdcfa=[];continue;case'4':if(_0x24d34c[_0x3206be(0x293)](_0x1d5b3e[_0x252833(0x7c6,'5ld@')],_0x24d34c[_0x252833(0xb4,'L9pl')]))_0x83fc7d=[{'name':_0x24d34c[_0x3a652f(0x515)],'alias':_0x24d34c[_0x252833(0x502,'kOJj')],'type':_0x24d34c['WOxoH']}],_0x1d5b3e['graphics'][_0x252833(0x6a6,'h0v]')]['forEach'](_0x38299d=>{const _0x1a256b=_0x3a652f;_0xdfdcfa['push'](_0x38299d[_0x1a256b(0x84b)]);});else{_0x83fc7d=_0x1d5b3e[_0x3a652f(0x7a8)];var _0x395b17={'outFields':['*'],'returnGeometry':!![]};_0x1d5b3e[_0x3206be(0x261)](_0x395b17)[_0x3a652f(0x484)](function(_0x86cbbe){const _0x255dc1=_0x3206be;_0x86cbbe[_0x255dc1(0x7cc)]['forEach'](_0x4b6093=>{const _0x123d21=_0x255dc1,_0xf7d64a=_0x5997,_0x43e3e0=_0xebfa;_0xdfdcfa[_0x43e3e0(0x6c4,'u([%')](_0x4b6093[_0xf7d64a(0x84b)]),_0x2445fc[_0x123d21(0x7f3)](_0x4b6093[_0x123d21(0x7ac)]);});});}continue;case'5':_0x1d5b3e=_0x5be6f7[_0x8bff60][_0x252833(0x840,'N)JJ')](_0x4c0a65);continue;}break;}}}),document[_0x4bfc0b(0x703)](_0x24d34c[_0x32a29a(0x43c,'oVHT')])['addEventListener']('change',function(){const _0xe6da42=_0xb86714,_0x3c5df1=_0x4bfc0b,_0x204c2d=_0x32a29a;if(_0x1ed3fd[_0x204c2d(0x75a,'aHTy')](document[_0x204c2d(0x41d,'vyC#')](_0x204c2d(0x80d,'XJG4'))[_0x3c5df1(0x4c5)],'')){const _0x5499ae=_0x1ed3fd[_0xe6da42(0x8e7)][_0x3c5df1(0x193)]('|');let _0x2a4022=0x0;while(!![]){switch(_0x5499ae[_0x2a4022++]){case'0':if(_0x1ed3fd[_0x204c2d(0x77a,'u([%')](_0x44f6ad[_0x204c2d(0xf8,'v4(y')],_0x1ed3fd[_0x3c5df1(0x652)]))_0x3f700a=[{'name':_0x1ed3fd[_0x204c2d(0x4ea,'5ld@')],'alias':_0x204c2d(0x929,'v7Qz'),'type':_0x204c2d(0x417,'s(LG')}],_0x44f6ad[_0x204c2d(0x513,'tIy0')][_0x204c2d(0x1a2,'Zt]E')]['forEach'](_0x30bc7b=>{const _0x53dc4c=_0x3c5df1;_0x526ef3[_0x53dc4c(0x1b4)](_0x30bc7b[_0x53dc4c(0x84b)]);});else{_0x3f700a=_0x44f6ad[_0xe6da42(0x93a)];var _0xdc5f5d={'outFields':['*'],'returnGeometry':!![]};_0x44f6ad[_0x204c2d(0x8fc,'L9pl')](_0xdc5f5d)[_0x204c2d(0x5c1,'$y[j')](function(_0x220841){const _0x503ccb=_0xe6da42;_0x220841[_0x503ccb(0x7cc)][_0x503ccb(0x5ff)](_0x257540=>{const _0x2a63b8=_0xebfa,_0x230e10=_0x5997,_0x22890b=_0x503ccb;_0x526ef3[_0x22890b(0x7f3)](_0x257540['geometry']),_0x22bf87[_0x230e10(0x1b4)](_0x257540[_0x2a63b8(0x576,'h0v]')]);});});}continue;case'1':_0x22bf87=[];continue;case'2':_0x3f700a=[];continue;case'3':_0x44f6ad=_0x5be6f7[_0x8bff60][_0x3c5df1(0x313)](_0x114ab4);continue;case'4':_0x526ef3=[];continue;case'5':;continue;case'6':_0x114ab4=document[_0xe6da42(0x4ee)](_0x1ed3fd['PRfjI'])[_0x3c5df1(0x4c5)];continue;}break;}}}),document[_0xb86714(0x4ee)](_0x4bfc0b(0x861))['addEventListener'](_0x24d34c[_0x32a29a(0x1d4,'kOJj')],function(){const _0xd729=_0x4bfc0b,_0x407a23=_0x32a29a,_0x53af64=_0xb86714,_0x5a4e85={'pDnrt':function(_0x27d019,_0x496722){return _0x27d019+_0x496722;}};if(document[_0x53af64(0x4ee)](_0x53af64(0x65c))[_0x53af64(0x222)]===''||_0x1ed3fd[_0x407a23(0x540,'j4WJ')](document[_0x407a23(0x94b,'XJG4')](_0x1ed3fd['PRfjI'])['value'],''))_0x1ed3fd['nqZvH'](alert,_0x1ed3fd[_0x407a23(0x4c9,'pWA*')]);else{if(_0x1ed3fd[_0x53af64(0x57b)](_0x1d5b3e[_0xd729(0x476)],_0x1ed3fd[_0x53af64(0x31e)])&&_0x1ed3fd[_0x407a23(0x65e,'N)JJ')](_0x44f6ad[_0x407a23(0x3d8,'pWA*')],_0x1ed3fd[_0xd729(0x6e5)]))_0x1ed3fd['QrCil'](_0x23602d);else(_0x1ed3fd[_0xd729(0x8df)](_0x1d5b3e[_0xd729(0x476)],_0x1ed3fd[_0x53af64(0x31e)])||_0x44f6ad['geometryType']!==_0x1ed3fd['sQsNE'])&&(_0x1d5b3e['type']===_0xd729(0x319)||_0x44f6ad[_0x53af64(0x40e)]===_0x1ed3fd[_0x407a23(0xb6,'j4WJ')]?_0x1ed3fd[_0x407a23(0x468,'5ld@')](_0x23602d):alert(_0x1ed3fd['dkkLl']));}function _0x23602d(){const _0x596240=_0x407a23,_0x1b612e=_0x53af64,_0x24a238=_0xd729;_0x3f700a['forEach'](_0x59c8e2=>{const _0x447478=_0xebfa,_0x25bc4e=_0x5997;_0x59c8e2['name']=_0x5a4e85[_0x25bc4e(0x295)](_0x59c8e2['name'],'2'),_0x83fc7d[_0x447478(0x402,'IZn(')](_0x59c8e2);}),_0x5d9370=new _0x4ed782({'title':_0x1ed3fd[_0x24a238(0x431)](_0x1ed3fd[_0x1b612e(0xf5)](_0x1d5b3e['title']+'_',_0x44f6ad[_0x1b612e(0x6af)]),_0x1ed3fd['myslC']),'source':[],'fields':_0x83fc7d,'geometryType':'polygon','renderer':{'type':_0x1ed3fd[_0x24a238(0x69b)],'symbol':{'type':_0x24a238(0x50b),'color':_0x1ed3fd[_0x24a238(0x50c)]('#',Math[_0x1b612e(0x508)](Math[_0x24a238(0x748)]()*0xffffff)[_0x1b612e(0x52c)](0x10)),'outline':{'color':_0x1ed3fd['AwwDm'],'width':0x2}}},'popupEnabled':!![],'outFields':['*'],'spatialReference':_0x1d5b3e[_0x596240(0x5aa,'s6tb')]});let _0x2ca456=0x0;for(let _0x48939c=0x0;_0x48939c<_0xdfdcfa[_0x1b612e(0x4d7)];_0x48939c++){for(let _0x4c25dd=0x0;_0x1ed3fd[_0x24a238(0x44c)](_0x4c25dd,_0x526ef3[_0x1b612e(0x4d7)]);_0x4c25dd++){let _0x10b901=_0x594140[_0x24a238(0x73e)](_0xdfdcfa[_0x48939c],_0x526ef3[_0x4c25dd]);if(_0x10b901){let _0x13d02c={},_0x518151={},_0xd5f81a={};if(_0x2445fc[_0x48939c]){_0x518151=_0x2445fc[_0x48939c];for(const [_0x4aea3d,_0x7bbe8]of Object[_0x1b612e(0x4dd)](_0x518151)){_0x13d02c[_0x4aea3d]=_0x7bbe8;}}if(_0x22bf87[_0x4c25dd]){_0xd5f81a=_0x22bf87[_0x4c25dd];for(const [_0x1afb71,_0x46808f]of Object['entries'](_0xd5f81a)){_0x13d02c[_0x1ed3fd[_0x1b612e(0xf5)](_0x1afb71,'2')]=_0x46808f;}}_0x13d02c[_0x1ed3fd[_0x24a238(0x86c)]]=_0x2ca456,_0x2ca456+=0x1;let _0xed7157=new _0x5a4809({'geometry':_0x10b901,'symbol':{'type':_0x1ed3fd[_0x1b612e(0x11d)]},'attributes':_0x13d02c});_0x5d9370['source'][_0x24a238(0x1b4)](_0xed7157);}}}_0xe7248f=[],_0x83fc7d[_0x596240(0x7dc,'C^5W')](_0x35ec03=>{const _0x885682=_0x1b612e;let _0x14e471={'fieldName':_0x35ec03[_0x885682(0x92b)]};_0xe7248f['push'](_0x14e471);});let _0x2fd33d={'title':'العنصر\x20رقم\x20{ObjectID}','content':[{'type':_0x1ed3fd[_0x1b612e(0x8db)],'fieldInfos':_0xe7248f}]};_0x5d9370[_0x596240(0x61d,'oRyI')]=_0x2fd33d,_0x5be6f7[_0x8bff60][_0x1b612e(0x144)](_0x5d9370),_0x1fc5a8[_0x596240(0x43a,'N(06')][_0x596240(0x211,'JHTv')]({'layer':_0x5d9370});}});});let _0x444432=document[_0x353cc9(0x3c7,'66Zk')](_0x353cc9(0x239,'aHTy'))[_0x139205(0x14d)](!![]);document['getElementById'](_0x1c29b8['dySQF'])['addEventListener'](_0x1c29b8['pyFib'],function(){const _0x56a7bd=_0x37be03,_0x525d95=_0x353cc9,_0x715f56=_0x139205,_0x4a6fdd={'GCWTH':function(_0x39ac3f,_0x1d2896){const _0x2b1353=_0x357c;return _0x24d34c[_0x2b1353(0x6b8)](_0x39ac3f,_0x1d2896);},'aEnJS':_0x24d34c['fJdeT'],'ruDWt':function(_0x1d20a1,_0x306df9){const _0xb0612f=_0x357c;return _0x24d34c[_0xb0612f(0x12a)](_0x1d20a1,_0x306df9);},'mPmzl':function(_0x400df5,_0xfc8fd5){const _0x1cb692=_0x357c;return _0x24d34c[_0x1cb692(0x2f4)](_0x400df5,_0xfc8fd5);},'mzXQp':function(_0x1f57e1,_0x42e2e9){const _0x4c08db=_0x5997;return _0x24d34c[_0x4c08db(0x607)](_0x1f57e1,_0x42e2e9);},'OksUU':'unionLayer','EuHrM':_0x24d34c[_0x715f56(0x236)],'EpMUS':function(_0x4b4afa,_0x51be1e){const _0x4c0e57=_0x715f56;return _0x24d34c[_0x4c0e57(0x336)](_0x4b4afa,_0x51be1e);},'DDByE':_0x24d34c[_0x715f56(0x80e)],'jqpef':function(_0x477aa2,_0x21cb70){const _0x7b8241=_0x5997;return _0x24d34c[_0x7b8241(0x24f)](_0x477aa2,_0x21cb70);},'EGHlu':function(_0x1f253e,_0x4bd91d){return _0x1f253e+_0x4bd91d;},'wEIFP':function(_0x4dfb8d,_0x1649a3){return _0x24d34c['dDgla'](_0x4dfb8d,_0x1649a3);},'IycVH':function(_0x5216c9,_0x45604f){const _0xa676cc=_0xebfa;return _0x24d34c[_0xa676cc(0x12e,'Zt]E')](_0x5216c9,_0x45604f);},'JnthW':_0x24d34c['DeJpC'],'zrMrI':function(_0x1638b4,_0x42eb35){return _0x1638b4(_0x42eb35);},'NskIy':function(_0x4cc1cb){const _0x4e0b71=_0x715f56;return _0x24d34c[_0x4e0b71(0x26a)](_0x4cc1cb);}};_0x24d34c['FFqiD'](_0x186aac),_0x574e7e['ui']['add'](_0x444432,_0x24d34c[_0x715f56(0x1b5)]),_0x24d34c[_0x525d95(0x74b,'Q3#2')](_0x5f30b1);let _0x30cc70=[],_0x338968;document[_0x715f56(0x4ee)](_0x24d34c[_0x56a7bd(0x208)])[_0x525d95(0x742,'pWA*')](_0x24d34c['ryOpD'],function(){const _0x5b5115=_0x525d95,_0x2f1aa9=_0x56a7bd,_0x56cdc2=_0x715f56,_0x1d9a0f={'XgvWK':function(_0x24d1bc,_0x26a67b){return _0x24d1bc(_0x26a67b);},'QbTTo':function(_0x1f5cd7,_0x5f1f2f){return _0x4a6fdd['GCWTH'](_0x1f5cd7,_0x5f1f2f);},'bFKGy':function(_0x4e2ba4,_0x44970f){return _0x4e2ba4===_0x44970f;},'KCcME':_0x56cdc2(0x3be)};_0x338968=document[_0x56cdc2(0x4ee)](_0x4a6fdd[_0x2f1aa9(0x2dd)])[_0x5b5115(0x6da,'e91b')];if(_0x4a6fdd[_0x56cdc2(0x788)](_0x338968,''))for(i=0x0;_0x4a6fdd[_0x5b5115(0x479,'&IE8')](i,0xa);i++){let _0x1ddc65=document[_0x2f1aa9(0x703)](_0x4a6fdd[_0x5b5115(0xe4,'tIy0')](_0x4a6fdd['OksUU'],i));if(i<_0x338968)_0x1ddc65[_0x56cdc2(0x3a3)][_0x5b5115(0x51d,'pWA*')]=_0x4a6fdd[_0x56cdc2(0x5e8)],_0x4a6fdd[_0x5b5115(0x460,'QhlL')](_0x54a4a5,_0x4a6fdd[_0x2f1aa9(0x46e)](_0x4a6fdd[_0x2f1aa9(0x66a)],i)),_0x1ddc65[_0x5b5115(0x386,'(o2u')](_0x4a6fdd[_0x56cdc2(0x1c3)],function(){const _0x36d57a=_0x2f1aa9,_0x1ead73=_0x56cdc2;let _0x3e3bfe=_0x1d9a0f[_0x1ead73(0x394)](Number,event[_0x36d57a(0x317)]['id'][0xa]);_0x30cc70[_0x3e3bfe]=[];if(_0x1d9a0f['QbTTo'](_0x1ddc65[_0x1ead73(0x222)],'')){_0x4825b9=_0x5be6f7[_0x8bff60]['findLayerById'](_0x1ddc65[_0x1ead73(0x222)]);if(_0x1d9a0f[_0x36d57a(0x92)](_0x4825b9[_0x1ead73(0x40e)],_0x1d9a0f[_0x36d57a(0x69c)]))_0x4825b9[_0x1ead73(0x3be)][_0x1ead73(0x93b)]['forEach'](_0x246847=>{_0x30cc70[_0x3e3bfe]['push'](_0x246847['geometry']);});else{var _0x294499={'returnGeometry':!![]};_0x4825b9[_0x1ead73(0x261)](_0x294499)[_0x1ead73(0x494)](function(_0x3dcef9){const _0x9ea0b2=_0x36d57a;_0x3dcef9[_0x9ea0b2(0x8ae)][_0x9ea0b2(0x25a)](_0x3ebbfb=>{const _0x4d9cd2=_0xebfa,_0x34a98b=_0x357c;_0x30cc70[_0x3e3bfe][_0x34a98b(0x7f3)](_0x3ebbfb[_0x4d9cd2(0x39e,'u([%')]);});});}}});else _0x1ddc65[_0x2f1aa9(0x604)][_0x56cdc2(0x263)]=_0x2f1aa9(0x2cd);}});let _0x126e8a,_0x2ce2e7,_0xd0ca81;document[_0x56a7bd(0x703)](_0x24d34c[_0x56a7bd(0x39a)])[_0x715f56(0x83b)](_0x24d34c[_0x56a7bd(0x7d8)],function(){const _0x163e40=_0x56a7bd,_0x536596=_0x715f56,_0x122993=_0x525d95;let _0x27c27d=![],_0x24ef4b=![],_0x209049=_0x30cc70[0x0];for(i=0x0;_0x4a6fdd[_0x122993(0x219,'XJG4')](i,_0x338968);i++){_0x4a6fdd[_0x536596(0x531)](document[_0x536596(0x4ee)](_0x4a6fdd[_0x163e40(0x737)](_0x4a6fdd[_0x163e40(0x66a)],i))['value'],'')&&(_0x27c27d=!![]);let _0x142b87=_0x30cc70[i];if(_0x4a6fdd['wEIFP'](_0x142b87[0x0][_0x163e40(0x7b1)],_0x209049[0x0][_0x122993(0x104,'XJG4')]))_0x24ef4b=!![];}if(_0x27c27d)_0x4a6fdd['IycVH'](alert,_0x4a6fdd[_0x163e40(0x938)]);else{if(_0x24ef4b)_0x4a6fdd['zrMrI'](alert,_0x163e40(0x26b));else _0x4a6fdd[_0x163e40(0x3eb)](_0xad2be7);}});function _0xad2be7(){const _0x19f4cc=_0x525d95,_0x1a0b21=_0x56a7bd,_0x1e09d7=_0x715f56;_0x126e8a=[],_0xd0ca81=new _0x4ed782({'title':_0x24d34c['xTOjN'](_0x24d34c[_0x1e09d7(0x7ae)],_0x338968),'source':[],'geometryType':'polygon','fields':[{'name':_0x24d34c[_0x1a0b21(0x515)],'alias':_0x1a0b21(0x52f),'type':_0x24d34c['WOxoH']}],'renderer':{'type':_0x24d34c[_0x1a0b21(0xc0)],'symbol':{'type':_0x24d34c[_0x1a0b21(0x81b)],'color':_0x24d34c[_0x1a0b21(0x607)]('#',Math['floor'](_0x24d34c[_0x1a0b21(0x20e)](Math[_0x1e09d7(0x51f)](),0xffffff))[_0x1e09d7(0x52c)](0x10)),'outline':{'color':_0x1a0b21(0x53c),'width':0x2}}},'spatialReference':{}});for(i=0x0;_0x24d34c[_0x19f4cc(0x3ac,'Q3#2')](i,_0x338968);i++){let _0x24e306=_0x30cc70[i],_0x648a9b=_0x594140[_0x1a0b21(0x469)](_0x24e306);_0x126e8a['push'](_0x648a9b);}let _0x14f328=_0x594140[_0x1e09d7(0x17a)](_0x126e8a);_0xd0ca81['spatialReference']=_0x14f328[_0x1e09d7(0xf7)];let _0x33311a=new _0x5a4809({'geometry':_0x14f328,'symbol':{'type':_0x1a0b21(0x50b)}});_0xd0ca81[_0x1e09d7(0x272)][_0x1a0b21(0x1b4)](_0x33311a),_0x5be6f7[_0x8bff60][_0x19f4cc(0x882,'v4(y')](_0xd0ca81),_0x1fc5a8[_0x19f4cc(0x5f0,'oVHT')][_0x1e09d7(0x7f3)]({'layer':_0xd0ca81});}});let _0x3f9fc4=document[_0x353cc9(0x94b,'XJG4')](_0x1c29b8['HZtKw'])[_0x139205(0x14d)](!![]);document[_0x139205(0x4ee)](_0x139205(0x8cc))[_0x37be03(0x7e1)](_0x1c29b8['pyFib'],function(){const _0x48a6b5=_0x353cc9,_0x236377=_0x37be03,_0x22279d=_0x139205,_0x54b190={'EoroL':_0x24d34c[_0x22279d(0x799)],'qVjmg':_0x24d34c[_0x236377(0x2e2)],'yRqcT':function(_0x45b5b5,_0x1d477f){return _0x24d34c['wZqjy'](_0x45b5b5,_0x1d477f);},'rIZmd':_0x24d34c['XeIjY'],'xhshq':_0x24d34c['OTNCj'],'uYwYk':_0x24d34c[_0x236377(0x563)],'pzqTz':function(_0x359a02,_0x118050){return _0x359a02!==_0x118050;},'EhMiL':'clipLayer2'};_0x186aac(),_0x574e7e['ui']['add'](_0x3f9fc4,_0x24d34c[_0x22279d(0x1b5)]),_0x24d34c[_0x48a6b5(0x5d2,'oS%5')](_0x5f30b1),_0x24d34c[_0x22279d(0xcd)](_0x54a4a5,_0x24d34c[_0x22279d(0x799)]),_0x24d34c[_0x48a6b5(0x8c0,'oS%5')](_0x54a4a5,_0x48a6b5(0x290,'N)JJ'));let _0x5df016=[],_0x5487c5=[],_0x5f5e6f=[],_0x5d4cb6=[],_0x5715ec=[],_0x353c11,_0x54ac51,_0x5ad254,_0x4276b9,_0x24f98c,_0x55851d,_0x394dc2,_0x569a76;document[_0x236377(0x703)](_0x24d34c[_0x48a6b5(0x370,'DEqX')])['addEventListener'](_0x24d34c[_0x22279d(0x80e)],function(){const _0x3dbe4c=_0x236377,_0x73b085=_0x48a6b5,_0x4181ad=_0x22279d;if(document[_0x4181ad(0x4ee)](_0x54b190[_0x73b085(0x22b,'pWA*')])[_0x4181ad(0x222)]!==''){const _0x57d42f=_0x54b190[_0x3dbe4c(0x631)][_0x73b085(0x1ff,'N&[G')]('|');let _0x29c83c=0x0;while(!![]){switch(_0x57d42f[_0x29c83c++]){case'0':_0x4276b9=document[_0x4181ad(0x4ee)](_0x54b190[_0x73b085(0x7d3,'5q&t')])[_0x73b085(0x5d5,'u([%')];continue;case'1':_0x5f5e6f=[];continue;case'2':_0x55851d=_0x5be6f7[_0x8bff60]['findLayerById'](_0x4276b9);continue;case'3':if(_0x54b190[_0x73b085(0x536,'N(06')](_0x55851d[_0x3dbe4c(0x7b1)],_0x54b190['rIZmd']))_0x353c11=[{'name':_0x54b190[_0x4181ad(0x85b)],'alias':_0x54b190[_0x3dbe4c(0x19f)],'type':_0x54b190[_0x4181ad(0x150)]}],_0x55851d[_0x3dbe4c(0x319)][_0x3dbe4c(0x6bb)][_0x3dbe4c(0x25a)](_0x178180=>{const _0x228124=_0x3dbe4c;_0x5df016[_0x228124(0x1b4)](_0x178180['geometry']);});else{_0x353c11=_0x55851d[_0x3dbe4c(0x7a8)];var _0x9ac405={'outFields':['*'],'returnGeometry':!![]};_0x55851d[_0x4181ad(0x261)](_0x9ac405)[_0x73b085(0x146,'s6tb')](function(_0x55182){const _0x195a3e=_0x3dbe4c;_0x55182[_0x195a3e(0x8ae)][_0x195a3e(0x25a)](_0x21b605=>{const _0x44865c=_0x357c,_0x1429a1=_0xebfa;_0x5df016[_0x1429a1(0x406,'XJG4')](_0x21b605[_0x1429a1(0x39e,'u([%')]),_0x5f5e6f['push'](_0x21b605[_0x44865c(0x7ac)]);});});}continue;case'4':_0x353c11=[];continue;case'5':_0x5df016=[];continue;}break;}}}),document[_0x22279d(0x4ee)](_0x24d34c[_0x22279d(0x223)])[_0x22279d(0x83b)](_0x24d34c['ryOpD'],function(){const _0x5ded7c=_0x236377,_0x17e947=_0x48a6b5,_0x180ff5=_0x22279d;if(_0x54b190[_0x180ff5(0x2f7)](document[_0x17e947(0x392,'aybq')](_0x54b190['EhMiL'])[_0x5ded7c(0x4c5)],'')){_0x5d4cb6=[],_0x5487c5=[],_0x54ac51=[],_0x24f98c=document[_0x17e947(0x44f,'uRlI')](_0x54b190[_0x180ff5(0xd9)])[_0x180ff5(0x222)];;_0x394dc2=_0x5be6f7[_0x8bff60]['findLayerById'](_0x24f98c);if(_0x54b190[_0x17e947(0x8bd,'Pf[X')](_0x394dc2[_0x17e947(0x7d2,'uRlI')],_0x54b190['rIZmd']))_0x54ac51=[{'name':_0x54b190[_0x17e947(0x5f9,'DEqX')],'alias':_0x54b190[_0x17e947(0x630,'W7A7')],'type':_0x54b190['uYwYk']}],_0x394dc2[_0x180ff5(0x3be)]['items'][_0x17e947(0x17e,'aHTy')](_0x59f0c4=>{const _0x276d62=_0x17e947;_0x5487c5[_0x276d62(0x43b,'oVHT')](_0x59f0c4['geometry']);});else{_0x54ac51=_0x394dc2['fields'];var _0x3f3c03={'outFields':['*'],'returnGeometry':!![]};_0x394dc2[_0x17e947(0x68d,'N(06')](_0x3f3c03)['then'](function(_0x5e3745){const _0x5cfdaf=_0x17e947,_0x3c04de=_0x5ded7c;_0x5e3745[_0x3c04de(0x8ae)][_0x5cfdaf(0xa5,'5q&t')](_0x5488a7=>{const _0x5afa14=_0x3c04de,_0x5a9b51=_0x5cfdaf;_0x5487c5[_0x5a9b51(0x682,'N(06')](_0x5488a7[_0x5a9b51(0x57e,'j4WJ')]),_0x5d4cb6[_0x5afa14(0x1b4)](_0x5488a7[_0x5a9b51(0x606,'oRyI')]);});});}}}),document[_0x22279d(0x4ee)](_0x24d34c[_0x236377(0x8a)])[_0x22279d(0x83b)](_0x24d34c[_0x22279d(0x836)],function(){const _0xb5f21d=_0x236377,_0x14f653=_0x22279d,_0x4335ff=_0x48a6b5;if(_0x24d34c['qWAEk'](document[_0x4335ff(0x789,'IZn(')](_0x24d34c[_0x14f653(0x799)])[_0x14f653(0x222)],'')||document[_0x4335ff(0x349,'0OY4')](_0x24d34c[_0xb5f21d(0x8cd)])[_0x4335ff(0x20c,'6irY')]==='')_0x24d34c[_0x4335ff(0x24a,'v4(y')](alert,_0x24d34c[_0x14f653(0x634)]);else{if(_0x24d34c[_0x14f653(0x427)](_0x394dc2[_0x4335ff(0x8e0,'5ld@')],_0x24d34c['UwOYc'])){if(_0x24d34c['qWAEk'](_0x394dc2[_0x14f653(0x40e)],_0x24d34c[_0x14f653(0x6d4)]))_0x24d34c[_0x4335ff(0x806,'66Zk')](_0x587736);else _0x24d34c['PgxtV'](alert,_0x24d34c[_0xb5f21d(0x5f8)]);}else _0x587736();}});function _0x587736(){const _0x3a3668=_0x48a6b5,_0x270783=_0x22279d,_0x532bf4=_0x236377;let _0x298da2=_0x5df016[0x0][_0x532bf4(0x7b1)];switch(_0x298da2){case _0x270783(0x73a):_0x569a76=_0x3e7c6e;break;case _0x24d34c[_0x3a3668(0xfa,'&IE8')]:_0x569a76=_0x16f2b7;break;default:_0x569a76=_0x24d24a;break;}let _0x447c85=_0x24d34c['APIPd']('#',Math[_0x270783(0x508)](Math[_0x270783(0x51f)]()*0xffffff)[_0x3a3668(0x4cc,'s(LG')](0x10));_0x569a76[_0x270783(0x3bc)]=_0x447c85,_0x5ad254=new _0x4ed782({'title':_0x24d34c['uEmov'](_0x24d34c['CplBJ'](_0x55851d[_0x3a3668(0x162,'iQ&)')],'_'),_0x394dc2['title'])+_0x24d34c[_0x3a3668(0x8b6,'vyC#')],'source':[],'fields':_0x55851d['fields'],'geometryType':_0x55851d[_0x532bf4(0x476)],'renderer':{'type':_0x532bf4(0x609),'symbol':_0x569a76},'popupEnabled':!![],'outFields':['*'],'spatialReference':_0x55851d[_0x3a3668(0x253,'C^5W')]});let _0x1d0049=0x0;for(let _0x4350c1=0x0;_0x24d34c['EJRqE'](_0x4350c1,_0x5df016[_0x532bf4(0x1c5)]);_0x4350c1++){for(let _0x3ac77a=0x0;_0x24d34c[_0x532bf4(0x33f)](_0x3ac77a,_0x5487c5[_0x3a3668(0x3e0,'C^5W')]);_0x3ac77a++){var _0x49f6fd=_0x594140[_0x270783(0x762)](_0x5df016[_0x4350c1],_0x5487c5[_0x3ac77a]);if(_0x49f6fd){let _0x73076e={},_0x42e3ea={};if(_0x5f5e6f[_0x4350c1]){_0x42e3ea=_0x5f5e6f[_0x4350c1];for(const [_0x255e86,_0x2a47a8]of Object['entries'](_0x42e3ea)){_0x73076e[_0x255e86]=_0x2a47a8;}}_0x73076e[_0x24d34c[_0x532bf4(0x29a)]]=_0x1d0049,_0x1d0049+=0x1;let _0x526084=new _0x5a4809({'geometry':_0x49f6fd,'symbol':_0x569a76,'attributes':_0x73076e});_0x5ad254[_0x270783(0x272)][_0x532bf4(0x1b4)](_0x526084),_0x5715ec=[],_0x55851d['fields']['forEach'](_0x2c9fca=>{let _0x24dc36={'fieldName':_0x2c9fca['name']};_0x5715ec['push'](_0x24dc36);});let _0x2273a6={'title':_0x24d34c[_0x532bf4(0x828)],'content':[{'type':_0x24d34c[_0x3a3668(0x2ee,'aybq')],'fieldInfos':_0x5715ec}]};_0x5ad254['popupTemplate']=_0x2273a6,_0x5be6f7[_0x8bff60]['add'](_0x5ad254),_0x1fc5a8['layerInfos'][_0x270783(0x7f3)]({'layer':_0x5ad254});}}};}});let _0x5def37=document['getElementById'](_0x1c29b8[_0x37be03(0x24e)])[_0x37be03(0x811)](!![]);document[_0x139205(0x4ee)](_0x1c29b8[_0x353cc9(0x4d6,'oRyI')])[_0x37be03(0x7e1)](_0x1c29b8['pyFib'],function(){const _0x5bd9fb=_0x139205,_0x4bca7c=_0x37be03,_0x11db67=_0x353cc9,_0x23796d={'UCwLW':function(_0x45a256,_0x10e89f){const _0x4e3de8=_0x357c;return _0x24d34c[_0x4e3de8(0x1a9)](_0x45a256,_0x10e89f);},'Fnclz':_0x24d34c[_0x11db67(0x914,'ZH7I')],'ffWHU':function(_0x311f27,_0x4aa283){const _0xf3681f=_0x11db67;return _0x24d34c[_0xf3681f(0x47d,'s6tb')](_0x311f27,_0x4aa283);},'iIeFW':_0x24d34c[_0x11db67(0x59d,'0OY4')],'OhxdF':function(_0x2e8f0a,_0x3df7f1){const _0x1cd387=_0x5997;return _0x24d34c[_0x1cd387(0x70f)](_0x2e8f0a,_0x3df7f1);},'MEoQB':_0x24d34c[_0x11db67(0x51a,'kOJj')],'glDBQ':_0x11db67(0x2cb,'oS%5'),'eXavf':function(_0x2247ce,_0x573575){const _0x16f07a=_0x5997;return _0x24d34c[_0x16f07a(0x18a)](_0x2247ce,_0x573575);},'NcZDX':_0x24d34c[_0x4bca7c(0x515)],'MMRfG':_0x24d34c['WOxoH']};_0x186aac(),_0x574e7e['ui'][_0x11db67(0x225,'oRyI')](_0x5def37,_0x24d34c[_0x11db67(0x566,'uRlI')]),_0x5f30b1(),_0x24d34c['fCRwe'](_0x54a4a5,_0x4bca7c(0x56b)),_0x24d34c[_0x4bca7c(0x91b)](_0x54a4a5,_0x4bca7c(0x2d8));let _0x4677c0=[],_0x5a6767=[],_0x4cb5d3=[],_0x55f586=[],_0x1a8b35=[],_0xada32d,_0x89e17d,_0x4d2c8e,_0x2bfb57,_0x2c333a,_0x32fb38,_0x41ee1a;document[_0x5bd9fb(0x4ee)](_0x4bca7c(0x56b))['addEventListener'](_0x4bca7c(0x5b5),function(){const _0x254fe7=_0x11db67,_0x6acef7=_0x5bd9fb,_0x6af333=_0x4bca7c;if(_0x23796d['UCwLW'](document[_0x6af333(0x703)](_0x23796d[_0x6af333(0x2a0)])[_0x6acef7(0x222)],'')){_0x4677c0=[],_0x2bfb57=document[_0x6acef7(0x4ee)](_0x23796d[_0x254fe7(0x7fe,'vyC#')])['value'],_0x32fb38=_0x5be6f7[_0x8bff60][_0x254fe7(0x7c9,'h0v]')](_0x2bfb57);if(_0x23796d[_0x6af333(0x228)](_0x32fb38[_0x6acef7(0x40e)],_0x23796d[_0x254fe7(0x4c8,'Q3#2')]))_0x32fb38[_0x254fe7(0x250,'aHTy')]['items'][_0x254fe7(0x46b,'N&[G')](_0x396d7f=>{const _0x566cab=_0x6af333,_0x2b5e65=_0x254fe7;_0x4677c0[_0x2b5e65(0x32e,'5ld@')](_0x396d7f[_0x566cab(0x84b)]);});else{var _0x19d40f={'outFields':['*'],'returnGeometry':!![]};_0x32fb38[_0x6af333(0x42e)](_0x19d40f)[_0x6af333(0x484)](function(_0x3c3f3a){const _0x2ab784=_0x254fe7;_0x3c3f3a[_0x2ab784(0x102,'N(06')]['forEach'](_0x1cef67=>{const _0x4a7c45=_0x5997;_0x4677c0['push'](_0x1cef67[_0x4a7c45(0x84b)]);});});}}}),document['getElementById'](_0x24d34c['UBXKD'])[_0x11db67(0x77c,'e91b')](_0x5bd9fb(0x879),function(){const _0x78c9e1=_0x4bca7c,_0xbc9720=_0x11db67,_0x28e6d1=_0x5bd9fb;if(_0x23796d[_0x28e6d1(0x934)](document[_0xbc9720(0x3f7,'(o2u')](_0x23796d[_0x78c9e1(0x7b5)])['value'],'')){const _0x57ce90=_0x23796d[_0xbc9720(0x2a9,'vyC#')]['split']('|');let _0x486e9d=0x0;while(!![]){switch(_0x57ce90[_0x486e9d++]){case'0':if(_0x23796d[_0xbc9720(0x153,'iQ&)')](_0x41ee1a[_0x78c9e1(0x7b1)],_0x23796d[_0xbc9720(0x7f4,'e91b')]))_0x89e17d=[{'name':_0xbc9720(0x894,'6irY'),'alias':_0x23796d[_0x78c9e1(0x891)],'type':_0x23796d[_0x78c9e1(0x538)]}],_0x41ee1a[_0xbc9720(0x90e,'e91b')][_0x78c9e1(0x6bb)][_0x28e6d1(0x5ff)](_0x4c3ec1=>{_0x5a6767['push'](_0x4c3ec1['geometry']);});else{_0x89e17d=_0x41ee1a[_0xbc9720(0x234,'j4WJ')];var _0x2dd5ed={'outFields':['*'],'returnGeometry':!![]};_0x41ee1a[_0xbc9720(0x48c,'6irY')](_0x2dd5ed)[_0x28e6d1(0x494)](function(_0x2b2bcd){const _0x33e28f=_0xbc9720;_0x2b2bcd[_0x33e28f(0x277,'uRlI')][_0x33e28f(0x503,'e91b')](_0x3bcd73=>{const _0x4c817b=_0x5997,_0x4c236c=_0x357c,_0x437892=_0x33e28f;_0x5a6767[_0x437892(0x5b3,'DEqX')](_0x3bcd73[_0x4c236c(0x773)]),_0x55f586['push'](_0x3bcd73[_0x4c817b(0x191)]);});});}continue;case'1':_0x41ee1a=_0x5be6f7[_0x8bff60][_0x28e6d1(0x1e6)](_0x2c333a);continue;case'2':_0x2c333a=document['getElementById'](_0xbc9720(0x975,'7u9P'))[_0xbc9720(0x278,'QhlL')];continue;case'3':_0x5a6767=[];continue;case'4':_0x89e17d=[];continue;case'5':;continue;case'6':_0x55f586=[];continue;}break;}}}),document[_0x11db67(0x44f,'uRlI')](_0x24d34c[_0x11db67(0x38f,'u([%')])[_0x11db67(0x11f,'uEyB')](_0x24d34c[_0x11db67(0x6b5,'oS%5')],function(){const _0x32ec2d=_0x11db67,_0xeb522=_0x4bca7c,_0x419f6f=_0x5bd9fb,_0x407830={'cEmLS':function(_0x213a76,_0x3b8cf9){return _0x24d34c['CplBJ'](_0x213a76,_0x3b8cf9);},'InVla':function(_0xe8860c,_0x30e4ba){const _0x54b3fb=_0x357c;return _0x24d34c[_0x54b3fb(0x155)](_0xe8860c,_0x30e4ba);},'uJNhI':_0x24d34c['UwOYc'],'sgnwB':_0x419f6f(0x2eb),'SGsDm':function(_0x428de4,_0x3e9abd){return _0x428de4*_0x3e9abd;},'eGvPU':_0x24d34c[_0x419f6f(0x2d6)],'juYar':function(_0x59debf,_0x356bf6){return _0x59debf<_0x356bf6;},'IGwhn':'العنصر\x20رقم\x20{ObjectID}','IGsNb':_0x24d34c['eANjh']};if(_0x24d34c[_0xeb522(0x3c3)](document[_0x419f6f(0x4ee)](_0x24d34c[_0xeb522(0x5cb)])[_0x32ec2d(0x1b8,'DEqX')],'')||document[_0xeb522(0x703)](_0xeb522(0x2d8))[_0xeb522(0x4c5)]==='')_0x24d34c[_0x32ec2d(0xcc,'IZn(')](alert,_0x24d34c[_0x419f6f(0x47a)]);else{if(_0x24d34c[_0xeb522(0x3c3)](_0x32fb38[_0x419f6f(0x184)],_0x24d34c['UwOYc'])&&_0x24d34c[_0x32ec2d(0x142,'oS%5')](_0x41ee1a['geometryType'],_0x419f6f(0x30b)))_0x24d34c[_0x32ec2d(0x2e7,'C^5W')](_0x59ef9c);else(_0x24d34c[_0x419f6f(0x1a9)](_0x32fb38[_0x419f6f(0x184)],_0x24d34c[_0x32ec2d(0x461,'C^5W')])||_0x24d34c[_0x419f6f(0x1a9)](_0x41ee1a['geometryType'],_0x32ec2d(0x2b8,'oVHT')))&&(_0x24d34c[_0x32ec2d(0x48a,'7u9P')](_0x32fb38[_0x32ec2d(0x504,'y9!3')],_0x24d34c[_0x32ec2d(0x60a,'aybq')])||_0x41ee1a[_0xeb522(0x7b1)]===_0x24d34c[_0xeb522(0x708)]?_0x24d34c['Xtjzy'](_0x59ef9c):alert(_0xeb522(0x686)));}function _0x59ef9c(){const _0x53dc8b=_0x419f6f,_0x4e2e5f=_0xeb522,_0xaa4157=_0x32ec2d;_0x4d2c8e=new _0x4ed782({'title':_0x407830[_0xaa4157(0x405,'LWQm')](_0x407830[_0xaa4157(0x86a,'z*1C')](_0x32fb38[_0x4e2e5f(0x5ab)],'_')+_0x41ee1a[_0x4e2e5f(0x5ab)],'_تلامس'),'source':[],'fields':_0x89e17d,'geometryType':_0x407830['uJNhI'],'renderer':{'type':'simple','symbol':{'type':_0x407830[_0x4e2e5f(0x1e8)],'color':_0x407830[_0xaa4157(0x549,'vyC#')]('#',Math['floor'](_0x407830[_0xaa4157(0x160,'LWQm')](Math[_0x53dc8b(0x51f)](),0xffffff))[_0x4e2e5f(0x671)](0x10)),'outline':{'color':_0x407830[_0x53dc8b(0x732)],'width':0x2}}},'popupEnabled':!![],'outFields':['*'],'spatialReference':_0x32fb38[_0xaa4157(0x2f9,'L9pl')]});for(let _0x2162b8=0x0;_0x407830[_0x4e2e5f(0x8d7)](_0x2162b8,_0x4677c0[_0x53dc8b(0x4d7)]);_0x2162b8++){for(let _0x2b7750=0x0;_0x407830[_0xaa4157(0x79a,'u([%')](_0x2b7750,_0x5a6767['length']);_0x2b7750++){let _0x253655=_0x594140[_0x4e2e5f(0x930)](_0x4677c0[_0x2162b8],_0x5a6767[_0x2b7750]);if(_0x253655){let _0x473620={};_0x55f586[_0x2b7750]&&(_0x473620=_0x55f586[_0x2b7750]);let _0x5d4c3e=new _0x5a4809({'geometry':_0x5a6767[_0x2b7750],'symbol':{'type':_0x407830[_0x4e2e5f(0x1e8)]},'attributes':_0x473620});_0x4d2c8e[_0x53dc8b(0x272)]['push'](_0x5d4c3e);}}}_0x1a8b35=[],_0x89e17d[_0xaa4157(0x503,'e91b')](_0x2728c5=>{const _0x33ee32=_0x53dc8b,_0x479b5c=_0xaa4157;let _0x3856d8={'fieldName':_0x2728c5[_0x479b5c(0x798,'QhlL')]};_0x1a8b35[_0x33ee32(0x7f3)](_0x3856d8);});let _0x1210be={'title':_0x407830[_0x53dc8b(0x937)],'content':[{'type':_0x407830[_0x4e2e5f(0x3b5)],'fieldInfos':_0x1a8b35}]};_0x4d2c8e[_0x53dc8b(0xf2)]=_0x1210be,_0x5be6f7[_0x8bff60][_0x53dc8b(0x144)](_0x4d2c8e),_0x1fc5a8[_0x4e2e5f(0x2d9)][_0x53dc8b(0x7f3)]({'layer':_0x4d2c8e});}});});let _0x5df864=document[_0x37be03(0x703)](_0x1c29b8[_0x353cc9(0x8ba,'&IE8')])[_0x139205(0x14d)](!![]);document[_0x139205(0x4ee)](_0x1c29b8[_0x37be03(0x3b3)])[_0x139205(0x83b)](_0x1c29b8['pyFib'],function(){const _0xdb817f=_0x353cc9,_0x56fe74=_0x37be03,_0x4f93f3=_0x139205,_0x52b41a={'BEmYY':function(_0x4d1554,_0x45c5ed){const _0x780a8=_0x5997;return _0x24d34c[_0x780a8(0x18a)](_0x4d1554,_0x45c5ed);},'gygqL':_0x24d34c[_0x4f93f3(0x1cf)],'Zgztf':function(_0x5a0a7a,_0x18c677){const _0xbfbd20=_0xebfa;return _0x24d34c[_0xbfbd20(0x573,'u([%')](_0x5a0a7a,_0x18c677);},'jzash':_0x56fe74(0x558),'mcChe':function(_0x366036,_0x46680e){return _0x24d34c['qbQwj'](_0x366036,_0x46680e);},'vkDLr':_0x56fe74(0x52f),'yJQcY':_0x24d34c['WOxoH'],'sIkMA':function(_0x408524,_0x2f93a1){return _0x24d34c['CplBJ'](_0x408524,_0x2f93a1);},'AqlFS':function(_0x16e41f,_0x3caf2a){return _0x16e41f+_0x3caf2a;},'MdGOP':_0x24d34c[_0x4f93f3(0x1e5)],'gzSoj':function(_0x33753a,_0x5e092d){return _0x24d34c['EJRqE'](_0x33753a,_0x5e092d);},'nKcZf':function(_0x70ffa2,_0x33f323){return _0x70ffa2<_0x33f323;},'WaVxB':function(_0x4ea35b,_0x5035df){return _0x24d34c['yFozn'](_0x4ea35b,_0x5035df);},'OwMFc':_0x24d34c[_0xdb817f(0xaf,'tIy0')],'RTWNr':'simple-fill','mUnLX':'nearestID','rJnMm':function(_0x4cd558,_0x48b427){const _0x4fcf43=_0x56fe74;return _0x24d34c[_0x4fcf43(0x8b8)](_0x4cd558,_0x48b427);},'UImOK':function(_0x18a699,_0x4eec1d){return _0x24d34c['vZOho'](_0x18a699,_0x4eec1d);},'IHQBM':_0x56fe74(0x91d),'lPknp':function(_0x5019c6,_0x1b1931){return _0x24d34c['fCRwe'](_0x5019c6,_0x1b1931);},'QbKWq':_0x24d34c['KtqmC']};_0x24d34c[_0xdb817f(0x14e,'h0v]')](_0x186aac),_0x574e7e['ui'][_0x56fe74(0x33d)](_0x5df864,_0x24d34c[_0x56fe74(0x774)]),_0x24d34c['YQZHb'](_0x5f30b1),_0x54a4a5(_0x24d34c[_0x4f93f3(0x41c)]),_0x54a4a5(_0x24d34c[_0x4f93f3(0x54a)]);let _0x229c19=[],_0x3c5a5f=[],_0x119637=[],_0x63e5d7=[],_0x1a17c8=[],_0x5a483d=[],_0x20acbd=[],_0xca2b62,_0x465d92,_0x3ef529,_0x4a126b,_0x264aeb,_0x3d0b3e,_0x2724ef;document['getElementById'](_0x24d34c[_0x56fe74(0x59f)])[_0xdb817f(0x28e,'vyC#')](_0x24d34c[_0x4f93f3(0x80e)],function(){const _0x490a06=_0x4f93f3,_0x56bd78=_0x56fe74,_0x1e9137=_0xdb817f,_0x52b4f6={'XRMNJ':function(_0x40ca83,_0x22aa0f){const _0x5c544d=_0xebfa;return _0x52b41a[_0x5c544d(0x4f7,'&IE8')](_0x40ca83,_0x22aa0f);},'ftDoi':_0x52b41a[_0x1e9137(0x1ad,'e91b')]};if(_0x52b41a[_0x56bd78(0x794)](document[_0x490a06(0x4ee)](_0x52b41a[_0x490a06(0x209)])[_0x490a06(0x222)],'')){_0x119637=[],_0x229c19=[],_0x1a17c8=[],_0xca2b62=[],_0x4a126b=document['getElementById'](_0x52b41a['jzash'])[_0x1e9137(0x95c,'LWQm')];;_0x3d0b3e=_0x5be6f7[_0x8bff60][_0x56bd78(0x313)](_0x4a126b);if(_0x52b41a[_0x1e9137(0x103,'aybq')](_0x3d0b3e[_0x1e9137(0x705,'JHTv')],_0x490a06(0x3be)))_0xca2b62=[{'name':_0x52b41a['vkDLr'],'alias':_0x52b41a[_0x56bd78(0x82d)],'type':_0x52b41a[_0x56bd78(0x70b)]}],_0x3d0b3e[_0x1e9137(0x136,'oRyI')][_0x490a06(0x93b)][_0x1e9137(0x926,'NwE[')](_0x2190a8=>{const _0x721afb=_0x490a06,_0x3e9388=_0x56bd78,_0x49947d=_0x1e9137;_0x229c19[_0x49947d(0x6ae,'Y!f2')](_0x2190a8[_0x3e9388(0x84b)]),_0x1a17c8[_0x721afb(0x7f3)](_0x2190a8[_0x49947d(0x75f,'DEqX')]['centroid']);});else{_0xca2b62=_0x3d0b3e[_0x1e9137(0x48e,'ZH7I')];var _0x1df627={'outFields':['*'],'returnGeometry':!![]};_0x3d0b3e[_0x490a06(0x261)](_0x1df627)['then'](function(_0x315f7b){const _0x2827fb=_0x1e9137;_0x315f7b[_0x2827fb(0x2c2,'z*1C')]['forEach'](_0x5288cf=>{const _0x9258c6=_0x2827fb,_0x46841c=_0x357c,_0x398562=_0x5997;_0x229c19[_0x398562(0x1b4)](_0x5288cf[_0x398562(0x84b)]);if(_0x52b4f6[_0x398562(0x4bb)](_0x3d0b3e[_0x46841c(0x184)],_0x52b4f6[_0x9258c6(0x82a,'W7A7')]))_0x1a17c8[_0x46841c(0x7f3)](_0x5288cf['geometry']);else _0x1a17c8['push'](_0x5288cf[_0x9258c6(0x599,'e91b')]['centroid']);_0x119637[_0x398562(0x1b4)](_0x5288cf[_0x398562(0x191)]);});});}}}),document[_0x56fe74(0x703)](_0x24d34c['uOUOY'])['addEventListener'](_0x24d34c['ryOpD'],function(){const _0xbf93b1=_0x4f93f3,_0x4747a0=_0xdb817f,_0x18551a=_0x56fe74,_0x473d21={'gLJAj':function(_0xd07e19,_0x5e5182){const _0x22176b=_0x357c;return _0x24d34c[_0x22176b(0x60f)](_0xd07e19,_0x5e5182);},'fUFli':_0x24d34c[_0x18551a(0x728)]};if(_0x24d34c['gGHtV'](document[_0x18551a(0x703)](_0x24d34c['uOUOY'])['value'],'')){const _0x1908eb=_0x24d34c[_0x18551a(0x384)][_0x4747a0(0x422,'66Zk')]('|');let _0x8c4661=0x0;while(!![]){switch(_0x1908eb[_0x8c4661++]){case'0':;continue;case'1':_0x3c5a5f=[];continue;case'2':_0x465d92=[];continue;case'3':_0x63e5d7=[];continue;case'4':_0x264aeb=document[_0x4747a0(0x8bc,'iQ&)')](_0x24d34c[_0xbf93b1(0x54a)])[_0xbf93b1(0x222)];continue;case'5':_0x2724ef=_0x5be6f7[_0x8bff60]['findLayerById'](_0x264aeb);continue;case'6':if(_0x24d34c[_0x18551a(0x18a)](_0x2724ef[_0xbf93b1(0x40e)],_0xbf93b1(0x3be)))_0x465d92=[{'name':_0x24d34c['OTNCj'],'alias':_0x24d34c[_0xbf93b1(0x6cd)],'type':_0x24d34c['WOxoH']}],_0x2724ef[_0xbf93b1(0x3be)][_0x18551a(0x6bb)][_0xbf93b1(0x5ff)](_0x2e4224=>{const _0x44bece=_0xbf93b1,_0xd9772c=_0x4747a0;_0x3c5a5f[_0xd9772c(0x18b,'oRyI')](_0x2e4224['geometry']),_0x5a483d[_0x44bece(0x7f3)](_0x2e4224[_0xd9772c(0x4c7,'QhlL')]['centroid']);});else{_0x465d92=_0x2724ef['fields'];var _0x23fa81={'outFields':['*'],'returnGeometry':!![]};_0x2724ef[_0x18551a(0x42e)](_0x23fa81)['then'](function(_0x46586d){_0x46586d['features']['forEach'](_0x2d7d1d=>{const _0x1609ac=_0x5997,_0x2e9702=_0x357c,_0x36b7c2=_0xebfa;_0x3c5a5f[_0x36b7c2(0x522,'iQ&)')](_0x2d7d1d[_0x2e9702(0x773)]);if(_0x473d21[_0x1609ac(0x64b)](_0x2724ef['geometryType'],_0x473d21[_0x2e9702(0x27a)]))_0x5a483d[_0x1609ac(0x1b4)](_0x2d7d1d['geometry']);else _0x5a483d[_0x1609ac(0x1b4)](_0x2d7d1d[_0x36b7c2(0x6a4,'$y[j')][_0x1609ac(0x71e)]);_0x63e5d7[_0x36b7c2(0x6ae,'Y!f2')](_0x2d7d1d[_0x1609ac(0x191)]);});});}continue;}break;}}}),document['getElementById'](_0x24d34c[_0x4f93f3(0x8c9)])[_0x4f93f3(0x83b)](_0x24d34c['PpbSF'],function(){const _0x167194=_0xdb817f,_0x43cabb=_0x56fe74,_0x326968=_0x4f93f3;if(_0x52b41a[_0x326968(0x41b)](document[_0x326968(0x4ee)](_0x326968(0x1d7))[_0x326968(0x222)],'')||_0x52b41a[_0x43cabb(0x4d2)](document[_0x326968(0x4ee)](_0x52b41a['IHQBM'])['value'],''))_0x52b41a['lPknp'](alert,_0x52b41a[_0x167194(0x6bf,'Y!f2')]);else _0x13d9aa();function _0x13d9aa(){const _0x254873=_0x167194,_0x99bc55=_0x326968,_0x2a660d=_0x43cabb;let _0x582ca8=_0x2724ef[_0x2a660d(0x476)];switch(_0x582ca8){case _0x52b41a[_0x2a660d(0x6bc)]:nearSymbol=_0x3e7c6e;break;case'polyline':nearSymbol=_0x16f2b7;break;default:nearSymbol=_0x24d24a;break;}let _0x223a11=_0x52b41a[_0x99bc55(0x822)]('#',Math[_0x99bc55(0x508)](Math[_0x2a660d(0x748)]()*0xffffff)[_0x2a660d(0x671)](0x10));nearSymbol[_0x254873(0x14f,'DEqX')]=_0x223a11,_0x3ef529=new _0x4ed782({'title':_0x52b41a[_0x254873(0x459,'aybq')](_0x3d0b3e[_0x99bc55(0x6af)]+'_',_0x2724ef[_0x2a660d(0x5ab)])+_0x52b41a[_0x99bc55(0x6d0)],'source':[],'fields':_0x465d92,'geometryType':_0x2724ef[_0x99bc55(0x184)],'renderer':{'type':'simple','symbol':nearSymbol},'popupEnabled':!![],'outFields':['*'],'spatialReference':_0x2724ef[_0x99bc55(0xf7)]});let _0xa91edc={},_0x2fda44,_0x4993b4,_0x47f3f7;for(let _0x2bd1ca=0x0;_0x52b41a[_0x99bc55(0x112)](_0x2bd1ca,_0x229c19['length']);_0x2bd1ca++){_0x4993b4=0x3b9ac9ff;for(let _0x5c3175=0x0;_0x52b41a[_0x254873(0x602,'v4(y')](_0x5c3175,_0x3c5a5f[_0x254873(0x6dc,'&IE8')]);_0x5c3175++){let _0x23f8df=_0x594140[_0x2a660d(0x7d0)](_0x1a17c8[_0x2bd1ca],_0x5a483d[_0x5c3175]);if(_0x23f8df){if(_0x52b41a[_0x254873(0x605,'pWA*')](_0x23f8df[_0x99bc55(0x54e)],_0x4993b4)){_0x4993b4=_0x23f8df['distance'];let _0x508cda=_0x119637[_0x2bd1ca];_0x47f3f7=_0x508cda['OBJECTID'],_0xa91edc={},_0x63e5d7[_0x5c3175]&&(_0xa91edc=_0x63e5d7[_0x5c3175]),_0x2fda44=_0x3c5a5f[_0x5c3175];}}}_0xa91edc[_0x99bc55(0x1a4)]=_0x47f3f7,_0xa91edc[_0x52b41a[_0x254873(0x62b,'QhlL')]]=_0x4993b4;let _0x458070=new _0x5a4809({'geometry':_0x2fda44,'symbol':{'type':_0x52b41a['RTWNr']},'attributes':_0xa91edc});_0x3ef529[_0x254873(0x66d,'66Zk')][_0x99bc55(0x7f3)](_0x458070);}_0x20acbd=[],_0x465d92['forEach'](_0x121300=>{const _0x2fbd5f=_0x2a660d;let _0x22f6f9={'fieldName':_0x121300['name']};_0x20acbd[_0x2fbd5f(0x1b4)](_0x22f6f9);}),_0x20acbd[_0x99bc55(0x7f3)]({'fieldName':_0x52b41a[_0x99bc55(0x7ab)]}),_0x20acbd[_0x99bc55(0x7f3)]({'fieldName':'distance'});let _0x2aa64f={'title':_0x254873(0xdf,'oS%5'),'content':[{'type':_0x2a660d(0x7a8),'fieldInfos':_0x20acbd}]};_0x3ef529[_0x99bc55(0xf2)]=_0x2aa64f,_0x5be6f7[_0x8bff60][_0x99bc55(0x144)](_0x3ef529),_0x1fc5a8[_0x254873(0x6a8,'v4(y')][_0x99bc55(0x7f3)]({'layer':_0x3ef529});}});});function _0x186aac(){const _0x2c2d03=_0x139205,_0x42b6fa=_0x37be03;_0x574e7e['ui'][_0x42b6fa(0x6c2)](_0x1c29b8[_0x2c2d03(0x6ba)]),_0x574e7e['ui']['empty'](_0x1c29b8[_0x42b6fa(0x2de)]);}_0x574e7e[_0x37be03(0x45b)]['on'](_0x1c29b8[_0x37be03(0x65d)],function(_0x4e48bf){const _0x3f440d=_0x37be03;_0x4e48bf['action']['id']===_0x1c29b8[_0x3f440d(0x4ab)]&&_0x1c29b8['quFpd'](navigateToFun);}),_0x574e7e['when'](function(){const _0x2c7812=_0x37be03,_0x31e0c3=_0x353cc9,_0x42c4f5=_0x139205;document[_0x42c4f5(0x725)](_0x31e0c3(0x52e,'u([%'))[0x0][_0x42c4f5(0x3a3)][_0x42c4f5(0x263)]=_0x24d34c[_0x42c4f5(0x92a)],_0x24d34c[_0x2c7812(0x8ad)](_0x29b05e),_0x2834ae(),_0x24d34c['LnRAT'](_0x3c0c7d),_0x24d34c['VNVxG'](_0x5f48f4);let _0x2cb279=_0x574e7e[_0x42c4f5(0x109)];document[_0x42c4f5(0x4ee)](_0x24d34c[_0x42c4f5(0x86e)])['addEventListener'](_0x24d34c['PpbSF'],function(){const _0x3eb68b=_0x42c4f5;_0x574e7e[_0x3eb68b(0x32f)](_0x2cb279);});},function(_0x27566b){const _0x22384e=_0x139205;console['log'](_0x22384e(0x75b),_0x27566b);}),_0x574e7e['on'](_0x1c29b8[_0x353cc9(0x41e,'oRyI')],function(_0xbcd419){const _0xeebe60=_0x37be03,_0x5cf6ba=_0x139205,_0x4622ee=_0x353cc9;let _0x1f0e92=document[_0x4622ee(0x41d,'vyC#')](_0x24d34c['OKKNJ']);_0x24d34c[_0x5cf6ba(0x174)](_0x1f0e92[_0xeebe60(0x19e)],!![])&&(document['getElementById'](_0x24d34c[_0xeebe60(0x5d4)])[_0xeebe60(0x19e)]=![],viewDiv[_0xeebe60(0x604)][_0x4622ee(0x624,'e91b')]=_0x24d34c[_0xeebe60(0xdd)]);});function _0x145299(){const _0x50c944=_0x353cc9,_0x2c013d=_0x37be03,_0x3a9338=_0x139205;let _0x3e33d5=0x0;while(_0x1c29b8['uYGVB'](event[_0x3a9338(0x4ca)][_0x3e33d5]['id'],'')){_0x3e33d5+=0x1;}_0x3e33d5-=0x1;let _0x2bc244=event['path'][_0x3e33d5]['id'];_0x379bd4=document['getElementById'](_0x2bc244);let _0x5bd3a9;for(let _0x42bd3b=0x1;_0x1c29b8['rOBBc'](_0x42bd3b,_0x379bd4['children'][_0x2c013d(0x1c5)]);_0x42bd3b++){(_0x1c29b8[_0x50c944(0x701,'s(LG')](_0x379bd4['children'][_0x42bd3b][_0x2c013d(0x604)]['display'],_0x1c29b8[_0x50c944(0x7fa,'$y[j')])||_0x1c29b8[_0x50c944(0xd1,'N&[G')](_0x379bd4[_0x50c944(0x3e2,'$y[j')][_0x42bd3b]['style'][_0x2c013d(0x294)],_0x1c29b8[_0x2c013d(0x27d)]))&&(_0x5bd3a9=_0x379bd4[_0x50c944(0x82b,'u([%')][_0x42bd3b]['id']);}let _0x2e8b55=widgetBackMenus[_0x5bd3a9];switch(_0x2e8b55){case _0x1c29b8[_0x50c944(0x660,'N(06')]:_0x574e7e['ui'][_0x2c013d(0x6c2)](_0x1c29b8['IlDYC']);break;default:for(i=0x1;_0x1c29b8[_0x3a9338(0x23f)](i,_0x379bd4[_0x3a9338(0x18d)][_0x3a9338(0x4d7)]);i++){_0x379bd4['children'][i]['style'][_0x50c944(0x533,'Y!f2')]=_0x50c944(0x1f5,'z*1C');}document[_0x50c944(0x68b,'W7A7')](_0x2e8b55)['style']['display']='flex';break;}};function _0x51fecb(){_0x574e7e['ui']['empty'](_0x24d34c['fEwMn']);}function _0x5f30b1(){const _0x47c732=_0x139205,_0x562ebd=_0x353cc9,_0x293919=_0x37be03;document[_0x293919(0x703)](_0x293919(0x306))[_0x562ebd(0x45e,'$y[j')](_0x1c29b8[_0x293919(0x4ff)],_0x145299),document[_0x47c732(0x4ee)](_0x1c29b8[_0x293919(0x6b9)])['addEventListener'](_0x1c29b8['pyFib'],_0x51fecb);}const _0x42257e=function(_0x76a18b,_0x43411d){const _0x599bb2=_0x37be03,_0x3fca61=_0x139205,_0x12a766=_0x353cc9;let _0x48c29c=document['createElement']('a'),_0xe8bcf4=new Blob([_0x76a18b],{'type':_0x24d34c[_0x12a766(0xf3,'j4WJ')]}),_0x476361=URL[_0x3fca61(0x2c1)](_0xe8bcf4);_0x48c29c[_0x599bb2(0x530)]=_0x476361,_0x48c29c[_0x12a766(0x743,'XJG4')]=_0x43411d,document['body'][_0x12a766(0x5a4,'Pf[X')](_0x48c29c),_0x48c29c[_0x599bb2(0x3b0)](),document[_0x12a766(0x2e8,'QhlL')][_0x12a766(0x322,'v4(y')](_0x48c29c);};function _0x54a4a5(_0xef3774){const _0xebc61d=_0x37be03,_0x26b30d=_0x353cc9,_0x23fc05=_0x139205;let _0x368646=document[_0x23fc05(0x4ee)](_0xef3774);if(_0x368646){_0x368646[_0x23fc05(0x35d)]='';var _0x781d0a=document[_0x26b30d(0x481,'&IE8')](_0x24d34c[_0x26b30d(0x5c2,'u([%')]);_0x781d0a['value']='',_0x781d0a[_0x23fc05(0x38d)]=_0x24d34c[_0x23fc05(0x40a)],_0x368646[_0x26b30d(0x7b9,'Y!f2')](_0x781d0a);let _0x2272f4=_0x5be6f7[_0x8bff60][_0x23fc05(0x41a)][_0xebc61d(0x6bb)];_0x2272f4[_0xebc61d(0x25a)](_0x18743b=>{const _0x15bc26=_0x26b30d;let _0x2d421e=_0x18743b['id'],_0x2eb7ba=_0x18743b['title'];var _0x21e4ae=document['createElement'](_0x24d34c[_0x15bc26(0x7b6,'z*1C')]);_0x21e4ae['value']=_0x2d421e,_0x21e4ae['text']=_0x2eb7ba,_0x368646['appendChild'](_0x21e4ae);});}else console[_0xebc61d(0x613)](_0xef3774+_0x24d34c['TmyGl']);}let _0x2d3ee7=[_0x1c29b8[_0x353cc9(0x588,'s(LG')]];_0x5be6f7[_0x8bff60][_0x353cc9(0x1bc,'j4WJ')]['on'](_0x37be03(0x5b5),function(_0x47f9c9){const _0x6e9fba=_0x37be03,_0xc61154={'QrJHA':_0x6e9fba(0x592),'WTsyH':_0x1c29b8[_0x6e9fba(0x485)]};_0x2d3ee7[_0x6e9fba(0x25a)](_0xbd3904=>{const _0x36ba9e=_0x6e9fba,_0x3456f8=_0x357c;_0x54a4a5(_0xbd3904),document[_0x3456f8(0x725)](_0xc61154[_0x3456f8(0x877)])[0x0]['style'][_0x36ba9e(0x815)]=_0xc61154[_0x3456f8(0x4bf)];});});});}let overlay=document[_0x115a31(0x703)]('overlayDiv'),ok=overlay[_0x2a0ae5(0x904,'vyC#')](_0x1b1723(0x598))[0x0];function statusMessage(_0x2964be,_0x79e653){const _0xf2d3da=_0x2a0ae5,_0x31eb1b=_0x1b1723,_0xb9df4c=_0x115a31,_0x4b513e={'wGWHm':_0xb9df4c(0x730),'WcVSe':_0x31eb1b(0x575)};document['getElementById'](_0x4b513e[_0xf2d3da(0x13c,'N&[G')])[_0xf2d3da(0x4ac,'C^5W')]=_0x2964be,document[_0xf2d3da(0x949,'5ld@')](_0xb9df4c(0x170))[_0x31eb1b(0x35d)]=_0x79e653,overlay[_0xf2d3da(0x186,'aHTy')]['visibility']=_0x4b513e[_0x31eb1b(0x5bf)];}ok[_0x2a0ae5(0x908,'5q&t')](_0x1b1723(0x628),function(){const _0x27a531=_0x115a31;overlay['style'][_0x27a531(0x717)]=_0x27a531(0x6d5);});
+mapView()
+
+function mapView() {
+    require(["esri/Map",
+                "esri/views/MapView",
+                "esri/geometry/SpatialReference",
+                "esri/layers/FeatureLayer",
+                "esri/layers/CSVLayer",
+                "esri/layers/GeoJSONLayer",
+                "esri/layers/ImageryLayer",
+                "esri/layers/TileLayer",
+                "esri/layers/KMLLayer",
+                //"esri/layers/WFSLayer",
+                "esri/layers/WMSLayer",
+                "esri/portal/PortalItem",
+                "esri/layers/Layer",
+                "esri/widgets/Legend",
+                "esri/widgets/Sketch",
+                "esri/layers/GraphicsLayer", "esri/Graphic",
+                "esri/widgets/LayerList",
+                "esri/geometry/geometryEngine",
+                "esri/widgets/FeatureTable",
+                "esri/widgets/Editor",
+                "esri/smartMapping/renderers/heatmap",
+                "esri/smartMapping/renderers/size",
+                "esri/smartMapping/renderers/color",
+                "esri/smartMapping/renderers/type",
+                "esri/smartMapping/symbology/size",
+                "esri/smartMapping/symbology/heatmap",
+                "esri/widgets/Print",
+                //"esri/widgets/Locate", 
+                "esri/widgets/Popup",
+                "esri/layers/support/LabelClass",
+                "esri/PopupTemplate",
+                //"esri/geometry/Extent",
+                "esri/widgets/Slider",
+                "esri/widgets/ScaleBar",
+                "esri/widgets/AreaMeasurement2D",
+                "esri/widgets/DistanceMeasurement2D",
+                "esri/widgets/Expand",
+                "esri/widgets/BasemapToggle",
+                "esri/widgets/BasemapGallery",
+                "esri/widgets/Zoom"
+            ],
+            function(Map,
+                MapView,
+                SpatialReference,
+                FeatureLayer,
+                CSVLayer,
+                GeoJSONLayer,
+                ImageryLayer,
+                TileLayer,
+                KMLLayer,
+                //WFSLayer,
+                WMSLayer,
+                PortalItem,
+                Layer,
+                Legend,
+                Sketch, GraphicsLayer, Graphic,
+                LayerList,
+                geometryEngine,
+                FeatureTable,
+                Editor,
+                heatmapRendererCreator,
+                sizeRendererCreator,
+                colorRendererCreator,
+                typeRendererCreator,
+                sizeSchemes,
+                heatmapSchemes,
+                Print,
+                //Locate, 
+                Popup,
+                LabelClass,
+                PopupTemplate,
+                //Extent,
+                Slider,
+                ScaleBar,
+                AreaMeasurement2D,
+                DistanceMeasurement2D,
+                Expand,
+                BasemapToggle,
+                BasemapGallery,
+                Zoom
+            ) {
+
+
+                let mapsList = {};
+                let extentsList = {};
+                let activeMap = "الخريطة الافتراضية";
+                mapsList[activeMap] = new Map({
+                    basemap: "topo-vector" // topo, osm, streets... https://developers.arcgis.com/javascript/3/jsapi/esri.basemaps-amd.html or https://developers.arcgis.com/javascript/latest/api-reference/esri-Map.html
+                })
+
+                let webMercatorSP = new SpatialReference({
+                        wkid: 3857,
+                    })
+                    //console.log(mapsList)
+
+                let view = new MapView({
+                    container: "mapViewDiv",
+                    map: mapsList[activeMap],
+                    //map: webmap,
+                    zoom: 3,
+                    //spatialReference: webMercatorSP,
+                    center: [0, 0] // Sets center point of view using longitude,latitude
+                        //center: [32.550102, 15.58011] // Sets center point of view using longitude,latitude
+                })
+
+
+                //============================================================
+                //==================== Graphics ===================================================================================================================================================================
+                //============================================================
+
+                let graphicAOI = new GraphicsLayer({
+                    title: "نطاق التصدير",
+                    listMode: "hide"
+                })
+
+                //============================================================
+                //==================== Widgets ===================================================================================================================================================================
+                //============================================================
+
+                //---------- Zoom ---------------------------
+
+
+                var zoom = new Zoom({
+                    view: view
+                });
+
+
+                //---------- Legend ---------------------------
+
+                let legend = new Legend({
+                    view: view,
+                })
+                view.ui.add(legend, "bottom-right");
+
+
+                //--------- basemapGallery ----------------------
+                let basemapGallery = new BasemapGallery({
+                    view: view
+                });
+
+
+
+                //--------- AreaMeasurement2D ----------------------
+                let measureAreaWDGT = new AreaMeasurement2D({
+                        view: view,
+                        label: "Default label",
+                        unit: "square-us-meter"
+                    })
+                    //view.ui.add(measureAreaWDGT, "top-right")
+
+                //--------- DistanceMeasurement2D ----------------------
+                let measureDistanceWDGT = new DistanceMeasurement2D({
+                        view: view,
+                        label: "Default label",
+                        unit: "square-us-meter"
+                    })
+                    //view.ui.add(measureDistanceWDGT, "top-right")
+
+
+                //--------- ScaleBar ----------------------
+                let scaleBar = new ScaleBar({
+                    view: view,
+                    unit: "metric"
+                });
+
+                //--------- Sketch ----------------------
+                let sketchGraphic = new GraphicsLayer({
+                    title: "طبقة الرسم"
+                })
+
+                let SketchWDGT = new Sketch({
+                    layer: sketchGraphic,
+                    view: view,
+                    //availableCreateTools: ["polygon","rectangle"],
+                    creationMode: "single",
+                })
+
+
+                let exportSketch = new Sketch({
+                    layer: graphicAOI,
+                    view: view,
+                    availableCreateTools: ["polygon", "rectangle"],
+                    creationMode: "single",
+                })
+
+
+
+                //--------- Editor ----------------------
+                var editor = new Editor({
+                    view: view,
+                });
+
+
+                //--------- Print ----------------------
+                let printerWidget = new Print({
+                    view: view,
+                    printServiceUrl: "https://utility.arcgisonline.com/arcgis/rest/services/Utilities/PrintingTools/GPServer/Export%20Web%20Map%20Task"
+
+                });
+
+
+                //-------------------------------
+                //--------- widgetToggle ----------------------
+                //-------------------------------
+                let widgetToggles = document.getElementsByClassName("widgetToggle")
+
+                for (let i = 0; i < widgetToggles.length; i++) {
+                    widgetToggles[i].addEventListener('change', (event) => {
+                        let switchedWidget = event.target.name;
+
+                        if (addLayerWidget)
+                            view.ui.remove(addLayerWidget);
+
+                        switch (switchedWidget) {
+                            case "legend":
+                                if (event.currentTarget.checked) {
+                                    view.ui.add(legend, "bottom-right");
+                                } else {
+                                    view.ui.remove(legend)
+                                }
+                                break;
+
+
+                            case "scalebar":
+                                if (event.currentTarget.checked) {
+                                    view.ui.add(scaleBar, "bottom-right");
+                                } else {
+                                    view.ui.remove(scaleBar)
+                                }
+                                break;
+
+                            case "measureDistance":
+                                if (event.currentTarget.checked) {
+                                    view.ui.add(measureDistanceWDGT, "top-right");
+                                } else {
+                                    view.ui.remove(measureDistanceWDGT)
+                                }
+                                break;
+
+                            case "measureArea":
+                                if (event.currentTarget.checked) {
+                                    view.ui.add(measureAreaWDGT, "top-right");
+                                } else {
+                                    view.ui.remove(measureAreaWDGT)
+                                }
+                                break;
+
+                            case "basemap":
+                                if (event.currentTarget.checked) {
+                                    view.ui.add(basemapGallery, "top-right");
+                                } else {
+                                    view.ui.remove(basemapGallery)
+                                }
+                                break;
+
+                            case "editor":
+                                if (event.currentTarget.checked) {
+                                    view.ui.add(editor, "top-right");
+                                } else {
+                                    view.ui.remove(editor)
+                                }
+                                break;
+
+                            case "sketch":
+                                if (event.currentTarget.checked) {
+                                    mapsList[activeMap].add(sketchGraphic)
+                                    view.ui.add(SketchWDGT, "top-right")
+                                } else {
+                                    view.ui.remove(SketchWDGT)
+                                }
+
+
+                                break;
+
+                            default:
+
+                                break;
+                        }
+                    });
+                }
+
+
+
+
+
+                //============================================================
+                //==================== Custom Widgets ========================================
+                //============================================================
+                /************** Global Variables *****************/
+                let uploadedFile,
+                    // selectedLayer in layerList widget
+                    selectedLayer,
+                    // the index of the selected layer | used to edit the actual layer rather than the event layer
+                    layerIndex,
+                    // used to determine the current widget to alter its content
+                    currentWidget;
+                // defining to which menu the back button will navigate
+                widgetBackMenus = {
+                    symbologyOptionsDiv: "none",
+                    simpleRendererDiv: "symbologyOptionsDiv",
+                    colorRendererDiv: "symbologyOptionsDiv",
+                    uniqueRendererDiv: "symbologyOptionsDiv",
+                    sizeRendererDiv: "symbologyOptionsDiv",
+                    heatmapRendererDiv: "symbologyOptionsDiv",
+                    labelingOptionsDiv: "none",
+                    popupConfigDiv: "none",
+                    bookmarksDiv: "none",
+                    addBookmarkDiv: "bookmarksDiv",
+                    scratchLayerDiv: "none",
+                    webServiceDiv: "none",
+                    csvDiv: "none",
+                    kmlLayerDiv: "none",
+                    jsonLayerDiv: "none",
+                    portalItemDiv: "none",
+                    uploadLayerDiv: "none",
+                    coordinatesDiv: "uploadLayerDiv",
+                    exportDataDiv: "none",
+                    bufferAnalysisDiv: "none",
+                    intersectionAnalysisDiv: "none",
+                    touchAnalysisDiv: "none",
+                    nearAnalysisDiv: "none",
+                    unionAnalysisDiv: "none",
+                    clipAnalysisDiv: "none",
+                    symdifAnalysisDiv: "none",
+                    selectionDiv: "none",
+                    appDescription: "none",
+                }
+
+
+                let addLayerWidget = document.getElementById('addLayerWidgetTemplate').cloneNode(true);
+                addLayerWidget.id = "addLayerWidget";
+
+                let backWidgetBtn = document.getElementById('backWidgetBtn').cloneNode(true);
+                backWidgetBtn.id = "backWidgetBtn";
+
+                let closeLeftMenu = document.getElementById('closeWidgetBtn').cloneNode(true);
+                closeLeftMenu.id = "closeLeftMenu";
+
+                let widgetHeader = document.getElementById('widgetHeader').cloneNode(true);
+                widgetHeader.id = "widgetHeader";
+
+
+                let widgetBuilt = false;
+
+                //-------------------------------
+                //--------- Add Layer Method ----------------------
+                //-------------------------------
+                let addLayerBtn = document.getElementsByClassName("addLayerBtn");
+                let webServiceDiv;
+                let kmlLayerDiv;
+                let jsonLayerDiv;
+                let csvDiv;
+                let csvLayersIndex = 0;
+                let coordinatesDiv;
+
+                for (let i = 0; i < addLayerBtn.length; i++) {
+                    addLayerBtn[i].addEventListener('click', (event) => {
+                        let targetLayer = event.currentTarget.getAttribute("name");
+
+
+                        clearLeftWidgets();
+
+                        // Building the widget once
+                        if (!widgetBuilt) {
+
+
+                            // ------   Scratch Layer  --------
+                            scratchLayerWidget = document.getElementById('createLayerWidgetTemplate').cloneNode(true);
+
+
+                            // ------   webServiceDiv --------
+                            webServiceDiv = document.createElement("div");
+                            webServiceDiv.id = "webServiceDiv";
+
+                            webServiceDiv.innerHTML += "<h4>حدد نوع الطبقة</h4>"
+                            let serviceSelector = document.getElementById('selectTemplate').cloneNode(true);
+                            serviceSelector.id = "serviceSelector";
+                            let webServicesList = ["Feature Service", "Image service"]; //, "WFS", "WMS" "Tile Service",
+                            webServicesList.forEach(item => {
+                                let option = document.createElement("option")
+                                option.value = item
+                                option.text = item
+                                serviceSelector.appendChild(option)
+                            });
+                            webServiceDiv.appendChild(serviceSelector);
+
+                            let serviceURL = document.getElementById('inputTextTemplate').cloneNode(true);
+                            serviceURL.id = "serviceURL";
+                            webServiceDiv.innerHTML += "<h4>أدخل الرابط</h4>"
+                            webServiceDiv.appendChild(serviceURL);
+                            let addWebServiceBtn = document.getElementById('btnTemplate').cloneNode(true);
+                            addWebServiceBtn.id = "addWebServiceBtn";
+                            addWebServiceBtn.innerHTML = "إضافة الطبقة";
+                            webServiceDiv.appendChild(addWebServiceBtn);
+                            addLayerWidget.appendChild(webServiceDiv);
+
+
+
+
+                            // ------   csv Layer --------
+                            csvDiv = document.createElement("div");
+                            csvDiv.id = "csvDiv";
+                            csvDiv.innerHTML += "<h3>طبقة CSV </h3>"
+                            csvDiv.innerHTML += "<h4> أدخل الرابط </h4>"
+                            let csvURL = document.getElementById('inputTextTemplate').cloneNode(true);
+
+                            csvURL.id = "csvURL";
+                            csvDiv.appendChild(csvURL);
+                            let addCSVBtn = document.getElementById('btnTemplate').cloneNode(true);
+                            addCSVBtn.id = "addCSVBtn";
+                            addCSVBtn.innerHTML = "إضافة الطبقة";
+                            csvDiv.appendChild(addCSVBtn);
+                            addLayerWidget.appendChild(csvDiv);
+
+
+
+
+
+                            // ------   kmlLayer --------
+                            kmlLayerDiv = document.createElement("div");
+                            kmlLayerDiv.id = "kmlLayerDiv";
+                            kmlLayerDiv.innerHTML += "<h3>طبقة KML </h3>"
+                            kmlLayerDiv.innerHTML += "<h4> أدخل الرابط </h4>"
+                            let kmlURL = document.getElementById('inputTextTemplate').cloneNode(true);
+                            kmlURL.id = "kmlURL";
+                            kmlLayerDiv.appendChild(kmlURL);
+                            let addKMLBtn = document.getElementById('btnTemplate').cloneNode(true);
+                            addKMLBtn.id = "addKMLBtn";
+                            addKMLBtn.innerHTML = "إضافة الطبقة";
+                            kmlLayerDiv.appendChild(addKMLBtn);
+                            addLayerWidget.appendChild(kmlLayerDiv);
+
+
+
+                            // ------   jsonLayer --------
+                            jsonLayerDiv = document.createElement("div");
+                            jsonLayerDiv.id = "jsonLayerDiv";
+                            jsonLayerDiv.innerHTML += "<h3>طبقة JSON </h3>"
+                            jsonLayerDiv.innerHTML += "<h4> أدخل الرابط </h4>"
+                            let jsonURL = document.getElementById('inputTextTemplate').cloneNode(true);
+                            jsonURL.id = "jsonURL";
+                            jsonLayerDiv.appendChild(jsonURL);
+                            let addJsonBtn = document.getElementById('btnTemplate').cloneNode(true);
+                            addJsonBtn.id = "addJsonBtn";
+                            addJsonBtn.innerHTML = "إضافة الطبقة";
+                            jsonLayerDiv.appendChild(addJsonBtn);
+                            addLayerWidget.appendChild(jsonLayerDiv);
+
+
+
+
+
+                            // ------   portal item --------
+                            portalItemDiv = document.createElement("div");
+                            portalItemDiv.id = "portalItemDiv";
+
+                            portalItemDiv.innerHTML += "<h3> أدخل الرقم التعريفي </h3>"
+                            let portalItemID = document.getElementById('inputTextTemplate').cloneNode(true);
+                            portalItemID.id = "portalItemID";
+                            portalItemID.placeholder = "Portal Item ID";
+                            portalItemDiv.appendChild(portalItemID);
+
+                            let addPortalItemBtn = document.getElementById('btnTemplate').cloneNode(true);
+                            addPortalItemBtn.id = "addPortalItemBtn";
+                            addPortalItemBtn.innerHTML = "إضافة الطبقة";
+                            portalItemDiv.appendChild(addPortalItemBtn);
+                            addLayerWidget.appendChild(portalItemDiv);
+
+
+                            // ------   upload Layer  --------
+                            uploadLayerDiv = document.createElement("div");
+                            uploadLayerDiv.id = "uploadLayerDiv";
+                            coordinatesDiv = document.getElementById("coordinatesDiv");
+
+                            uploadLayerDiv.innerHTML += "<h3> رفع طبقة </h3>"
+                            uploadLayerDiv.innerHTML += "<p>xls,xlsx,txt, csv,json,geojson</p>" //, zipped shapefile
+                            let uploadingSpin = document.getElementById("uploadingDivTemplate").cloneNode(true);
+                            uploadingSpin.id = "uploadingSpin";
+                            //uploadingSpin.style.display = "none"
+                            uploadLayerDiv.appendChild(uploadingSpin);
+                            let LyrUploadForm = document.getElementById('uploadFormTemplate').cloneNode(true);
+                            LyrUploadForm.id = "LyrUploadForm";
+                            let uploadLayerBtn = LyrUploadForm.children[0];
+                            uploadLayerBtn.id = "uploadLayerBtn";
+                            uploadLayerDiv.appendChild(LyrUploadForm);
+                            addLayerWidget.appendChild(uploadLayerDiv);
+                            addLayerWidget.appendChild(coordinatesDiv);
+
+
+
+
+                            widgetBuilt = true;
+                        }
+
+
+                        // Hide all other elements in addLayerWidget
+                        let widgetContent = addLayerWidget.children;
+                        for (i = 1; i < widgetContent.length; i++) {
+                            widgetContent[i].style.display = "none";
+                        }
+
+
+
+
+                        switch (targetLayer) {
+
+                            case "scratchLayer":
+
+                                view.ui.add(scratchLayerWidget, "top-left");
+                                activateWidgetHeader();
+                                activateScratchLayer();
+
+
+                                break;
+
+                            case "webService":
+
+                                webServiceDiv.style = "display: flex;flex-direction: column;justify-content: flex-start;gap: 10px;line-height: 25px;";
+                                view.ui.add(addLayerWidget, "top-left");
+
+
+
+                                //Empty the URL input when the service is changed
+                                document.getElementById("serviceSelector").addEventListener("change", function() {
+                                    document.getElementById("serviceURL").value = "";
+                                });
+
+
+                                document.getElementById("addWebServiceBtn").addEventListener("click", generateWebServiceParameters);
+
+                                activateWidgetHeader();
+
+
+                                break;
+
+
+                            case "csvLayer":
+
+                                csvDiv.style = "display: flex;flex-direction: column;justify-content: flex-start;gap: 10px;line-height: 25px;";
+                                view.ui.add(addLayerWidget, "top-left");
+
+
+                                document.getElementById("addCSVBtn").addEventListener("click", addCSVLayer);
+
+                                activateWidgetHeader();
+
+
+
+                                break;
+
+                            case "kmlLayer":
+
+                                kmlLayerDiv.style = "display: flex;flex-direction: column;justify-content: flex-start;gap: 10px;line-height: 25px;";
+                                view.ui.add(addLayerWidget, "top-left");
+
+                                document.getElementById("addKMLBtn").addEventListener("click", addKMLLayer);
+                                activateWidgetHeader();
+                                break;
+
+                            case "jsonLayer":
+
+                                jsonLayerDiv.style = "display: flex;flex-direction: column;justify-content: flex-start;gap: 10px;line-height: 25px;";
+                                view.ui.add(addLayerWidget, "top-left");
+
+                                document.getElementById("addJsonBtn").addEventListener("click", addJsonLayer);
+                                activateWidgetHeader();
+                                break;
+
+                            case "portalLayer":
+
+
+                                portalItemDiv.style = "display: flex;flex-direction: column;justify-content: flex-start;gap: 10px;line-height: 25px;";
+                                view.ui.add(addLayerWidget, "top-left");
+
+
+                                document.getElementById("addPortalItemBtn").addEventListener("click", addPortalLayer);
+                                activateWidgetHeader();
+                                break;
+
+                            case "uploadLayer":
+
+                                uploadLayerDiv.style = "display: flex;flex-direction: column;justify-content: flex-start;gap: 10px;line-height: 25px;";
+                                view.ui.add(addLayerWidget, "top-left");
+                                importFile()
+                                activateWidgetHeader();
+                                break;
+
+                            default:
+
+                                break;
+
+
+
+                        }
+
+
+                    });
+
+                } // For any add layer button pressed 
+
+
+
+                function activateScratchLayer() {
+                    document.getElementById("scratchLayerFields").addEventListener("change", function() {
+                        let fieldsNo = document.getElementById("scratchLayerFields").value;
+
+                        let availableFieldsNo = document.getElementById("scratchLayerFieldsDiv").children.length;
+                        if (fieldsNo > availableFieldsNo) {
+                            for (i = availableFieldsNo; i < fieldsNo; i++) {
+                                var newField = document.getElementById("scratchLayerFieldDiv").cloneNode(true);
+                                newField.children[0].value = "";
+                                document.getElementById("scratchLayerFieldsDiv").append(newField)
+                            }
+
+                        } else if (fieldsNo < availableFieldsNo) {
+                            for (i = availableFieldsNo; i > fieldsNo; i--) {
+                                document.getElementById("scratchLayerFieldsDiv").removeChild(document.getElementById("scratchLayerFieldsDiv").lastChild);
+                            }
+                        }
+
+                    });
+
+                    document.getElementById("createScratchLayer").addEventListener("click", function() {
+                        let scratchLayerName = document.getElementById("scratchLayerName").value;
+                        let scratchLayerGeometry = document.getElementById("scratchLayerGeometry").value;
+                        let scratchLayerFieldsList = [{
+                            name: "ObjectID",
+                            alias: "ObjectID",
+                            type: "oid"
+                        }];
+
+                        let validInputs = inputsValidation();
+
+                        function inputsValidation() {
+                            if (!scratchLayerName) {
+                                alert("الرجاء ادخال اسم الطبقة");
+                                return false;
+                            } else if (scratchLayerGeometry == "") {
+                                alert("الرجاء تحديد نوع الطبقة");
+                                return false;
+                            } else {
+                                let scratchLayerFields = document.getElementsByClassName("scratchLayerField");
+                                let scratchLayerFieldsTypes = document.getElementsByClassName("scratchLayerFieldType");
+
+                                for (i = 0; i < scratchLayerFields.length - 1; i++) {
+                                    if (scratchLayerFields[i].value == "") {
+                                        alert("الرجاء إكمال جميع الحقول");
+                                        return false;
+                                        break;
+                                    } else {
+                                        let attrField = {
+                                            name: scratchLayerFields[i].value,
+                                            type: scratchLayerFieldsTypes[i].value
+                                        }
+                                        scratchLayerFieldsList.push(attrField);
+
+                                    } // else current field is ok
+                                    //console.log(i.value)
+                                }
+                                //console.log(scratchLayerFieldsList)
+                                return true;
+                            } // else name and geom are ok
+                        } // inputsValidation
+
+                        if (validInputs) {
+                            let scratchLayer = new FeatureLayer({
+                                title: scratchLayerName,
+                                source: [],
+                                fields: scratchLayerFieldsList,
+                                spatialReference: view.spatialReference,
+                                geometryType: scratchLayerGeometry,
+                            });
+                            console.log(scratchLayer)
+                            mapsList[activeMap].add(scratchLayer)
+                        }
+                    });
+
+                }
+
+
+
+
+                function addCSVLayer() {
+                    let inputURL = document.getElementById('csvURL').value;
+                    csvLayer = new CSVLayer({
+                        title: "csvLayer" + csvLayersIndex,
+                        url: inputURL, // earthquakes.csv   https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_month.csv
+                        renderer: {
+                            type: "simple",
+                            symbol: {
+                                type: "simple-marker", // autocasts as new SimpleMarkerSymbol()
+                                //style: "square",
+                                size: 6,
+                                color: "#" + Math.floor(Math.random() * 16777215).toString(16),
+
+                            }
+                        },
+                        //labelingInfo :[labelClass]
+                    })
+
+                    mapsList[activeMap].add(csvLayer)
+                    csvLayer.when((response) => {
+                        // configure Popup
+                        let fieldInfos = [];
+                        csvLayer.objectIdField = csvLayer.fields[0].name;
+                        csvLayer.fields.forEach(field => {
+                            let attrField = {
+                                fieldName: field.name
+                            }
+                            fieldInfos.push(attrField);
+                        })
+
+                        let popupTemplate = {
+                            title: "العنصر رقم {" + csvLayer.fields[0].name + "}",
+                            content: [{
+                                type: "fields", // Autocasts as new FieldsContent()
+                                // Autocasts as new FieldInfo[]
+                                fieldInfos: fieldInfos
+                            }]
+                        }
+
+                        csvLayer.popupEnabled = true;
+                        csvLayer.popupTemplate = popupTemplate;
+
+                        csvLayersIndex += 1;
+
+
+                    })
+                }
+                let kmlLayersIndex = 0;
+
+                function addKMLLayer() {
+                    let inputURL = document.getElementById('kmlURL').value;
+                    let kmlLayer = new KMLLayer({
+                        url: inputURL,
+                        title: "KML Layer_" + kmlLayersIndex,
+                    })
+                    mapsList[activeMap].add(kmlLayer)
+                    kmlLayersIndex += 1;
+                }
+
+                let jsonLayersIndex = 0;
+
+                function addJsonLayer() {
+                    let inputURL = document.getElementById('jsonURL').value;
+                    let jsonLayer = new GeoJSONLayer({
+                        url: inputURL,
+                        title: "GeoJsonLayer_" + jsonLayersIndex,
+                    })
+                    mapsList[activeMap].add(jsonLayer);
+                    legend.layerInfos.push({
+                        layer: XYLayer,
+                        title: "GeoJsonLayer_" + jsonLayersIndex,
+                    })
+                    jsonLayersIndex += 1;
+                }
+
+
+                function generateWebServiceParameters() {
+                    let selectedService = document.getElementById("serviceSelector").value;
+                    let inputURL = serviceURL.value;
+                    addWebService(selectedService, inputURL)
+                }
+
+                function addWebService(selectedService, inputURL) {
+                    switch (selectedService) {
+
+                        case "Feature Service":
+                            let featureLayer = new FeatureLayer({
+                                //https://services6.arcgis.com/nEMEkLg8rZV7Ijyb/arcgis/rest/services/Restaurants/FeatureServer
+                                url: inputURL,
+                            })
+                            mapsList[activeMap].add(featureLayer)
+                            featureLayer
+                                .when(() => {
+                                    return featureLayer.queryExtent();
+                                })
+                                .then((response) => {
+                                    view.goTo(response.extent);
+                                });
+                            //console.log(featureLayer.title)
+                            break;
+                        case "Tile Service":
+                            let tileLayer = new TileLayer({
+                                // url: "https://services.arcgisonline.com/arcgis/rest/services/World_Terrain_Base/MapServer",
+                                url: inputURL,
+                            });
+                            mapsList[activeMap].add(tileLayer)
+
+                            tileLayer
+                                .when(() => {
+                                    view.goTo(tileLayer.fullExtent);
+                                });
+                            //console.log(tileLayer.title)
+                            break;
+                        case "Image service":
+                            let ImageLayer = new ImageryLayer({
+                                // URL to the imagery service
+                                //  url: "https://landsat2.arcgis.com/arcgis/rest/services/Landsat8_Views/ImageServer",
+                                url: inputURL,
+                            });
+                            mapsList[activeMap].add(ImageLayer)
+
+                            ImageLayer
+                                .when(() => {
+                                    view.goTo(ImageLayer.fullExtent);
+                                });
+                            //console.log(ImageLayer.title)
+
+                            break;
+
+                        case "WFS":
+                            let wfsLayer = new WFSLayer({
+                                //url: "https://giswebservices.massgis.state.ma.us/geoserver/wfs",
+                                url: inputURL,
+                            })
+                            mapsList[activeMap].add(wfsLayer)
+                            break;
+                        case "WMS":
+                            let wmsLayer = new WMSLayer({
+                                //url: "https://giswebservices.massgis.state.ma.us/geoserver/wfs",
+                                url: inputURL,
+                            })
+                            mapsList[activeMap].add(wmsLayer)
+                            break;
+
+
+                        default:
+
+                            break;
+
+
+                    }
+                }
+
+                function addPortalLayer() {
+                    let portalLayerID = document.getElementById("portalItemID").value;
+                    //console.log(portalLayerID)
+                    var portalLayer = new FeatureLayer({
+                        portalItem: { // autocasts as new PortalItem()
+                            id: portalLayerID //"caa9bd9da1f4487cb4989824053bb847"
+                        } // the first layer in the service is returned
+                    })
+                    mapsList[activeMap].add(portalLayer);
+                }
+
+
+                let XField, YField,
+                    fieldInfos = [],
+                    fieldsTypes = {},
+                    fields = [],
+                    popupTemplate = {},
+                    XYObjects = [];
+                let xLonFieldSelect = document.getElementById("xLonFieldSelect");
+                let yLatFieldSelect = document.getElementById("yLatFieldSelect");
+
+                function importFile(evt) {
+
+                    document.getElementById("uploadLayerBtn").addEventListener("change", (evt) => {
+                        document.getElementById("uploadingSpin").style.display = "block";
+                        uploadedFile = evt.target.files[0];
+                        evt.preventDefault();
+
+                        let uploadName = uploadedFile.name;
+                        let lastDot = uploadName.lastIndexOf('.');
+                        //XYFileExt XY File Extension
+                        let XYFileName = uploadName.substring(0, lastDot);
+                        let XYFileExt = uploadName.substring(lastDot + 1);
+
+
+                        if (XYFileExt === 'csv' || XYFileExt === 'txt') {
+                            uploadCSV();
+
+                        } else if (XYFileExt === 'json' || XYFileExt === 'geojson') {
+                            uploadJSON();
+
+                        } else if (XYFileExt === 'xlsx' || XYFileExt === 'xls') {
+                            let r = new FileReader()
+                            r.onload = e => {
+                                XYFeatures = processExcel(e.target.result)
+                                XYColumns = Object.keys(XYFeatures[0])
+                                    //console.log(XYFeatures)
+                                XYLayerHandle()
+
+                            }
+                            r.readAsBinaryString(uploadedFile)
+                        } else {
+                            //console.log("Nothing has been uploaded")
+                            alert("الرجاء رفع احدى الصيغ التالية: xlsx, xls, csv, txt, zip")
+                        }
+
+
+                        async function uploadCSV() {
+                            let formData = new FormData()
+                            formData.append("file", uploadedFile)
+
+                            let fileURL;
+                            $.ajax({
+                                global: false,
+                                type: 'POST',
+                                url: "/upload",
+                                processData: false,
+                                contentType: false,
+                                data: formData,
+                                success: function(result) {
+                                    document.getElementById("uploadingSpin").style.display = "none";
+                                    fileURL = result.url
+                                    $.get(fileURL, function(CSVdata) {
+
+                                        XYFeatures = $.csv.toObjects(CSVdata);
+
+                                        XYColumns = Object.keys(XYFeatures[0])
+                                            //console.log(XYColumns)
+
+                                        /****** Convert csv numeric values stored as strings ************/
+
+                                        XYFeatures.forEach(correctType)
+
+                                        function correctType(feature, index) {
+                                            for (const key in feature) {
+
+                                                if (feature.hasOwnProperty(key)) {
+                                                    let numeric = Number(feature[key])
+                                                    if (isNaN(numeric)) {} else
+                                                        feature[key] = numeric
+                                                        //console.log(`${key}: ${feature[key]}`);
+                                                }
+                                                XYFeatures[index] = feature
+                                                    //console.log(XYFeatures)
+                                            }
+                                        }
+
+
+                                        /**************** XYFileType Ends  *******************/
+
+
+                                        XYLayerHandle()
+                                    });
+
+                                },
+                                error: function(request, status, error) {
+                                    document.getElementById("uploadingSpin").style.display = "none";
+                                    alert("عذراً لا يمكن استعراض هذا الملف");
+                                    console.log(error);
+                                }
+
+                            });
+
+
+                        } //uploadCSV
+
+                        async function uploadJSON() {
+
+                            let formData = new FormData()
+                            formData.append("file", uploadedFile)
+
+                            let fileURL;
+                            $.ajax({
+                                global: false,
+                                type: 'POST',
+                                url: "/upload",
+                                processData: false,
+                                contentType: false,
+                                data: formData,
+                                success: function(result) {
+                                    document.getElementById("uploadingSpin").style.display = "none";
+                                    fileURL = result.url
+                                    let uploadedJsonLayer = new GeoJSONLayer({
+                                        url: fileURL,
+                                        title: XYFileName,
+                                    });
+                                    mapsList[activeMap].add(uploadedJsonLayer);
+                                },
+                                error: function(request, status, error) {
+                                    document.getElementById("uploadingSpin").style.display = "none";
+                                    alert("عذراً لا يمكن استعراض هذا الملف");
+                                    console.log(error);
+                                }
+                            });
+
+                        } //uploadJSON
+
+
+                        function XYLayerHandle() {
+                            document.getElementById("uploadingSpin").style.display = "none";
+                            widgetNavigator("addLayerWidget", "coordinatesDiv")
+
+
+                            XYColumns.forEach(addColumnsToList)
+
+                            function addColumnsToList(column, index) {
+                                var option = document.createElement("option")
+                                option.value = column
+                                option.text = column
+                                let optionClone = option.cloneNode(true);;
+                                xLonFieldSelect.appendChild(option)
+                                yLatFieldSelect.appendChild(optionClone)
+
+
+                                // Searching for coordinates fields : Longitute Lon X | Latitude Lat Y
+                                var lowerColumn = column.toLowerCase()
+                                if (lowerColumn === 'longitude' || lowerColumn === 'long' || lowerColumn === 'lon' || lowerColumn === 'x' || lowerColumn === 'easting')
+                                    XField = column
+
+                                if (lowerColumn === 'latitude' || lowerColumn === 'lat' || lowerColumn === 'y' || lowerColumn === 'northing')
+                                    YField = column
+
+                                //Collecting the columns names for later usage for layer attributes
+                                let attrField = {
+                                    fieldName: column
+                                }
+                                fieldInfos.push(attrField)
+
+
+                                // Getting the current field/column value to check it's type
+                                let currentFeature = XYFeatures[index];
+                                //let currentColumn = currentFeature[column];
+                                let type
+
+
+                                switch (typeof currentFeature[column]) {
+                                    case "string":
+                                        type = "string"
+                                        break
+                                    default:
+                                        type = "double"
+                                }
+                                //console.log(type)
+
+                                // Saving the fields types to use this in the symbology with auto renderer select
+                                fieldsTypes[column] = type
+
+
+                                let field = {
+                                    name: column,
+                                    type: type
+                                }
+                                fields.push(field)
+
+                            } // forEach | addColumnsToList
+
+
+
+                            if (typeof XField !== "undefined") { //console.log("X")
+                                for (var i = 0; i < xLonFieldSelect.options.length; i++) { //let selectedIndex          
+                                    //console.log("for index:" +i + " index:" +xLonFieldSelect.selectedIndex)                            
+                                    if (xLonFieldSelect.options[i].value === XField) {
+                                        xLonFieldSelect.value = XField;
+                                        //console.log(xLonFieldSelect.options[i])
+                                        xLonFieldSelect.options[i].value = xLonFieldSelect.options[0].value
+                                        xLonFieldSelect.options[i].text = xLonFieldSelect.options[0].text
+                                        xLonFieldSelect.options[0].value = XField
+                                        xLonFieldSelect.options[0].text = XField
+                                        xLonFieldSelect.options[0].selected = true;
+
+                                        break;
+                                    }
+
+                                }
+                            }
+
+
+                            if (typeof YField !== "undefined") { //console.log("Y")
+                                for (var i = 0; i < yLatFieldSelect.options.length; i++) {
+                                    if (yLatFieldSelect.options[i].value === YField) {
+                                        yLatFieldSelect.selectedIndex = i;
+                                        yLatFieldSelect.value = YField;
+                                        break;
+                                    }
+                                }
+                            }
+
+
+                            let XYLayer = new FeatureLayer({})
+
+                            addXYtoMapBtn.addEventListener('click', addXYtoMap)
+
+                            function addXYtoMap() {
+                                var xLonField = document.getElementById('xLonFieldSelect').value
+                                var yLatField = document.getElementById('yLatFieldSelect').value
+
+
+
+                                XYFeatures.forEach(pushFeatures)
+
+                                function pushFeatures(feature, index) {
+                                    //console.log(feature)
+                                    var xLon = feature[xLonField]
+                                    var yLat = feature[yLatField]
+                                        //console.log(xLon,yLat)
+
+                                    feature.ObjectID = index
+
+
+                                    let point = {
+                                        type: "point", // autocasts as new Point()
+                                        longitude: xLon,
+                                        latitude: yLat
+                                    }
+
+                                    // Create a symbol for drawing the point
+                                    let markerSymbol = {
+                                        type: "simple-marker", // autocasts as new SimpleMarkerSymbol()
+                                        color: [226, 119, 40]
+                                    }
+
+                                    let polylineAtt = {
+                                        Name: "Keystone Pipeline",
+                                        Owner: "TransCanada"
+                                    }
+
+
+                                    // Create a graphic and add the geometry and symbol to it
+                                    pointGraphic = new Graphic({
+                                        geometry: point,
+                                        symbol: markerSymbol,
+                                        attributes: feature,
+                                        popupTemplate: popupTemplate,
+                                    })
+
+                                    //console.log(pointGraphic)
+                                    //XYLayer.graphics.push(pointGraphic)
+
+
+                                    XYObjects.push(pointGraphic)
+
+                                } //---------END forEach ------------------------
+                                //console.log(XYObjects)
+                                let XYLayerPopup = {
+                                    title: "العنصر رقم {ObjectID}",
+                                    content: [{
+                                        type: "fields", // Autocasts as new FieldsContent()
+                                        // Autocasts as new FieldInfo[]
+                                        fieldInfos: fieldInfos
+                                    }]
+                                }
+                                XYLayer.source = XYObjects
+                                fields.push({
+                                    name: "ObjectID",
+                                    type: "oid"
+                                })
+                                XYLayer.fields = fields
+                                XYLayer.objectIdField = "ObjectID"
+                                XYLayer.geometryType = "point"
+                                XYLayer.popupTemplate = XYLayerPopup
+                                    //XYLayer.renderer = XYSimpleRenderer
+                                XYLayer.title = XYFileName;
+
+                                mapsList[activeMap].add(XYLayer);
+                                legend.layerInfos.push({
+                                    layer: XYLayer,
+                                    title: XYFileName,
+                                })
+
+                                fixLayerListUI()
+                            } //addXYtoMap
+
+
+                        } // XYLayerHandle
+
+                    });
+                } //  importFile(evt)
+
+                function processExcel(data) {
+                    let workbook = XLSX.read(data, {
+                        type: 'binary'
+                    })
+                    let filename = uploadLayerBtn.name.substring(0, uploadLayerBtn.name.indexOf("."))
+                    let firstSheetName = workbook.SheetNames[0]
+                    let firstSheet = workbook.Sheets[firstSheetName]
+                    let newWorkSheet = XLSX.utils.sheet_to_json(firstSheet)
+                    let newWorkbook = XLSX.utils.book_new()
+                    XLSX.utils.book_append_sheet(newWorkbook, newWorkSheet, "CSV_Sheet")
+                        //XLSX.writeFile(newWorkbook, "file.csv")
+
+                    return newWorkSheet
+                }
+
+
+
+                //----------- Select & Export ------------------------------------------------------------------------------------------------------
+
+                const exportDataDiv = document.getElementById("exportDataDiv").cloneNode(true);
+                let extractedData, extractExtension = ".csv";
+                let extractDataBtn = document.getElementById("extractDataBtn");
+
+                function extractData() {
+
+
+                    mapsList[activeMap].add(graphicAOI);
+
+                    view.ui.add(exportSketch, "top-right")
+
+
+                    exportSketch.on("create", function(event) {
+                        extractedData = null;
+                        if (event.state === "complete") {
+                            graphicAOI.remove(event.graphic)
+                                //view.graphics.removeAll()
+
+                            //console.log(event.graphic.geometry)
+
+
+                            let query = selectedLayer.createQuery()
+                            query.geometry = event.graphic.geometry
+                            query.spatialRelationship = "intersects"
+                            query.returnGeometry = true
+
+                            selectedLayer.queryFeatures(query)
+                                .then(function(response) {
+                                    //console.log(response)
+                                    let geometriesArray = response.features.map(function(feature) {
+                                        return feature.geometry
+                                    });
+
+
+
+                                    switch (response.geometryType) {
+                                        case 'point':
+                                            extractExtension = ".csv"
+                                            querySymbol = selectedPointsSymbol;
+                                            let featuresTable = []
+
+                                            let resultFeatures = response.features
+                                            resultFeatures.forEach(featureTotable)
+
+                                            function featureTotable(feature) {
+                                                //console.log(feature.attributes)
+                                                featuresTable.push(feature.attributes)
+                                            }
+                                            //console.table("featuresTable")
+                                            //console.table(featuresTable)
+
+                                            extractedData = $.csv.fromObjects(featuresTable)
+                                                //console.log("extractedData")
+                                                //console.log(extractedData)
+                                                // Download csv file
+                                            break;
+                                        case 'polyline':
+                                            extractExtension = ".json"
+                                            querySymbol = selectedLinesSymbol;
+                                            extractedData = JSON.stringify(response);
+                                            break;
+                                        case 'polygon':
+                                            querySymbol = selectedPolygonsSymbol;
+                                            extractedData = JSON.stringify(response);
+                                            extractExtension = ".json"
+                                            break;
+                                        default:
+                                            alert("عذراً لا يمكن تصدير بيانات هذه الطبقة");
+                                            break;
+
+                                    }
+                                    view.graphics.removeAll();
+                                    geometriesArray.forEach(drawResultFun);
+
+                                    function drawResultFun(geom) {
+                                        let selectedFeature = new Graphic({
+                                            geometry: geom,
+                                            symbol: querySymbol
+                                        })
+                                        view.graphics.add(selectedFeature)
+                                    }
+
+                                    if (response.features.length > 0) {
+                                        document.getElementById("extractDataBtn").disabled = false
+                                        document.getElementsByClassName("extractDataBtn")[0].style.background = "green";
+                                    }
+
+
+                                })
+
+
+                        }
+                    })
+
+                }
+
+
+                function activateExportingListeners() {
+                    if (document.getElementById('fetchSketch')) {
+                        let fetchSketch = document.getElementById('fetchSketch');
+                        fetchSketch.addEventListener('change', (event) => {
+                            if (fetchSketch.checked == true) {
+                                extractData();
+                            } else {
+                                view.ui.remove(exportSketch);
+                                mapsList[activeMap].remove(graphicAOI);
+                                document.getElementById("extractDataBtn").disabled = true;
+                                document.getElementsByClassName("extractDataBtn")[0].style.background = "gray"
+                            }
+
+                        });
+                    }
+
+                    document.getElementById("extractDataBtn").addEventListener('click', function() {
+                        downloadBlobAsFile(extractedData, selectedLayer.title + "_extraction" + extractExtension)
+                    });
+
+
+
+                } // activateExportingListeners
+
+
+
+                //============================================================
+                //==================== Symbols ========================================
+                //============================================================
+                let PointsSymbol = {
+                    type: "simple-marker",
+                    style: "circle", // circle,cross,diamond
+                    color: "#" + Math.floor(Math.random() * 16777215).toString(16),
+                    size: "8px", // pixels
+                }
+                let LinesSymbol = {
+                    type: "simple-line",
+                    color: "#" + Math.floor(Math.random() * 16777215).toString(16),
+                    width: 3
+                }
+                let PolygonsSymbol = {
+                    type: "simple-fill",
+                    color: "#" + Math.floor(Math.random() * 16777215).toString(16),
+                    outline: {
+                        color: "rgba(255,255,255,1)",
+                        width: 2,
+                    }
+                }
+
+
+                let selectedPointsSymbol = {
+                    type: "simple-marker",
+                    style: "circle", // circle,cross,diamond
+                    color: "rgba(0,255,255,1)",
+                    size: "8px", // pixels
+                }
+
+
+                let selectedLinesSymbol = {
+                    type: "simple-line",
+                    color: "rgba(0,255,255,1)",
+                    width: 3
+                }
+
+                let selectedPolygonsSymbol = {
+                    type: "simple-fill",
+                    color: "rgba(255,255,255,0)",
+                    outline: {
+                        width: 2,
+                        color: "rgba(0,255,255,1)"
+                    }
+                };
+
+
+                //============================================================
+                //====================Visual letiables=============================================================================================================================================================
+                //============================================================
+
+
+
+                //============================================================
+                //====================Renderers======================================================================================================================================================
+                //============================================================
+                let simplePointsRenderers = {
+                    type: "simple",
+                    symbol: {
+                        type: "simple-marker",
+                        style: "circle", // circle,cross,diamond
+                        color: "#" + Math.floor(Math.random() * 16777215).toString(16),
+                        size: "8px", // pixels
+                    }
+                }
+                let simpleLinesRenderers = {
+                    type: "simple",
+                    symbol: {
+                        type: "simple-line",
+                        color: "#" + Math.floor(Math.random() * 16777215).toString(16),
+                        width: 3
+                    }
+                }
+                let simplePolylinesRenderers = {
+                    type: "simple",
+                    symbol: {
+                        type: "simple-fill",
+                        color: "#" + Math.floor(Math.random() * 16777215).toString(16),
+                        outline: {
+                            color: "rgba(255,255,255,1)",
+                            width: 2,
+                        }
+                    }
+                }
+
+
+
+
+                let circleSymbol = {
+                    type: "simple-marker", // autocasts as new SimpleMarkerSymbol()
+                    //style: "square",
+                    size: 6,
+                    color: "#57007F",
+                    outline: { // autocasts as new SimpleLineSymbol()
+                        width: 0.5,
+                        color: "black"
+                    }
+                }
+
+                let XYSimpleRenderer = {
+                    type: "simple", // autocasts as new SimpleRenderer()
+                    //symbol: arrowSym,
+                    //symbol: cimSymbol,
+                    symbol: circleSymbol
+                }
+
+
+                let heatmapParams = {
+                    //layer: earthquakeLayer,
+                    view: view,
+                    //field: "magnitude"
+                };
+
+
+
+                let XYUniquevalueRenderer = {
+                    /*
+                                            type: "unique-value", // autocasts as new UniqueValueRenderer()
+                                        field: "magType",
+                                        field2: "locationSource",
+                                        fieldDelimiter: ", ",
+                                        legendOptions: {
+                                            title: "عنوان المفتاح"
+                                        },
+                                        defaultLabel: "باقي النقاط",
+                                        defaultSymbol: {
+                                            type: "simple-marker"
+                                        }, // autocasts as new SimpleFillSymbol()
+                    */
+
+
+                    type: "unique-value", // autocasts as new UniqueValueRenderer()
+                    defaultSymbol: {
+                        type: "simple-marker"
+                    }, // autocasts as new SimpleFillSymbol()
+                    /*
+                    uniqueValueInfos: [{
+                        // All features with value of "North" will be blue
+                        value: "mb, us",
+                        symbol: {
+                            type: "simple-marker", // autocasts as new SimpleFillSymbol()
+                            color: "yellow"
+                        }
+                    } ],*/
+                }
+
+
+
+                //============================================================
+                //====================Symbology======================================================================================================================================================
+                //============================================================
+
+                const symbologyWidget = document.getElementById('symbologyWidgetTemplate').cloneNode(true);
+                symbologyWidget.id = "symbologyWidget";
+                const exportDataWidget = document.getElementById('exportDataWidgetTemplate').cloneNode(true);
+                exportDataWidget.id = "exportDataWidget";
+                //let symbologyCustomizerDiv = document.getElementById("symbologyCustomizerDiv").cloneNode(true);
+                //symbologyCustomizerDiv.id = "symbologyCustomizerDiv";
+                let simpleRendererDiv = document.getElementById("simpleRendererDiv").cloneNode(true);
+                simpleRendererDiv.id = "simpleRendererDiv";
+                let colorRendererDiv = document.getElementById("colorRendererDiv").cloneNode(true);
+                colorRendererDiv.id = "colorRendererDiv";
+                let uniqueRendererDiv = document.getElementById("uniqueRendererDiv").cloneNode(true);
+                uniqueRendererDiv.id = "uniqueRendererDiv";
+                let sizeRendererDiv = document.getElementById("sizeRendererDiv").cloneNode(true);
+                sizeRendererDiv.id = "sizeRendererDiv";
+                let heatmapRendererDiv = document.getElementById("heatmapRendererDiv").cloneNode(true);
+                heatmapRendererDiv.id = "heatmapRendererDiv";
+                let symbologyField,
+                    symbologySelector,
+                    selectedRenderer,
+                    symbologyOptionsDiv,
+                    simpleSizeInput,
+                    simpleOutlineSizeInput,
+                    colorParams,
+                    sizeParams,
+                    typeParams,
+                    symbolSize;
+
+                // Defining basic symbols to be used by any type of renderer
+                let XYSimpleSymbolInput = document.getElementById('selectTemplate').cloneNode(true)
+                XYSimpleSymbolInput.id = "XYSimpleSymbolInput"
+
+                let simpleSymbolsAry = ["circle", "square", "diamond", "triangle", "cross", "x"]
+                simpleSymbolsAry.forEach(listSimpleSymbols)
+
+                function listSimpleSymbols(symbol, index) {
+                    let option = document.createElement("option")
+                    option.value = symbol
+                    option.text = symbol
+                    XYSimpleSymbolInput.appendChild(option)
+                }
+
+
+
+                function activateSymbologyListeners() {
+                    let symbologyFields = document.getElementById('symbologyFields');
+                    let customizeRendererBtn = document.getElementById('customizeRendererBtn');
+                    symbologySelector = document.getElementById('symbologySelector');
+
+
+
+                    document.getElementById('symbologyFields').addEventListener('change', symbologyChangeHandler);
+
+                    function symbologyChangeHandler() {
+                        symbologyField = document.getElementById('symbologyFields').value;
+
+                        if (symbologySelector.value === '') {
+                            symbologyLister(event);
+
+                            if (customizeRendererBtn.disabled === true) {
+                                customizeRendererBtn.disabled = false;
+                                customizeRendererBtn.style.background = "#547E4E";
+                            }
+                        } else {
+                            applyRenderer();
+                            symbologyLister(event);
+                        }
+
+                    }
+
+                    document.getElementById('customizeRendererBtn').addEventListener('click', (event) => {
+                        if (symbologySelector.value === 'none') {
+                            alert("الرجاء تحديد نوع التمثيل");
+                        } else {
+                            //widgetNavigator("symbologyWidget", "symbologyCustomizerDiv");
+                            //let selectedSymbology = document.getElementById('symbologySelector').value;
+                            customizeRenderer();
+
+
+
+                        }
+                    });
+
+
+
+
+
+                    // Listen to renderer change
+                    symbologySelector.addEventListener('change', applyRenderer);
+
+                    function applyRenderer() {
+                        selectedRenderer = symbologySelector.value
+                        let symbologyField = document.getElementById('symbologyFields').value
+                        switch (selectedRenderer) {
+                            case 'simple':
+
+                                switch (selectedLayer.geometryType) {
+                                    case 'point':
+                                        simplePolylinesRenderers.symbol.color = "#" + Math.floor(Math.random() * 16777215).toString(16);
+                                        selectedLayer.renderer = simplePointsRenderers
+                                        break;
+                                    case 'polyline':
+                                        simplePolylinesRenderers.symbol.color = "#" + Math.floor(Math.random() * 16777215).toString(16);
+                                        selectedLayer.renderer = simpleLinesRenderers
+                                        break;
+                                    case 'polygon':
+                                        simplePolylinesRenderers.symbol.color = "#" + Math.floor(Math.random() * 16777215).toString(16);
+                                        selectedLayer.renderer = simplePolylinesRenderers
+                                        break;
+                                    default:
+                                        console.log("Invalid geometry")
+                                }
+
+
+                                break
+
+                            case 'unique':
+
+                                typeParams = {
+                                    layer: selectedLayer,
+                                    field: symbologyField,
+                                    //sortBy: "count"
+                                };
+
+                                // when the promise resolves, apply the renderer to the layer
+                                typeRendererCreator.createRenderer(typeParams)
+                                    .then(function(response) {
+                                        selectedLayer.renderer = response.renderer;
+                                    });
+
+
+                                break
+
+                            case 'color':
+                                colorParams = {
+                                    layer: selectedLayer,
+                                    view: view,
+                                    field: symbologyField,
+                                    //theme: "above",
+                                    classificationMethod: "quantile", //equal-interval,  natural-breaks standard-deviation	
+                                    numClasses: 4,
+                                    defaultSymbolEnabled: false,
+                                };
+
+                                // when the promise resolves, apply the renderer to the layer
+                                colorRendererCreator.createClassBreaksRenderer(colorParams)
+                                    .then(function(response) {
+                                        selectedLayer.renderer = response.renderer;
+                                    });
+                                break
+
+
+
+
+                            case 'size':
+                                sizeParams = {
+                                    layer: selectedLayer,
+                                    view: view,
+                                    field: symbologyField,
+                                    //normalizationField: "TOTPOP_CY",
+                                    classificationMethod: "quantile", //equal-interval,  natural-breaks standard-deviation	
+                                    defaultSymbolEnabled: false,
+                                    numClasses: 4,
+
+                                }
+
+                                // when the promise resolves, apply the renderer to the layer
+                                sizeRendererCreator.createClassBreaksRenderer(sizeParams)
+                                    .then(function(response) {
+                                        selectedLayer.renderer = response.renderer;
+                                    })
+
+                                break
+
+
+
+
+                            case 'heatmap':
+                                heatmapParams.layer = selectedLayer
+                                heatmapParams.field = symbologyField
+                                    //heatmapParams.blurRadius  = 20
+                                    //heatmapParams.minRatio   = 0.1
+                                    //heatmapParams.maxRatio   = 1
+                                    // when the promise resolves, apply the renderer to the layer
+                                heatmapRendererCreator.createRenderer(heatmapParams)
+                                    .then(function(response) {
+                                        selectedLayer.renderer = response.renderer;
+                                    });
+
+
+
+                                break
+
+
+
+                            default:
+
+                        }
+
+                    } //applyRenderer
+
+
+
+
+
+                    function customizeRenderer() {
+
+                        //symbologyCustomizerDiv.style.lineHeight = 2
+                        //symbologyDiv.style.display = "none" sizeSliderDiv
+                        if (selectedLayer.geometryType === "polygon") {
+                            document.getElementById("simpleSizeController").style.display = "none";
+                            document.getElementById("colorPointsSize").style.display = "none";
+                            document.getElementById("colorPointsSymbol").style.display = "none";
+                        } else {
+                            document.getElementById("simpleSizeController").style.display = "flex";
+                            document.getElementById("colorPointsSize").style.display = "flex";
+                            document.getElementById("colorPointsSymbol").style.display = "flex";
+                        }
+                        switch (selectedRenderer) {
+                            case 'simple':
+                                if (selectedLayer.geometryType === "polygon") {
+                                    document.getElementById("simpleSymbolController").style.display = "none";
+                                } else {
+                                    document.getElementById("simpleSymbolController").style.display = "flex";
+                                }
+
+                                widgetNavigator("symbologyWidget", "simpleRendererDiv");
+                                if (simpleSizeInput === undefined) {
+                                    simpleSizeInput = new Slider({
+                                        container: "simpleSizeInput",
+                                        min: 3,
+                                        max: 80,
+                                        steps: 1,
+                                        values: [12],
+                                        snapOnClickEnabled: false,
+                                        visibleElements: {
+                                            labels: true,
+                                            rangeLabels: true
+                                        }
+                                    })
+
+                                    simpleOutlineSizeInput = new Slider({
+                                        container: "simpleOutlineSizeInput",
+                                        min: 0,
+                                        max: 5,
+                                        values: [0.5],
+                                        steps: 0.5,
+                                        snapOnClickEnabled: true,
+                                        visibleElements: {
+                                            labels: true,
+                                            rangeLabels: true
+                                        }
+                                    })
+                                }
+
+
+                                var activeInputs = document.querySelectorAll('input');
+
+
+
+
+                                for (i of activeInputs) {
+                                    i.addEventListener('input', function() {
+                                        //console.log(this.id);
+                                        let currentInputID = this.id;
+
+                                        switch (currentInputID) {
+                                            case 'simpleColorInput':
+                                                var tempRenderer = selectedLayer.renderer.clone();
+                                                var selectedColor = this.value;
+                                                tempRenderer.symbol.color = selectedColor;
+                                                selectedLayer.renderer = tempRenderer;
+                                                break;
+
+
+                                            case 'simpleOutlineColorInput':
+                                                var tempRenderer = selectedLayer.renderer.clone();
+                                                const selectedOutlineColor = this.value;
+                                                tempRenderer.symbol.outline.color = selectedOutlineColor;
+                                                selectedLayer.renderer = tempRenderer;
+                                                break;
+
+
+                                            default:
+                                        }
+
+
+                                    });
+                                }
+
+
+                                simpleSizeInput.on("thumb-drag", function() {
+                                    var tempRenderer = selectedLayer.renderer.clone();
+                                    var selectedSize = simpleSizeInput.values[0];
+                                    tempRenderer.symbol.size = selectedSize;
+                                    selectedLayer.renderer = tempRenderer;
+                                });
+
+
+                                simpleOutlineSizeInput.on("thumb-drag", function() {
+                                    var tempRenderer = selectedLayer.renderer.clone();
+                                    var selectedSize = simpleOutlineSizeInput.values[0];
+                                    tempRenderer.symbol.outline.width = selectedSize;
+                                    selectedLayer.renderer = tempRenderer;
+                                });
+
+                                layerLegendSwitch('simpleLegendToggle');
+                                break;
+
+
+                                // Customizing Color Renderer
+
+                            case 'color':
+                                widgetNavigator("symbologyWidget", "colorRendererDiv");
+                                document.getElementById("sizeSliderDiv").innerHTML = "";
+                                const sizeSlider = new Slider({
+                                    container: "sizeSliderDiv",
+                                    min: 3,
+                                    max: 40,
+                                    values: [12],
+                                    snapOnClickEnabled: false,
+                                    visibleElements: {
+                                        labels: false,
+                                        rangeLabels: true
+                                    }
+                                })
+
+                                //console.log(XYLayer.renderer)
+
+                                sizeSlider.on("thumb-drag", function() {
+                                    var tempRenderer = selectedLayer.renderer.clone();
+                                    symbolSize = sizeSlider.values[0];
+                                    //tempRenderer.defaultSymbol.size = symbolSize
+                                    var tempClassBreakInfos = tempRenderer.classBreakInfos;
+                                    tempClassBreakInfos.forEach(alterClassBreakInfos);
+
+                                    function alterClassBreakInfos(item, index) {
+                                        tempClassBreakInfos[index].symbol.size = symbolSize;
+                                    }
+                                    tempRenderer.classBreakInfos = tempClassBreakInfos;
+                                    selectedLayer.renderer = tempRenderer;
+                                })
+
+
+
+                                layerLegendSwitch('colorLegendToggle');
+                                break
+
+
+
+
+
+
+                            case 'size':
+                                widgetNavigator("symbologyWidget", "sizeRendererDiv");
+                                layerLegendSwitch('sizeLegendToggle');
+
+
+
+                                var activeInputs = document.querySelectorAll('input');
+
+
+
+
+                                for (i of activeInputs) {
+                                    i.addEventListener('input', function() {
+                                        //console.log(this.id);
+                                        let currentInputID = this.id;
+
+                                        switch (currentInputID) {
+                                            case 'sizeColorInput':
+                                                var tempRenderer = selectedLayer.renderer.clone()
+                                                var selectedColor = this.value;
+                                                //tempRenderer.defaultSymbol.style = selectedSymbol
+                                                var tempClassBreakInfos = tempRenderer.classBreakInfos;
+                                                tempClassBreakInfos.forEach(alterClassBreakInfosColor)
+
+                                                function alterClassBreakInfosColor(item, index) {
+                                                    tempClassBreakInfos[index].symbol.color = selectedColor
+                                                }
+                                                tempRenderer.classBreakInfos = tempClassBreakInfos
+                                                selectedLayer.renderer = tempRenderer
+
+                                                break;
+
+
+                                            default:
+                                        }
+
+
+                                    });
+                                }
+
+                                break;
+
+
+
+
+
+                            case 'unique':
+                                widgetNavigator("symbologyWidget", "uniqueRendererDiv");
+                                // Show or hide from legend
+
+                                layerLegendSwitch('uniqueLegendToggle');
+                                break;
+
+
+
+                            case 'heatmap':
+                                widgetNavigator("symbologyWidget", "heatmapRendererDiv");
+
+
+                                let heatmapAry = ["Heatmap 1", "Heatmap 2", "Heatmap 3", "Heatmap 4", "Heatmap 5", "Heatmap 6", "Heatmap 7", "Heatmap 8", "Heatmap 9", "Heatmap 10", "Heatmap 11", "Heatmap 12", "Heatmap 13", "Heatmap 14", "Heatmap 15", "Heatmap 16", "Heatmap 17", "Heatmap 18", "Heatmap 19", "Heatmap 20"];
+                                let heatmapSelect = document.getElementById('heatmapSelect');
+                                heatmapSelect.id = "heatmapSelect"
+                                heatmapAry.forEach(item => {
+                                    var option = document.createElement("option")
+                                    option.value = item
+                                    option.text = item
+                                    heatmapSelect.appendChild(option)
+                                });
+
+                                const ratioRangeSlider = new Slider({
+                                    container: "ratioRangeSliderDiv",
+                                    min: 0.1,
+                                    max: 1,
+                                    values: [0.1, 1],
+                                    steps: 0.1,
+                                    //minLabelElement,
+                                    //segmentElements,
+                                    //thumbElements,
+                                    thumbsConstrained: false,
+                                    rangeLabelInputsEnabled: true,
+                                    syncedSegmentsEnabled: true,
+                                    snapOnClickEnabled: false,
+                                    visibleElements: {
+                                        labels: true,
+                                        rangeLabels: true
+                                    }
+                                })
+                                ratioRangeSlider.on("thumb-drag", function() {
+                                    //sizeRangeSlider._labelElements.forEach( labelElement => labelElement.classList.add("sliderLabels") )
+
+                                    heatmapParams.minRatio = ratioRangeSlider.values[0]
+                                    heatmapParams.maxRatio = ratioRangeSlider.values[1]
+
+                                    // when the promise resolves, apply the renderer to the layer
+                                    heatmapRendererCreator.createRenderer(heatmapParams)
+                                        .then(function(response) {
+                                            selectedLayer.renderer = response.renderer;
+
+                                        })
+                                })
+
+
+
+                                // changing heatmap blurRadius
+
+                                const blurRangeSlider = new Slider({
+                                    container: "blurRangeSliderDiv",
+                                    min: 1,
+                                    max: 20,
+                                    values: [10],
+                                    steps: 2,
+                                    //minLabelElement,
+                                    //segmentElements,
+                                    //thumbElements,
+                                    thumbsConstrained: false,
+                                    rangeLabelInputsEnabled: true,
+                                    syncedSegmentsEnabled: true,
+                                    snapOnClickEnabled: false,
+                                    visibleElements: {
+                                        labels: true,
+                                        rangeLabels: true
+                                    }
+                                })
+
+                                blurRangeSlider.on("thumb-drag", function() {
+                                    //sizeRangeSlider._labelElements.forEach( labelElement => labelElement.classList.add("sliderLabels") )
+
+                                    heatmapParams.blurRadius = blurRangeSlider.values[0]
+
+                                    // when the promise resolves, apply the renderer to the layer
+                                    heatmapRendererCreator.createRenderer(heatmapParams)
+                                        .then(function(response) {
+                                            selectedLayer.renderer = response.renderer;
+
+                                        })
+                                })
+
+
+                                layerLegendSwitch('heatmapLegendToggle');
+
+                                break
+
+
+
+                            default:
+
+                        } // End Switch Inputs
+
+                        // Listen to change for Symbol style selector in Simple Renderer
+                        if (document.getElementById('simpleSymbolSelector')) {
+                            document.getElementById('simpleSymbolSelector').addEventListener('change', (event) => {
+                                var tempRenderer = selectedLayer.renderer.clone();
+                                const selectedSymbol = document.getElementById('simpleSymbolSelector').selectedOptions[0].value;
+                                tempRenderer.symbol.style = selectedSymbol;
+                                selectedLayer.renderer = tempRenderer;
+                            })
+                        }
+
+
+                        // Listen to change for Symbol style selector in Color Renderer
+                        if (document.getElementById('colorRendererSymbol')) {
+                            document.getElementById('colorRendererSymbol').addEventListener('change', (event) => {
+                                var tempRenderer = selectedLayer.renderer.clone();
+                                const selectedSymbol = document.getElementById('colorRendererSymbol').selectedOptions[0].value
+                                    //tempRenderer.defaultSymbol.style = selectedSymbol
+                                const tempClassBreakInfos = tempRenderer.classBreakInfos
+                                tempClassBreakInfos.forEach(alterClassBreakInfos)
+
+                                function alterClassBreakInfos(item, index) {
+                                    tempClassBreakInfos[index].symbol.style = selectedSymbol
+                                }
+                                tempRenderer.classBreakInfos = tempClassBreakInfos
+                                selectedLayer.renderer = tempRenderer
+                            })
+                        }
+
+
+
+
+                        // Listen to change for classificationMethod in Color Renderer
+                        if (document.getElementById('colorClassificationMethods')) {
+                            document.getElementById('colorClassificationMethods').addEventListener('change', (event) => {
+                                let selectedMethod = document.getElementById('colorClassificationMethods').selectedOptions[0].value
+                                colorParams.classificationMethod = selectedMethod;
+                                // when the promise resolves, apply the renderer to the layer
+                                colorRendererCreator.createClassBreaksRenderer(colorParams)
+                                    .then(function(response) {
+                                        if (symbolSize === undefined) {
+                                            selectedLayer.renderer = response.renderer;
+                                        }
+                                        // apply the user selected size on the new response
+                                        else {
+                                            var tempRenderer = response.renderer;
+                                            tempRenderer.classBreakInfos.forEach(alterClassBreakInfos)
+
+                                            function alterClassBreakInfos(item, index) {
+                                                tempRenderer.classBreakInfos[index].symbol.size = symbolSize
+                                            }
+                                            selectedLayer.renderer = tempRenderer;
+                                        }
+
+                                    });
+                            })
+                        }
+
+
+
+                        // Listen to change in number of classes
+                        if (document.getElementById('colorClassesNo')) {
+                            document.getElementById('colorClassesNo').addEventListener('change', (event) => {
+                                let selectedNumber = document.getElementById('colorClassesNo').value
+                                colorParams.numClasses = selectedNumber
+                                    // when the promise resolves, apply the renderer to the layer
+                                colorRendererCreator.createClassBreaksRenderer(colorParams)
+                                    .then(function(response) {
+
+                                        selectedLayer.renderer = response.renderer
+                                    })
+                            })
+                        }
+
+
+
+                        /////////============ Size Renderer ================////////////////////
+                        // Listen to change for Symbol style selector in Size Renderer
+                        if (document.getElementById('sizeRendererSymbol')) {
+                            document.getElementById('sizeRendererSymbol').addEventListener('change', (event) => {
+                                var tempRenderer = selectedLayer.renderer.clone()
+                                let selectedSymbol = document.getElementById('sizeRendererSymbol').selectedOptions[0].value
+                                    //tempRenderer.defaultSymbol.style = selectedSymbol
+                                var tempClassBreakInfos = tempRenderer.classBreakInfos
+                                tempClassBreakInfos.forEach(alterClassBreakInfos)
+
+                                function alterClassBreakInfos(item, index) {
+                                    tempClassBreakInfos[index].symbol.style = selectedSymbol
+                                }
+                                tempRenderer.classBreakInfos = tempClassBreakInfos
+                                selectedLayer.renderer = tempRenderer
+                            })
+                        }
+
+
+
+
+                        // Listen to change for classificationMethod in size Renderer
+                        if (document.getElementById('sizeClassificationMethods')) {
+                            document.getElementById('sizeClassificationMethods').addEventListener('change', (event) => {
+                                let selectedMethod = document.getElementById('sizeClassificationMethods').selectedOptions[0].value
+                                sizeParams.classificationMethod = selectedMethod
+                                    // when the promise resolves, apply the renderer to the layer
+                                sizeRendererCreator.createClassBreaksRenderer(sizeParams)
+                                    .then(function(response) {
+
+                                        selectedLayer.renderer = response.renderer;
+
+
+                                    });
+                            })
+                        }
+
+
+
+                        // Listen to change in number of classes
+                        if (document.getElementById('sizeClassesNo')) {
+                            document.getElementById('sizeClassesNo').addEventListener('change', (event) => {
+                                let selectedNumber = document.getElementById('sizeClassesNo').value
+                                sizeParams.numClasses = selectedNumber
+                                    // when the promise resolves, apply the renderer to the layer
+                                sizeRendererCreator.createClassBreaksRenderer(sizeParams)
+                                    .then(function(response) {
+
+                                        selectedLayer.renderer = response.renderer
+                                    })
+                            })
+                        }
+
+
+
+
+                        /////////============ Heatmap ================////////////////////
+                        // Listen to change in number of classes
+                        if (document.getElementById('heatmapSelect')) {
+                            document.getElementById('heatmapSelect').addEventListener('change', (event) => {
+                                let selectedScheme = document.getElementById('heatmapSelect').selectedOptions[0].value
+                                heatmapParams.heatmapScheme = heatmapSchemes.getSchemeByName({
+                                    basemap: mapsList[activeMap].basemap,
+                                    name: selectedScheme
+                                });
+                                // when the promise resolves, apply the renderer to the layer
+                                heatmapRendererCreator.createRenderer(heatmapParams)
+                                    .then(function(response) {
+                                        selectedLayer.renderer = response.renderer;
+                                    });
+                            })
+                        }
+
+
+
+
+
+                        /////////============ Unique Values | Type ================////////////////////
+                        // Listen to change in number of classes
+
+                        if (document.getElementById('sortingMethod')) {
+                            document.getElementById('sortingMethod').addEventListener('change', (event) => {
+                                let selectedMethod = document.getElementById('sortingMethod').selectedOptions[0].value
+                                typeParams.sortBy = selectedMethod
+
+
+                                // when the promise resolves, apply the renderer to the layer
+                                typeRendererCreator.createRenderer(typeParams)
+                                    .then(function(response) {
+                                        selectedLayer.renderer = response.renderer;
+                                    });
+
+
+
+                            })
+                        }
+
+                        if (document.getElementById('allTypesSwitch')) {
+                            document.getElementById('allTypesSwitch').addEventListener('change', (event) => {
+                                let showAllTypes = document.getElementById('allTypesSwitch').children[0]
+                                    //console.log(showAllTypes.checked)
+                                if (showAllTypes.checked)
+                                    typeParams.numTypes = -1
+                                else
+                                    typeParams.numTypes = 10
+
+                                // when the promise resolves, apply the renderer to the layer
+                                typeRendererCreator.createRenderer(typeParams)
+                                    .then(function(response) {
+                                        selectedLayer.renderer = response.renderer;
+                                    });
+
+                            })
+                        }
+
+                        /////////============ General Settings  ================////////////////////
+                        // Listen to change in 'Show Layer in Legend' toggle
+
+                        function layerLegendSwitch(switchId) {
+                            document.getElementById(switchId).addEventListener('change', (event) => {
+                                const showInLegendToggle = document.getElementById(switchId).children[0]
+                                if (showInLegendToggle.checked)
+                                    selectedLayer.legendEnabled = true;
+                                else
+                                    selectedLayer.legendEnabled = false;
+
+                            });
+                        }
+
+                        let uploadedDataManagerC = document.getElementsByClassName("uploadedDataManager")
+                            //console.log(uploadedDataManagerC)
+                            //uploadedDataManagerC.style.maxHeight = uploadedDataManagerC.scrollHeight + "px"
+                            //uploadedDataManagerC[0].style.maxHeight = "600px"
+                        uploadedDataManagerC[0].style.minHeight = "100%"
+                        uploadedDataManagerC[0].style.height = "auto"
+                            //console.log(uploadedDataManagerC[0].style)
+
+
+                    } // customizeRenderer
+
+
+
+                } /// activateSymbologyListeners
+
+
+
+
+                //============================================================
+                //==================== Popup templates ===============================================================================================================================================================
+                //============================================================
+
+
+
+                //============================================================
+                //==================== Labels ===============================================================================================================================================================
+                //============================================================
+                let labelField, labelFont, labelColor, labelHaloColor, clonedLabelClass, labelPrefix = "",
+                    labelSuffix = "";
+                const labelingWidget = document.getElementById('labelingWidgetTemplate').cloneNode(true);
+                let LabelToggleBtn = document.getElementById('LabelToggleBtn');
+                labelingWidget.id = "labelingWidget";
+
+
+                //let layerFieldsList = document.getElementById('labelingFields');
+                //            layerFieldsList.id = "layerFieldsList";
+                function setLabelExpression() {
+                    switch (selectedLayer.type) {
+                        case 'csv':
+                            mapsList[activeMap].layers.items[layerIndex].labelingInfo[0].labelExpressionInfo.expression = "$feature." + document.getElementById('labelingFields').value;
+
+                            break;
+                        case 'feature':
+                            mapsList[activeMap].layers.items[layerIndex].labelingInfo[0].labelExpression = document.getElementById('labelPrefix').value + " [" + document.getElementById('labelingFields').value + "] " + document.getElementById('labelSuffix').value;
+
+                            break;
+
+                        default:
+
+
+                    }
+                }
+
+                function activateLabelingListeners(selectedLayer) {
+                    switch (selectedLayer.type) {
+                        case 'csv':
+                            document.getElementById('labelPreSuffText').style.display = "none";
+                            break;
+                        case 'feature':
+                            document.getElementById('labelPreSuffText').style.display = "flex";
+                            break;
+
+                        default:
+
+
+                    }
+
+                    document.getElementById('fontSizeSlider').innerHTML = "";
+                    document.getElementById('haloSizeSlider').innerHTML = "";
+                    const fontSizeSlider = new Slider({
+                        container: "fontSizeSlider",
+                        min: 6,
+                        max: 40,
+                        values: [10],
+                        steps: 1,
+                        snapOnClickEnabled: false,
+                        visibleElements: {
+                            labels: true,
+                            rangeLabels: true
+                        }
+                    })
+
+                    const haloSizeSlider = new Slider({
+                        container: "haloSizeSlider",
+                        min: 0,
+                        max: 8,
+                        values: [1],
+                        steps: 1,
+                        snapOnClickEnabled: false,
+                        visibleElements: {
+                            labels: true,
+                            rangeLabels: true
+                        }
+                    })
+
+
+                    if (mapsList[activeMap].layers.items[layerIndex].labelingInfo) {
+                        //console.log("exist")
+                        // Getting label parameters from each layer
+                        // Input color only accept # hex format
+
+                        function componentToHex(c) {
+                            var hex = c.toString(16);
+                            return hex.length == 1 ? "0" + hex : hex;
+                        }
+
+                        function rgbToHex(r, g, b) {
+                            return "#" + componentToHex(r) + componentToHex(g) + componentToHex(b);
+                        }
+
+                        let hexColor = rgbToHex(mapsList[activeMap].layers.items[layerIndex].labelingInfo[0].symbol.color.r,
+                            mapsList[activeMap].layers.items[layerIndex].labelingInfo[0].symbol.color.g,
+                            mapsList[activeMap].layers.items[layerIndex].labelingInfo[0].symbol.color.b);
+
+                        let hexHaloColor = rgbToHex(mapsList[activeMap].layers.items[layerIndex].labelingInfo[0].symbol.haloColor.r,
+                            mapsList[activeMap].layers.items[layerIndex].labelingInfo[0].symbol.haloColor.g,
+                            mapsList[activeMap].layers.items[layerIndex].labelingInfo[0].symbol.haloColor.b);
+
+
+                        clonedLabelClass = mapsList[activeMap].layers.items[layerIndex].labelingInfo[0];
+                        document.getElementById('labelingColors').value = hexColor;
+                        document.getElementById('labelHaloColors').value = hexHaloColor;
+                        fontSizeSlider.values[0] = mapsList[activeMap].layers.items[layerIndex].labelingInfo[0].symbol.font.size;
+                        haloSizeSlider.values[0] = mapsList[activeMap].layers.items[layerIndex].labelingInfo[0].symbol.haloSize;
+                    } else {
+                        //console.log("doesn't exist")
+                        document.getElementById('LabelToggleBtn').checked = false;
+                        clonedLabelClass = labelClass.clone();
+                        mapsList[activeMap].layers.items[layerIndex].labelingInfo = [clonedLabelClass];
+                        //console.log(mapsList[activeMap].layers.items[layerIndex].labelingInfo[0]);
+                    }
+
+                    document.getElementById('labelingFields').addEventListener('change', (event) => {
+
+                        setLabelExpression();
+                        document.getElementById('LabelToggleBtn').checked = true;
+                        mapsList[activeMap].layers.items[layerIndex].labelsVisible = true;
+                    });
+
+                    document.getElementById('labelPrefix').oninput = function() {
+                        setLabelExpression();
+                        //mapsList[activeMap].layers.items[layerIndex].labelingInfo[0].labelExpression = document.getElementById('labelPrefix').value + "[" + document.getElementById('labelingFields').value + "] " + document.getElementById('labelSuffix').value;
+
+                    };
+
+                    document.getElementById('labelSuffix').oninput = function() {
+                        setLabelExpression();
+                        //mapsList[activeMap].layers.items[layerIndex].labelingInfo[0].labelExpression = document.getElementById('labelPrefix').value + "[" + document.getElementById('labelingFields').value + "] " + document.getElementById('labelSuffix').value;
+
+                    };
+
+                    document.getElementById('LabelToggleBtn').addEventListener('change', (event) => {
+                        //selectedLayer.labelingInfo = [labelClass];
+                        if (document.getElementById('LabelToggleBtn').checked) {
+                            mapsList[activeMap].layers.items[layerIndex].labelingInfo = [clonedLabelClass];
+                            mapsList[activeMap].layers.items[layerIndex].labelsVisible = true;
+
+                        } else {
+                            mapsList[activeMap].layers.items[layerIndex].labelsVisible = false;
+
+                        }
+
+                        checkLabelVisibility();
+                    });
+
+                    let labelingColors = document.getElementById('labelingColors');
+                    labelingColors.oninput = function() {
+                        labelColor = document.getElementById('labelingColors').value;
+                        mapsList[activeMap].layers.items[layerIndex].labelingInfo[0].symbol.color = labelColor;
+                    }
+
+                    let labelHaloColors = document.getElementById('labelHaloColors');
+                    labelHaloColors.oninput = function() {
+                        labelHaloColor = document.getElementById('labelHaloColors').value;
+                        mapsList[activeMap].layers.items[layerIndex].labelingInfo[0].symbol.haloColor = labelHaloColor;
+                    }
+
+
+                    fontSizeSlider.on("thumb-drag", function() {
+                        let labelClone = mapsList[activeMap].layers.items[layerIndex].labelingInfo[0]
+                        labelClone.symbol.font.size = fontSizeSlider.values[0]
+                        mapsList[activeMap].layers.items[layerIndex].labelingInfo[0] = labelClone
+                    })
+
+
+                    haloSizeSlider.on("thumb-drag", function() {
+                        let labelClone = mapsList[activeMap].layers.items[layerIndex].labelingInfo[0]
+                        labelClone.symbol.haloSize = haloSizeSlider.values[0]
+                        mapsList[activeMap].layers.items[layerIndex].labelingInfo[0] = labelClone
+                    })
+
+
+
+
+
+                } //activateLabelingListeners
+
+
+
+
+
+
+
+                let labelClass = new LabelClass({
+                    labelExpressionInfo: {
+                        expression: ""
+                    },
+                    symbol: {
+                        type: "text", // autocasts as new TextSymbol()
+                        color: "black",
+                        haloSize: 1,
+                        haloColor: "white",
+                        font: { // autocast as new Font()
+                            family: "Arial",
+                            size: 8,
+                            weight: "normal"
+                        }
+                    },
+                    //labelPlacement: "above-right",
+                });
+
+
+
+                //============================================================
+                //==================== Popup ===============================================================================================================================================================
+                //============================================================
+
+                const popupConfigWidget = document.getElementById('popupConfigWidgetTemplate').cloneNode(true);
+                let popupToggleBtn = document.getElementById('popupToggleBtn');
+                popupConfigWidget.id = "popupConfigWidget";
+
+                function activatePopupListeners(selectedLayer) {
+                    if (selectedLayer.popupTemplate) {
+                        if (selectedLayer.popupEnabled)
+                            document.getElementById('popupToggleBtn').checked = true;
+                        else
+                            document.getElementById('popupToggleBtn').checked = false;
+                    } else {
+                        document.getElementById('popupToggleBtn').checked = false;
+                    }
+
+                    document.getElementById('popupToggleBtn').addEventListener('change', (event) => {
+                        //selectedLayer.labelingInfo = [labelClass];
+                        if (document.getElementById('popupToggleBtn').checked) {
+                            mapsList[activeMap].layers.items[layerIndex].popupEnabled = true;
+
+                            let fieldInfos = [];
+                            if (selectedLayer.fields !== undefined) {
+                                selectedLayer.fields.forEach(field => {
+                                    let attrField = {
+                                        fieldName: field.name
+                                    }
+                                    fieldInfos.push(attrField)
+                                })
+                                let selectedLayerPopup = {
+                                    title: "العنصر رقم {" + selectedLayer.fields[0].name + "}",
+                                    content: [{
+                                        type: "fields", // Autocasts as new FieldsContent()
+                                        // Autocasts as new FieldInfo[]
+                                        fieldInfos: fieldInfos
+                                    }]
+                                }
+
+                                mapsList[activeMap].layers.items[layerIndex].popupTemplate = selectedLayerPopup;
+                            }
+
+
+
+                        } else {
+                            mapsList[activeMap].layers.items[layerIndex].popupEnabled = false;
+                        }
+                    });
+
+                }
+
+
+                //============================================================
+                //==================== Layer List ===================================================================================================================================================================
+                //============================================================
+                const layerList = new LayerList({
+                    view: view,
+                    container: document.getElementById("layerList"),
+                    selectionEnabled: true,
+                    multipleSelectionEnabled: true,
+                    listItemCreatedFunction: function(event) {
+                        const item = event.item;
+
+
+                        item.panel = {
+                            content: "legend",
+                            open: false,
+                            visible: true,
+                        };
+
+
+                        item.actionsSections = [
+                            [{
+                                    //title: "Go to full extent",
+                                    title: "عرض كامل البيانات",
+                                    className: "esri-icon-zoom-out-fixed",
+                                    id: "full-extent"
+                                },
+                                {
+                                    //title: "Layer information",
+                                    title: "معلومات الطبقة",
+                                    className: "esri-icon-description",
+                                    id: "information"
+                                },
+                                {
+                                    //title: "Attribute Table",
+                                    title: "البيانات الوصفية",
+                                    className: "esri-icon-table",
+                                    id: "attribute-table"
+                                },
+                                {
+                                    //title: "Attribute Table",
+                                    title: "استخراج البيانات",
+                                    className: "esri-icon-download",
+                                    id: "export-data"
+                                },
+                            ],
+                            [{
+                                    //title: "Symbology",
+                                    title: "التمثيل",
+                                    className: "esri-icon-maps",
+                                    id: "symbology"
+                                },
+                                {
+                                    //title: "labeling",
+                                    title: "النصوص",
+                                    className: "esri-icon-labels",
+                                    id: "labeling"
+                                },
+                                {
+                                    //title: "Popup Window",
+                                    title: "النافذة المنبثقة",
+                                    className: "esri-icon-configure-popup",
+                                    id: "popup"
+                                },
+
+                            ],
+                            [{
+                                    //title: "Move Up",
+                                    title: "التحريك لأعلى",
+                                    className: "esri-icon-up-arrow",
+                                    id: "move-up"
+                                },
+                                {
+                                    //title: "Move Down",
+                                    title: "التحريك لأسفل",
+                                    className: "esri-icon-down-arrow",
+                                    id: "move-down"
+                                },
+                            ],
+                            [{
+                                //title: "Delete Layer",
+                                title: "حذف الطبقة",
+                                className: "esri-icon-close",
+                                id: "delete-layer"
+                            }, ],
+                        ];
+
+                        //}
+                    }
+                });
+
+
+                document.getElementById("layerList").style.display = "none"
+                    //view.ui.add(layerList, "top-right");
+
+
+
+                layerList.on("trigger-action", function(event) {
+
+
+                    let id = event.action.id;
+                    selectedLayer = event.item.layer;
+                    //console.log(selectedLayer.type)
+
+                    if (id === "full-extent") {
+                        // If the full-extent action is triggered then navigate
+                        // to the full extent of the visible layer.
+                        view.goTo(selectedLayer.fullExtent);
+                    } else if (id === "information") {
+                        // If the information action is triggered, then
+                        // open the item details page of the service layer.
+                        window.open(selectedLayer.url);
+
+                    } else if (id === "symbology") {
+                        //console.log(symbologyOptionsDiv.innerHTML)
+                        //hideWidgetMenus("symbologyWidget")
+                        if (selectedLayer.type === 'csv' ||
+                            selectedLayer.type === 'feature' ||
+                            selectedLayer.type === 'json' ||
+                            selectedLayer.type === 'geojson' ||
+                            selectedLayer.type === 'kml'
+                        ) {
+                            clearLeftWidgets();
+                            view.ui.add(symbologyWidget, "top-left");
+                            widgetNavigator("symbologyWidget", "symbologyOptionsDiv");
+                            activateWidgetHeader();
+                            getLayerIndex(selectedLayer.id);
+                            updateFieldsList('symbologyFields');
+                            updateFieldsTypes();
+                            activateSymbologyListeners();
+                        }
+
+
+                    } else if (id === "attribute-table") {
+                        if (selectedLayer.type === 'csv' ||
+                            selectedLayer.type === 'feature' ||
+                            selectedLayer.type === 'json' ||
+                            selectedLayer.type === 'geojson' ||
+                            selectedLayer.type === 'kml'
+                        ) {
+                            let fieldConfigs = [];
+                            document.getElementById("attributesTableDiv").innerHTML = "";
+                            selectedLayer.fields.forEach(field => {
+                                fieldConfigs.push({
+                                    name: field.name,
+                                    label: field.name,
+                                    visible: true
+                                })
+
+                            });
+                            const featureTable = new FeatureTable({
+                                view: view, // The view property must be set for the select/highlight to work
+                                layer: selectedLayer,
+                                container: "attributesTableDiv",
+                                fieldConfigs: fieldConfigs,
+                                menuConfig: {
+                                    items: [{
+                                            label: "Close Table",
+                                            iconClass: "esri-icon-close-circled",
+                                            clickFunction: closeAttributeTable,
+                                        }
+
+                                    ]
+                                }
+                            });
+                            clearLeftWidgets();
+                            view.ui.empty("bottom-right");
+                            view.ui.add(featureTable, "bottom-left");
+
+                            function closeAttributeTable() {
+                                featureTable.menu.open = false;
+                                view.ui.remove(featureTable);
+                            }
+                        }
+                    } else if (id === "export-data") {
+                        //console.log(symbologyOptionsDiv.innerHTML)
+                        //hideWidgetMenus("symbologyWidget")
+                        if (selectedLayer.type === 'csv' ||
+                            selectedLayer.type === 'feature' ||
+                            selectedLayer.type === 'json' ||
+                            selectedLayer.type === 'geojson' ||
+                            selectedLayer.type === 'kml'
+                        ) {
+                            clearLeftWidgets();
+                            view.ui.add(exportDataWidget, "top-left");
+                            activateWidgetHeader();
+                            getLayerIndex(selectedLayer.id);
+                            activateExportingListeners();
+                        }
+
+
+
+
+                    } else if (id === "labeling") {
+                        if (selectedLayer.type === 'csv' ||
+                            selectedLayer.type === 'feature' ||
+                            selectedLayer.type === 'json' ||
+                            selectedLayer.type === 'geojson' ||
+                            selectedLayer.type === 'kml'
+                        ) {
+                            clearLeftWidgets();
+                            view.ui.add(labelingWidget, "top-left");
+                            activateWidgetHeader();
+                            getLayerIndex(selectedLayer.id);
+                            updateFieldsList('labelingFields');
+                            activateLabelingListeners(selectedLayer);
+                        }
+
+
+
+                    } else if (id === "popup") {
+                        if (selectedLayer.type === 'csv' ||
+                            selectedLayer.type === 'feature' ||
+                            selectedLayer.type === 'json' ||
+                            selectedLayer.type === 'geojson' ||
+                            selectedLayer.type === 'kml'
+                        ) {
+                            clearLeftWidgets();
+                            view.ui.add(popupConfigWidget, "top-left");
+                            activateWidgetHeader();
+                            getLayerIndex(selectedLayer.id);
+                            activatePopupListeners(selectedLayer);
+                        }
+
+
+                    } else if (id === "move-up") {
+                        //console.log(selectedLayer)
+                        getLayerIndex(selectedLayer.id);
+                        moveLayerUp(selectedLayer);
+                        fixLayerListUI();
+
+                    } else if (id === "move-down") {
+                        //console.log(selectedLayer)
+                        getLayerIndex(selectedLayer.id);
+                        moveLayerDown(selectedLayer);
+                        fixLayerListUI();
+
+                    } else if (id === "delete-layer") {
+                        //console.log(selectedLayer)
+                        mapsList[activeMap].remove(selectedLayer)
+                    }
+                });
+
+
+                function getLayerIndex(id) {
+                    let layers = mapsList[activeMap].layers.items;
+                    layers.forEach(matchID);
+
+                    function matchID(layer, index) {
+                        if (id === layer.id) {
+                            layerIndex = index;
+                            //console.log(layerIndex)
+                        }
+
+                    }
+                }
+
+                function moveLayerUp(layer) {
+                    let maxIndex = mapsList[activeMap].layers.length;
+                    if (layerIndex < maxIndex) {
+                        mapsList[activeMap].reorder(layer, (layerIndex + 1))
+                    }
+                }
+
+                function moveLayerDown(layer) {
+                    if (layerIndex > 0) {
+                        mapsList[activeMap].reorder(layer, (layerIndex - 1))
+                    }
+                }
+
+                function updateFieldsList(SelectElementID) {
+                    document.getElementById(SelectElementID).innerHTML = "";
+                    var option = document.createElement("option")
+                    option.value = ""
+                    option.text = "اختر"
+                    document.getElementById(SelectElementID).appendChild(option)
+                    selectedLayer.fields.forEach(field => {
+                        var option = document.createElement("option")
+                        option.value = field.name
+                        option.text = field.name
+                        document.getElementById(SelectElementID).appendChild(option)
+                    })
+                }
+
+                function checkLabelVisibility() {
+                    if (mapsList[activeMap].layers.items[layerIndex].labelsVisible) {
+                        LabelToggleBtn.checked = true;
+
+                    } else {
+                        LabelToggleBtn.checked = false;
+                    }
+                } // checkLabelVisibility
+
+
+
+                function defineEmptyLabel() {
+                    if (mapsList[activeMap].layers.items[layerIndex].labelingInfo == null) {
+                        mapsList[activeMap].layers.items[layerIndex].labelingInfo = labelClass;
+                    }
+                }
+
+
+                function updateFieldsTypes() {
+                    fieldsTypes = {};
+                    let layerFields = mapsList[activeMap].layers.items[layerIndex].fields;
+                    layerFields.forEach(field => {
+                        let fieldName = field.name;
+                        let fieldType = field.type;
+                        fieldsTypes[fieldName] = fieldType
+                    })
+                }
+
+
+                function symbologyLister(event) {
+
+                    let symbologyField = document.getElementById('symbologyFields').value
+                    let fieldType = fieldsTypes[symbologyField];
+                    let textualRenderers, numericalRenderers;
+                    switch (fieldType) {
+                        // Internet
+                        case 'string':
+
+
+                            textualRenderers = {
+                                none: "اختر نوع الترميز",
+                                simple: "تمثيل بسيط",
+                                unique: "تمثيل فريد"
+                            }
+                            addOptionsToSelector(textualRenderers, symbologySelector)
+
+                            break;
+                        case 'date':
+
+
+                            textualRenderers = {
+                                none: "اختر نوع الترميز",
+                                simple: "تمثيل بسيط",
+                                unique: "تمثيل فريد"
+                            }
+                            addOptionsToSelector(textualRenderers, symbologySelector)
+
+                            break;
+
+                        default:
+
+
+                            numericalRenderers = {
+                                none: "اختر نوع الترميز",
+                                color: "تمثيل باللون",
+                                size: "تمثيل بالحجم",
+                                heatmap: "تمثيل حراري",
+                                simple: "تمثيل بسيط",
+                                unique: "تمثيل فريد"
+                            }
+                            addOptionsToSelector(numericalRenderers, symbologySelector)
+
+
+
+
+                    }
+
+                } // SymbologyLister end
+
+
+
+                // This function adds options {optionValue:optionText} to Select element
+                function addOptionsToSelector(optionsObj, selector) {
+                    // First we remove all existing options
+                    while (selector.firstChild) {
+                        selector.removeChild(selector.firstChild)
+                    }
+                    for (const [key, value] of Object.entries(optionsObj)) {
+                        //console.log(`${key}: ${value}`)
+                        let option = document.createElement("option")
+                        option.value = `${key}`
+                        option.text = `${value}`
+                        selector.appendChild(option)
+                    }
+                    return selector
+                }
+
+
+
+
+                function checkExistingConfig() {
+                    if (symbologyOptionsDiv === undefined) {
+                        symbologyOptionsDiv = document.getElementById('symbologyOptionsDiv').cloneNode(true);
+                        symbologyWidget.innerHTML = "";
+                        symbologyWidget.appendChild(widgetHeader);
+                        symbologyWidget.appendChild(symbologyOptionsDiv);
+                    }
+                }
+
+
+                function hideWidgetMenus(currentWidgetId) {
+                    currentWidget = document.getElementById(currentWidgetId);
+                    for (i = 1; i < currentWidget.children.length; i++) {
+                        //if(currentWidget.children[i].id != "widgetHeader")
+                        currentWidget.children[i].style.display = "none";
+                    }
+                }
+
+                function widgetNavigator(currentWidgetId, nextMenuId) {
+                    hideWidgetMenus(currentWidgetId);
+                    document.getElementById(nextMenuId).style.display = "flex";
+                }
+
+
+                //============================================================
+                //==================== Layers ===================================================================================================================================================================
+                //============================================================
+
+
+
+
+                //============================================================
+                //==================== Bookmarks ========================================
+                //============================================================
+                let bookmarksWidget = document.getElementById('bookmarksWidgetTemplate').cloneNode(true);
+                bookmarksWidget.id = "bookmarksWidget";
+                let addBookmarkBtn = document.getElementById('addBookmarkBtn').cloneNode(true);
+                addBookmarkBtn.id = "addBookmarkBtn";
+                let deleteBookmarkBtn = document.getElementById('deleteBookmarkBtn').cloneNode(true);
+                deleteBookmarkBtn.id = "deleteBookmarkBtn";
+
+                let bookmarkName, savedBookmarks, storedBookmarks = {}
+                if (localStorage.getItem('localBookmarks') !== null) {
+                    storedBookmarks = JSON.parse(localStorage.getItem('localBookmarks'))
+
+
+                }
+
+
+                document.getElementById("bookmarkToggle").addEventListener("click", function() {
+                    clearLeftWidgets();
+                    view.ui.add(bookmarksWidget, "top-left");
+                    activateWidgetHeader();
+
+                    //update bookmark List
+                    document.getElementById('bookmarksList').innerHTML = "";
+                    for (let bookmark in storedBookmarks) {
+                        let extent = storedBookmarks[bookmark];
+                        let bookmarkDiv = document.createElement("div");
+                        bookmarkDiv.class = "savedBookmark";
+                        bookmarkDiv.innerHTML = bookmark;
+                        document.getElementById('bookmarksList').appendChild(bookmarkDiv)
+                    }
+
+                    document.getElementById("addBookmarkBtn").addEventListener("click", function() {
+                        widgetNavigator("bookmarksWidget", "addBookmarkDiv");
+
+
+
+                        document.getElementById("saveBookmarkBtn").addEventListener("click", function() {
+                            widgetNavigator("bookmarksWidget", "bookmarksDiv");
+                            //console.log(document.getElementById("bookmarkName").value);
+                            bookmarkName = document.getElementById("bookmarkName").value;
+                            if (bookmarkName === "")
+                                alert("الرجاء إدخال اسم النقطة المرجعية");
+                            else {
+                                document.getElementById("bookmarkName").value = ""
+                                let currentExtent = view.extent
+                                currentExtent.name = bookmarkName
+                                storedBookmarks[bookmarkName] = currentExtent
+                                    //console.log(JSON.stringify(storedBookmarks))
+
+
+                                localStorage.setItem('localBookmarks', JSON.stringify(storedBookmarks))
+                                    //storedBookmarks = JSON.parse(localStorage.getItem('localBookmarks'))
+
+                                //console.log(storedBookmarks)
+                                updateBookmarks();
+                            }
+
+                            //bkmarksContainer.style.height = bkmarksContainer.scrollHeight + 10 + "px"
+                            activateBookmarksListener();
+
+
+                        });
+
+
+                    });
+
+
+                    activateBookmarksListener();
+
+                    document.getElementById("deleteBookmarkBtn").addEventListener("click", function() {
+                        for (let i = 0; i < document.getElementById("bookmarksList").children.length; i++) {
+                            document.getElementById("bookmarksList").children[i].style.background = "#E27878";
+
+                            document.getElementById("bookmarksList").children[i].addEventListener('click', event => {
+                                delete storedBookmarks[event.target.innerHTML];
+                                updateBookmarks();
+
+                                for (let i = 0; i < document.getElementById("bookmarksList").children.length; i++) {
+                                    document.getElementById("bookmarksList").children[i].style.background = "#rgb(209, 217, 223)";
+                                    activateBookmarksListener();
+                                }
+
+
+                            });
+
+                        }
+
+
+
+                    });
+
+                });
+
+                function goToBookmark(bookmark) {
+                    //console.log(storedBookmarks[bookmark])
+                    view.extent = storedBookmarks[bookmark]
+                }
+
+
+                function activateBookmarksListener() {
+                    for (let i = 0; i < document.getElementById("bookmarksList").children.length; i++) {
+                        document.getElementById("bookmarksList").children[i].addEventListener('click', event => {
+                            //console.log(event.target.innerHTML)
+                            goToBookmark(event.target.innerHTML);
+                        });
+
+                    }
+
+                }
+
+                function updateBookmarks() {
+                    document.getElementById('bookmarksList').innerHTML = "";
+                    localStorage.setItem('localBookmarks', JSON.stringify(storedBookmarks));
+                    for (let bookmark in storedBookmarks) {
+                        let extent = storedBookmarks[bookmark];
+                        let bookmarkDiv = document.createElement("div");
+                        bookmarkDiv.class = "savedBookmark";
+                        bookmarkDiv.innerHTML = bookmark;
+                        document.getElementById('bookmarksList').appendChild(bookmarkDiv)
+                    }
+                }
+
+
+
+
+                //============================================================
+                //==================== Reset Interface ========================================
+                //============================================================
+                function resetInterfaceListener() {
+                    document.getElementById("resetInterface").addEventListener("click", function() {
+                        let accordions = document.getElementsByClassName("panel");
+                        for (i = 0; i < accordions.length; i++) {
+                            //console.log(accordions[i].children)
+                            //expandMenu(0)
+                            fixLayerListUI()
+                            accordions[i].style.maxHeight = "0";
+
+                            view.ui.empty("top-left");
+                            view.ui.empty("bottom-left");
+                            view.ui.empty("top-right");
+                            view.ui.empty("bottom-right");
+
+                            view.ui.add(zoom, "top-right");
+                        }
+                    });
+                }
+
+
+                //============================================================
+                //==================== Info ========================================
+                //============================================================
+                function AppInfoWidgetListener() {
+                    document.getElementById("appInfo").addEventListener("click", function() {
+                        let appInfoWidget = document.getElementById('appInfoWidgetTemplate').cloneNode(true);
+                        appInfoWidget.id = "appInfoWidget";
+                        clearLeftWidgets();
+                        view.ui.add(appInfoWidget, "top-left");
+                        activateWidgetHeader();
+                    });
+                }
+
+                //============================================================
+                //==================== Editor Toggle  ========================================
+                //============================================================
+
+                function editorToggleListener() {
+                    document.getElementById("editorToggle").addEventListener("click", function() {
+                        if (document.getElementById("editorToggleInput").checked) {
+                            document.getElementById("editorToggleInput").checked = false;
+                            view.ui.remove(editor)
+                        } else {
+                            document.getElementById("editorToggleInput").checked = true;
+                            view.ui.add(editor, "top-right");
+                        }
+
+                    });
+                }
+
+                //============================================================
+                //==================== Print Toggle  ========================================
+                //============================================================
+
+                function printToggleListener() {
+                    document.getElementById("printToggle").addEventListener("click", function() {
+                            clearLeftWidgets();
+                            view.ui.add(printerWidget, "top-left");
+                    });
+                }
+
+
+                //============================================================
+                //==================== clear Screen ========================================
+                //============================================================
+
+                document.getElementById("clearScreen").addEventListener("click", function() {
+                    view.graphics.removeAll();
+                    layerList.operationalItems.items.forEach(layer => {
+                        layer.visible = false;
+                    });
+
+                });
+
+
+
+
+
+                //============================================================
+                //==================== Dataframes ========================================
+                //============================================================
+                let dataframeName;
+                let accordion = document.getElementsByClassName("panel5");
+                let dataframesList = document.getElementById("dataframesList");
+                for (let dataframe in mapsList) {
+                    let dataframeDiv = document.createElement("div");
+                    dataframeDiv.innerHTML = dataframe;
+                    document.getElementById('dataframesList').appendChild(dataframeDiv)
+                }
+                //let deleteBookmarkBtn = document.getElementById('deleteBookmarkBtn').cloneNode(true);
+                //deleteBookmarkBtn.id = "deleteBookmarkBtn";
+                for (let i = 0; i < document.getElementById("dataframesList").children.length; i++) {
+                    if (document.getElementById("dataframesList").children[i].innerHTML === activeMap)
+                        document.getElementById("dataframesList").children[i].style.background = "#76E284";
+                }
+
+                document.getElementById("adddataframeBtn").addEventListener("click", function() {
+                    document.getElementById("addDataframeDiv").style.display = "flex";
+                    accordion[0].style.maxHeight = accordion[0].scrollHeight + "px";
+
+                    document.getElementById("saveDataframeBtn").addEventListener("click", function() {
+
+                        //console.log(document.getElementById("dataframeName").value);
+                        dataframeName = document.getElementById("dataframeName").value;
+                        if (dataframeName === "") {
+                            alert("الرجاء إدخال اسم النقطة المرجعية");
+                        } else {
+                            document.getElementById("addDataframeDiv").style.display = "none";
+                            //update dataframe List
+                            document.getElementById("dataframesList").innerHTML = "";
+                            extentsList[activeMap] = view.extent;
+                            activeMap = dataframeName;
+                            mapsList[activeMap] = new Map({
+                                basemap: "streets" // topo, osm, streets... https://developers.arcgis.com/javascript/3/jsapi/esri.basemaps-amd.html or https://developers.arcgis.com/javascript/latest/api-reference/esri-Map.html
+                            })
+                            view.map = mapsList[activeMap];
+
+                            for (let dataframe in mapsList) {
+                                let dataframeDiv = document.createElement("div");
+                                dataframeDiv.innerHTML = dataframe;
+                                document.getElementById("dataframesList").appendChild(dataframeDiv)
+                            }
+                            for (let i = 0; i < document.getElementById("dataframesList").children.length; i++) {
+                                if (document.getElementById("dataframesList").children[i].innerHTML === activeMap)
+                                    document.getElementById("dataframesList").children[i].style.background = "#76E284";
+                            }
+
+                            accordion[0].style.maxHeight = accordion[0].scrollHeight + "px";
+                            document.getElementById("dataframeName").value = "";
+
+                        }
+
+                        activatedataframesListener()
+                    });
+
+
+                });
+
+                function activatedataframesListener() {
+                    for (let i = 0; i < document.getElementById("dataframesList").children.length; i++) {
+                        document.getElementById("dataframesList").children[i].addEventListener("click", function() {
+                            extentsList[activeMap] = view.extent;
+                            activeMap = event.target.innerHTML;
+                            view.map = mapsList[activeMap];
+                            view.extent = extentsList[activeMap];
+                            for (let i = 0; i < document.getElementById("dataframesList").children.length; i++) {
+                                document.getElementById("dataframesList").children[i].style.background = "rgb(209, 217, 223)";
+                                if (document.getElementById("dataframesList").children[i].innerHTML === activeMap)
+                                    document.getElementById("dataframesList").children[i].style.background = "#76E284";
+                            }
+                        });
+
+                    }
+
+                }
+
+
+                document.getElementById("deletedataframeBtn").addEventListener("click", function() {
+                    for (let i = 0; i < document.getElementById("dataframesList").children.length; i++) {
+                        if (document.getElementById("dataframesList").children[i].innerHTML !== "الخريطة الافتراضية")
+                            document.getElementById("dataframesList").children[i].style.background = "#E27878";
+
+                        document.getElementById("dataframesList").children[i].addEventListener('click', event => {
+                            if (document.getElementById("dataframesList").children[i].innerHTML === "الخريطة الافتراضية")
+                                document.getElementById("dataframesList").children[i].removeEventListener("click", event)
+                            else {
+                                mapsList[event.target.innerHTML] = '';
+                                extentsList[event.target.innerHTML] = '';
+
+                                if (event.target.innerHTML === activeMap) {
+                                    activeMap = "الخريطة الافتراضية";
+                                    view.map = mapsList[activeMap];
+                                    view.extent = extentsList[activeMap];
+                                }
+
+                            }
+                            updatedataframes();
+                            for (let i = 0; i < document.getElementById("dataframesList").children.length; i++) {
+                                document.getElementById("dataframesList").children[i].style.background = "#rgb(209, 217, 223)";
+                                if (document.getElementById("dataframesList").children[i].innerHTML === activeMap)
+                                    document.getElementById("dataframesList").children[i].style.background = "#76E284";
+                            }
+
+                            activatedataframesListener();
+
+                        });
+
+                    }
+
+                });
+
+                function updatedataframes() {
+                    document.getElementById('dataframesList').innerHTML = "";
+                    for (let dataframe in mapsList) {
+                        let dataframeDiv = document.createElement("div");
+                        dataframeDiv.innerHTML = dataframe;
+                        document.getElementById("dataframesList").appendChild(dataframeDiv)
+                    }
+                }
+
+
+                //============================================================
+                //==================== Query ========================================
+                //============================================================
+
+                let selectedLayerFeatures, queryField, sqlExpression;
+                let querySymbol, queryRenderer, querySource, queryResult, queryLayerName, selectedLayerName,
+                    queryLayer = new FeatureLayer({
+                        title: "نتيجة البحث",
+                        source: [],
+                        fields: [],
+                        spatialReference: view.spatialReference,
+                    });
+
+                document.getElementById("queryLayers").addEventListener("change", function() {
+                    if (this.value != "") {
+                        document.getElementById("downloadQueryBtn").disabled = true;
+                        document.getElementById("downloadQueryBtn").style.background = "gray";
+                        selectedLayerName = this.value;
+                        selectedLayer = mapsList[activeMap].findLayerById(selectedLayerName);
+                        selectedLayer.labelingInfo = [labelClass];
+                        queryLayerName = selectedLayer.title + "_Query";
+
+                        if (selectedLayer.type === 'csv' ||
+                            selectedLayer.type === 'feature' ||
+                            selectedLayer.type === 'json' ||
+                            selectedLayer.type === 'geojson' ||
+                            selectedLayer.type === 'kml') {
+                            updateFieldsList("queryFields");
+
+                            var layerFieldsQuery = {
+                                outFields: ["*"],
+                                returnGeometry: false,
+                                where: ""
+                            };
+                            selectedLayer.queryFeatures(layerFieldsQuery).then(function(result) {
+                                selectedLayerFeatures = result.features;
+                            });
+                        } else {
+                            alert("لا يمكن إجراء البحث على هذه الطبقة");
+                            document.getElementById("queryLayers").value = "";
+                        }
+
+                    }
+                });
+
+                document.getElementById("queryFields").addEventListener("change", function() {
+                    updateQueryValues();
+
+                });
+
+                document.getElementById("queryInputType").addEventListener("change", function() {
+                    switch (this.value) {
+                        case 'existing':
+                            document.getElementById("queryValuesDiv").style.display = "block";
+                            document.getElementById("queryInputDiv").style.display = "none";
+
+                            updateQueryValues();
+                            var accordion = document.getElementsByClassName("panel2");
+                            accordion[0].style.maxHeight = accordion[0].scrollHeight + "px";
+
+
+                            break;
+
+                        case 'inputs':
+                            document.getElementById("queryInputDiv").style.display = "block";
+                            document.getElementById("queryValuesDiv").style.display = "none";
+                            var accordion = document.getElementsByClassName("panel2");
+                            accordion[0].style.maxHeight = accordion[0].scrollHeight + "px";
+                            break;
+
+                        default:
+                            break;
+                    }
+                });
+
+
+                document.getElementById("applyQueryBtn").addEventListener("click", function() {
+                    queryField = document.getElementById("queryFields").value;
+                    let queryLayers = document.getElementById("queryLayers").value;
+                    let queryOperator = document.getElementById("queryOperators").value;
+                    let queryInputType = document.getElementById("queryInputType").value;
+                    let queryInput = document.getElementById("queryInput").value;
+                    let queryValue = document.getElementById("queryValues").value;
+
+                    let selectionSource = [];
+                    queryLayer.source = [];
+                    queryLayer.fields = selectedLayer.fields;
+                    queryLayer.geometryType = selectedLayer.geometryType;
+                    queryLayer.spatialReference = selectedLayer.spatialReference;
+                    mapsList[activeMap].remove(queryLayer);
+
+
+                    if (
+                        queryLayers === "" ||
+                        queryOperator === "" ||
+                        queryField === "" ||
+                        queryInputType === ""
+                    ) {
+                        alert("الرجاء تكملة متطلبات البحث")
+                    } else {
+                        if (!Number(queryValue))
+                            queryValue = "'" + queryValue + "'"
+                        if (queryInputType === "existing")
+                            sqlExpression = queryField + queryOperator + queryValue
+                        else if (queryInputType === "inputs")
+                            sqlExpression = queryField + queryOperator + queryInput
+                        let attributeQuery = {
+                            outFields: ["*"],
+                            returnGeometry: true,
+                            where: sqlExpression
+                        };
+                        selectedLayer.queryFeatures(attributeQuery).then(function(response) {
+                            if (response.features.length > 0) {
+                                addQueryResult(response)
+
+                                queryResult = JSON.stringify(response);
+                                //console.log(queryResult)
+
+                            } // if response
+                            else {
+                                alert("لا توجد نتيجة لهذا البحث")
+                            }
+                        });
+
+
+                    }
+                });
+
+
+
+                function updateQueryValues() {
+                    queryField = document.getElementById("queryFields").value;
+                    document.getElementById("queryValues").innerHTML = "";
+                    for (i = 0; i < selectedLayerFeatures.length; i++) {
+                        let option = document.createElement("option");
+                        option.value = selectedLayerFeatures[i].attributes[queryField];
+                        option.text = selectedLayerFeatures[i].attributes[queryField];
+                        document.getElementById("queryValues").appendChild(option)
+                    }
+
+                }
+
+
+
+                function addQueryResult(response) {
+                    querySource = [];
+                    layerList.operationalItems.items.forEach(layer => {
+                        if (layer.layer.id === selectedLayer.id)
+                            layer.visible = false;
+                        //console.log(layer)
+                    });
+
+
+
+                    let geometriesArray = response.features.map(function(feature) {
+                        return feature.geometry
+                    })
+
+                    const markerSymbol = {
+                        type: "simple-marker",
+                        style: "circle", // circle,cross,diamond
+                        color: "#C6115A",
+                        size: "8px", // pixels
+                    }
+                    const lineSymbol = {
+                        type: "simple-line",
+                        color: "#C6115A",
+                        width: 4
+                    }
+
+                    const fillSymbol = {
+                        type: "simple-fill",
+                        color: "#C6115A",
+                        width: "3px",
+
+                    }
+
+                    switch (response.geometryType) {
+                        case 'point':
+                            querySymbol = markerSymbol;
+                            break;
+                        case 'polyline':
+                            querySymbol = lineSymbol;
+                            break;
+                        case 'polygon':
+                            querySymbol = fillSymbol;
+                            break;
+                        default:
+                            break;
+
+                    }
+                    queryRenderer = {
+                        type: "simple",
+                        symbol: querySymbol
+                    };
+
+                    response.features.forEach(feature => {
+                        let queryGraphic = new Graphic({
+                            geometry: feature.geometry,
+                            attributes: feature.attributes,
+                            symbol: querySymbol
+                        });
+                        //view.graphics.add(queryGraphic) //temp
+                        querySource.push(queryGraphic)
+                    });
+
+
+                    queryLayer.renderer = queryRenderer;
+                    queryLayer.source = querySource;
+                    mapsList[activeMap].add(queryLayer)
+                    legend.layerInfos.push({
+                        layer: queryLayer,
+                    });
+                    queryLayer.queryExtent().then(function(result) {
+                            view.goTo(result.extent)
+                            document.getElementById('queryLayers').value = selectedLayerName;
+                        })
+                        //console.log(queryLayer)
+
+                    if (geometriesArray[0].type === "point") {
+                        var featuresTable = []
+
+                        var resultFeatures = response.features
+                        resultFeatures.forEach(featureTotable)
+
+                        function featureTotable(feature) {
+                            //console.log(feature.attributes)
+                            featuresTable.push(feature.attributes)
+                        }
+                        //console.table(featuresTable)
+                        /*var stringify = JSON.stringify(featuresTable)
+                        console.log(stringify)*/
+
+                        const Querycsv = $.csv.fromObjects(featuresTable)
+                            // Download csv file
+                            //if (featuresTable.length > 0) downloadBlobAsFile(csv, 'streetsTable.csv')
+
+                        var downloadQueryBtn = document.getElementById("downloadQueryBtn");
+                        if (featuresTable.length > 0) {
+                            downloadQueryBtn.disabled = false;
+                            downloadQueryBtn.style.background = "green";
+                        }
+
+
+                        downloadQueryBtn.addEventListener('click', (event) => {
+                            downloadBlobAsFile(Querycsv, queryLayerName)
+                        });
+
+                    } else {
+                        var downloadQueryBtn = document.getElementById("downloadQueryBtn");
+                        downloadQueryBtn.disabled = false;
+                        downloadQueryBtn.style.background = "green";
+
+                        downloadQueryBtn.addEventListener('click', (event) => {
+                            downloadBlobAsFile(queryResult, queryLayerName + ".json")
+                        });
+                    }
+
+
+
+                } //addQueryResult
+
+
+                document.getElementById("resetQuery").addEventListener('click', (event) => {
+                    if (selectedLayer != undefined) {
+                        mapsList[activeMap].remove(queryLayer);
+                        layerList.operationalItems.items.forEach(layer => {
+                            if (layer.layer.id === selectedLayer.id)
+                                layer.visible = true;
+
+                        });
+                        selectedLayer.queryExtent().then(function(result) {
+                            view.goTo(result.extent)
+                        })
+                    }
+                });
+
+
+
+
+                //============================================================
+                //==================== Analysis ========================================
+                //============================================================
+
+
+
+                //==================== spatialReference ========================================
+
+                let targetCRS, coordsysType, NorthSouth = "N",
+                    utmZone = 1;
+
+
+                document.getElementById("crsType").addEventListener("change", function() {
+                    coordsysType = this.value;
+                    if (coordsysType === "utm") {
+                        //document.getElementById("NorSDiv").style.display = "flex";
+                        //document.getElementById("utmZoneDiv").style.display = "flex";
+                        document.getElementById("NorS").addEventListener("change", function() {
+                            NorthSouth = this.value;
+                        });
+                        for (i = 1; i <= 60; i++) {
+                            let option = document.createElement("option")
+                            option.value = i
+                            option.text = i
+                            document.getElementById("utmZone").appendChild(option)
+                        }
+                        document.getElementById("utmZone").addEventListener("change", function() {
+                            utmZone = this.value;
+                        });
+
+                    }
+
+                });
+                document.getElementById("changeCRS").addEventListener("click", function() {
+                    if (coordsysType === "utm") {
+                        targetCRS = view.spatialReference.clone();
+                        targetCRS.wkid = 3857;
+                        view.spatialReference = targetCRS;
+                    } else {
+                        targetCRS = view.spatialReference.clone();
+                        targetCRS.wkid = 4326;
+                        view.spatialReference = targetCRS;
+                    }
+
+                });
+
+
+
+                //==================== Selection ========================================
+
+                let selectionWidget = document.getElementById('selectionWidgetTemplate').cloneNode(true);
+
+                let targetLayer, selectionLayer, selectionListener, selectSymbol, selectionRenderer, selectionSource,
+                    selectedFeaturesLayer = new FeatureLayer({
+                        title: "المعالم المحددة",
+                        source: [],
+                        fields: [],
+                        /*geometryType: "point",
+                        renderer: {
+                            type: "simple",
+                            symbol: {},
+                        },
+                        spatialReference: view.spatialReference,*/
+                    });
+
+                document.getElementById("selectToggle").addEventListener("click", activateSelectionTools);
+                document.getElementById("selectFeaturesBtn").addEventListener("click", activateSelectionTools);
+
+                function activateSelectionTools() {
+                    clearLeftWidgets();
+                    view.ui.add(selectionWidget, "top-left");
+                    activateWidgetHeader();
+                    upadateLayerList("targetSelectionLayer");
+                    upadateLayerList("selectionLayers");
+
+                    document.getElementById("targetSelectionLayer").addEventListener("change", function() {
+                        if (document.getElementById("targetSelectionLayer").value !== "") {
+                            let targetSelectionLayerID = document.getElementById("targetSelectionLayer").value;
+                            targetLayer = mapsList[activeMap].findLayerById(targetSelectionLayerID);
+                            document.getElementById("selectionLayers").options[0].selected = true;
+                            selectedFeaturesLayer.fields = targetLayer.fields;
+                            selectedFeaturesLayer.geometryType = targetLayer.geometryType;
+                            selectedFeaturesLayer.spatialReference = targetLayer.spatialReference;
+                            let inputGeom = targetLayer.geometryType;
+                            switch (inputGeom) {
+                                case "point":
+                                    selectSymbol = selectedPointsSymbol;
+                                    break;
+                                case "polyline":
+                                    selectSymbol = selectedLinesSymbol;
+                                    break;
+                                default:
+                                    selectSymbol = selectedPolygonsSymbol;
+                                    break;
+                            }
+                            selectionRenderer = {
+                                type: "simple",
+                                symbol: selectSymbol
+                            };
+
+                        }
+                        if (selectionListener)
+                            selectionListener.remove();
+
+
+                    });
+
+                    document.getElementById("selectionLayers").addEventListener("change", function() {
+                        if (document.getElementById("targetSelectionLayer").value === "") {
+                            alert("الرجاء تحديد الطبقة المستهدفة!")
+                        } else if (document.getElementById("selectionLayers").value !== "") {
+                            let selectionLayerID = document.getElementById("selectionLayers").value;
+                            selectionLayer = mapsList[activeMap].findLayerById(selectionLayerID);
+                            if (selectionListener)
+                                selectionListener.remove();
+
+                            mapsList[activeMap].remove(selectedFeaturesLayer);
+                            selectionSource = [];
+                            selectedFeaturesLayer.source = [];
+
+                            if (selectionLayer.type === "graphics") {
+                                selectionLayer.graphics.items.forEach(queryFeature => {
+                                    selectFeature(queryFeature);
+                                });
+
+                            } else {
+                                var QueryAll = {
+                                    outFields: ["*"],
+                                    returnGeometry: true,
+                                };
+
+                                selectionLayer.queryFeatures(QueryAll).then(function(queryResult) {
+                                    queryResult.features.forEach(queryFeature => {
+                                        selectFeature(queryFeature);
+
+                                    });
+
+                                });
+                            } // else not graphics
+                        } //else if selectionLayers not empty
+                    });
+
+                    function selectFeature(queryFeature) {
+
+                        var Query = {
+                            outFields: ["*"],
+                            returnGeometry: true,
+                            geometry: queryFeature.geometry,
+                        };
+
+                        targetLayer.queryFeatures(Query).then(function(result) {
+                            result.features.forEach(feature => {
+
+                                let selectionGraphic = new Graphic({
+                                    geometry: feature.geometry,
+                                    attributes: feature.attributes,
+                                    symbol: selectSymbol
+                                });
+                                //view.graphics.add(selectionGraphic)
+                                selectionSource.push(selectionGraphic)
+                            });
+
+                            selectedFeaturesLayer.renderer = selectionRenderer;
+                            selectedFeaturesLayer.source = selectionSource;
+                            mapsList[activeMap].add(selectedFeaturesLayer)
+                            legend.layerInfos.push({
+                                layer: selectedFeaturesLayer,
+                            });
+
+                        });
+                    } //selectFeature
+
+
+                    document.getElementById("activateSelection").addEventListener("click", function() {
+                        if (document.getElementById("targetSelectionLayer").value === "") {
+                            alert("الرجاء تحديد الطبقة المستهدفة!")
+                        } else {
+                            selectionListener = view.on("click", function(event) {
+                                let selectionSource = [];
+                                selectedFeaturesLayer.source = [];
+                                selectedFeaturesLayer.fields = targetLayer.fields;
+                                selectedFeaturesLayer.geometryType = targetLayer.geometryType;
+                                selectedFeaturesLayer.spatialReference = targetLayer.spatialReference;
+                                mapsList[activeMap].remove(selectedFeaturesLayer);
+                                var Query = {
+                                    outFields: ["*"],
+                                    returnGeometry: true,
+                                    geometry: view.toMap(event),
+                                };
+                                /* search buffer radius 
+                                if(targetLayer.geometryType ==='point')
+                                Query.distance = "1"
+                                */
+                                targetLayer.queryFeatures(Query).then(function(result) {
+                                    result.features.forEach(feature => {
+
+                                        let selectionGraphic = new Graphic({
+                                            geometry: feature.geometry,
+                                            attributes: feature.attributes,
+                                            symbol: selectSymbol
+                                        });
+                                        //view.graphics.add(selectionGraphic)
+                                        selectionSource.push(selectionGraphic)
+                                    });
+
+                                    selectedFeaturesLayer.renderer = selectionRenderer;
+                                    selectedFeaturesLayer.source = selectionSource;
+                                    mapsList[activeMap].add(selectedFeaturesLayer)
+                                    legend.layerInfos.push({
+                                        layer: selectedFeaturesLayer,
+                                    });
+
+                                });
+
+
+
+                            });
+                        } //else
+                    }); //activateSelection addEventListener
+
+                    document.getElementById("disableSelection").addEventListener("click", function() {
+                        if (selectionListener)
+                            selectionListener.remove()
+                    });
+
+                    document.getElementById("removeSelection").addEventListener("click", function() {
+                        document.getElementById("selectionLayers").options[0].selected = true;
+                        document.getElementById("targetSelectionLayer").options[0].selected = true;
+                        if (selectionListener)
+                            selectionListener.remove();
+                        mapsList[activeMap].remove(selectedFeaturesLayer);
+
+                    });
+
+                } // activateSelectionTools 
+
+
+
+
+                //==================== Buffer Analysis ========================================
+
+                let bufferAnalysisWidget = document.getElementById('bufferAnalysisWidgetTemplate').cloneNode(true);
+
+                document.getElementById("bufferAnalysisBtn").addEventListener("click", function() {
+                    clearLeftWidgets();
+                    view.ui.add(bufferAnalysisWidget, "top-left");
+                    activateWidgetHeader();
+                    upadateLayerList("bufferLayers");
+
+                    document.getElementById("bufferLayers").addEventListener("change", function() {
+                        if (document.getElementById("bufferLayers").value !== "") {
+                            let bufferLayerID = document.getElementById("bufferLayers").value;
+                            selectedLayer = mapsList[activeMap].findLayerById(bufferLayerID);
+                            if (selectedLayer.type === "graphics") {
+                                document.getElementById("bufferDistanceType").options[0].selected = true;
+                                document.getElementById("bufferDistanceType").disabled = true;
+                                document.getElementById("bufferDistanceField").disabled = true;
+                            } else {
+                                document.getElementById("bufferDistanceType").disabled = false;
+                                updateFieldsList('bufferDistanceField');
+                            }
+                        }
+                    });
+
+                    document.getElementById("bufferDistanceType").addEventListener("change", function() {
+                        if (document.getElementById("bufferDistanceType").value === "existing") {
+                            document.getElementById("bufferDistanceField").disabled = false;
+                        } else {
+                            document.getElementById("bufferDistanceField").disabled = true;
+                        }
+
+                    });
+
+
+                    document.getElementById("runBuffer").addEventListener("click", function() {
+                        if (document.getElementById("bufferLayers").value === "")
+                            alert("الرجاء اختيار طبقة");
+                        else if (document.getElementById("bufferDistance").value === "" && document.getElementById("bufferDistanceType").value === "inputs")
+                            alert("الرجاء تحديد مسافة الحرم");
+                        else {
+                            let bufferGeometries = [],
+                                bufferObjects = [],
+                                fieldInfos = [],
+                                bufferLayer;
+                            let bufferDistance = document.getElementById("bufferDistance").value;
+                            let bufferUnit = document.getElementById("bufferUnit").value;
+                            let bufferDistanceField = document.getElementById("bufferDistanceField").value;
+
+
+                            if (selectedLayer.type === "graphics") {
+                                const fields = [{
+                                    name: "ObjectID",
+                                    alias: "ObjectID",
+                                    type: "oid"
+                                }];
+
+                                bufferLayer = new FeatureLayer({
+                                    title: selectedLayer.title + "_buffer_ " + bufferDistance,
+                                    source: [],
+                                    opacity: .5,
+                                    fields: fields,
+                                    geometryType: "polygon",
+                                    renderer: {
+                                        type: "simple",
+                                        symbol: {
+                                            type: "simple-fill",
+                                            color: "#" + Math.floor(Math.random() * 16777215).toString(16),
+                                            outline: {
+                                                color: "rgba(255,255,255,1)",
+                                                width: 2,
+                                            }
+                                        }
+                                    },
+                                    spatialReference: selectedLayer.spatialReference,
+                                });
+
+
+                                selectedLayer.graphics.items.forEach(feature => {
+                                    let bufferGeometry = geometryEngine.geodesicBuffer(feature.geometry, bufferDistance, bufferUnit);
+                                    let bufferGraphic = new Graphic({
+                                        geometry: bufferGeometry,
+                                        symbol: {
+                                            type: "simple-fill",
+
+                                        }
+                                    });
+                                    //view.graphics.add(bufferGraphic)
+                                    bufferLayer.source.push(bufferGraphic)
+                                });
+
+
+                            } else {
+                                bufferLayer = new FeatureLayer({
+                                    title: selectedLayer.title + "_buffer_ " + bufferDistance,
+                                    source: [],
+                                    opacity: .5,
+                                    geometryType: "polygon",
+                                    fields: selectedLayer.fields,
+                                    popupEnabled: true,
+                                    outFields: ["*"],
+
+                                    spatialReference: selectedLayer.spatialReference,
+                                });
+
+                                if (selectedLayer.fields !== undefined) {
+                                    selectedLayer.fields.forEach(field => {
+                                        let attrField = {
+                                            fieldName: field.name
+                                        }
+                                        fieldInfos.push(attrField)
+                                    })
+                                    let bufferLayerPopup = {
+                                        title: "العنصر رقم {ObjectID}",
+                                        content: [{
+                                            type: "fields", // Autocasts as new FieldsContent()
+                                            // Autocasts as new FieldInfo[]
+                                            fieldInfos: fieldInfos
+                                        }]
+                                    }
+
+                                    bufferLayer.popupTemplate = bufferLayerPopup;
+                                }
+
+
+
+                                var Query = {
+                                    outFields: ["*"],
+                                    returnGeometry: true,
+                                };
+
+                                selectedLayer.queryFeatures(Query).then(function(result) {
+                                    result.features.forEach(feature => {
+
+                                        let bufferGeometry;
+                                        if (document.getElementById("bufferDistanceType").value === "existing") {
+                                            bufferGeometry = geometryEngine.geodesicBuffer(feature.geometry, feature.attributes[bufferDistanceField], bufferUnit);
+                                        } else {
+                                            bufferGeometry = geometryEngine.geodesicBuffer(feature.geometry, bufferDistance, bufferUnit);
+                                        }
+
+
+                                        let bufferGraphic = new Graphic({
+                                            geometry: bufferGeometry,
+                                            attributes: feature.attributes,
+                                            symbol: {
+                                                type: "simple-fill",
+                                                color: "#" + Math.floor(Math.random() * 16777215).toString(16),
+                                                outline: {
+                                                    color: "rgba(200,200,200,.2)",
+                                                    width: 2
+                                                }
+                                            }
+                                        });
+                                        //view.graphics.add(bufferGraphic)
+                                        bufferLayer.source.push(bufferGraphic)
+                                    });
+
+
+                                }); // after queryFeatures
+
+
+
+
+                            } //else layer is not graphic
+
+                            mapsList[activeMap].add(bufferLayer)
+                            legend.layerInfos.push({
+                                layer: bufferLayer,
+                            });
+
+                        } // else distance has been provided
+
+                    }); //runBuffer
+
+                }); //bufferAnalysisBtn
+
+
+                //     bufferDistanceType  bufferDistanceField bufferDistance
+
+
+
+
+                //==================== Intersection Analysis ========================================
+
+
+                let intersectionAnalysisWidget = document.getElementById('intersectionAnalysisWidgetTemplate').cloneNode(true);
+
+                document.getElementById("intersectAnalysisBtn").addEventListener("click", function() {
+                    clearLeftWidgets();
+                    view.ui.add(intersectionAnalysisWidget, "top-left");
+                    activateWidgetHeader();
+                    upadateLayerList("intersectionLayer1");
+                    upadateLayerList("intersectionLayer2");
+
+                    let geom1 = [],
+                        geom2 = [],
+                        attr1 = [],
+                        attr2 = [],
+                        fieldInfos = [],
+                        fields1, fields2, intersectionLayer;
+                    let intersectionLayer1;
+                    let intersectionLayer2;
+                    let selectedLayer1;
+                    let selectedLayer2;
+
+                    document.getElementById("intersectionLayer1").addEventListener("change", function() {
+                        if (document.getElementById("intersectionLayer1").value !== "") {
+                            // getting the geometry & fields of the first layer
+                            attr1 = [];
+                            geom1 = [];
+                            fields1 = [];
+                            intersectionLayer1 = document.getElementById("intersectionLayer1").value;
+                            selectedLayer1 = mapsList[activeMap].findLayerById(intersectionLayer1);
+                            if (selectedLayer1.type === "graphics") {
+                                fields1 = [{
+                                    name: "ObjectID",
+                                    alias: "ObjectID",
+                                    type: "oid"
+                                }];
+
+                                selectedLayer1.graphics.items.forEach(feature => {
+                                    geom1.push(feature.geometry);
+                                });
+                            } else {
+                                fields1 = selectedLayer1.fields;
+                                var Query = {
+                                    outFields: ["*"],
+                                    returnGeometry: true,
+                                };
+
+                                selectedLayer1.queryFeatures(Query).then(function(result) {
+                                    result.features.forEach(feature => {
+                                        geom1.push(feature.geometry);
+                                        attr1.push(feature.attributes);
+                                    });
+                                });
+
+                            }
+                        }
+                    });
+
+                    document.getElementById("intersectionLayer2").addEventListener("change", function() {
+                        if (document.getElementById("intersectionLayer2").value !== "") {
+                            // getting the geometry & fields of the second layer
+                            attr2 = [];
+                            geom2 = [];
+                            fields2 = [];
+                            intersectionLayer2 = document.getElementById("intersectionLayer2").value;;
+                            selectedLayer2 = mapsList[activeMap].findLayerById(intersectionLayer2);
+                            if (selectedLayer2.type === "graphics") {
+                                fields2 = [{
+                                    name: "ObjectID",
+                                    alias: "ObjectID",
+                                    type: "oid"
+                                }];
+
+                                selectedLayer2.graphics.items.forEach(feature => {
+                                    geom2.push(feature.geometry);
+                                });
+
+                            } else {
+                                fields2 = selectedLayer2.fields;
+                                var Query = {
+                                    outFields: ["*"],
+                                    returnGeometry: true,
+                                };
+
+                                selectedLayer2.queryFeatures(Query).then(function(result) {
+                                    result.features.forEach(feature => {
+                                        geom2.push(feature.geometry);
+                                        attr2.push(feature.attributes);
+                                    });
+                                });
+
+                            }
+                        }
+                    });
+
+
+                    document.getElementById("runIntersection").addEventListener("click", function() {
+
+                        if (document.getElementById("intersectionLayer1").value === "" || document.getElementById("intersectionLayer2").value === "")
+                            alert("الرجاء تحديد الطبقات");
+                        else {
+
+                            if (selectedLayer1.geometryType === "polygon" && selectedLayer2.geometryType === "polygon") {
+                                runIntersection();
+
+                            } else if (selectedLayer1.geometryType !== "polygon" || selectedLayer2.geometryType !== "polygon") {
+                                if (selectedLayer1.type === "graphics" || selectedLayer2.type === "graphics") {
+                                    runIntersection();
+                                } else {
+
+                                    alert("الرجاء اختيار طبقات من نوع المضلعات");
+
+                                } // else good to go
+
+                            } //else layers are provided
+
+
+                        } // if layers are polygon
+
+
+                        function runIntersection() {
+
+                            //merge layers list of fields
+                            fields2.forEach(field => {
+                                field.name = field.name + "2"
+                                fields1.push(field)
+                            });
+
+                            // prepare result layer
+                            intersectionLayer = new FeatureLayer({
+                                title: selectedLayer1.title + "_" + selectedLayer2.title + "_تقاطع",
+                                source: [],
+                                fields: fields1,
+                                geometryType: "polygon",
+                                renderer: {
+                                    type: "simple",
+                                    symbol: {
+                                        type: "simple-fill",
+                                        color: "#" + Math.floor(Math.random() * 16777215).toString(16),
+                                        outline: {
+                                            color: "rgba(255,255,255,1)",
+                                            width: 2,
+                                        }
+                                    }
+                                },
+                                popupEnabled: true,
+                                //popupTemplate: intersectionLayerPopup,
+                                outFields: ["*"],
+                                spatialReference: selectedLayer1.spatialReference,
+                            });
+                            let objectID = 0;
+                            for (let i = 0; i < geom1.length; i++) {
+                                for (let j = 0; j < geom2.length; j++) {
+                                    let intersectionGeom = geometryEngine.intersect(geom1[i], geom2[j]);
+                                    if (intersectionGeom) {
+                                        let attributes = {},
+                                            firstAttr = {},
+                                            secondAttr = {};
+
+                                        if (attr1[i]) {
+                                            firstAttr = attr1[i];
+                                            for (const [key, value] of Object.entries(firstAttr)) {
+                                                attributes[key] = value;
+                                            }
+                                        }
+                                        if (attr2[j]) {
+                                            secondAttr = attr2[j];
+
+                                            for (const [key, value] of Object.entries(secondAttr)) {
+                                                attributes[key + "2"] = value;
+                                            }
+                                        }
+
+                                        attributes["OBJECTID"] = objectID;
+                                        objectID += 1;
+
+                                        let intersectionGraphic = new Graphic({
+                                            geometry: intersectionGeom,
+                                            symbol: {
+                                                type: "simple-fill",
+                                            },
+                                            attributes: attributes,
+                                        });
+                                        //view.graphics.add(intersectionGraphic)
+                                        intersectionLayer.source.push(intersectionGraphic)
+
+                                        ///console.log(intersectionLayer.source)
+                                    }
+                                }
+                            }
+
+                            fieldInfos = [];
+                            fields1.forEach(field => {
+                                let attrField = {
+                                    fieldName: field.name
+                                }
+                                fieldInfos.push(attrField)
+                            })
+                            let intersectionLayerPopup = {
+                                title: "العنصر رقم {ObjectID}",
+                                content: [{
+                                    type: "fields", // Autocasts as new FieldsContent()
+                                    // Autocasts as new FieldInfo[]
+                                    fieldInfos: fieldInfos
+                                }]
+                            }
+
+                            //console.log(intersectionGraphic)
+                            intersectionLayer.popupTemplate = intersectionLayerPopup;
+
+                            mapsList[activeMap].add(intersectionLayer)
+                            legend.layerInfos.push({
+                                layer: intersectionLayer,
+                            });
+
+                        } //runIntersection
+
+
+                    }); //runIntersection
+
+                }); // intersectionAnalysisBtn
+
+
+
+
+
+
+
+
+
+
+                //==================== union Analysis ========================================
+
+
+                let unionAnalysisWidget = document.getElementById('unionAnalysisWidgetTemplate').cloneNode(true);
+
+                document.getElementById("unionAnalysisBtn").addEventListener("click", function() {
+                    clearLeftWidgets();
+                    view.ui.add(unionAnalysisWidget, "top-left");
+                    activateWidgetHeader();
+
+                    let geometries = [],
+                        unionLayersNo
+                    document.getElementById("unionLayersNo").addEventListener("change", function() {
+                        unionLayersNo = document.getElementById("unionLayersNo").value;
+                        if (unionLayersNo !== "") {
+                            //document.getElementById('unionLayersDiv').innerHTML = "";
+
+                            for (i = 0; i < 10; i++) {
+                                let unionLayerSelector = document.getElementById("unionLayer" + i);
+                                if (i < unionLayersNo) {
+                                    unionLayerSelector.style.display = "flex";
+                                    upadateLayerList("unionLayer" + i);
+
+
+                                    unionLayerSelector.addEventListener("change", function() {
+                                        let id = Number(event.target.id[10]);
+                                        geometries[id] = [];
+                                        if (unionLayerSelector.value !== "") {
+                                            selectedLayer = mapsList[activeMap].findLayerById(unionLayerSelector.value);
+                                            if (selectedLayer.type === "graphics") {
+                                                selectedLayer.graphics.items.forEach(feature => {
+                                                    geometries[id].push(feature.geometry);
+                                                });
+                                            } else {
+                                                var Query = {
+                                                    returnGeometry: true,
+                                                };
+
+                                                selectedLayer.queryFeatures(Query).then(function(result) {
+                                                    result.features.forEach(feature => {
+                                                        geometries[id].push(feature.geometry);
+                                                    });
+                                                });
+
+                                            }
+
+
+                                        }
+                                    });
+
+
+                                } else
+                                    unionLayerSelector.style.display = "none";
+
+                            }
+
+
+
+
+                        } // if unionLayers != "
+
+                    });
+
+                    let mergedGeometries, finalGeometry, unionLayer;
+                    document.getElementById("rununion").addEventListener("click", function() {
+                        let emptyLayers = false;
+                        let wrongGeometry = false;
+                        let firstGeom = geometries[0];
+                        for (i = 0; i < unionLayersNo; i++) {
+                            if (document.getElementById("unionLayer" + i).value === "") {
+                                emptyLayers = true;
+                            }
+                            let layerGeom = geometries[i];
+                            if (layerGeom[0].type !== firstGeom[0].type)
+                                wrongGeometry = true;
+                        }
+                        if (emptyLayers)
+                            alert("الرجاء ادخال جميع الطبقات")
+                        else if (wrongGeometry)
+                            alert("الرجاء اختيار طبقات من نفس النوع")
+                        else
+                            runUnion();
+
+                    });
+
+                    function runUnion() {
+
+                        mergedGeometries = [];
+
+                        unionLayer = new FeatureLayer({
+                            title: "طبقات مدموجة " + unionLayersNo,
+                            source: [],
+                            geometryType: "polygon",
+                            fields: [{
+                                name: "ObjectID",
+                                alias: "ObjectID",
+                                type: "oid"
+                            }],
+                            renderer: {
+                                type: "simple",
+                                symbol: {
+                                    type: "simple-fill",
+                                    color: "#" + Math.floor(Math.random() * 16777215).toString(16),
+                                    outline: {
+                                        color: "rgba(255,255,255,1)",
+                                        width: 2,
+                                    }
+                                }
+                            },
+                            spatialReference: {},
+                        });
+
+                        for (i = 0; i < unionLayersNo; i++) {
+                            let geom = geometries[i];
+                            let union = geometryEngine.union(geom);
+                            mergedGeometries.push(union);
+                        }
+
+                        let finalGeometry = geometryEngine.union(mergedGeometries);
+                        unionLayer.spatialReference = finalGeometry.spatialReference;
+
+                        let unionGraphic = new Graphic({
+                            geometry: finalGeometry,
+                            symbol: {
+                                type: "simple-fill",
+                            },
+                        });
+
+                        unionLayer.source.push(unionGraphic)
+                        mapsList[activeMap].add(unionLayer);
+                        legend.layerInfos.push({
+                            layer: unionLayer,
+                        });
+
+
+                    }
+
+
+
+                }); // unionAnalysisBtn
+
+
+
+
+                //==================== clip Analysis ========================================
+
+
+                let clipAnalysisWidget = document.getElementById('clipAnalysisWidgetTemplate').cloneNode(true);
+
+                document.getElementById("clipAnalysisBtn").addEventListener("click", function() {
+                    clearLeftWidgets();
+                    view.ui.add(clipAnalysisWidget, "top-left");
+                    activateWidgetHeader();
+                    upadateLayerList("clipLayer1");
+                    upadateLayerList("clipLayer2");
+
+                    let geom1 = [],
+                        geom2 = [],
+                        attr1 = [],
+                        attr2 = [],
+                        fieldInfos = [],
+                        fields1, fields2, clipLayer;
+                    let clipLayer1;
+                    let clipLayer2;
+                    let selectedLayer1;
+                    let selectedLayer2;
+
+                    let clipSymbol;
+
+
+
+
+
+                    document.getElementById("clipLayer1").addEventListener("change", function() {
+                        if (document.getElementById("clipLayer1").value !== "") {
+                            // getting the geometry & fields of the first layer
+                            attr1 = [];
+                            geom1 = [];
+                            fields1 = [];
+                            clipLayer1 = document.getElementById("clipLayer1").value;
+                            selectedLayer1 = mapsList[activeMap].findLayerById(clipLayer1);
+                            if (selectedLayer1.type === "graphics") {
+                                fields1 = [{
+                                    name: "ObjectID",
+                                    alias: "ObjectID",
+                                    type: "oid"
+                                }];
+
+                                selectedLayer1.graphics.items.forEach(feature => {
+                                    geom1.push(feature.geometry);
+                                });
+                            } else {
+                                fields1 = selectedLayer1.fields;
+                                var Query = {
+                                    outFields: ["*"],
+                                    returnGeometry: true,
+                                };
+
+                                selectedLayer1.queryFeatures(Query).then(function(result) {
+                                    result.features.forEach(feature => {
+                                        geom1.push(feature.geometry);
+                                        attr1.push(feature.attributes);
+                                    });
+                                });
+
+                            }
+                        }
+                    });
+
+                    document.getElementById("clipLayer2").addEventListener("change", function() {
+                        if (document.getElementById("clipLayer2").value !== "") {
+                            // getting the geometry & fields of the second layer
+                            attr2 = [];
+                            geom2 = [];
+                            fields2 = [];
+                            clipLayer2 = document.getElementById("clipLayer2").value;;
+                            selectedLayer2 = mapsList[activeMap].findLayerById(clipLayer2);
+                            if (selectedLayer2.type === "graphics") {
+                                fields2 = [{
+                                    name: "ObjectID",
+                                    alias: "ObjectID",
+                                    type: "oid"
+                                }];
+
+                                selectedLayer2.graphics.items.forEach(feature => {
+                                    geom2.push(feature.geometry);
+                                });
+
+                            } else {
+                                fields2 = selectedLayer2.fields;
+                                var Query = {
+                                    outFields: ["*"],
+                                    returnGeometry: true,
+                                };
+
+                                selectedLayer2.queryFeatures(Query).then(function(result) {
+                                    result.features.forEach(feature => {
+                                        geom2.push(feature.geometry);
+                                        attr2.push(feature.attributes);
+                                    });
+                                });
+
+                            }
+                        }
+                    });
+
+
+
+                    document.getElementById("runclip").addEventListener("click", function() {
+
+                        if (document.getElementById("clipLayer1").value === "" || document.getElementById("clipLayer2").value === "")
+                            alert("الرجاء تحديد جميع الطبقات")
+                        else if (selectedLayer2.geometryType !== "polygon") {
+                            if (selectedLayer2.type === "graphics")
+                                runclip();
+                            else
+                                alert("طبقة الاقتطاع يجب تكون تكون من المضلعات")
+                        } else
+                            runclip();
+
+                    });
+
+
+
+                    function runclip() {
+                        let inputGeom = geom1[0].type;
+                        switch (inputGeom) {
+                            case "point":
+                                clipSymbol = PointsSymbol;
+                                break;
+                            case "polyline":
+                                clipSymbol = LinesSymbol;
+                                break;
+                            default:
+                                clipSymbol = PolygonsSymbol;
+                                break;
+                        }
+
+                        let color = "#" + Math.floor(Math.random() * 16777215).toString(16);
+                        clipSymbol.color = color;
+
+                        clipLayer = new FeatureLayer({
+                            title: selectedLayer1.title + "_" + selectedLayer2.title + "_اقتطاع",
+                            source: [],
+                            fields: selectedLayer1.fields,
+                            geometryType: selectedLayer1.geometryType,
+                            renderer: {
+                                type: "simple",
+                                symbol: clipSymbol,
+                            },
+                            popupEnabled: true,
+                            //popupTemplate: clipLayerPopup,
+                            outFields: ["*"],
+                            spatialReference: selectedLayer1.spatialReference,
+                        });
+
+
+                        let objectID = 0;
+                        for (let i = 0; i < geom1.length; i++) {
+                            for (let j = 0; j < geom2.length; j++) {
+                                var clipGeom = geometryEngine.intersect(geom1[i], geom2[j]);
+
+                                if (clipGeom) {
+                                    let attributes = {},
+                                        firstAttr = {};
+
+                                    if (attr1[i]) {
+                                        firstAttr = attr1[i];
+                                        for (const [key, value] of Object.entries(firstAttr)) {
+                                            attributes[key] = value;
+                                        }
+                                    }
+
+                                    attributes["OBJECTID"] = objectID;
+                                    objectID += 1;
+
+                                    let clipGraphic = new Graphic({
+                                        geometry: clipGeom,
+                                        symbol: clipSymbol,
+                                        attributes: attributes,
+                                    });
+                                    clipLayer.source.push(clipGraphic)
+                                        //view.graphics.add(clipGraphic)
+
+                                    fieldInfos = [];
+                                    selectedLayer1.fields.forEach(field => {
+                                        let attrField = {
+                                            fieldName: field.name
+                                        }
+                                        fieldInfos.push(attrField)
+                                    })
+                                    let clipLayerPopup = {
+                                        title: "العنصر رقم {ObjectID}",
+                                        content: [{
+                                            type: "fields", // Autocasts as new FieldsContent()
+                                            // Autocasts as new FieldInfo[]
+                                            fieldInfos: fieldInfos
+                                        }]
+                                    }
+
+                                    clipLayer.popupTemplate = clipLayerPopup;
+
+                                    mapsList[activeMap].add(clipLayer)
+                                    legend.layerInfos.push({
+                                        layer: clipLayer,
+                                    });
+
+
+                                }
+                            }
+                        };
+                    }
+
+
+
+
+                }); // clipAnalysisBtn
+
+
+
+
+
+
+                //==================== touch Analysis ========================================
+
+
+                let touchAnalysisWidget = document.getElementById('touchAnalysisWidgetTemplate').cloneNode(true);
+
+                document.getElementById("touchAnalysisBtn").addEventListener("click", function() {
+                    clearLeftWidgets();
+                    view.ui.add(touchAnalysisWidget, "top-left");
+                    activateWidgetHeader();
+                    upadateLayerList("touchLayer1");
+                    upadateLayerList("touchLayer2");
+
+                    let geom1 = [],
+                        geom2 = [],
+                        attr1 = [],
+                        attr2 = [],
+                        fieldInfos = [],
+                        fields1, fields2, touchLayer;
+                    let touchLayer1;
+                    let touchLayer2;
+                    let selectedLayer1;
+                    let selectedLayer2;
+
+                    document.getElementById("touchLayer1").addEventListener("change", function() {
+                        if (document.getElementById("touchLayer1").value !== "") {
+                            // getting the geometry & fields of the first layer
+                            geom1 = [];
+                            touchLayer1 = document.getElementById("touchLayer1").value;
+                            selectedLayer1 = mapsList[activeMap].findLayerById(touchLayer1);
+                            if (selectedLayer1.type === "graphics") {
+                                selectedLayer1.graphics.items.forEach(feature => {
+                                    geom1.push(feature.geometry);
+                                });
+                            } else {
+                                var Query = {
+                                    outFields: ["*"],
+                                    returnGeometry: true,
+                                };
+
+                                selectedLayer1.queryFeatures(Query).then(function(result) {
+                                    result.features.forEach(feature => {
+                                        geom1.push(feature.geometry);
+                                    });
+                                });
+
+                            }
+                        }
+                    });
+
+                    document.getElementById("touchLayer2").addEventListener("change", function() {
+                        if (document.getElementById("touchLayer2").value !== "") {
+                            // getting the geometry & fields of the second layer
+                            attr2 = [];
+                            geom2 = [];
+                            fields2 = [];
+                            touchLayer2 = document.getElementById("touchLayer2").value;;
+                            selectedLayer2 = mapsList[activeMap].findLayerById(touchLayer2);
+                            if (selectedLayer2.type === "graphics") {
+                                fields2 = [{
+                                    name: "ObjectID",
+                                    alias: "ObjectID",
+                                    type: "oid"
+                                }];
+
+                                selectedLayer2.graphics.items.forEach(feature => {
+                                    geom2.push(feature.geometry);
+                                });
+
+                            } else {
+                                fields2 = selectedLayer2.fields;
+                                var Query = {
+                                    outFields: ["*"],
+                                    returnGeometry: true,
+                                };
+
+                                selectedLayer2.queryFeatures(Query).then(function(result) {
+                                    result.features.forEach(feature => {
+                                        geom2.push(feature.geometry);
+                                        attr2.push(feature.attributes);
+                                    });
+                                });
+
+                            }
+                        }
+                    });
+
+
+                    document.getElementById("runtouch").addEventListener("click", function() {
+
+                        if (document.getElementById("touchLayer1").value === "" || document.getElementById("touchLayer2").value === "")
+                            alert("الرجاء تحديد الطبقات");
+                        else {
+
+                            if (selectedLayer1.geometryType === "polygon" && selectedLayer2.geometryType === "polygon") {
+                                runtouch();
+
+                            } else if (selectedLayer1.geometryType !== "polygon" || selectedLayer2.geometryType !== "polygon") {
+                                if (selectedLayer1.type === "graphics" || selectedLayer2.type === "graphics") {
+                                    runtouch();
+                                } else {
+
+                                    alert("الرجاء اختيار طبقات من نوع المضلعات");
+
+                                } // else good to go
+
+                            } //else layers are provided
+
+
+                        } // if layers are polygon
+
+
+                        function runtouch() {
+                            // prepare result layer
+                            touchLayer = new FeatureLayer({
+                                title: selectedLayer1.title + "_" + selectedLayer2.title + "_تلامس",
+                                source: [],
+                                fields: fields2,
+                                geometryType: "polygon",
+                                renderer: {
+                                    type: "simple",
+                                    symbol: {
+                                        type: "simple-fill",
+                                        color: "#" + Math.floor(Math.random() * 16777215).toString(16),
+                                        outline: {
+                                            color: "rgba(255,255,255,1)",
+                                            width: 2,
+                                        }
+                                    }
+                                },
+                                popupEnabled: true,
+                                //popupTemplate: touchLayerPopup,
+                                outFields: ["*"],
+                                spatialReference: selectedLayer1.spatialReference,
+                            });
+                            for (let i = 0; i < geom1.length; i++) {
+                                for (let j = 0; j < geom2.length; j++) {
+                                    let touch = geometryEngine.touches(geom1[i], geom2[j]);
+                                    if (touch) {
+                                        let attributes = {};
+                                        if (attr2[j]) {
+                                            attributes = attr2[j];
+                                        }
+                                        let touchGraphic = new Graphic({
+                                            geometry: geom2[j],
+                                            symbol: {
+                                                type: "simple-fill",
+                                            },
+                                            attributes: attributes,
+                                        });
+                                        //view.graphics.add(touchGraphic)
+                                        touchLayer.source.push(touchGraphic)
+
+                                        ///console.log(touchLayer.source)
+                                    }
+                                }
+                            }
+
+                            fieldInfos = [];
+                            fields2.forEach(field => {
+                                let attrField = {
+                                    fieldName: field.name
+                                }
+                                fieldInfos.push(attrField)
+                            })
+                            let touchLayerPopup = {
+                                title: "العنصر رقم {ObjectID}",
+                                content: [{
+                                    type: "fields", // Autocasts as new FieldsContent()
+                                    // Autocasts as new FieldInfo[]
+                                    fieldInfos: fieldInfos
+                                }]
+                            }
+
+                            //console.log(touchGraphic)
+                            touchLayer.popupTemplate = touchLayerPopup;
+
+                            mapsList[activeMap].add(touchLayer)
+                            legend.layerInfos.push({
+                                layer: touchLayer,
+                            });
+
+                        } //runtouch
+
+
+                    }); //runtouch
+
+                }); // touchAnalysisBtn
+
+
+
+
+
+
+
+                //==================== near Analysis ========================================
+
+
+                let nearAnalysisWidget = document.getElementById('nearAnalysisWidgetTemplate').cloneNode(true);
+
+                document.getElementById("nearAnalysisBtn").addEventListener("click", function() {
+                    clearLeftWidgets();
+                    view.ui.add(nearAnalysisWidget, "top-left");
+                    activateWidgetHeader();
+                    upadateLayerList("nearLayer1");
+                    upadateLayerList("nearLayer2");
+
+                    let geom1 = [],
+                        geom2 = [],
+                        attr1 = [],
+                        attr2 = [],
+                        center1 = [],
+                        center2 = [],
+                        fieldInfos = [],
+                        fields1, fields2, nearLayer;
+                    let nearLayer1;
+                    let nearLayer2;
+                    let selectedLayer1;
+                    let selectedLayer2;
+
+
+
+                    document.getElementById("nearLayer1").addEventListener("change", function() {
+                        if (document.getElementById("nearLayer1").value !== "") {
+                            // getting the geometry & fields of the second layer
+                            attr1 = [];
+                            geom1 = [];
+                            center1 = [];
+                            fields1 = [];
+                            nearLayer1 = document.getElementById("nearLayer1").value;;
+                            selectedLayer1 = mapsList[activeMap].findLayerById(nearLayer1);
+                            if (selectedLayer1.type === "graphics") {
+                                fields1 = [{
+                                    name: "ObjectID",
+                                    alias: "ObjectID",
+                                    type: "oid"
+                                }];
+
+                                selectedLayer1.graphics.items.forEach(feature => {
+                                    geom1.push(feature.geometry);
+                                    center1.push(feature.geometry.centroid);
+                                });
+
+                            } else {
+                                fields1 = selectedLayer1.fields;
+                                var Query = {
+                                    outFields: ["*"],
+                                    returnGeometry: true,
+                                };
+
+                                selectedLayer1.queryFeatures(Query).then(function(result) {
+                                    result.features.forEach(feature => {
+                                        geom1.push(feature.geometry);
+                                        if (selectedLayer1.geometryType === "point")
+                                            center1.push(feature.geometry);
+                                        else
+                                            center1.push(feature.geometry.centroid);
+                                        attr1.push(feature.attributes);
+                                    });
+                                });
+
+                            }
+                        }
+                    });
+
+                    document.getElementById("nearLayer2").addEventListener("change", function() {
+                        if (document.getElementById("nearLayer2").value !== "") {
+                            // getting the geometry & fields of the second layer
+                            attr2 = [];
+                            geom2 = [];
+                            fields2 = [];
+                            nearLayer2 = document.getElementById("nearLayer2").value;;
+                            selectedLayer2 = mapsList[activeMap].findLayerById(nearLayer2);
+                            if (selectedLayer2.type === "graphics") {
+                                fields2 = [{
+                                    name: "ObjectID",
+                                    alias: "ObjectID",
+                                    type: "oid"
+                                }];
+
+                                selectedLayer2.graphics.items.forEach(feature => {
+                                    geom2.push(feature.geometry);
+                                    center2.push(feature.geometry.centroid);
+                                });
+
+                            } else {
+                                fields2 = selectedLayer2.fields;
+                                var Query = {
+                                    outFields: ["*"],
+                                    returnGeometry: true,
+                                };
+
+                                selectedLayer2.queryFeatures(Query).then(function(result) {
+                                    result.features.forEach(feature => {
+                                        geom2.push(feature.geometry);
+                                        if (selectedLayer2.geometryType === "point")
+                                            center2.push(feature.geometry);
+                                        else
+                                            center2.push(feature.geometry.centroid);
+                                        attr2.push(feature.attributes);
+                                    });
+                                });
+
+                            }
+                        }
+                    });
+
+
+                    document.getElementById("runnear").addEventListener("click", function() {
+
+                        if (document.getElementById("nearLayer1").value === "" || document.getElementById("nearLayer2").value === "")
+                            alert("الرجاء تحديد الطبقات");
+                        else
+                            runnear();
+
+
+
+                        function runnear() {
+                            // prepare result layer
+                            let inputGeom = selectedLayer2.geometryType;
+                            switch (inputGeom) {
+                                case "point":
+                                    nearSymbol = PointsSymbol;
+                                    break;
+                                case "polyline":
+                                    nearSymbol = LinesSymbol;
+                                    break;
+                                default:
+                                    nearSymbol = PolygonsSymbol;
+                                    break;
+                            }
+
+                            let color = "#" + Math.floor(Math.random() * 16777215).toString(16);
+                            nearSymbol.color = color;
+
+                            //distance / nearest feature
+
+
+                            nearLayer = new FeatureLayer({
+                                title: selectedLayer1.title + "_" + selectedLayer2.title + "_القرب",
+                                source: [],
+                                fields: fields2,
+                                geometryType: selectedLayer2.geometryType,
+                                renderer: {
+                                    type: "simple",
+                                    symbol: nearSymbol,
+                                },
+                                popupEnabled: true,
+                                //popupTemplate: nearLayerPopup,
+                                outFields: ["*"],
+                                spatialReference: selectedLayer2.spatialReference,
+                            });
+
+                            let attributes = {},
+                                geometry, distance, nearestID;
+                            for (let i = 0; i < geom1.length; i++) {
+                                distance = 999999999;
+                                for (let j = 0; j < geom2.length; j++) {
+                                    let near = geometryEngine.nearestCoordinate(center1[i], center2[j]);
+                                    if (near) {
+                                        if (near.distance < distance) {
+                                            distance = near.distance;
+                                            let nearestFeatureAttr = attr1[i];
+                                            nearestID = nearestFeatureAttr["OBJECTID"];
+                                            attributes = {};
+                                            if (attr2[j]) {
+                                                attributes = attr2[j];
+                                            }
+                                            geometry = geom2[j];
+
+                                        }
+                                    }
+                                }
+                                attributes['nearestID'] = nearestID;
+                                attributes['distance'] = distance;
+                                let nearGraphic = new Graphic({
+                                    geometry: geometry,
+                                    symbol: {
+                                        type: "simple-fill",
+                                    },
+                                    attributes: attributes,
+                                });
+                                //view.graphics.add(nearGraphic)
+                                nearLayer.source.push(nearGraphic)
+
+                                ///console.log(nearLayer.source)
+
+
+                            }
+
+                            fieldInfos = [];
+                            fields2.forEach(field => {
+                                let attrField = {
+                                    fieldName: field.name
+                                }
+                                fieldInfos.push(attrField)
+                            })
+                            fieldInfos.push({
+                                fieldName: "nearestID",
+                            });
+                            fieldInfos.push({
+                                fieldName: "distance"
+                            });
+                            //console.log(nearLayer.source)
+                            //console.log(fieldInfos)
+                            let nearLayerPopup = {
+                                title: "العنصر رقم {ObjectID}",
+                                content: [{
+                                    type: "fields", // Autocasts as new FieldsContent()
+                                    // Autocasts as new FieldInfo[]
+                                    fieldInfos: fieldInfos
+                                }]
+                            }
+
+                            //console.log(nearGraphic)
+                            nearLayer.popupTemplate = nearLayerPopup;
+
+                            mapsList[activeMap].add(nearLayer)
+                            legend.layerInfos.push({
+                                layer: nearLayer,
+                            });
+
+                        } //runnear
+
+
+                    }); //runnear
+
+                }); // nearAnalysisBtn
+
+
+
+
+
+
+
+
+
+
+
+
+                function clearLeftWidgets() {
+                    view.ui.empty("top-left");
+                    view.ui.empty("bottom-left");
+                    /*
+                    for (let i = 0; i < widgetToggles.length; i++) {
+                        if (widgetToggles[i].name === "basemap") {} else {
+                            widgetToggles[i].checked = false;
+                        }
+                    }
+                    */
+                }
+
+
+                // Event handler that fires each time an action is clicked.
+                view.popup.on("trigger-action", function(event) {
+                    // Execute the measureThis() function if the measure-this action is clicked
+                    if (event.action.id === "navigateTo") {
+                        navigateToFun()
+                    }
+                })
+
+
+
+                //--------------- Handle view loading process ----------------------------------
+                view.when(function() {
+                    // All the resources in the MapView and the map have loaded. Now execute additional processes
+                    //console.log("load complete")
+                    document.getElementsByClassName("lds-hourglass")[0].style.display = 'none';
+                    editorToggleListener();
+                    AppInfoWidgetListener();
+                    resetInterfaceListener();
+                    printToggleListener()
+                    let fullExtent = view.extent;
+                    document.getElementById("fullExtent").addEventListener("click", function() {
+                        view.goTo(fullExtent);
+
+                    });
+                    //expandMenu(0)
+                }, function(error) {
+                    // Use the errback function to handle when the view doesn't load properly
+                    console.log("The view's resources failed to load: ", error)
+                })
+
+                //--------------- Hide menu on view focus ----------------------------------
+                view.on("focus", function(event) {
+                    let menuCheck = document.getElementById("menuCheck")
+
+                    if (menuCheck.checked == true) {
+                        document.getElementById("menuCheck").checked = false
+                        viewDiv.style.width = "100%"
+                    }
+                })
+
+
+
+
+                //============================================================
+                //==================== Global Functions and Listeners ===================================================================================================================================================================
+                //============================================================
+                function backBtnHandler() {
+                    let widgetPathId = 0;
+                    while (event.path[widgetPathId].id != "") {
+                        widgetPathId += 1;
+                    }
+
+                    widgetPathId -= 1;
+                    let currentWidgetID = event.path[widgetPathId].id;
+                    currentWidget = document.getElementById(currentWidgetID);
+                    let currentMenuId;
+                    for (let i = 1; i < currentWidget.children.length; i++) {
+                        if (currentWidget.children[i].style.display === "flex" || currentWidget.children[i].style.display === "block") {
+                            currentMenuId = currentWidget.children[i].id;
+                        }
+                    }
+                    let previousMenuId = widgetBackMenus[currentMenuId];
+                    switch (previousMenuId) {
+                        case "none":
+                            view.ui.empty("top-left");
+                            break;
+                        default:
+                            for (i = 1; i < currentWidget.children.length; i++) {
+                                currentWidget.children[i].style.display = "none";
+                            }
+                            //document.getElementById("widgetHeader").style.display = "flex";
+                            document.getElementById(previousMenuId).style.display = "flex";
+                            break;
+                    }
+                };
+
+                function closeBtnHandler() {
+                    view.ui.empty("top-left");
+                }
+
+                function activateWidgetHeader() {
+                    document.getElementById("backWidgetBtn").addEventListener("click", backBtnHandler);
+                    document.getElementById("closeWidgetBtn").addEventListener("click", closeBtnHandler);
+                }
+
+
+                // Download file as csv function
+                const downloadBlobAsFile = function(csv, filename) {
+                    let downloadLink = document.createElement("a")
+                    let blob = new Blob([csv], {
+                        type: 'text/csv'
+                    })
+                    let url = URL.createObjectURL(blob)
+                    downloadLink.href = url
+                    downloadLink.download = filename
+                    document.body.appendChild(downloadLink)
+                    downloadLink.click()
+                    document.body.removeChild(downloadLink)
+                }
+
+
+                function upadateLayerList(selectElementID) {
+                    let targetSelector = document.getElementById(selectElementID);
+                    if (targetSelector) {
+                        targetSelector.innerHTML = "";
+                        var option = document.createElement("option")
+                        option.value = "";
+                        option.text = "اختر طبقة";
+                        targetSelector.appendChild(option)
+                        let allLayers = mapsList[activeMap].layers.items;
+                        allLayers.forEach(layer => {
+                            let layerId = layer.id;
+                            let layerTitle = layer.title;
+
+                            var option = document.createElement("option")
+                            option.value = layerId
+                            option.text = layerTitle
+                            targetSelector.appendChild(option)
+                        });
+                    } else {
+                        console.log(selectElementID + "is not found")
+                    }
+                }
+                /**- */
+                // Update all layers lists whenever map layers are changed
+                let layersSelectors = ["queryLayers"];
+                mapsList[activeMap].layers.on("change", function(event) {
+                    layersSelectors.forEach(selectElementID => {
+                        upadateLayerList(selectElementID);
+                        document.getElementsByClassName("panel0")[0].style.maxHeight = "1000px";
+                    });
+                });
+
+
+
+            }) //---------END Require-----------------------------------------------------------------------------------------------------------------
+
+} //-------------------- 2D view ---------------------------------------------------------------------------------------
+
+
+let overlay = document.getElementById("overlayDiv")
+
+let ok = overlay.getElementsByTagName("input")[0]
+
+function statusMessage(head, info) {
+    document.getElementById("head").innerHTML = head
+    document.getElementById("info").innerHTML = info
+    overlay.style.visibility = "visible"
+}
+
+ok.addEventListener("click", function() {
+    overlay.style.visibility = "hidden"
+})
