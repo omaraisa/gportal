@@ -21,11 +21,7 @@ import uploadToAzureStorage from  "./modules/upload-to-azure-storage.js"
 const app = express()
 const port = process.env.PORT || 5000;
 
-let AZURE_STORAGE_CONNECTION_STRING;
-const containerName = "layerscontainer";
-const blobService = azureStorage.createBlobService(
-    process.env.AZURE_STORAGE_CONNECTION_STRING
-);
+let AZURE_STORAGE_CONNECTION_STRING = process.env.AZURE_STORAGE_CONNECTION_STRING;
 const __filename = fileURLToPath(
     import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -74,7 +70,7 @@ const start = async() => {
         console.log(`successfully connected to Database...`)
 
          const azureStorageKeyId = "622b3af1ce8d01e569bd2e20";
-        AZURE_STORAGE_CONNECTION_STRING = getKey(azureStorageKeyId).AZURE_STORAGE_CONNECTION_STRING
+        //AZURE_STORAGE_CONNECTION_STRING = getKey(azureStorageKeyId).AZURE_STORAGE_CONNECTION_STRING
         //console.log(await getKey(azureStorageKeyId))
         app.listen(port, () => {
             console.log(`Server is running on port ${port}`)
