@@ -1,6 +1,7 @@
 /node_modules
-/assets/js/main-backup.js
+/assets/js/main-source.js
 /assets/js/mapping-source.js
+/assets/js/mapping-source-backup.js
 /assets/js/mapping-backup.js
 /views/pages/index-copy.html
 .env
