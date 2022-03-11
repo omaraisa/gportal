@@ -4,7 +4,6 @@ import express from 'express';
 import fileUpload from 'express-fileupload';
 import azureStorage from 'azure-storage';
 import { fileURLToPath } from "url";
-import intoStream from 'into-stream';
 import path from "path";
 import UnzipShapefile from "./modules/upzip-shapefile.js";
 import shp2json from "./modules/shp2json.js"
