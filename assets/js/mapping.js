@@ -474,9 +474,8 @@ function mapView() {
                             uploadLayerDiv = document.createElement("div");
                             uploadLayerDiv.id = "uploadLayerDiv";
                             coordinatesDiv = document.getElementById("coordinatesDiv");
-
                             uploadLayerDiv.innerHTML += "<h3> رفع طبقة </h3>"
-                            uploadLayerDiv.innerHTML += "<p>xls,xlsx,txt, csv,json,geojson</p>" //, zipped shapefile
+                            uploadLayerDiv.innerHTML += "<p>xlsx, xls, csv, json, geojson, txt, kml, kmz</p>" //, zipped shapefile
                             let uploadingSpin = document.getElementById("uploadingDivTemplate").cloneNode(true);
                             uploadingSpin.id = "uploadingSpin";
                             //uploadingSpin.style.display = "none"
@@ -861,6 +860,7 @@ function mapView() {
 
                     document.getElementById("uploadLayerBtn").addEventListener("change", (evt) => {
                         document.getElementById("uploadingSpin").style.display = "block";
+                        document.getElementById("uploadLayerBtn").disabled = true;
                         uploadedFile = evt.target.files[0];
                         evt.preventDefault();
 
@@ -887,9 +887,11 @@ function mapView() {
 
                             }
                             r.readAsBinaryString(uploadedFile)
+                        } else if (XYFileExt === 'kml' || XYFileExt === 'kmz') {
+                            uploadKML();
                         } else {
                             //console.log("Nothing has been uploaded")
-                            alert("الرجاء رفع احدى الصيغ التالية: xlsx, xls, csv, txt, zip")
+                            alert("الرجاء رفع احدى الصيغ التالية: xlsx, xls, csv, txt, kml, kmz")
                         }
 
 
@@ -906,7 +908,6 @@ function mapView() {
                                 contentType: false,
                                 data: formData,
                                 success: function(result) {
-                                    document.getElementById("uploadingSpin").style.display = "none";
                                     fileURL = result.url
                                     $.get(fileURL, function(CSVdata) {
 
@@ -943,7 +944,8 @@ function mapView() {
                                 },
                                 error: function(request, status, error) {
                                     document.getElementById("uploadingSpin").style.display = "none";
-                                    alert("عذراً لا يمكن استعراض هذا الملف");
+                                    document.getElementById("uploadLayerBtn").disabled = false;
+                                    alert("عذراً تعذر رفع الملف!");
                                     console.log(error);
                                 }
 
@@ -967,6 +969,7 @@ function mapView() {
                                 data: formData,
                                 success: function(result) {
                                     document.getElementById("uploadingSpin").style.display = "none";
+                                    document.getElementById("uploadLayerBtn").disabled = false;
                                     fileURL = result.url
                                     let uploadedJsonLayer = new GeoJSONLayer({
                                         url: fileURL,
@@ -976,7 +979,8 @@ function mapView() {
                                 },
                                 error: function(request, status, error) {
                                     document.getElementById("uploadingSpin").style.display = "none";
-                                    alert("عذراً لا يمكن استعراض هذا الملف");
+                                    document.getElementById("uploadLayerBtn").disabled = false;
+                                    alert("عذراً تعذر رفع الملف!");
                                     console.log(error);
                                 }
                             });
@@ -984,8 +988,50 @@ function mapView() {
                         } //uploadJSON
 
 
+                        async function uploadKML() {
+
+                            let formData = new FormData()
+                            formData.append("file", uploadedFile)
+
+                            $.ajax({
+                                global: false,
+                                type: 'POST',
+                                url: "/upload",
+                                processData: false,
+                                contentType: false,
+                                data: formData,
+                                success: function(result) {
+                                    document.getElementById("uploadingSpin").style.display = "none";
+                                    document.getElementById("uploadLayerBtn").disabled = false;
+                                    const kmlLayer = new KMLLayer({
+                                        url: result.url,
+                                        title: "KML Layer_" + kmlLayersIndex,
+                                    })
+                                    mapsList[activeMap].add(kmlLayer)
+                                    legend.layerInfos.push({
+                                        layer: kmlLayer,
+                                        title: "KML Layer_" + kmlLayersIndex,
+                                    })
+                                    kmlLayersIndex += 1;
+                                    kmlLayer
+                                        .when(() => {
+                                            view.goTo(kmlLayer.fullExtent);
+                                        });
+                                },
+                                error: function(request, status, error) {
+                                    document.getElementById("uploadingSpin").style.display = "none";
+                                    document.getElementById("uploadLayerBtn").disabled = false;
+                                    alert("عذراً تعذر رفع الملف!");
+                                    console.log(error);
+                                }
+                            });
+
+                        } //uploadKML
+
+
                         function XYLayerHandle() {
                             document.getElementById("uploadingSpin").style.display = "none";
+                            document.getElementById("uploadLayerBtn").disabled = false;
                             widgetNavigator("addLayerWidget", "coordinatesDiv")
 
 
@@ -2557,8 +2603,7 @@ function mapView() {
                         if (selectedLayer.type === 'csv' ||
                             selectedLayer.type === 'feature' ||
                             selectedLayer.type === 'json' ||
-                            selectedLayer.type === 'geojson' ||
-                            selectedLayer.type === 'kml'
+                            selectedLayer.type === 'geojson' 
                         ) {
                             clearLeftWidgets();
                             view.ui.add(symbologyWidget, "top-left");
@@ -2575,8 +2620,7 @@ function mapView() {
                         if (selectedLayer.type === 'csv' ||
                             selectedLayer.type === 'feature' ||
                             selectedLayer.type === 'json' ||
-                            selectedLayer.type === 'geojson' ||
-                            selectedLayer.type === 'kml'
+                            selectedLayer.type === 'geojson'
                         ) {
                             let fieldConfigs = [];
                             document.getElementById("attributesTableDiv").innerHTML = "";
@@ -2618,8 +2662,7 @@ function mapView() {
                         if (selectedLayer.type === 'csv' ||
                             selectedLayer.type === 'feature' ||
                             selectedLayer.type === 'json' ||
-                            selectedLayer.type === 'geojson' ||
-                            selectedLayer.type === 'kml'
+                            selectedLayer.type === 'geojson' 
                         ) {
                             clearLeftWidgets();
                             view.ui.add(exportDataWidget, "top-left");
@@ -2635,8 +2678,7 @@ function mapView() {
                         if (selectedLayer.type === 'csv' ||
                             selectedLayer.type === 'feature' ||
                             selectedLayer.type === 'json' ||
-                            selectedLayer.type === 'geojson' ||
-                            selectedLayer.type === 'kml'
+                            selectedLayer.type === 'geojson' 
                         ) {
                             clearLeftWidgets();
                             view.ui.add(labelingWidget, "top-left");
@@ -2652,8 +2694,7 @@ function mapView() {
                         if (selectedLayer.type === 'csv' ||
                             selectedLayer.type === 'feature' ||
                             selectedLayer.type === 'json' ||
-                            selectedLayer.type === 'geojson' ||
-                            selectedLayer.type === 'kml'
+                            selectedLayer.type === 'geojson' 
                         ) {
                             clearLeftWidgets();
                             view.ui.add(popupConfigWidget, "top-left");
@@ -3039,8 +3080,8 @@ function mapView() {
 
                 function printToggleListener() {
                     document.getElementById("printToggle").addEventListener("click", function() {
-                            clearLeftWidgets();
-                            view.ui.add(printerWidget, "top-left");
+                        clearLeftWidgets();
+                        view.ui.add(printerWidget, "top-left");
                     });
                 }
 
@@ -3209,8 +3250,7 @@ function mapView() {
                         if (selectedLayer.type === 'csv' ||
                             selectedLayer.type === 'feature' ||
                             selectedLayer.type === 'json' ||
-                            selectedLayer.type === 'geojson' ||
-                            selectedLayer.type === 'kml') {
+                            selectedLayer.type === 'geojson' ) {
                             updateFieldsList("queryFields");
 
                             var layerFieldsQuery = {

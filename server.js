@@ -5,6 +5,10 @@ import { fileURLToPath } from "url";
 import intoStream from 'into-stream';
 import dotenv from 'dotenv';
 import path from "path";
+import UnzipShapefile from "./modules/upzip-shapefile.js";
+import shp2json from "./modules/shp2json.js"
+import uploadFile from "./modules/uploader.js"
+
 
 dotenv.config();
 //const express = require('express')
@@ -34,6 +38,7 @@ app.use('/images', express.static(__dirname + 'assets/images'))
 app.use('/vendor', express.static(__dirname + 'assets/vendor'))
 app.use('/uploads', express.static(__dirname + '/uploads'))
 app.use(express.urlencoded({ extended: false }))
+//app.use(bodyParse.urlencoded({ extended: true }))
 app.use(
     fileUpload({
         createParentPath: true,
@@ -45,8 +50,6 @@ app.get('/', (req, res) => {
         port: port,
     })
 })
-
-
 
 
 // Handle layer upload
@@ -84,6 +87,11 @@ app.post("/upload", (request, response) => {
     );
 });
 
+
+
+app.post('/uploadshp', async(req, res) => {
+    res.json(await shp2json(await UnzipShapefile(await uploadFile(req, res,__dirname), __dirname, req, res),req,res))
+  })
 
 
 
