@@ -16,6 +16,8 @@
         "gdal-async": "^3.4.1",
         "into-stream": "^7.0.0",
         "mime": "^1.6.0",
+        "mongodb": "^4.4.1",
+        "mongoose": "^6.2.5",
         "multer": "^1.4.4",
         "mysql": "^2.18.1",
         "nimble": "^0.0.2",
