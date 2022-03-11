@@ -6,7 +6,7 @@ import fs from "fs";
 export default function UnzipShapefile(zippedShapefile,__dirname,req,res) {
   let fileName,fileExtension,requiredFiles=0;
   return new Promise((resolve, reject) => {
-    fs.createReadStream(__dirname + '\\uploads\\' + zippedShapefile)
+    fs.createReadStream(__dirname + '/uploads/' + zippedShapefile)
     .pipe(unzipper.Parse())
     .on('entry', function (entry) {
       fileName = entry.path.split(".")[0] + new Date().getDate();
@@ -18,7 +18,7 @@ export default function UnzipShapefile(zippedShapefile,__dirname,req,res) {
       // fileExtension === "atx " || fileExtension === "ixs " || fileExtension === "mxs " || fileExtension === "xml " || fileExtension === "cpg "
       if (fileExtension === "shp" || fileExtension === "shx" || fileExtension === "dbf" || fileExtension === "prj" ) 
       {
-        entry.pipe(fs.createWriteStream(__dirname + '\\uploads\\'+fileName+'.'+fileExtension));
+        entry.pipe(fs.createWriteStream(__dirname + '/uploads/'+fileName+'.'+fileExtension));
         requiredFiles++
         if(requiredFiles>3)
         {

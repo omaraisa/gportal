@@ -15,7 +15,7 @@ export default function uploadFile(req, res, __dirname) {
             fileName = new Date().getDate() + req.files.file.name ;
             // The name of the input field (i.e. "uploadedFile") is used to retrieve the uploaded file
             uploadedFile = req.files.file;
-            uploadPath = __dirname + '\\uploads\\' + fileName;
+            uploadPath = __dirname + '/uploads/' + fileName;
             //fileURL = "http://127.0.0.1:" + port + "/uploads/" + uploadedFile.name;
             // Use the mv() method to place the file somewhere on your server
             uploadedFile.mv(uploadPath, function(err) {
