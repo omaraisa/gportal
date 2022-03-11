@@ -83,6 +83,6 @@ const start = async() => {
         console.log(error)
         console.log("Sorry, could not connect to database")
     }
-}
+} 
 
 start()
